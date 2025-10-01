@@ -1,0 +1,31 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Cerruti"
+  given-names: "Massimo"
+  orcid: "https://orcid.org/0000-0002-3744-7426"
+- family-names: "Ballarè"
+  given-names: "Silvia"
+  orcid: "https://orcid.org/0000-0002-5568-1611"
+title: "Modulo ParlaTO"
+version: 1.0.0
+doi: https://doi.org/10.60760/unibo/parlato
+date-released: 2021-10-01
+url: "https://kiparla.it/parlato/"
+license: CC-BY-NC-SA-4.0
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Cerruti"
+    given-names: "Massimo"
+    orcid: "https://orcid.org/0000-0002-3744-7426"
+  - family-names: "Ballarè"
+    given-names: "Silvia"
+    orcid: "https://orcid.org/0000-0002-5568-1611"
+  journal: "Bollettino dell’Atlante Linguistico Italiano (BALI)"
+  start: 171
+  end: 196
+  title: "ParlaTO: corpus del parlato di Torino"
+  volume: 44
+  year: 2020
