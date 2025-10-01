@@ -1,10 +1,10 @@
 token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI043	0	porta	porta	linguistic	none	_	Begin=0.0	_	_	_	_
-0-1	TOI043	0	benefica,	benefica	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+0-1	TOI043	0	benefica,	benefica	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 0-2	TOI043	0	via	via	linguistic	none	_	_	_	_	_	_
 0-3	TOI043	0	principi	principi	linguistic	none	_	_	_	_	_	_
 0-4	TOI043	0	d'	d'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-0-5	TOI043	0	acaja,	acaja	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+0-5	TOI043	0	acaja,	acaja	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 0-6	TOI043	0	insomma	insomma	linguistic	none	_	_	_	_	_	_
 0-7	TOI043	0	da	da	linguistic	none	_	_	_	_	_	_
 0-8	TOI043	0	quella	quella	linguistic	none	_	_	_	_	_	_
@@ -82,7 +82,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 17-6	TOR001	17	torino	torino	linguistic	none	_	_	_	_	_	_
 17-7	TOR001	17	vivete?	vivete	linguistic	none	Intonation=Rising	End=45.02	_	_	_	_
 18-0	TOI043	18	allora	allora	linguistic	none	_	Begin=46.555	_	_	_	_
-18-1	TOI043	18	io,	io	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+18-1	TOI043	18	io,	io	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 18-2	TOI043	18	pozzo	pozzo	linguistic	none	_	_	_	_	_	_
 18-3	TOI043	18	strada	strada	linguistic	none	_	End=48.256	_	_	_	_
 19-0	TOI044	19	e	e	linguistic	none	_	Begin=48.98	_	_	_	_
@@ -1285,7 +1285,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 311-1	TOI044	311	so	so	linguistic	none	_	_	_	_	_	_
 311-2	TOI044	311	come	come	linguistic	none	_	_	_	_	_	_
 311-3	TOI044	311	si	si	linguistic	none	_	_	_	_	_	_
-311-4	TOI044	311	chiama,	chiama	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+311-4	TOI044	311	chiama,	chiama	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 311-5	TOI044	311	[xxx]	x	unknown	none	_	End=549.002	_	_	_	0-3(74)
 312-0	TOR001	312	[mh]	mh	linguistic	none	_	Begin=548.601|End=548.953	_	_	_	0-2(74)
 313-0	TOI044	313	c(io)è	cioè	linguistic	none	_	Begin=549.017	_	_	1-3(0)	_
@@ -1442,7 +1442,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 343-3	TOI043	343	zone	zone	linguistic	none	_	_	_	_	_	_
 343-4	TOI043	343	bene	bene	linguistic	none	_	_	_	_	_	_
 343-5	TOI043	343	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
-343-6	TOI043	343	no,	no	linguistic	none	Intonation=weakly_rising	End=606.22	_	_	_	_
+343-6	TOI043	343	no,	no	linguistic	none	Intonation=WeaklyRising	End=606.22	_	_	_	_
 344-0	TOI043	344	però	però	linguistic	none	_	Begin=606.582|End=607.057	_	_	_	_
 345-0	TOI043	345	se	se	linguistic	none	_	Begin=607.393	_	_	_	_
 345-1	TOI043	345	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
@@ -1516,7 +1516,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 354-10	TOI043	354	le	le	linguistic	none	_	_	_	_	_	0-2(81)
 354-11	TOI043	354	altre	altre	linguistic	none	_	_	_	_	_	0-5(81)
 354-12	TOI043	354	parti	parti	linguistic	none	_	_	_	_	_	0-5(81)
-354-13	TOI043	354	no],	no	linguistic	none	Intonation=weakly_rising	End=629.415	_	_	_	0-2(81)
+354-13	TOI043	354	no],	no	linguistic	none	Intonation=WeaklyRising	End=629.415	_	_	_	0-2(81)
 355-0	TOI044	355	[ah	ah	linguistic	none	_	Begin=628.005	_	_	_	0-2(81)
 355-1	TOI044	355	ci	ci	linguistic	none	_	_	_	_	_	0-2(81)
 355-2	TOI044	355	sono	sono	linguistic	none	_	_	_	_	_	0-4(81)
@@ -1833,7 +1833,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 417-5	TOI043	417	controllata	controllata	linguistic	none	_	_	_	_	_	_
 417-6	TOI043	417	tutto	tutto	linguistic	none	_	_	_	_	_	_
 417-7	TOI043	417	sommato	sommato	linguistic	none	_	_	_	_	_	_
-417-8	TOI043	417	no,	no	linguistic	none	Intonation=weakly_rising	End=720.841	_	_	_	_
+417-8	TOI043	417	no,	no	linguistic	none	Intonation=WeaklyRising	End=720.841	_	_	_	_
 418-0	TOI043	418	c(io)è	cioè	linguistic	none	_	Begin=720.841	_	_	1-3(0)	_
 418-1	TOI043	418	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 418-2	TOI043	418	era	era	linguistic	none	_	_	_	_	_	_
@@ -1912,7 +1912,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 435-4	TOR001	435	dal	dal	linguistic	none	_	_	_	_	_	_
 435-5	TOR001	435	[meri]dio[ne	meridione	linguistic	none	_	_	_	_	_	0-4(124),7-9(125)
 435-6	TOR001	435	ma	ma	linguistic	none	_	_	_	_	_	0-2(125)
-435-7	TOR001	435	no],	no	linguistic	none	Intonation=weakly_rising	End=751.6	_	_	_	0-2(125)
+435-7	TOR001	435	no],	no	linguistic	none	Intonation=WeaklyRising	End=751.6	_	_	_	0-2(125)
 436-0	TOI043	436	[sì]	sì	linguistic	none	_	Begin=750.212|End=750.499	_	_	_	0-2(124)
 437-0	TOI043	437	[sì	sì	linguistic	none	_	Begin=750.811	_	_	_	0-2(125)
 437-1	TOI043	437	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(125)
@@ -2021,7 +2021,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 455-5	TOI043	455	un	un	linguistic	none	_	_	_	_	_	_
 455-6	TOI043	455	po'	po'	linguistic	none	_	_	_	_	_	_
 455-7	TOI043	455	così	così	linguistic	none	_	_	_	_	_	_
-455-8	TOI043	455	[no],	no	linguistic	none	Intonation=weakly_rising	End=784.946	_	_	_	0-2(1069)
+455-8	TOI043	455	[no],	no	linguistic	none	Intonation=WeaklyRising	End=784.946	_	_	_	0-2(1069)
 456-0	TOI042	456	[la]	la	linguistic	none	_	Begin=784.5|End=784.7	_	_	_	0-2(1069)
 457-0	TOI044	457	[dove]vi	dovevi	linguistic	none	_	Begin=784.6	_	_	_	0-4(1069)
 457-1	TOI044	457	fare	fare	linguistic	none	_	_	_	_	_	_
@@ -2032,7 +2032,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 458-3	TOI042	458	di	di	linguistic	none	_	_	_	_	_	0-2(1070)
 458-4	TOI042	458	gipo	gipo	linguistic	none	_	_	_	_	_	0-4(1070)
 458-5	TOI042	458	farassino]	farassino	linguistic	none	_	End=787.571	_	_	_	0-9(1070)
-459-0	TOI043	459	#[vanchiglia	vanchiglia	linguistic	some	Language=NO_ISO_CODE	Begin=785.837	_	_	_	1-11(1070)
+459-0	TOI043	459	#[vanchiglia	vanchiglia	linguistic	some	_	Begin=785.837	_	_	_	1-11(1070)
 459-1	TOI043	459	l'	l'	linguistic	some	SpaceAfter=No	_	_	_	_	0-2(1070)
 459-2	TOI043	459	era	era	linguistic	some	_	_	_	_	_	0-3(1070)
 459-3	TOI043	459	il	il	linguistic	some	_	_	_	_	_	0-2(1070)
@@ -2040,7 +2040,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 459-5	TOI043	459	di	di	linguistic	some	_	_	_	_	_	0-2(1070)
 459-6	TOI043	459	lader]	lader	linguistic	some	_	_	_	_	_	0-5(1070)
 459-7	TOI043	459	x[xx]	x	unknown	some	_	End=788.8	_	_	_	0-3(134)
-460-0	TOI042	460	#[prima	prima	linguistic	some	Language=NO_ISO_CODE	Begin=787.807	_	_	_	1-6(134)
+460-0	TOI042	460	#[prima	prima	linguistic	some	_	Begin=787.807	_	_	_	1-6(134)
 460-1	TOI042	460	dei	dei	linguistic	some	_	_	_	_	_	0-3(134)
 460-2	TOI042	460	meridio]nali	meridionali	linguistic	some	_	_	_	_	_	0-7(134)
 460-3	TOI042	460	era[no	erano	linguistic	some	_	_	_	_	_	3-5(135)
@@ -2069,7 +2069,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 464-5	TOI043	464	qualche	qualche	linguistic	none	_	_	_	_	_	_
 464-6	TOI043	464	modo	modo	linguistic	none	_	_	_	_	_	_
 464-7	TOI043	464	erano	erano	linguistic	none	_	End=796.8	_	_	_	_
-465-0	TOI043	465	#c(io)è	cioè	linguistic	some	Language=NO_ISO_CODE	Begin=796.8	_	_	2-4(0)	_
+465-0	TOI043	465	#c(io)è	cioè	linguistic	some	_	Begin=796.8	_	_	2-4(0)	_
 465-1	TOI043	465	va~	va~	linguistic	some	Interrupted=Yes	_	_	_	_	_
 465-2	TOI043	465	vanchiglia	vanchiglia	linguistic	some	_	_	_	_	_	_
 465-3	TOI043	465	che	che	linguistic	some	_	_	_	_	_	_
@@ -2131,7 +2131,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 478-2	TOI043	478	in	in	linguistic	none	_	_	_	_	_	0-2(140)
 478-3	TOI043	478	altre	altre	linguistic	none	_	_	_	_	_	0-5(140)
 478-4	TOI043	478	zo]ne	zone	linguistic	none	_	_	_	_	_	0-2(140)
-478-5	TOI043	478	no,	no	linguistic	none	Intonation=weakly_rising	End=818.843	_	_	_	_
+478-5	TOI043	478	no,	no	linguistic	none	Intonation=WeaklyRising	End=818.843	_	_	_	_
 479-0	TOI044	479	potevano	potevano	linguistic	none	_	Begin=818.804	_	_	_	_
 479-1	TOI044	479	[rubarti	rubarti	linguistic	none	_	_	_	_	_	0-7(141)
 479-2	TOI044	479	delle	delle	linguistic	none	_	_	_	_	_	0-5(141)
@@ -2251,7 +2251,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 502-7	TOI043	502	usati	usati	linguistic	none	_	_	_	_	_	_
 502-8	TOI043	502	[oppure]	oppure	linguistic	none	_	End=849.262	_	_	_	0-6(148)
 503-0	TOI044	503	((ride))	((ride))	nonverbalbehavior	none	_	Begin=848.001|End=848.792	_	_	_	_
-504-0	TOI042	504	#[roba	roba	linguistic	some	Language=NO_ISO_CODE	Begin=848.6	_	_	_	1-5(148)
+504-0	TOI042	504	#[roba	roba	linguistic	some	_	Begin=848.6	_	_	_	1-5(148)
 504-1	TOI042	504	ed	ed	linguistic	some	_	_	_	_	_	0-2(148)
 504-2	TOI042	504	la]	la	linguistic	some	_	_	_	_	_	0-2(148)
 504-3	TOI042	504	luna	luna	linguistic	some	_	End=849.823	_	_	_	_
@@ -2290,7 +2290,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 511-3	TOI043	511	po'	po'	linguistic	none	_	_	_	_	_	_
 511-4	TOI043	511	il	il	linguistic	none	_	_	_	_	_	_
 511-5	TOI043	511	livello	livello	linguistic	none	_	_	_	_	_	_
-511-6	TOI043	511	[no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(151)
+511-6	TOI043	511	[no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(151)
 511-7	TOI043	511	però]	però	linguistic	none	_	_	_	_	_	0-4(151)
 511-8	TOI043	511	un	un	linguistic	none	_	_	_	_	_	_
 511-9	TOI043	511	pochino	pochino	linguistic	none	_	End=862.015	_	_	_	_
@@ -2324,7 +2324,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 517-0	TOI043	517	[mh]	mh	linguistic	none	_	Begin=866.094|End=866.448	_	_	_	0-2(154)
 518-0	TOI043	518	[eh]	eh	linguistic	none	_	Begin=867.802	_	_	_	0-2(155)
 518-1	TOI043	518	sì	sì	linguistic	none	_	End=868.335	_	_	_	_
-519-0	TOI042	519	#chila	chila	linguistic	some	Language=NO_ISO_CODE	Begin=868.32	_	_	_	_
+519-0	TOI042	519	#chila	chila	linguistic	some	_	Begin=868.32	_	_	_	_
 519-1	TOI042	519	chiel	chiel	linguistic	some	_	_	_	_	_	_
 519-2	TOI042	519	lì	lì	linguistic	some	_	_	_	_	_	_
 519-3	TOI042	519	[a	a	linguistic	some	_	_	_	_	_	0-1(?)
@@ -2492,7 +2492,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 555-8	TOI043	555	cosa	cosa	linguistic	none	_	_	_	_	_	_
 555-9	TOI043	555	saranno	saranno	linguistic	none	_	_	_	_	_	_
 555-10	TOI043	555	anni	anni	linguistic	none	_	_	_	_	_	_
-555-11	TOI043	555	cinqua[nta],	cinquanta	linguistic	none	Intonation=weakly_rising	End=909.8	_	_	_	6-9(176)
+555-11	TOI043	555	cinqua[nta],	cinquanta	linguistic	none	Intonation=WeaklyRising	End=909.8	_	_	_	6-9(176)
 556-0	TOI042	556	[eh]	eh	linguistic	none	_	Begin=909.612	_	_	_	0-2(176)
 556-1	TOI042	556	sì	sì	linguistic	none	_	_	_	_	_	_
 556-2	TOI042	556	[perché	perché	linguistic	none	_	_	_	_	_	0-6(177)
@@ -2546,7 +2546,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 567-0	TOI043	567	[andiamo]	andiamo	linguistic	none	_	Begin=925.385	_	_	_	0-7(181)
 567-1	TOI043	567	ancora	ancora	linguistic	none	_	_	_	_	_	_
 567-2	TOI043	567	più	più	linguistic	none	_	_	_	_	_	_
-567-3	TOI043	567	indietro.	indietro	linguistic	none	Intonation=falling	_	_	_	_	_
+567-3	TOI043	567	indietro.	indietro	linguistic	none	Intonation=Falling	_	_	_	_	_
 567-4	TOI043	567	[nel	nel	linguistic	none	_	_	_	_	_	0-3(182)
 567-5	TOI043	567	tempo	tempo	linguistic	none	_	_	_	_	_	0-5(182)
 567-6	TOI043	567	eh]	eh	linguistic	none	_	End=928.203	_	_	_	0-2(182)
@@ -2626,7 +2626,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 580-0	TOI043	580	[un	un	linguistic	none	_	Begin=942.411	_	_	_	0-2(193)
 580-1	TOI043	580	comico]	comico	linguistic	none	_	_	_	_	_	0-6(193)
 580-2	TOI043	580	torinese	torinese	linguistic	none	_	_	_	_	_	_
-580-3	TOI043	580	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+580-3	TOI043	580	no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 580-4	TOI043	580	per	per	linguistic	none	_	_	_	_	_	_
 580-5	TOI043	580	cui	cui	linguistic	none	_	_	_	_	_	_
 580-6	TOI043	580	[dice]	dice	linguistic	none	_	_	_	_	_	0-4(194)
@@ -2683,7 +2683,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 589-4	TOI042	589	mh]	mh	linguistic	none	_	End=957.793	_	_	_	0-2(?)
 590-0	TOI043	590	[da	da	linguistic	none	_	Begin=957.402	_	_	_	0-2(200)
 590-1	TOI043	590	gio]vani	giovani	linguistic	none	_	_	_	_	_	0-3(200)
-590-2	TOI043	590	no,	no	linguistic	none	Intonation=weakly_rising	End=958.606	_	_	_	_
+590-2	TOI043	590	no,	no	linguistic	none	Intonation=WeaklyRising	End=958.606	_	_	_	_
 591-0	TOI043	591	facevano	facevano	linguistic	none	_	Begin=958.8	_	_	_	_
 591-1	TOI043	591	magari	magari	linguistic	none	_	_	_	_	_	_
 591-2	TOI043	591	la	la	linguistic	none	_	_	_	_	_	_
@@ -2851,7 +2851,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 624-6	TOI043	624	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 624-7	TOI043	624	ultimo	ultimo	linguistic	none	_	_	_	_	_	_
 624-8	TOI043	624	[stadio	stadio	linguistic	none	_	_	_	_	_	0-6(1087)
-624-9	TOI043	624	no],	no	linguistic	none	Intonation=weakly_rising	End=1003.426	_	_	_	0-2(1087)
+624-9	TOI043	624	no],	no	linguistic	none	Intonation=WeaklyRising	End=1003.426	_	_	_	0-2(1087)
 625-0	TOI044	625	[eh	eh	linguistic	none	_	Begin=1002.812	_	_	_	0-2(1087)
 625-1	TOI044	625	appunto	appunto	linguistic	none	_	_	_	_	_	0-7(1087)
 625-2	TOI044	625	cioè	cioè	linguistic	none	_	_	_	_	_	0-4(1087)
@@ -2865,7 +2865,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 628-3	TOI044	628	ricordo	ricordo	linguistic	none	_	_	_	_	_	_
 628-4	TOI044	628	una	una	linguistic	none	_	_	_	_	_	_
 628-5	TOI044	628	bionda	bionda	linguistic	none	_	_	_	_	_	_
-628-6	TOI044	628	no,	no	linguistic	none	Intonation=weakly_rising	End=1007.365	_	_	_	_
+628-6	TOI044	628	no,	no	linguistic	none	Intonation=WeaklyRising	End=1007.365	_	_	_	_
 629-0	TOI044	629	che	che	linguistic	none	_	Begin=1007.387	_	_	_	_
 629-1	TOI044	629	era	era	linguistic	none	_	_	_	_	_	_
 629-2	TOI044	629	ancora	ancora	linguistic	none	_	_	_	_	_	_
@@ -2921,7 +2921,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 641-3	TOI043	641	proprio	proprio	linguistic	none	_	_	_	_	_	_
 641-4	TOI043	641	le	le	linguistic	none	_	_	_	_	_	_
 641-5	TOI043	641	zone	zone	linguistic	none	_	_	_	_	_	_
-641-6	TOI043	641	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+641-6	TOI043	641	no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 641-7	TOI043	641	all[ora]	allora	linguistic	none	_	_	_	_	_	2-6(219)
 641-8	TOI043	641	per	per	linguistic	none	_	_	_	_	_	_
 641-9	TOI043	641	esempio	esempio	linguistic	none	_	End=1020.8	_	_	_	_
@@ -2957,7 +2957,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 652-2	TOI043	652	man	man	linguistic	none	_	_	_	_	_	_
 652-3	TOI043	652	mano	mano	linguistic	none	_	_	_	_	_	_
 652-4	TOI043	652	[scendevi	scendevi	linguistic	none	_	_	_	_	_	0-8(223)
-652-5	TOI043	652	no],	no	linguistic	none	Intonation=weakly_rising	End=1032.4	_	_	_	0-2(223)
+652-5	TOI043	652	no],	no	linguistic	none	Intonation=WeaklyRising	End=1032.4	_	_	_	0-2(223)
 653-0	TOI044	653	[a~	a~	linguistic	none	Interrupted=Yes	Begin=1031.383	_	_	_	0-2(223)
 653-1	TOI044	653	abbordato	abbordato	linguistic	none	_	_	_	_	_	0-9(223)
 653-2	TOI044	653	a]	a	linguistic	none	_	_	_	_	_	0-1(223)
@@ -3165,8 +3165,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 686-5	TOI043	686	gli	gli	linguistic	none	_	_	_	_	_	_
 686-6	TOI043	686	studenti	studenti	linguistic	none	_	_	_	_	_	_
 686-7	TOI043	686	cosa	cosa	linguistic	none	_	_	_	_	_	_
-686-8	TOI043	686	fa[cevano],	facevano	linguistic	none	Intonation=weakly_rising	End=1074.968	_	_	_	2-8(240)
-687-0	TOI042	687	#[andasiu	andasiu	linguistic	some	Language=NO_ISO_CODE	Begin=1074.31	_	_	_	1-8(240)
+686-8	TOI043	686	fa[cevano],	facevano	linguistic	none	Intonation=WeaklyRising	End=1074.968	_	_	_	2-8(240)
+687-0	TOI042	687	#[andasiu	andasiu	linguistic	some	_	Begin=1074.31	_	_	_	1-8(240)
 687-1	TOI042	687	a	a	linguistic	some	_	_	_	_	_	0-1(240)
 687-2	TOI042	687	piese]	piese	linguistic	some	_	_	_	_	_	0-5(240)
 687-3	TOI042	687	el	el	linguistic	some	_	_	_	_	_	_
@@ -3235,10 +3235,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 699-0	TOI043	699	profumo	profumo	linguistic	none	_	Begin=1096.405	_	_	_	_
 699-1	TOI043	699	dolciastro	dolciastro	linguistic	none	_	_	_	_	_	_
 699-2	TOI043	699	schi[fosissimo]	schifosissimo	linguistic	none	_	End=1098.614	_	_	_	4-13(243)
-700-0	TOI042	700	#[deje	deje	linguistic	some	Language=NO_ISO_CODE	Begin=1097.86	_	_	_	1-5(243)
+700-0	TOI042	700	#[deje	deje	linguistic	some	_	Begin=1097.86	_	_	_	1-5(243)
 700-1	TOI042	700	el	el	linguistic	some	_	_	_	_	_	0-2(243)
-700-2	TOI042	700	flit].	flit	linguistic	some	Intonation=falling	End=1098.637	_	_	_	0-4(243)
-701-0	TOI043	701	#che	che	linguistic	some	Language=NO_ISO_CODE	Begin=1098.993	_	_	_	_
+700-2	TOI042	700	flit].	flit	linguistic	some	Intonation=Falling	End=1098.637	_	_	_	0-4(243)
+701-0	TOI043	701	#che	che	linguistic	some	_	Begin=1098.993	_	_	_	_
 701-1	TOI043	701	voleva	voleva	linguistic	some	_	_	_	_	_	_
 701-2	TOI043	701	appunto	appunto	linguistic	some	_	_	_	_	_	_
 701-3	TOI043	701	deje	deje	linguistic	some	_	_	_	_	_	_
@@ -3255,7 +3255,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 702-0	TOI042	702	[sì	sì	linguistic	none	_	Begin=1100.588	_	_	_	0-2(244)
 702-1	TOI042	702	sì]	sì	linguistic	none	_	End=1101.039	_	_	_	0-2(244)
 703-0	TOI042	703	[eh]	eh	linguistic	none	_	Begin=1101.319|End=1101.53	_	_	_	0-2(245)
-704-0	TOI043	704	#alura	alura	linguistic	some	Language=NO_ISO_CODE	Begin=1103.404	_	_	_	_
+704-0	TOI043	704	#alura	alura	linguistic	some	_	Begin=1103.404	_	_	_	_
 704-1	TOI043	704	fjoi	fjoi	linguistic	some	_	_	_	_	_	_
 704-2	TOI043	704	o	o	linguistic	some	_	_	_	_	_	_
 704-3	TOI043	704	la	la	linguistic	some	_	_	_	_	_	_
@@ -3301,7 +3301,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 710-8	TOI043	710	per	per	linguistic	none	_	_	_	_	_	_
 710-9	TOI043	710	cui	cui	linguistic	none	_	End=1115.237	_	_	_	_
 711-0	TOR001	711	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1114.797|End=1115.98	_	_	_	_
-712-0	TOI042	712	#questa	questa	linguistic	some	Language=NO_ISO_CODE	Begin=1115.425	_	_	_	_
+712-0	TOI042	712	#questa	questa	linguistic	some	_	Begin=1115.425	_	_	_	_
 712-1	TOI042	712	è	è	linguistic	some	_	_	_	_	_	_
 712-2	TOI042	712	vera	vera	linguistic	some	_	_	_	_	_	_
 712-3	TOI042	712	perché	perché	linguistic	some	_	_	_	_	_	_
@@ -3327,7 +3327,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 714-8	TOI042	714	non	non	linguistic	none	_	_	_	_	_	_
 714-9	TOI042	714	lo	lo	linguistic	none	_	_	_	_	_	_
 714-10	TOI042	714	so	so	linguistic	none	_	End=1121.224	_	_	_	_
-715-0	TOI042	715	#c'	c'	linguistic	some	SpaceAfter=No|Language=NO_ISO_CODE	Begin=1121.587	_	_	_	_
+715-0	TOI042	715	#c'	c'	linguistic	some	SpaceAfter=No	Begin=1121.587	_	_	_	_
 715-1	TOI042	715	è	è	linguistic	some	_	_	_	_	_	_
 715-2	TOI042	715	uno	uno	linguistic	some	_	_	_	_	_	_
 715-3	TOI042	715	che	che	linguistic	some	_	_	_	_	_	_
@@ -3381,7 +3381,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 721-6	TOI043	721	proprio]	proprio	linguistic	none	_	_	_	_	_	0-7(254)
 721-7	TOI043	721	erano	erano	linguistic	none	_	_	_	_	_	_
 721-8	TOI043	721	studenti	studenti	linguistic	none	_	_	_	_	_	_
-721-9	TOI043	721	[no],	no	linguistic	none	Intonation=weakly_rising	End=1136.2	_	_	_	0-2(255)
+721-9	TOI043	721	[no],	no	linguistic	none	Intonation=WeaklyRising	End=1136.2	_	_	_	0-2(255)
 722-0	TOI042	722	[arrivava]	arrivava	linguistic	none	_	Begin=1134.363|End=1135.098	_	_	_	0-8(254)
 723-0	TOR001	723	[mhmhmh]	mhmhmh	linguistic	none	_	Begin=1135.786|End=1136.446	_	_	_	0-6(?)
 724-0	TOI042	724	[arri]vavano	arrivavano	linguistic	none	_	Begin=1136.224	_	_	_	0-4(256)
@@ -3394,7 +3394,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 724-7	TOI042	724	chiamavano	chiamavano	linguistic	none	_	_	_	_	_	_
 724-8	TOI042	724	flit	flit	linguistic	none	_	End=1139.891	_	_	_	_
 725-0	TOI042	725	((soffia))	((soffia))	nonverbalbehavior	none	_	Begin=1140.168|End=1141.569	_	_	_	_
-726-0	TOI043	726	#el	el	linguistic	some	Language=NO_ISO_CODE	Begin=1140.225	_	_	_	_
+726-0	TOI043	726	#el	el	linguistic	some	_	Begin=1140.225	_	_	_	_
 726-1	TOI043	726	flit	flit	linguistic	some	_	_	_	_	_	_
 726-2	TOI043	726	e	e	linguistic	some	_	_	_	_	_	_
 726-3	TOI043	726	vai	vai	linguistic	some	_	_	_	_	_	_
@@ -3402,7 +3402,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 726-5	TOI043	726	così	così	linguistic	some	_	_	_	_	_	_
 726-6	TOI043	726	tutti	tutti	linguistic	some	_	_	_	_	_	_
 726-7	TOI043	726	via	via	linguistic	some	_	End=1142.65	_	_	_	_
-727-0	TOI043	727	#e	e	linguistic	some	Language=NO_ISO_CODE	Begin=1142.812	_	_	_	_
+727-0	TOI043	727	#e	e	linguistic	some	_	Begin=1142.812	_	_	_	_
 727-1	TOI043	727	e	e	linguistic	some	_	_	_	_	_	_
 727-2	TOI043	727	dice	dice	linguistic	some	_	_	_	_	_	_
 727-3	TOI043	727	che	che	linguistic	some	_	_	_	_	_	_
@@ -3533,7 +3533,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 751-7	TOI043	751	sì	sì	linguistic	none	_	End=1169.011	_	_	_	_
 752-0	TOI044	752	di	di	linguistic	none	_	Begin=1169.185	_	_	_	_
 752-1	TOI044	752	str[ada	strada	linguistic	none	_	_	_	_	_	3-6(265)
-752-2	TOI044	752	no],	no	linguistic	none	Intonation=weakly_rising	End=1170.33	_	_	_	0-2(265)
+752-2	TOI044	752	no],	no	linguistic	none	Intonation=WeaklyRising	End=1170.33	_	_	_	0-2(265)
 753-0	TOI043	753	[così	così	linguistic	none	_	Begin=1169.601	_	_	_	0-4(265)
 753-1	TOI043	753	di	di	linguistic	none	_	_	_	_	_	0-2(265)
 753-2	TOI043	753	str]ada	strada	linguistic	none	_	_	_	_	_	0-3(265)
@@ -3700,7 +3700,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 780-2	TOI042	780	via	via	linguistic	none	_	_	_	_	_	0-3(1100)
 780-3	TOI042	780	conte	conte	linguistic	none	_	_	_	_	_	0-5(1100)
 780-4	TOI042	780	verde	verde	linguistic	none	_	_	_	_	_	0-5(1100)
-780-5	TOI042	780	giusto].	giusto	linguistic	none	Intonation=falling	End=1217.33	_	_	_	0-6(1100)
+780-5	TOI042	780	giusto].	giusto	linguistic	none	Intonation=Falling	End=1217.33	_	_	_	0-6(1100)
 781-0	TOI044	781	[ecco	ecco	linguistic	none	_	Begin=1216.215	_	_	_	0-4(1100)
 781-1	TOI044	781	via	via	linguistic	none	_	_	_	_	_	0-3(1100)
 781-2	TOI044	781	conte	conte	linguistic	none	_	_	_	_	_	0-5(1100)
@@ -3732,7 +3732,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 786-0	TOI042	786	[via	via	linguistic	none	_	Begin=1221.9	_	_	_	0-3(?)
 786-1	TOI042	786	conte	conte	linguistic	none	_	_	_	_	_	0-5(?)
 786-2	TOI042	786	verde	verde	linguistic	none	_	_	_	_	_	0-5(?)
-786-3	TOI042	786	giusto].	giusto	linguistic	none	Intonation=falling	End=1223.35	_	_	_	0-6(?)
+786-3	TOI042	786	giusto].	giusto	linguistic	none	Intonation=Falling	End=1223.35	_	_	_	0-6(?)
 787-0	TOI043	787	[già	già	linguistic	none	_	Begin=1222.923	_	_	_	0-3(279)
 787-1	TOI043	787	non	non	linguistic	none	_	_	_	_	_	0-3(279)
 787-2	TOI043	787	li]	li	linguistic	none	_	_	_	_	_	0-2(279)
@@ -3935,8 +3935,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 829-8	TOI042	829	di	di	linguistic	none	_	_	_	_	_	_
 829-9	TOI042	829	re	re	linguistic	none	_	_	_	_	_	_
 829-10	TOI042	829	artù	artù	linguistic	none	_	End=1282.442	_	_	_	_
-830-0	TOR001	830	bensì,	bensì	linguistic	none	Intonation=weakly_rising	Begin=1282.781|End=1283.304	_	_	_	_
-831-0	TOI042	831	#ma	ma	linguistic	some	Language=NO_ISO_CODE	Begin=1283.304	_	_	_	_
+830-0	TOR001	830	bensì,	bensì	linguistic	none	Intonation=WeaklyRising	Begin=1282.781|End=1283.304	_	_	_	_
+831-0	TOI042	831	#ma	ma	linguistic	some	_	Begin=1283.304	_	_	_	_
 831-1	TOI042	831	perché	perché	linguistic	some	_	_	_	_	_	_
 831-2	TOI042	831	unici	unici	linguistic	some	_	_	_	_	_	_
 831-3	TOI042	831	tavoli	tavoli	linguistic	some	_	_	_	_	_	_
@@ -4094,7 +4094,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 861-6	TOI043	861	[posto	posto	linguistic	none	_	_	_	_	_	0-5(299)
 861-7	TOI043	861	quando]	quando	linguistic	none	_	_	_	_	_	0-6(299)
 861-8	TOI043	861	sarà	sarà	linguistic	none	_	_	_	_	_	_
-861-9	TOI043	861	stato,	stato	linguistic	none	Intonation=weakly_rising	End=1351.205	_	_	_	_
+861-9	TOI043	861	stato,	stato	linguistic	none	Intonation=WeaklyRising	End=1351.205	_	_	_	_
 862-0	TOI044	862	[l'	l'	linguistic	none	SpaceAfter=No	Begin=1350.192	_	_	_	0-2(300)
 862-1	TOI044	862	hanno	hanno	linguistic	none	_	_	_	_	_	0-5(300)
 862-2	TOI044	862	xxx]	x	unknown	none	_	End=1351.015	_	_	_	0-3(300)
@@ -4259,7 +4259,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 901-0	TOI044	901	adibita	adibita	linguistic	none	_	Begin=1405.192	_	_	_	_
 901-1	TOI044	901	a	a	linguistic	none	_	_	_	_	_	_
 901-2	TOI044	901	[nego]zio	negozio	linguistic	none	_	_	_	_	_	0-4(315)
-901-3	TOI044	901	[no],	no	linguistic	none	Intonation=weakly_rising	End=1406.983	_	_	_	0-2(316)
+901-3	TOI044	901	[no],	no	linguistic	none	Intonation=WeaklyRising	End=1406.983	_	_	_	0-2(316)
 902-0	TOI043	902	[già]	già	linguistic	none	_	Begin=1406.011|End=1406.31	_	_	_	0-3(315)
 903-0	TOI043	903	[cer]to	certo	linguistic	none	_	Begin=1406.584|End=1407.1	_	_	_	0-3(316)
 904-0	TOI044	904	e	e	linguistic	none	_	Begin=1407.385	_	_	_	_
@@ -4597,7 +4597,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 974-10	TOI043	974	considerato	considerato	linguistic	none	_	End=1508.533	_	_	_	_
 975-0	TOI043	975	quasi	quasi	linguistic	none	_	Begin=1508.79	_	_	_	_
 975-1	TOI043	975	pericoloso	pericoloso	linguistic	none	_	_	_	_	_	_
-975-2	TOI043	975	[no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(344)
+975-2	TOI043	975	[no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(344)
 975-3	TOI043	975	per	per	linguistic	none	_	_	_	_	_	0-3(344)
 975-4	TOI043	975	una]	una	linguistic	none	_	End=1511.011	_	_	_	0-3(344)
 976-0	TOI044	976	[sì	sì	linguistic	none	_	Begin=1510.021	_	_	_	0-2(344)
@@ -4874,7 +4874,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1023-3	TOI043	1023	movida]	movida	linguistic	none	_	_	_	_	_	0-6(?)
 1023-4	TOI043	1023	di	di	linguistic	none	_	_	_	_	_	_
 1023-5	TOI043	1023	torino	torino	linguistic	none	_	_	_	_	_	_
-1023-6	TOI043	1023	no,	no	linguistic	none	Intonation=weakly_rising	End=1579.81	_	_	_	_
+1023-6	TOI043	1023	no,	no	linguistic	none	Intonation=WeaklyRising	End=1579.81	_	_	_	_
 1024-0	TOI042	1024	[gli	gli	linguistic	none	_	Begin=1577.609	_	_	_	0-3(370)
 1024-1	TOI042	1024	(stabili)]	stabili	linguistic	none	_	End=1578.6	_	_	0-7(0)	0-7(370)
 1025-0	TOR001	1025	mh	mh	linguistic	none	_	Begin=1580.007	_	_	_	_
@@ -5048,7 +5048,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1055-3	TOI042	1055	era	era	linguistic	none	_	_	_	_	_	_
 1055-4	TOI042	1055	era	era	linguistic	none	_	_	_	_	_	_
 1055-5	TOI042	1055	lì	lì	linguistic	none	_	_	_	_	_	_
-1055-6	TOI042	1055	no,	no	linguistic	none	Intonation=weakly_rising	End=1621.681	_	_	_	_
+1055-6	TOI042	1055	no,	no	linguistic	none	Intonation=WeaklyRising	End=1621.681	_	_	_	_
 1056-0	TOI042	1056	e	e	linguistic	none	_	Begin=1622.213	_	_	_	_
 1056-1	TOI042	1056	combinazione	combinazione	linguistic	none	_	_	_	_	_	_
 1056-2	TOI042	1056	e:hm	ehm	linguistic	none	_	_	0x1	_	_	_
@@ -5103,7 +5103,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1067-1	TOI043	1067	[piccolo	piccolo	linguistic	none	_	_	_	_	_	0-7(382)
 1067-2	TOI043	1067	boss]	boss	linguistic	none	_	_	_	_	_	0-4(382)
 1067-3	TOI043	1067	((ride))	((ride))	nonverbalbehavior	none	_	End=1649.805	_	_	_	_
-1068-0	TOI042	1068	#[an	an	linguistic	some	Language=NO_ISO_CODE	Begin=1648.418	_	_	_	1-3(382)
+1068-0	TOI042	1068	#[an	an	linguistic	some	_	Begin=1648.418	_	_	_	1-3(382)
 1068-1	TOI042	1068	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(382)
 1068-2	TOI042	1068	an]	an	linguistic	some	_	_	_	_	_	0-2(382)
 1068-3	TOI042	1068	cit	cit	linguistic	some	_	_	_	_	_	_
@@ -5215,7 +5215,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1091-1	TOI042	1091	d'	d'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 1091-2	TOI042	1091	altri	altri	linguistic	none	_	_	_	_	_	_
 1091-3	TOI042	1091	tempi	tempi	linguistic	none	_	_	_	_	_	_
-1091-4	TOI042	1091	[no],	no	linguistic	none	Intonation=weakly_rising	End=1693.749	_	_	_	0-2(1114)
+1091-4	TOI042	1091	[no],	no	linguistic	none	Intonation=WeaklyRising	End=1693.749	_	_	_	0-2(1114)
 1092-0	TOR001	1092	[mhmhmh]	mhmhmh	linguistic	none	_	Begin=1693.386|End=1694.074	_	_	_	0-6(1114)
 1093-0	TOI043	1093	[eh	eh	linguistic	none	_	Begin=1693.611	_	_	_	0-2(1114)
 1093-1	TOI043	1093	sì]	sì	linguistic	none	_	End=1694.105	_	_	_	0-2(1114)
@@ -5383,7 +5383,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1123-5	TOI042	1123	di	di	linguistic	none	_	_	_	_	_	_
 1123-6	TOI042	1123	di	di	linguistic	none	_	_	_	_	_	_
 1123-7	TOI042	1123	droga	droga	linguistic	none	_	End=1743.613	_	_	_	_
-1124-0	TOI042	1124	#poi	poi	linguistic	some	Language=NO_ISO_CODE	Begin=1743.63	_	_	_	_
+1124-0	TOI042	1124	#poi	poi	linguistic	some	_	Begin=1743.63	_	_	_	_
 1124-1	TOI042	1124	c'	c'	linguistic	some	SpaceAfter=No	_	_	_	_	_
 1124-2	TOI042	1124	era	era	linguistic	some	_	_	_	_	_	_
 1124-3	TOI042	1124	anche	anche	linguistic	some	_	_	_	_	_	_
@@ -5428,12 +5428,12 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1133-1	TOI042	1133	che	che	linguistic	none	_	_	_	_	_	_
 1133-2	TOI042	1133	si	si	linguistic	none	_	_	_	_	_	_
 1133-3	TOI042	1133	usavano	usavano	linguistic	none	_	End=1757.816	_	_	_	_
-1134-0	TOI042	1134	#la	la	linguistic	some	Language=NO_ISO_CODE	Begin=1757.816	_	_	_	_
-1134-1	TOI042	1134	bianca,	bianca	linguistic	some	Intonation=weakly_rising	_	_	_	_	_
+1134-0	TOI042	1134	#la	la	linguistic	some	_	Begin=1757.816	_	_	_	_
+1134-1	TOI042	1134	bianca,	bianca	linguistic	some	Intonation=WeaklyRising	_	_	_	_	_
 1134-2	TOI042	1134	la	la	linguistic	some	_	_	_	_	_	_
-1134-3	TOI042	1134	fioca,	fioca	linguistic	some	Intonation=weakly_rising	_	_	_	_	_
+1134-3	TOI042	1134	fioca,	fioca	linguistic	some	Intonation=WeaklyRising	_	_	_	_	_
 1134-4	TOI042	1134	il	il	linguistic	some	_	_	_	_	_	_
-1134-5	TOI042	1134	bicarbonato,	bicarbonato	linguistic	some	Intonation=weakly_rising	_	_	_	_	_
+1134-5	TOI042	1134	bicarbonato,	bicarbonato	linguistic	some	Intonation=WeaklyRising	_	_	_	_	_
 1134-6	TOI042	1134	sono	sono	linguistic	some	_	_	_	_	_	_
 1134-7	TOI042	1134	res[tati]:	restati	linguistic	some	_	End=1761.415	6x1	_	_	3-7(399)
 1135-0	TOI043	1135	[sì]	sì	linguistic	none	_	Begin=1760.795|End=1761.118	_	_	_	0-2(399)
@@ -5641,13 +5641,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1182-7	TOI042	1182	industriale	industriale	linguistic	none	_	End=1850.391	_	_	_	_
 1183-0	TOR001	1183	mhmh	mhmh	linguistic	none	_	Begin=1850.408|End=1850.765	_	_	_	_
 1184-0	TOI043	1184	mh	mh	linguistic	none	_	Begin=1850.765|End=1851.022	_	_	_	_
-1185-0	TOI042	1185	#surtì	surtì	linguistic	some	Language=NO_ISO_CODE	Begin=1851.206	_	_	_	_
+1185-0	TOI042	1185	#surtì	surtì	linguistic	some	_	Begin=1851.206	_	_	_	_
 1185-1	TOI042	1185	da	da	linguistic	some	_	_	_	_	_	_
 1185-2	TOI042	1185	la	la	linguistic	some	_	_	_	_	_	_
 1185-3	TOI042	1185	cromodora	cromodora	linguistic	some	_	End=1853.021	_	_	_	_
 1186-0	TOI042	1186	vestito	vestito	linguistic	none	_	Begin=1853.187	_	_	_	_
 1186-1	TOI042	1186	bene	bene	linguistic	none	_	End=1854.416	_	_	_	_
-1187-0	TOI042	1187	#e::h	eh	linguistic	some	Language=NO_ISO_CODE	Begin=1854.807	0x2	_	_	_
+1187-0	TOI042	1187	#e::h	eh	linguistic	some	_	Begin=1854.807	0x2	_	_	_
 1187-1	TOI042	1187	al	al	linguistic	some	_	_	_	_	_	_
 1187-2	TOI042	1187	cagadur	cagadur	linguistic	some	_	End=1857.197	_	_	_	_
 1188-0	TOI042	1188	la	la	linguistic	none	_	Begin=1858.19	_	_	_	_
@@ -5667,14 +5667,14 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1190-6	TOI042	1190	il	il	linguistic	none	_	_	_	_	_	_
 1190-7	TOI042	1190	motore	motore	linguistic	none	_	_	_	_	_	_
 1190-8	TOI042	1190	al	al	linguistic	none	_	_	_	_	_	_
-1190-9	TOI042	1190	contrario,	contrario	linguistic	none	Intonation=weakly_rising	End=1864.017	_	_	_	_
+1190-9	TOI042	1190	contrario,	contrario	linguistic	none	Intonation=WeaklyRising	End=1864.017	_	_	_	_
 1191-0	TOI043	1191	[e:h	eh	linguistic	none	_	Begin=1863.99	0x1	_	_	0-2(412)
 1191-1	TOI043	1191	non	non	linguistic	none	_	_	_	_	_	0-3(412)
 1191-2	TOI043	1191	lo	lo	linguistic	none	_	_	_	_	_	0-2(412)
 1191-3	TOI043	1191	so	so	linguistic	none	_	_	_	_	_	0-2(412)
 1191-4	TOI043	1191	eheh]	eheh	linguistic	none	_	End=1865.702	_	_	_	0-4(412)
-1192-0	TOI042	1192	#[la	la	linguistic	some	Language=NO_ISO_CODE	Begin=1864.017	_	_	_	1-3(413)
-1192-1	TOI042	1192	sincsent.	sincsent	linguistic	some	Intonation=falling	_	_	_	_	0-8(413)
+1192-0	TOI042	1192	#[la	la	linguistic	some	_	Begin=1864.017	_	_	_	1-3(413)
+1192-1	TOI042	1192	sincsent.	sincsent	linguistic	some	Intonation=Falling	_	_	_	_	0-8(413)
 1192-2	TOI042	1192	no	no	linguistic	some	_	_	_	_	_	0-2(413)
 1192-3	TOI042	1192	sessent	sessent	linguistic	some	_	_	_	_	_	0-7(413)
 1192-4	TOI042	1192	el	el	linguistic	some	_	_	_	_	_	0-2(413)
@@ -5835,7 +5835,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1217-2	TOI044	1217	e:hm]	ehm	linguistic	none	_	_	0x1	_	_	0-3(?)
 1217-3	TOI044	1217	il	il	linguistic	none	_	_	_	_	_	_
 1217-4	TOI044	1217	figlio	figlio	linguistic	none	_	_	_	_	_	_
-1217-5	TOI044	1217	di,	di	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1217-5	TOI044	1217	di,	di	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1217-6	TOI044	1217	caselle	caselle	linguistic	none	_	_	_	_	_	_
 1217-7	TOI044	1217	[qualcosa	qualcosa	linguistic	none	_	_	_	_	_	0-8(?)
 1217-8	TOI044	1217	del	del	linguistic	none	_	_	_	_	_	0-3(?)
@@ -5915,7 +5915,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1232-4	TOI042	1232	i	i	linguistic	none	_	_	_	_	_	_
 1232-5	TOI042	1232	regolamenti	regolamenti	linguistic	none	_	_	_	_	_	_
 1232-6	TOI042	1232	tra	tra	linguistic	none	_	End=1927.51	_	_	_	_
-1233-0	TOI042	1233	#gargagnan	gargagnan	linguistic	all	Language=NO_ISO_CODE	Begin=1928.11|End=1929.021	_	_	_	_
+1233-0	TOI042	1233	#gargagnan	gargagnan	linguistic	all	_	Begin=1928.11|End=1929.021	_	_	_	_
 1234-0	TOI042	1234	e:	e	linguistic	none	_	Begin=1929.59	0x1	_	_	_
 1234-1	TOI042	1234	questo	questo	linguistic	none	_	_	_	_	_	_
 1234-2	TOI042	1234	sì	sì	linguistic	none	_	End=1931.17	_	_	_	_
@@ -5923,7 +5923,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1235-1	TOI042	1235	fatti	fatti	linguistic	none	_	_	_	_	_	_
 1235-2	TOI042	1235	di	di	linguistic	none	_	_	_	_	_	_
 1235-3	TOI042	1235	sangue	sangue	linguistic	none	_	End=1932.7	_	_	_	_
-1236-0	TOI042	1236	#qualche	qualche	linguistic	some	Language=NO_ISO_CODE	Begin=1932.7	_	_	_	_
+1236-0	TOI042	1236	#qualche	qualche	linguistic	some	_	Begin=1932.7	_	_	_	_
 1236-1	TOI042	1236	prostituta	prostituta	linguistic	some	_	_	_	_	_	_
 1236-2	TOI042	1236	uccisa	uccisa	linguistic	some	_	_	_	_	_	_
 1236-3	TOI042	1236	qualche	qualche	linguistic	some	_	_	_	_	_	_
@@ -6014,7 +6014,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1249-10	TOI043	1249	soprattutto	soprattutto	linguistic	none	_	_	_	_	_	_
 1249-11	TOI043	1249	le	le	linguistic	none	_	_	_	_	_	_
 1249-12	TOI043	1249	balere	balere	linguistic	none	_	_	_	_	_	_
-1249-13	TOI043	1249	no,	no	linguistic	none	Intonation=weakly_rising	End=1963.81	_	_	_	_
+1249-13	TOI043	1249	no,	no	linguistic	none	Intonation=WeaklyRising	End=1963.81	_	_	_	_
 1250-0	TOI043	1250	dove	dove	linguistic	none	_	Begin=1963.81	_	_	_	_
 1250-1	TOI043	1250	andavano	andavano	linguistic	none	_	_	_	_	_	_
 1250-2	TOI043	1250	a	a	linguistic	none	_	_	_	_	_	_
@@ -6091,7 +6091,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1260-11	TOI043	1260	le	le	linguistic	none	_	_	_	_	_	_
 1260-12	TOI043	1260	mani	mani	linguistic	none	_	_	_	_	_	_
 1260-13	TOI043	1260	[ecco	ecco	linguistic	none	_	_	_	_	_	0-4(443)
-1260-14	TOI043	1260	no],	no	linguistic	none	Intonation=weakly_rising	End=1986.61	_	_	_	0-2(443)
+1260-14	TOI043	1260	no],	no	linguistic	none	Intonation=WeaklyRising	End=1986.61	_	_	_	0-2(443)
 1261-0	TOI042	1261	[sì	sì	linguistic	none	_	Begin=1983.4	_	_	_	0-2(442)
 1261-1	TOI042	1261	sì]	sì	linguistic	none	_	End=1983.95	_	_	_	0-2(442)
 1262-0	TOI042	1262	[sì	sì	linguistic	none	_	Begin=1985.911	_	_	_	0-2(443)
@@ -6123,13 +6123,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1268-0	TOI044	1268	il	il	linguistic	none	_	Begin=1992.615	_	_	_	_
 1268-1	TOI044	1268	borgo	borgo	linguistic	none	_	_	_	_	_	_
 1268-2	TOI044	1268	del	del	linguistic	none	_	_	_	_	_	_
-1268-3	TOI044	1268	fumo,	fumo	linguistic	none	Intonation=weakly_rising	End=1994.21	_	_	_	_
+1268-3	TOI044	1268	fumo,	fumo	linguistic	none	Intonation=WeaklyRising	End=1994.21	_	_	_	_
 1269-0	TOI043	1269	mh	mh	linguistic	none	_	Begin=1994.21|End=1994.45	_	_	_	_
-1270-0	TOI044	1270	#burg	burg	linguistic	some	Language=NO_ISO_CODE	Begin=1994.4	_	_	_	_
+1270-0	TOI044	1270	#burg	burg	linguistic	some	_	Begin=1994.4	_	_	_	_
 1270-1	TOI044	1270	[dal	dal	linguistic	some	_	_	_	_	_	0-3(?)
 1270-2	TOI044	1270	fum]	fum	linguistic	some	_	End=1995.355	_	_	_	0-3(?)
 1271-0	TOI043	1271	[sì]	sì	linguistic	none	_	Begin=1994.68|End=1994.991	_	_	_	0-2(1123)
-1272-0	TOI042	1272	#[burg]	burg	linguistic	some	Language=NO_ISO_CODE	Begin=1994.88	_	_	_	1-5(1123)
+1272-0	TOI042	1272	#[burg]	burg	linguistic	some	_	Begin=1994.88	_	_	_	1-5(1123)
 1272-1	TOI042	1272	dal	dal	linguistic	some	_	_	_	_	_	_
 1272-2	TOI042	1272	fum	fum	linguistic	some	_	_	_	_	_	_
 1272-3	TOI042	1272	[eh]	eh	linguistic	some	_	End=1996.012	_	_	_	0-2(446)
@@ -6282,7 +6282,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1305-2	TOI044	1305	è	è	linguistic	none	_	_	_	_	_	0-1(458)
 1305-3	TOI044	1305	tanto	tanto	linguistic	none	_	_	_	_	_	0-5(458)
 1305-4	TOI044	1305	lontano	lontano	linguistic	none	_	_	_	_	_	0-7(458)
-1305-5	TOI044	1305	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(458)
+1305-5	TOI044	1305	no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(458)
 1305-6	TOI044	1305	cioè	cioè	linguistic	none	_	_	_	_	_	0-4(458)
 1305-7	TOI044	1305	quindi]	quindi	linguistic	none	_	End=2039.01	_	_	_	0-6(458)
 1306-0	TOI044	1306	[era]:	era	linguistic	none	_	Begin=2039.5|End=2040.338	2x1	_	_	0-3(459)
@@ -6393,7 +6393,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1325-1	TOI044	1325	un	un	linguistic	none	_	_	_	_	_	_
 1325-2	TOI044	1325	altro	altro	linguistic	none	_	_	_	_	_	_
 1325-3	TOI044	1325	mon[do	mondo	linguistic	none	_	_	_	_	_	3-5(466)
-1325-4	TOI044	1325	no],	no	linguistic	none	Intonation=weakly_rising	End=2075.96	_	_	_	0-2(466)
+1325-4	TOI044	1325	no],	no	linguistic	none	Intonation=WeaklyRising	End=2075.96	_	_	_	0-2(466)
 1326-0	TOI043	1326	[un	un	linguistic	none	_	Begin=2075.15	_	_	_	0-2(466)
 1326-1	TOI043	1326	altro	altro	linguistic	none	_	_	_	_	_	0-5(466)
 1326-2	TOI043	1326	mondo]	mondo	linguistic	none	_	_	_	_	_	0-5(466)
@@ -6672,7 +6672,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1382-3	TOI044	1382	[realtà	realtà	linguistic	none	_	_	_	_	_	0-6(488)
 1382-4	TOI044	1382	di	di	linguistic	none	_	_	_	_	_	0-2(488)
 1382-5	TOI044	1382	torino]	torino	linguistic	none	_	_	_	_	_	0-6(488)
-1382-6	TOI044	1382	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1382-6	TOI044	1382	no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1382-7	TOI044	1382	cioè	cioè	linguistic	none	_	_	_	_	_	_
 1382-8	TOI044	1382	non	non	linguistic	none	_	End=2157.99	_	_	_	_
 1383-0	TOI043	1383	[infatti	infatti	linguistic	none	_	Begin=2156.184	_	_	_	0-7(488)
@@ -7859,7 +7859,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1624-1	TOI043	1624	una	una	linguistic	none	_	_	_	_	_	_
 1624-2	TOI043	1624	gattara	gattara	linguistic	none	_	End=2554.477	_	_	_	_
 1625-0	TOI044	1625	((ride))	((ride))	nonverbalbehavior	none	_	Begin=2554.206|End=2556.012	_	_	_	_
-1626-0	TOI043	1626	no,	no	linguistic	none	Intonation=weakly_rising	Begin=2554.606	_	_	_	_
+1626-0	TOI043	1626	no,	no	linguistic	none	Intonation=WeaklyRising	Begin=2554.606	_	_	_	_
 1626-1	TOI043	1626	per	per	linguistic	none	_	_	_	_	_	_
 1626-2	TOI043	1626	cui	cui	linguistic	none	_	_	_	_	_	_
 1626-3	TOI043	1626	lei	lei	linguistic	none	_	_	_	_	_	_
@@ -7969,7 +7969,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1643-3	TOI043	1643	un	un	linguistic	none	_	_	_	_	_	0-2(?)
 1643-4	TOI043	1643	forte]	forte	linguistic	none	_	_	_	_	_	0-5(?)
 1643-5	TOI043	1643	conflitto	conflitto	linguistic	none	_	_	_	_	_	_
-1643-6	TOI043	1643	[no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(?)
+1643-6	TOI043	1643	[no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(?)
 1643-7	TOI043	1643	tra::	tra	linguistic	none	_	_	2x2	_	_	0-3(?)
 1643-8	TOI043	1643	eh]	eh	linguistic	none	_	End=2585.9	_	_	_	0-2(?)
 1644-0	TOI044	1644	[di	di	linguistic	none	_	Begin=2582.686	_	_	_	0-2(564)
@@ -8551,7 +8551,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1759-1	TOI043	1759	quelle	quelle	linguistic	none	_	_	_	_	_	0-6(616)
 1759-2	TOI043	1759	vie]	vie	linguistic	none	_	_	_	_	_	0-3(616)
 1759-3	TOI043	1759	lì	lì	linguistic	none	_	End=2755.513	_	_	_	_
-1760-0	TOI043	1760	[no,	no	linguistic	none	Intonation=weakly_rising	Begin=2755.513	_	_	_	0-2(617)
+1760-0	TOI043	1760	[no,	no	linguistic	none	Intonation=WeaklyRising	Begin=2755.513	_	_	_	0-2(617)
 1760-1	TOI043	1760	dove	dove	linguistic	none	_	_	_	_	_	0-4(617)
 1760-2	TOI043	1760	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(617)
 1760-3	TOI043	1760	erano]	erano	linguistic	none	_	_	_	_	_	0-5(617)
@@ -8579,7 +8579,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1763-3	TOI043	1763	i	i	linguistic	none	_	_	_	_	_	_
 1763-4	TOI043	1763	bagni	bagni	linguistic	none	_	_	_	_	_	_
 1763-5	TOI043	1763	pubblici	pubblici	linguistic	none	_	_	_	_	_	_
-1763-6	TOI043	1763	no,	no	linguistic	none	Intonation=weakly_rising	End=2763.41	_	_	_	_
+1763-6	TOI043	1763	no,	no	linguistic	none	Intonation=WeaklyRising	End=2763.41	_	_	_	_
 1764-0	TOI043	1764	noi	noi	linguistic	none	_	Begin=2764.29	_	_	_	_
 1764-1	TOI043	1764	però	però	linguistic	none	_	_	_	_	_	_
 1764-2	TOI043	1764	invece	invece	linguistic	none	_	_	_	_	_	_
@@ -8719,7 +8719,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1787-11	TOI043	1787	altri	altri	linguistic	none	_	_	_	_	_	_
 1787-12	TOI043	1787	[c(io)è]	cioè	linguistic	none	_	End=2811.01	_	_	1-3(0)	0-4(625)
 1788-0	TOI042	1788	[sì]	sì	linguistic	none	_	Begin=2809.87|End=2810.21	_	_	_	0-2(624)
-1789-0	TOI044	1789	#[qual]	qual	linguistic	some	Language=NO_ISO_CODE	Begin=2810.61	_	_	_	1-5(625)
+1789-0	TOI044	1789	#[qual]	qual	linguistic	some	_	Begin=2810.61	_	_	_	1-5(625)
 1789-1	TOI044	1789	era	era	linguistic	some	_	_	_	_	_	_
 1789-2	TOI044	1789	già	già	linguistic	some	_	_	_	_	_	_
 1789-3	TOI044	1789	il	il	linguistic	some	_	_	_	_	_	_
@@ -9098,7 +9098,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1866-2	TOI043	1866	ecco	ecco	linguistic	none	_	_	_	_	_	0-4(651)
 1866-3	TOI043	1866	diciamo	diciamo	linguistic	none	_	_	_	_	_	0-7(651)
 1866-4	TOI043	1866	così]	così	linguistic	none	_	End=2926.81	_	_	_	0-4(651)
-1867-0	TOI042	1867	#tante	tante	linguistic	some	Language=NO_ISO_CODE	Begin=2927.01	_	_	_	_
+1867-0	TOI042	1867	#tante	tante	linguistic	some	_	Begin=2927.01	_	_	_	_
 1867-1	TOI042	1867	boite	boite	linguistic	some	_	End=2928.31	_	_	_	_
 1868-0	TOI042	1868	e	e	linguistic	none	_	Begin=2928.375	_	_	_	_
 1868-1	TOI042	1868	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -9150,7 +9150,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1877-3	TOI043	1877	nel	nel	linguistic	none	_	_	_	_	_	_
 1877-4	TOI043	1877	senso	senso	linguistic	none	_	_	_	_	_	_
 1877-5	TOI043	1877	[che]	che	linguistic	none	_	End=2948.66	_	_	_	0-3(654)
-1878-0	TOI042	1878	#[ma	ma	linguistic	some	Language=NO_ISO_CODE	Begin=2948.203	_	_	_	1-3(654)
+1878-0	TOI042	1878	#[ma	ma	linguistic	some	_	Begin=2948.203	_	_	_	1-3(654)
 1878-1	TOI042	1878	poi]	poi	linguistic	some	_	_	_	_	_	0-3(654)
 1878-2	TOI042	1878	un	un	linguistic	some	_	_	_	_	_	_
 1878-3	TOI042	1878	mucchio	mucchio	linguistic	some	_	_	_	_	_	_
@@ -9255,7 +9255,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1899-2	TOI043	1899	e:h]	eh	linguistic	none	_	End=2977.204	0x1	_	_	0-2(664)
 1900-0	TOI044	1900	[tappiamoci	tappiamoci	linguistic	none	_	Begin=2975.895	_	_	_	0-10(?)
 1900-1	TOI044	1900	il	il	linguistic	none	_	_	_	_	_	0-2(?)
-1900-2	TOI044	1900	naso.	naso	linguistic	none	Intonation=falling	_	_	_	_	0-4(?)
+1900-2	TOI044	1900	naso.	naso	linguistic	none	Intonation=Falling	_	_	_	_	0-4(?)
 1900-3	TOI044	1900	perché	perché	linguistic	none	_	_	_	_	_	0-6(?)
 1900-4	TOI044	1900	era]	era	linguistic	none	_	End=2977.81	_	_	_	0-3(?)
 1901-0	TOR001	1901	((ride))	((ride))	nonverbalbehavior	none	_	Begin=2976.92|End=2977.636	_	_	_	_
@@ -9271,7 +9271,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1903-3	TOI043	1903	le	le	linguistic	none	_	_	_	_	_	_
 1903-4	TOI043	1903	le	le	linguistic	none	_	_	_	_	_	_
 1903-5	TOI043	1903	[fibre	fibre	linguistic	none	_	_	_	_	_	0-5(667)
-1903-6	TOI043	1903	no],	no	linguistic	none	Intonation=weakly_rising	End=2981.02	_	_	_	0-2(667)
+1903-6	TOI043	1903	no],	no	linguistic	none	Intonation=WeaklyRising	End=2981.02	_	_	_	0-2(667)
 1904-0	TOI044	1904	[mamma	mamma	linguistic	none	_	Begin=2980.2	_	_	_	0-5(667)
 1904-1	TOI044	1904	mia]	mia	linguistic	none	_	End=2981.21	_	_	_	0-3(667)
 1905-0	TOI044	1905	era	era	linguistic	none	_	Begin=2981.21	_	_	_	_
@@ -9301,7 +9301,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1909-0	TOR001	1909	mhmh	mhmh	linguistic	none	_	Begin=2989.531|End=2989.972	_	_	_	_
 1910-0	TOI044	1910	ma	ma	linguistic	none	_	Begin=2990.0	_	_	_	_
 1910-1	TOI044	1910	[ecco]	ecco	linguistic	none	_	End=2990.69	_	_	_	0-4(670)
-1911-0	TOI043	1911	[no],	no	linguistic	none	Intonation=weakly_rising	Begin=2990.27|End=2990.681	_	_	_	0-2(670)
+1911-0	TOI043	1911	[no],	no	linguistic	none	Intonation=WeaklyRising	Begin=2990.27|End=2990.681	_	_	_	0-2(670)
 1912-0	TOI043	1912	e	e	linguistic	none	_	Begin=2990.89	_	_	_	_
 1912-1	TOI043	1912	quindi	quindi	linguistic	none	_	_	_	_	_	_
 1912-2	TOI043	1912	facevano	facevano	linguistic	none	_	_	_	_	_	_
@@ -9327,7 +9327,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1917-1	TOI043	1917	v~	v~	linguistic	none	Interrupted=Yes	_	_	_	_	0-2(1157)
 1917-2	TOI043	1917	a	a	linguistic	none	_	_	_	_	_	0-1(1157)
 1917-3	TOI043	1917	venaria	venaria	linguistic	none	_	_	_	_	_	0-7(1157)
-1917-4	TOI043	1917	no],	no	linguistic	none	Intonation=weakly_rising	End=2997.52	_	_	_	0-2(1157)
+1917-4	TOI043	1917	no],	no	linguistic	none	Intonation=WeaklyRising	End=2997.52	_	_	_	0-2(1157)
 1918-0	TOI044	1918	[a	a	linguistic	none	_	Begin=2997.415	_	_	_	0-1(1157)
 1918-1	TOI044	1918	venaria]	venaria	linguistic	none	_	End=2998.315	_	_	_	0-7(1157)
 1919-0	TOI043	1919	[quindi]	quindi	linguistic	none	_	Begin=2998.004	_	_	_	0-6(1158)
@@ -9718,7 +9718,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2006-4	TOI042	2006	canzone	canzone	linguistic	none	_	_	_	_	_	_
 2006-5	TOI042	2006	di	di	linguistic	none	_	_	_	_	_	_
 2006-6	TOI042	2006	gipo	gipo	linguistic	none	_	End=3107.406	_	_	_	_
-2007-0	TOI042	2007	#l'	l'	linguistic	some	SpaceAfter=No|Language=NO_ISO_CODE	Begin=3107.509	_	_	_	_
+2007-0	TOI042	2007	#l'	l'	linguistic	some	SpaceAfter=No	Begin=3107.509	_	_	_	_
 2007-1	TOI042	2007	hai	hai	linguistic	some	_	_	_	_	_	_
 2007-2	TOI042	2007	catate	catate	linguistic	some	_	_	_	_	_	_
 2007-3	TOI042	2007	el	el	linguistic	some	_	_	_	_	_	_
@@ -10134,7 +10134,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2109-4	TOI044	2109	[un	un	linguistic	none	_	_	_	_	_	0-2(?)
 2109-5	TOI044	2109	po'	po'	linguistic	none	_	_	_	_	_	0-3(?)
 2109-6	TOI044	2109	male	male	linguistic	none	_	_	_	_	_	0-4(?)
-2109-7	TOI044	2109	no],	no	linguistic	none	Intonation=weakly_rising	End=3270.81	_	_	_	0-2(?)
+2109-7	TOI044	2109	no],	no	linguistic	none	Intonation=WeaklyRising	End=3270.81	_	_	_	0-2(?)
 2110-0	TOI043	2110	[la]	la	linguistic	none	_	Begin=3269.691|End=3269.988	_	_	_	0-2(1168)
 2111-0	TOI042	2111	[l'	l'	linguistic	none	SpaceAfter=No	Begin=3269.81	_	_	_	0-2(?)
 2111-1	TOI042	2111	aguzzina]	aguzzina	linguistic	none	_	End=3270.64	_	_	_	0-8(?)
@@ -10427,7 +10427,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2168-4	TOI043	2168	accento	accento	linguistic	none	_	_	_	_	_	_
 2168-5	TOI043	2168	fortissimo	fortissimo	linguistic	none	_	End=3357.39	_	_	_	_
 2169-0	TOI044	2169	mh	mh	linguistic	none	_	Begin=3357.5|End=3357.711	_	_	_	_
-2170-0	TOI043	2170	#e	e	linguistic	some	Language=NO_ISO_CODE	Begin=3357.8	_	_	_	_
+2170-0	TOI043	2170	#e	e	linguistic	some	_	Begin=3357.8	_	_	_	_
 2170-1	TOI043	2170	allora	allora	linguistic	some	_	_	_	_	_	_
 2170-2	TOI043	2170	mi	mi	linguistic	some	_	_	_	_	_	_
 2170-3	TOI043	2170	ricor~	ricor~	linguistic	some	Interrupted=Yes	_	_	_	_	_
@@ -10551,7 +10551,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2190-0	TOI043	2190	[un	un	linguistic	none	_	Begin=3403.49	_	_	_	0-2(749)
 2190-1	TOI043	2190	po'	po'	linguistic	none	_	_	_	_	_	0-3(749)
 2190-2	TOI043	2190	schizzi]nose	schizzinose	linguistic	none	_	_	_	_	_	0-7(749)
-2190-3	TOI043	2190	[no],	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(750)
+2190-3	TOI043	2190	[no],	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(750)
 2190-4	TOI043	2190	((ride))	((ride))	nonverbalbehavior	none	_	End=3405.61	_	_	_	_
 2191-0	TOI042	2191	[dif]ferenziali	differenziali	linguistic	none	_	Begin=3404.592|End=3406.116	_	_	_	0-3(750)
 2192-0	TOI042	2192	è	è	linguistic	none	_	Begin=3406.499	_	_	_	_
@@ -10654,7 +10654,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2210-5	TOI042	2210	con	con	linguistic	none	_	_	_	_	_	_
 2210-6	TOI042	2210	gli	gli	linguistic	none	_	_	_	_	_	_
 2210-7	TOI042	2210	altri	altri	linguistic	none	_	_	_	_	_	_
-2210-8	TOI042	2210	[no],	no	linguistic	none	Intonation=weakly_rising	End=3443.542	_	_	_	0-2(758)
+2210-8	TOI042	2210	[no],	no	linguistic	none	Intonation=WeaklyRising	End=3443.542	_	_	_	0-2(758)
 2211-0	TOI043	2211	[mh]	mh	linguistic	none	_	Begin=3443.18|End=3443.489	_	_	_	0-2(758)
 2212-0	TOI042	2212	e	e	linguistic	none	_	Begin=3444.19	_	_	_	_
 2212-1	TOI042	2212	spesso	spesso	linguistic	none	_	End=3445.21	_	_	_	_
@@ -11135,7 +11135,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2308-6	TOR001	2308	sapendo	sapendo	linguistic	none	_	_	_	_	_	_
 2308-7	TOR001	2308	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 2308-8	TOR001	2308	italiano	italiano	linguistic	none	_	_	_	_	_	_
-2308-9	TOR001	2308	no,	no	linguistic	none	Intonation=weakly_rising	End=3597.8	_	_	_	_
+2308-9	TOR001	2308	no,	no	linguistic	none	Intonation=WeaklyRising	End=3597.8	_	_	_	_
 2309-0	TOI043	2309	[mh]	mh	linguistic	none	_	Begin=3597.8|End=3598.11	_	_	_	0-2(802)
 2310-0	TOR001	2310	[qui]ndi	quindi	linguistic	none	_	Begin=3597.8	_	_	_	0-3(802)
 2310-1	TOR001	2310	di	di	linguistic	none	_	_	_	_	_	_
@@ -11389,7 +11389,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2355-6	TOI043	2355	farlo	farlo	linguistic	none	_	_	_	_	_	_
 2355-7	TOI043	2355	stare	stare	linguistic	none	_	_	_	_	_	_
 2355-8	TOI043	2355	bravo	bravo	linguistic	none	_	_	_	_	_	_
-2355-9	TOI043	2355	no,	no	linguistic	none	Intonation=weakly_rising	End=3689.802	_	_	_	_
+2355-9	TOI043	2355	no,	no	linguistic	none	Intonation=WeaklyRising	End=3689.802	_	_	_	_
 2356-0	TOR001	2356	[mh]	mh	linguistic	none	_	Begin=3686.7|End=3686.91	_	_	_	0-2(817)
 2357-0	TOI042	2357	mh	mh	linguistic	none	_	Begin=3689.8	_	_	_	_
 2357-1	TOI042	2357	mh	mh	linguistic	none	_	_	_	_	_	_
@@ -11425,7 +11425,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2362-3	TOI043	2362	detto	detto	linguistic	none	_	_	_	_	_	_
 2362-4	TOI043	2362	ma	ma	linguistic	none	_	_	_	_	_	_
 2362-5	TOI043	2362	sarà	sarà	linguistic	none	_	End=3703.01	_	_	_	_
-2363-0	TOI042	2363	[ah].	ah	linguistic	none	Intonation=falling	Begin=3701.7|End=3702.01	_	_	_	0-2(820)
+2363-0	TOI042	2363	[ah].	ah	linguistic	none	Intonation=Falling	Begin=3701.7|End=3702.01	_	_	_	0-2(820)
 2364-0	TOI043	2364	come	come	linguistic	none	_	Begin=3703.79	_	_	_	_
 2364-1	TOI043	2364	dire	dire	linguistic	none	_	_	_	_	_	_
 2364-2	TOI043	2364	daltonico	daltonico	linguistic	none	_	End=3705.0	_	_	_	_
@@ -11910,7 +11910,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2476-5	TOI043	2476	una	una	linguistic	none	_	_	_	_	_	_
 2476-6	TOI043	2476	questione	questione	linguistic	none	_	_	_	_	_	_
 2476-7	TOI043	2476	psicologica	psicologica	linguistic	none	_	_	_	_	_	_
-2476-8	TOI043	2476	[no],	no	linguistic	none	Intonation=weakly_rising	End=3871.178	_	_	_	0-2(866)
+2476-8	TOI043	2476	[no],	no	linguistic	none	Intonation=WeaklyRising	End=3871.178	_	_	_	0-2(866)
 2477-0	TOI042	2477	[sì]	sì	linguistic	none	_	Begin=3870.9|End=3871.17	_	_	_	0-2(866)
 2478-0	TOI043	2478	cioè	cioè	linguistic	none	_	Begin=3871.2	_	_	_	_
 2478-1	TOI043	2478	se	se	linguistic	none	_	_	_	_	_	_
@@ -12037,7 +12037,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2504-2	TOI043	2504	pronta	pronta	linguistic	none	_	_	_	_	_	0-6(879)
 2504-3	TOI043	2504	a]	a	linguistic	none	_	_	_	_	_	0-1(879)
 2504-4	TOI043	2504	scoppiare	scoppiare	linguistic	none	_	_	_	_	_	_
-2504-5	TOI043	2504	[no],	no	linguistic	none	Intonation=weakly_rising	End=3914.72	_	_	_	0-2(880)
+2504-5	TOI043	2504	[no],	no	linguistic	none	Intonation=WeaklyRising	End=3914.72	_	_	_	0-2(880)
 2505-0	TOI044	2505	[nei]	nei	linguistic	none	_	Begin=3914.4	_	_	_	0-3(880)
 2505-1	TOI044	2505	giardini	giardini	linguistic	none	_	_	_	_	_	_
 2505-2	TOI044	2505	[questi]	questi	linguistic	none	_	_	_	_	_	0-6(881)
@@ -12658,7 +12658,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2631-0	TOI044	2631	[non	non	linguistic	none	_	Begin=4060.872	_	_	_	0-3(936)
 2631-1	TOI044	2631	so	so	linguistic	none	_	_	_	_	_	0-2(936)
 2631-2	TOI044	2631	per~]	per~	linguistic	none	Interrupted=Yes	_	_	_	_	0-4(936)
-2631-3	TOI044	2631	sì.	sì	linguistic	none	Intonation=falling	End=4062.01	_	_	_	_
+2631-3	TOI044	2631	sì.	sì	linguistic	none	Intonation=Falling	End=4062.01	_	_	_	_
 2632-0	TOI043	2632	mhmh	mhmh	linguistic	none	_	Begin=4062.303|End=4062.763	_	_	_	_
 2633-0	TOI044	2633	((ride))	((ride))	nonverbalbehavior	none	_	Begin=4062.396	_	_	_	_
 2633-1	TOI044	2633	io	io	linguistic	none	_	_	_	_	_	_
@@ -12702,7 +12702,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2641-2	TOI044	2641	sp[iegato	spiegato	linguistic	none	_	_	_	_	_	2-8(1197)
 2641-3	TOI044	2641	questa	questa	linguistic	none	_	_	_	_	_	0-6(1197)
 2641-4	TOI044	2641	cosa	cosa	linguistic	none	_	_	_	_	_	0-4(1197)
-2641-5	TOI044	2641	no],	no	linguistic	none	Intonation=weakly_rising	End=4073.61	_	_	_	0-2(1197)
+2641-5	TOI044	2641	no],	no	linguistic	none	Intonation=WeaklyRising	End=4073.61	_	_	_	0-2(1197)
 2642-0	TOI043	2642	[c'	c'	linguistic	none	SpaceAfter=No	Begin=4072.294	_	_	_	0-2(1197)
 2642-1	TOI043	2642	ha	ha	linguistic	none	_	_	_	_	_	0-2(1197)
 2642-2	TOI043	2642	eh	eh	linguistic	none	_	_	_	_	_	0-2(1197)
@@ -12815,7 +12815,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2660-7	TOI044	2660	controllo	controllo	linguistic	none	_	_	_	_	_	_
 2660-8	TOI044	2660	[diverso	diverso	linguistic	none	_	_	_	_	_	0-7(950)
 2660-9	TOI044	2660	questo	questo	linguistic	none	_	_	_	_	_	0-6(950)
-2660-10	TOI044	2660	no],	no	linguistic	none	Intonation=weakly_rising	End=4095.41	_	_	_	0-2(950)
+2660-10	TOI044	2660	no],	no	linguistic	none	Intonation=WeaklyRising	End=4095.41	_	_	_	0-2(950)
 2661-0	TOI043	2661	[di	di	linguistic	none	_	Begin=4091.89	_	_	_	0-2(949)
 2661-1	TOI043	2661	eh	eh	linguistic	none	_	_	_	_	_	0-2(949)
 2661-2	TOI043	2661	certo]	certo	linguistic	none	_	End=4093.244	_	_	_	0-5(949)
@@ -13181,7 +13181,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2738-0	TOI042	2738	[sì	sì	linguistic	none	_	Begin=4188.987	_	_	_	0-2(986)
 2738-1	TOI042	2738	quelle	quelle	linguistic	none	_	_	_	_	_	0-6(986)
 2738-2	TOI042	2738	più]	più	linguistic	none	_	_	_	_	_	0-3(986)
-2738-3	TOI042	2738	no,	no	linguistic	none	Intonation=weakly_rising	End=4190.52	_	_	_	_
+2738-3	TOI042	2738	no,	no	linguistic	none	Intonation=WeaklyRising	End=4190.52	_	_	_	_
 2739-0	TOI043	2739	anche	anche	linguistic	none	_	Begin=4190.511	_	_	_	_
 2739-1	TOI043	2739	ap[punto	appunto	linguistic	none	_	_	_	_	_	2-7(987)
 2739-2	TOI043	2739	qualche]	qualche	linguistic	none	_	End=4191.91	_	_	_	0-7(987)
@@ -14030,7 +14030,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2902-1	TOI043	2902	è	è	linguistic	none	_	End=4441.53	_	_	_	_
 2903-0	TOI043	2903	medio	medio	linguistic	none	_	Begin=4441.695	_	_	_	_
 2903-1	TOI043	2903	basso	basso	linguistic	none	_	End=4442.64	_	_	_	_
-2904-0	TOI043	2904	no,	no	linguistic	none	Intonation=weakly_rising	Begin=4442.9|End=4443.2	_	_	_	_
+2904-0	TOI043	2904	no,	no	linguistic	none	Intonation=WeaklyRising	Begin=4442.9|End=4443.2	_	_	_	_
 2905-0	TOI043	2905	cioè	cioè	linguistic	none	_	Begin=4443.385	_	_	_	_
 2905-1	TOI043	2905	come	come	linguistic	none	_	_	_	_	_	_
 2905-2	TOI043	2905	come	come	linguistic	none	_	_	_	_	_	_

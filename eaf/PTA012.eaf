@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:22:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="PTA012.wav" RELATIVE_MEDIA_URL="PTA012.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1702,7 +1701,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1696" TIME_VALUE="1825200" />
 		<TIME_SLOT TIME_SLOT_ID="ts1697" TIME_VALUE="1828686" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TOR001" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
