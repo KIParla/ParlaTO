@@ -48,7 +48,7 @@ Metadata is to be interpreted as follows:
 	- `gender`: either `M` for masculine or `F` for feminine
 	- `age-range`: 5 years range including the participant’s age.
 	- `birth-region`: Italian region[^1] where the participant was born. If outside Italy, the label `estero` is used.
-	- `occupation`: occupation of the participant, accordind to ISTAT categories[^2]
+	- `occupation`: occupation of the participant, according to [ISTAT categories](https://professioni.istat.it/). For more information see [occupation label](./occupation-levels.md)
 	- `study-level`: highest completed level of education[^3]
 	- Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations` colum that summarizes the conversations in which the participant appears.
 
@@ -66,8 +66,7 @@ Metadata is to be interpreted as follows:
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
 
 [^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
-[^2]: `craftsmanship`, `intellectual`, `laborer`, `occupation`, `office-work`, `retail`, `retired`, `student`, `tecnical-work`, `unemployed`
-[^3]: `elementary-school`, `liceo-diploma`, `middle-school`, `phd`, `study-level`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
+[^3]: `elementary-school`, `liceo-diploma`, `middle-school`, `phd`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
 
 ## Verticalized content
 
