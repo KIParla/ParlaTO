@@ -25,7 +25,7 @@ Overall, the module is made up of 68 conversations and includes 100 speakers.
 This repository contains:
 
 * metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
-* descriptions of the set of transcription conventions used for this module ([Transcription conventions](./transcription-conventions.md))
+* descriptions of the set of transcription conventions used for this module ([Transcription conventions](./jefferson-notation.md))
 
 For each conversation you will find:
 
