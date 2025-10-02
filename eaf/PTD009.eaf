@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:22:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:46:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2691,6 +2691,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2686" TIME_VALUE="3381372" />
 		<TIME_SLOT TIME_SLOT_ID="ts2687" TIME_VALUE="3382425" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TOR001" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -8176,12 +8177,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a987" TIME_SLOT_REF1="ts1972" TIME_SLOT_REF2="ts1973">
-				<ANNOTATION_VALUE># #ma poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#ma poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a989" TIME_SLOT_REF1="ts1976" TIME_SLOT_REF2="ts1977">
-				<ANNOTATION_VALUE># #ma poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#ma poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8196,7 +8197,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a992" TIME_SLOT_REF1="ts1982" TIME_SLOT_REF2="ts1983">
-				<ANNOTATION_VALUE># #eh ma quando vo~ gli ho detto che volevo fare l'avvocato sì eh la libera prufessiun ma podi nen andé a insegné</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#eh ma quando vo~ gli ho detto che volevo fare l'avvocato sì eh la libera prufessiun ma podi nen andé a insegné</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8206,7 +8207,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a995" TIME_SLOT_REF1="ts1988" TIME_SLOT_REF2="ts1989">
-				<ANNOTATION_VALUE># #e:h xxx ma poi c'è sempre questa visione del futuro che è sensata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e:h xxx ma poi c'è sempre questa visione del futuro che è sensata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8226,7 +8227,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1000" TIME_SLOT_REF1="ts1998" TIME_SLOT_REF2="ts1999">
-				<ANNOTATION_VALUE># #[ma] non puoi secondo me neanche vivere col problema del ma poi perché poi vivi fermo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#[ma] non puoi secondo me neanche vivere col problema del ma poi perché poi vivi fermo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8256,7 +8257,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1009" TIME_SLOT_REF1="ts2016" TIME_SLOT_REF2="ts2017">
-				<ANNOTATION_VALUE>((risponde a una telefonata. la registrazione è interrotta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((risponde_a_una_telefonata_la_registrazione_viene_interrotta))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8636,7 +8637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1117" TIME_SLOT_REF1="ts2232" TIME_SLOT_REF2="ts2233">
-				<ANNOTATION_VALUE># #o i rolling stones di tren~ di: cos'era ottantadue quel che l'e</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#o i rolling stones di tren~ di: cos'era ottantadue quel che l'e</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

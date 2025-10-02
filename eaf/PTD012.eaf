@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:22:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:46:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2747,6 +2747,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2742" TIME_VALUE="3935497" />
 		<TIME_SLOT TIME_SLOT_ID="ts2743" TIME_VALUE="3938356" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TOR001" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -5082,7 +5083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a338" TIME_SLOT_REF1="ts674" TIME_SLOT_REF2="ts675">
-				<ANNOTATION_VALUE># #pi:ciu eh, piciu lui però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#pi:ciu eh, piciu lui però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6552,7 +6553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a676" TIME_SLOT_REF1="ts1350" TIME_SLOT_REF2="ts1351">
-				<ANNOTATION_VALUE>lui=e:h si è trovato dei soldi di questa fondazione @nome che gli dà::::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lui=e:h si è trovato dei soldi di questa fondazione che gli dà::::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7482,7 +7483,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a887" TIME_SLOT_REF1="ts1772" TIME_SLOT_REF2="ts1773">
-				<ANNOTATION_VALUE># #du' cose le ho imparate tanto voi che cazzo dovete fare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#du' cose le ho imparate tanto voi che cazzo dovete fare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9187,7 +9188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1276" TIME_SLOT_REF1="ts2550" TIME_SLOT_REF2="ts2551">
-				<ANNOTATION_VALUE># #quelli che ce l'hanno coi moru ce l'han coi moru comunque</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#quelli che ce l'hanno coi moru ce l'han coi moru comunque</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

@@ -1,1 +1,4 @@
 *.pfsx
+*.bak
+.DS*
+*.py
