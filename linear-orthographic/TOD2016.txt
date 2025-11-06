@@ -13,7 +13,7 @@ TO071	quindi sì nel duemila diciotto ho vissuto qua a torino
 TO080	mhmh
 TO071	e niente vivo in in un bilocale
 TO080	mhmh
-TO080	ehm non lontano dall' università quindi in zona centro
+TO080	ehm non lontano dall'università quindi in zona centro
 TO080	e
 TO071	è piccolo
 TO080	okay è un bilocale ma vivi da sola o comunqnue con
@@ -23,13 +23,13 @@ TO080	ah okay
 TO071	e niente sono in un ehm in uno spazio che ho trovato perché avevo cercato ho iniziato a cercare casa molto presto
 TO080	ahah
 TO071	eh perché sapevo già di dover studiare qui quindi
-TO080	chiaramente da quest' anno ti sei trasferita
+TO080	chiaramente da quest'anno ti sei trasferita
 TO080	mi sono mossa prima
-TO071	no mi sono trasferita nel duemila diciassette quindi l' anno scorso
+TO071	no mi sono trasferita nel duemila diciassette quindi l'anno scorso
 TO080	ah ah
-TO071	perché ho iniziato a frequentare l' anno scorso qui in università
+TO071	perché ho iniziato a frequentare l'anno scorso qui in università
 TO080	okay
-TO071	e mi sono trasferita da settembre di quell' anno
+TO071	e mi sono trasferita da settembre di quell'anno
 TO080	e quindi sono due anni che stai qui a torino
 TO071	sì
 TO071	in quella stessa casa
@@ -40,7 +40,7 @@ TO071	un anno e qualche mese
 TO080	e zona centro dove
 TO071	e zona vanchiglia
 TO071	ah okay
-TO080	cioè quindi viviamo vicini anch' io sto a a vanchiglia
+TO080	cioè quindi viviamo vicini anch'io sto a a vanchiglia
 TO071	sì
 TO080	cioè corso belgio quelle parti lì
 TO071	no proprio
@@ -50,13 +50,13 @@ TO071	okay
 TO071	e sentiamo quindi vivi sa sola
 TO071	ehm
 TO071	vanchiglia ecco ti voglio chiedere
-TO080	com' è vanchiglia cosa ne pensi di vanchiglia te lo chiedo perché nei diversi annunci come dire è una zona parecchio gettonata mo non tanto via vanchiglia quanto più che altro zona vanchiglia vanchiglia
+TO080	com'è vanchiglia cosa ne pensi di vanchiglia te lo chiedo perché nei diversi annunci come dire è una zona parecchio gettonata mo non tanto via vanchiglia quanto più che altro zona vanchiglia vanchiglia
 TO071	mh
-TO080	tu invece che ci vivi che cosa te n' è parso
-TO071	allora sì è comoda come zona perché sei vicina a tutto quello che hai bisogno nel mio caso è l' università perché studiando qui
+TO080	tu invece che ci vivi che cosa te n'è parso
+TO071	allora sì è comoda come zona perché sei vicina a tutto quello che hai bisogno nel mio caso è l'università perché studiando qui
 TO071	ah ah
 TO080	chiaro
-TO080	e però anche proprio il centro le le piazze principali c' è quello che penso siano le piazze principali di torino perché non essendo di qui
+TO080	e però anche proprio il centro le le piazze principali c'è quello che penso siano le piazze principali di torino perché non essendo di qui
 TO080	e
 TO080	e poi anche se hai bisogno di
 TO080	minimarket ci sono
@@ -64,7 +64,7 @@ TO071	e se hai bisogno invece di rosticcerie ortofru~ di tutto praticamente
 TO080	okay quindi ti trovi bellamente
 TO071	sì
 TO071	xxx
-TO080	e all' università vieni a piedi
+TO080	e all'università vieni a piedi
 TO071	sì
 TO080	chiaramente
 TO071	sì si
@@ -89,12 +89,12 @@ TO071	e e niente quindi ho d~ deciso di spostarmi
 TO071	okay ehm
 TO071	come dire u~ b~
 TO071	prima di scegliere torino nel senso
-TO071	tu conoscevi un po' l' università di milano o
-TO080	nel senso c' è stato un momento in cui sei stata magari un po' in dubbio o hai scelto torino così a
+TO071	tu conoscevi un po' l'università di milano o
+TO080	nel senso c'è stato un momento in cui sei stata magari un po' in dubbio o hai scelto torino così a
 TO080	no allora io mi sono informata su tutti i corsi possibili immaginabili a a milano
 TO080	anche a bergamo perché comunque bergamo
 TO080	è relativamente vicino
-TO080	e sperando di trovare qualcosa però non c' era e a dire la verità io ho scoperto torino
+TO080	e sperando di trovare qualcosa però non c'era e a dire la verità io ho scoperto torino
 TO071	dopo venezia
 TO080	esatto
 TO080	perché pensavo di dover andare a venezia e non avevo voglia perché
@@ -114,7 +114,7 @@ TO080	fondamentalmente
 TO071	no lo tiene verdi il corso
 TO080	ah verdi
 TO071	sì
-TO080	e ma come mai sta passione per l' ebraico cioè non è molto comune per gli appassionati di lingue diciamo
+TO080	e ma come mai sta passione per l'ebraico cioè non è molto comune per gli appassionati di lingue diciamo
 TO071	mh non lo so perché per caso mi è capitato di guardare dei film israeliani
 TO080	ahah
 TO071	e ero lì che ascoltavo la lingua e proprio mi piaceva
@@ -125,7 +125,7 @@ TO071	ho deciso
 TO071	ottimo
 TO071	ehm okay quindi questa è la triennale quindi tu sei iscritta a
 TO080	a orientali xxx
-TO071	e lingue e culure dell' asia e dell' africa il nome ufficiale
+TO071	e lingue e culure dell'asia e dell'africa il nome ufficiale
 TO071	vediamo vabbè abbiamo parlato della casa di torino nel quartiere di torino
 TO080	parliamo della tua casa di origine
 TO071	okay
@@ -136,8 +136,8 @@ TO080	di una tua collega
 TO071	si
 TO071	qui che hai incontrato al negozio
 TO080	ma vabbè
-TO071	e sì è nomepaese
-TO080	è nomepaese
+TO071	e sì è @nomepaese
+TO080	è @nomepaese
 TO071	che adesso è in provincia di monza e della brianza
 TO080	mhmh
 TO080	prima era sotto milano
@@ -158,7 +158,7 @@ TO080	quindi
 TO071	la casa è una villetta a schiera
 TO080	mhmh
 TO080	ehm
-TO071	è la diciamo l' ultima di queste villette a schiera quindi abbiamo anche un giardino abbastanza ampio e
+TO071	è la diciamo l'ultima di queste villette a schiera quindi abbiamo anche un giardino abbastanza ampio e
 TO080	mhmh
 TO080	e non mh allora
 TO071	no non è grande
@@ -167,7 +167,7 @@ TO071	non è un paesino non è neanche una città
 TO080	okay
 TO080	enorme almeno
 TO071	e noi comunque stiamo un po' più verso la periferia se si può definire periferia
-TO080	quanti abitanti fa
+TO080	quanti abitanti fa @nomepaese?
 TO071	e ventitremila
 TO080	okay comunque una cittadina
 TO080	una cittadina sì
@@ -180,7 +180,7 @@ TO080	tutta quella zona
 TO080	partendo forse dal milanese fino ad arrivare effettivamente in brianza
 TO080	ehm è composta da
 TO080	città più o meno piccole paesini
-TO080	confinanti uno con l' altro
+TO080	confinanti uno con l'altro
 TO071	ogni
 TO080	attaccati proprio
 TO071	attaccate
@@ -188,12 +188,12 @@ TO080	okay
 TO071	e quindi non sai dove inizia uno e finisce un altro a meno che non vedi un cartello
 TO080	certo
 TO080	quindi noi effettivamente siamo in periferia ma a dir la verità
-TO071	confiniamo quasi confiniamo con l' altro paese
+TO071	confiniamo quasi confiniamo con l'altro paese
 TO080	che si chiama
 TO071	eh varedo
 TO071	varedo
 TO071	okay
-TO080	quindi villetta a schiera ultima di di una serie ehm ma vivi c' è nel senso tu sei figlia unica hai sorelle fratelli
+TO080	quindi villetta a schiera ultima di di una serie ehm ma vivi c'è nel senso tu sei figlia unica hai sorelle fratelli
 TO071	no un fratello più grande
 TO080	fratello più grande avete camere separate o
 TO071	sì
@@ -208,15 +208,15 @@ TO080	ahah
 TO071	però io non me lo ricordo perché ci siamo trasferiti che io avevo due anni
 TO080	ah okay
 TO071	quindi io
-TO080	sempre a nomepaese
-TO071	sempre a nomepaese sì
+TO080	sempre a @nomepaese
+TO071	sempre a @nomepaese sì
 TO071	okay
 TO071	ehm
-TO080	poi se non ricordo male l' altra volta parlavamo tu mi hai detto di avere eh origini pugliesi
+TO080	poi se non ricordo male l'altra volta parlavamo tu mi hai detto di avere eh origini pugliesi
 TO071	no
 TO080	gius~ no
 TO080	no
-TO071	era l' altra ragazza
+TO071	era l'altra ragazza
 TO071	ah okay
 TO080	calabresi tu
 TO080	no
@@ -274,38 +274,38 @@ TO071	e s~
 TO080	sti sassi cioè come sono sono belli ne vale la pena non ne vale la pena
 TO080	sono belli
 TO071	è veramente bello
-TO071	perché perché io c' è conosco persone che ci sono andate e sono tornate come dire illuminate
+TO071	perché perché io c'è conosco persone che ci sono andate e sono tornate come dire illuminate
 TO080	a matera altre invece dicevano so buchi nella roccia
 TO080	no allora
 TO080	perché eh ehm
-TO071	la città praticamente era vabbè c' è la parte anche nuova
+TO071	la città praticamente era vabbè c'è la parte anche nuova
 TO080	ah ah
 TO080	per quello anche interessante
 TO071	e
 TO080	il contrasto dici te
 TO080	sì
-TO080	e c' è la parte invece antica
+TO080	e c'è la parte invece antica
 TO080	dove
 TO080	ci vivono
 TO080	ancora
 TO080	ovvio nelle proprio nelle grotte non ci vivono più
 TO071	per questioni igieniche
-TO080	certo
-TO071	xxx
+TO071	certo
 TO080	anche di sicurezza suppongo
+TO080	xxx
 TO080	sì sì
 TO080	poi hanno
 TO080	se non ricordo male
 TO080	le hanno
-TO080	rimossi
-TO071	dalle loro case
+TO071	rimossi
 TO080	mhmh
+TO080	dalle loro case
 TO071	ehm negli anni cinquanta sessanta
 TO080	e gli hanno dato case popolari sicuro
 TO071	non lo so
 TO080	spero
-TO080	spero anch' io
-TO080	eh e poi c' è anche
+TO080	spero anch'io
+TO080	eh e poi c'è anche
 TO071	il belvedere
 TO080	ah ah
 TO080	mh
@@ -316,16 +316,16 @@ TO071	okay
 TO071	ehm
 TO071	e insomma quindi sti sassi ste case che mh
 TO071	cioè
-TO071	perché non ti dico che cosa ma perché t~ t' hanno colpito le ragioni
-TO080	per cui t~ t' hanno colpito
+TO071	perché non ti dico che cosa ma perché t~ t'hanno colpito le ragioni
+TO080	per cui t~ t'hanno colpito
 TO080	eh
-TO080	non lo so
+TO071	non lo so
+TO080	ah okay
 TO071	cioè è qualcosa di caratteristico pies~
-TO071	ah okay
 TO080	ah ah
 TO080	io non avevo
 TO071	non ho mai visto da nessun altra parte
-TO080	mah anche perché forse non c' è da nessun altra parte
+TO080	mah anche perché forse non c'è da nessun altra parte
 TO080	eh
 TO071	esatto
 TO071	okay
@@ -335,7 +335,7 @@ TO071	ehm vediamo un po'
 TO071	mettendo a
 TO071	ah hai visssuto domanda preliminare hai vissuto in altre citttà più o meno grandi
 TO080	ne~ ne~ ne~ nella tua vita
-TO071	no eh ho sempre vissuto a nomepaese
+TO071	no eh ho sempre vissuto a @nomepaese
 TO080	okay
 TO080	prima di
 TO071	torino
@@ -345,7 +345,7 @@ TO071	no
 TO071	ehm
 TO071	torino
 TO071	un po' come matera ma per altre ragioni è un po' amata e odiata da chi ci va a vivere no
-TO071	non c' è un sentimento
+TO071	non c'è un sentimento
 TO080	neutro nei confronti di torino
 TO071	sì
 TO080	il tuo qual è
@@ -362,7 +362,6 @@ TO080	passare da una cittadina a una città così grande
 TO080	per me è stato non dico uno shock però quasi
 TO080	e abituarmi anche ai rumori
 TO080	perché par~
-TO071	
 TO080	lascia perdere
 TO071	perché anche il fatto di vivere in una villetta
 TO080	mhmh
@@ -374,10 +373,10 @@ TO080	anche di notte sento i clacson alle tre di notte
 TO080	poi qua esagerano coi clacson quindi
 TO071	e però è bella
 TO071	ti capisco benissimo perché io arrivo da un paese che
-TO080	come dire è un paese anche rispetto a nomepaese fa settecento abitanti il mio paese
+TO080	come dire è un paese anche rispetto a @nomepaese fa settecento abitanti il mio paese
 TO080	eh sì
 TO071	molto più piccolo
-TO080	anch' io casetta isolata eccetera eccetera sono venuto qui non ho dormito per due mesi
+TO080	anch'io casetta isolata eccetera eccetera sono venuto qui non ho dormito per due mesi
 TO071	eh
 TO071	poi ti a bitui
 TO080	ti devi abituare
@@ -425,7 +424,7 @@ TO071	torino me la sono più vissuta da sola
 TO071	è più grande chiaramente
 TO071	eh okay perfetto
 TO071	quindi come dire
-TO080	non mi pare che tu abbia una preferenza o ce l' hai
+TO080	non mi pare che tu abbia una preferenza o ce l'hai
 TO071	forse torino ma proprio per la questione del muoversi
 TO071	forse torino
 TO080	mh okay
@@ -434,14 +433,14 @@ TO071	okay benissimo
 TO071	ehm da quando sei a torino hai mh sei stata a qualche non lo so a qualche evento avvenimento o
 TO080	cose particolari o non particolari
 TO071	ehm
-TO080	pure l' ultima mi puoi di' eh xxx
+TO080	pure l'ultima mi puoi di' eh xxx
 TO071	beh sono stata a un concerto
 TO080	mh di chi
 TO071	e mirkoilcane
 TO080	non lo conosco
-TO080	eh all' hiroshima mon amour
+TO071	eh all'hiroshima mon amour
+TO080	okay
 TO071	quindi fuori dal centro
-TO071	okay
 TO080	sì
 TO071	per trovarlo
 TO080	quindi sei andata e sei tornata di sera
@@ -455,10 +454,10 @@ TO080	ah okay
 TO080	e
 TO071	beh comunque era un venerdì sera
 TO080	mh
-TO080	quindi c' era gente in giro
+TO080	quindi c'era gente in giro
 TO080	ero abbastanza tranquilla tutto sommato
-TO071	fosse stato durante la settimana cioè proprio toh il martedì c' è sarebbe stata un' altra cosa
-TO071	e senti te lo chiedo l' hiroshima com' è perché c' è un concerto dei modena city ramblers
+TO071	fosse stato durante la settimana cioè proprio toh il martedì c'è sarebbe stata un'altra cosa
+TO071	e senti te lo chiedo l'hiroshima com'è perché c'è un concerto dei modena city ramblers
 TO071	a fine dicembre
 TO071	al quale vorrò andare
 TO080	e quindi visto che ci sei stata se mi racconti un po' la location ci arrivo preparato
@@ -472,12 +471,12 @@ TO080	ah okay
 TO080	e
 TO080	quindi allora
 TO080	mirkoeilcane è abbastanza sconosciuto
-TO071	quindi non non c' era da fare fila né niente però se vuoi diciamo stare un po' avanti mi sa che ti conviene andare prima
+TO071	quindi non non c'era da fare fila né niente però se vuoi diciamo stare un po' avanti mi sa che ti conviene andare prima
 TO080	andare prima
 TO071	i modena
 TO071	e invece de~ dentro come servizi come
 TO080	anche acustica magari non so xxx
-TO080	no l' acustica è buona
+TO080	no l'acustica è buona
 TO080	devo dire veramente buona
 TO080	ehm
 TO071	servizi
@@ -495,16 +494,15 @@ TO071	siamo lì
 TO071	okay
 TO071	okay
 TO071	mh
-TO080	okay abbiamo parlato della casa abbiamo parlato della città parliamo dell' università parliamo a questo punto
+TO080	okay abbiamo parlato della casa abbiamo parlato della città parliamo dell'università parliamo a questo punto
 TO071	sì
 TO071	tu sei qui da un anno
 TO071	sei
-TO080	eh immagino che qualche corso l' avrai seguito
+TO080	eh immagino che qualche corso l'avrai seguito
 TO071	sì
 TO071	no
 TO080	non ti chiedo degli esami non ti preoccupare
-TO071	
-TO080	eh vabbè anche perché tu rossi l' hai fatto io no quindi
+TO080	eh vabbè anche perché tu rossi l'hai fatto io no quindi
 TO071	eh beh
 TO071	ne avresti uno in più di me
 TO080	e che cosa hai seguito da
@@ -513,9 +511,9 @@ TO071	ovviamente ho seguito lingue
 TO080	mhmh
 TO080	quindi lingua e cultura ebraica
 TO080	eh lingua araba
-TO071	e ho seguito storia dell' ebraismo questo l' anno scorso
+TO071	e ho seguito storia dell'ebraismo questo l'anno scorso
 TO080	mhmh
-TO080	storia dell' ebraismo
+TO080	storia dell'ebraismo
 TO071	filologia semitica sempre con rossi
 TO080	mhmh
 TO080	e
@@ -532,7 +530,7 @@ TO080	esattamente
 TO080	e linguistica
 TO071	ehm generale
 TO080	con chi
-TO071	eh gialli l' anno scorso
+TO071	eh gialli l'anno scorso
 TO080	ah
 TO071	e adesso invece sto facendo dialettologia italiana
 TO080	con chi
@@ -544,11 +542,11 @@ TO080	fantastico
 TO071	fantastico
 TO080	e ah aspetta stai facendo linguistica italiana
 TO080	dia~ sì dialettologia
-TO071	e l' ho scelto io come esame
+TO071	e l'ho scelto io come esame
 TO071	ah
 TO071	dialettologia
 TO071	e di che state parlando cioè te lo ricordi più o meno per~ xx
-TO071	perché io pensa ho fatto l' iterz~ ho fatto dialettologia e poi l' ho anche iterato
+TO071	perché io pensa ho fatto l'iterz~ ho fatto dialettologia e poi l'ho anche iterato
 TO080	però non so se lui continua a cambiare adesso
 TO071	no penso che il programma sia più o meno lo stesso perché ho visto quello degli anni scorsi
 TO080	quello
@@ -565,22 +563,22 @@ TO080	ah ah okay
 TO080	ehm
 TO071	poi non mi ricordo neanche più il bello è che stavo studiando ieri sera quindi
 TO071	ah va bene no vabbè vabbè
-TO080	l' importante è ricordarsele all' esame certe cose
+TO080	l'importante è ricordarsele all'esame certe cose
 TO071	esatto
 TO071	ehm e fra isomma tutti questi che hai seguito
 TO080	puoi fare tranquillamente nomi tanto metteremo i beep come non detto
 TO071	fantastico
 TO071	ehm
-TO071	qual è quello non dico che t' è piaciuto però che t' ha sorpreso di più
+TO071	qual è quello non dico che t'è piaciuto però che t'ha sorpreso di più
 TO071	nel senso
 TO071	a me molti corsi sono in realtà piaciuti
 TO071	non perché mi piaceva il contenuto
 TO071	ma perché mi hanno detto
 TO080	cose che assolutamente non mi aspettavo
 TO071	mh
-TO071	quando poi me l' hanno dette
+TO071	quando poi me l'hanno dette
 TO071	quello che ti ha sorpreso positivamente di più e quello che
-TO080	t' ha fatto un po' più schifo rispetto agli altri
+TO080	t'ha fatto un po' più schifo rispetto agli altri
 TO080	allora
 TO080	ehm
 TO071	beh ovviamente i corsi di rossi
@@ -595,11 +593,11 @@ TO080	mhmh
 TO080	devo dirlo è letteratura italiana
 TO080	però ma è
 TO080	è anche legato al fatto che dopo cinque anni di liceo a fare letteratura italiana
-TO080	venire qua all' università sperando di fare qualcosa di nuovo
+TO080	venire qua all'università sperando di fare qualcosa di nuovo
 TO071	e ti ritrovi a dover fa~ fare di nuovo letteratura italiana per forza
 TO071	okay
-TO080	e l' hai dato sto esame o continui a rimandarlo rimandarlo
-TO071	no no l' ho dato
+TO080	e l'hai dato sto esame o continui a rimandarlo rimandarlo
+TO071	no no l'ho dato
 TO080	ah te lo sei tolto quindi
 TO071	eh sì
 TO071	e eh hai fatto benissimo
@@ -617,12 +615,11 @@ TO071	cioè
 TO071	assoluta ruota libera
 TO071	sia un aneddoto su
 TO080	cazzo di mosca
-TO071	
 TO071	sia un aneddoto su
 TO080	aspettiamo che passano
 TO071	mhmh
-TO071	c' è un po' di rumore
-TO071	mamma mia più brutta quella gonna non ce l' aveva
+TO071	c'è un po' di rumore
+TO071	mamma mia più brutta quella gonna non ce l'aveva
 TO071	ehm
 TO071	su una casa
 TO080	okay
@@ -637,7 +634,7 @@ TO071	va bene anche su vicini
 TO080	assolutamente
 TO080	perché
 TO080	io e la mia famiglia
-TO071	la sfiga coi vicini ce l' abbiamo mi sa nel di enne a
+TO071	la sfiga coi vicini ce l'abbiamo mi sa nel di enne a
 TO080	okay
 TO080	eh perché
 TO080	vabbè nel~ abbiamo avuto
@@ -648,41 +645,41 @@ TO080	e dici quelli te li devi tenere perché la casa
 TO071	eh
 TO071	vabbè
 TO080	vai continua continua
-TO071	eh perché la casa l' hai comprata e devi stare lì e vabbè
+TO071	eh perché la casa l'hai comprata e devi stare lì e vabbè
 TO080	certo
-TO080	poi mi sono trasferita qua a torino
-TO071	i miei vicini
+TO071	poi mi sono trasferita qua a torino
 TO080	altri problemi
+TO080	i miei vicini
 TO080	che ho trovato
 TO080	erano
 TO080	a un altro livello
 TO071	perché erano giovani
 TO080	mhmh
-TO080	comunque avranno trentacinque quarant' anni
+TO080	comunque avranno trentacinque quarant'anni
 TO080	e mi hanno fatto disperare per il primo periodo
-TO080	tra l' altro devono trasferirsi
+TO080	tra l'altro devono trasferirsi
 TO080	quindi
 TO071	non è che dici
-TO080	ma trentacinque quarant' anni sono una coppia o erano
+TO080	ma trentacinque quarant'anni sono una coppia o erano
 TO080	sono una coppia con bambini piccolissimi
 TO071	piccolini
 TO080	okay
 TO080	e no praticamente
 TO080	il fatto è che avevo mh
-TO071	nell' appartamento dove sto non c' è una presa d'aria
+TO071	nell'appartamento dove sto non c'è una presa d'aria
 TO080	cioè non ci sono finestre
 TO080	no no le finestre ci sono ma bisognava fare un buco
 TO071	praticamente
 TO080	va bene
 TO071	ehm coi vicini dividiamo un appartamento eh un appartamento un corridoio in comune
 TO080	mhmmh
-TO080	e poi c' è una porta
+TO080	e poi c'è una porta
 TO080	però sono appartamenti divisi non è che
 TO080	e il buco a~ mh andava fatto per forza su questo corridoio in comune
 TO080	per questioni proprio di di sicurezza
-TO080	perché se c' era una fuga di di gas
+TO080	perché se c'era una fuga di di gas
 TO080	ehm
-TO071	questa presa d'aria permetteva di en~ far entrare l' aria così che io poteessi comunque respirare e non crepare
+TO071	questa presa d'aria permetteva di en~ far entrare l'aria così che io poteessi comunque respirare e non crepare
 TO080	vivere okay
 TO080	esatto
 TO080	e praticamente questi vicini han fatto di tutto
@@ -692,32 +689,32 @@ TO071	perché io non non potessi fare questo buco
 TO080	e perché
 TO071	perché dicevano che poi gli odori della cucina si sarebbero riversati sul corridoio
 TO080	ecco
-TO071	cosa che non è vera perché quel buco serve a far entrare l' aria e non farla ucire
+TO071	cosa che non è vera perché quel buco serve a far entrare l'aria e non farla ucire
 TO080	okay certo chiaro
 TO080	e quindi vabbè varie storie proprio litigate eh
 TO080	e alla fine
 TO080	la moglie
-TO080	mi ha dato il permesso
-TO071	proprio per iscritto un messaggio okay te te lo te lo faccio fare così
+TO071	mi ha dato il permesso
 TO080	ah stra~
+TO080	proprio per iscritto un messaggio okay te te lo te lo faccio fare così
 TO080	quindi il giorno dopo è venuto un signore per fare il buco perché io da sola non potevo farlo
 TO071	e mentre stava per era lì col trapano ehm stava iniziando ehm a bucare
 TO080	a bucare
-TO080	è uscito il marito incavolato dicendo no voi non potete fare queste cose e dobbiamo aspettare l' amministratore un putiferio infernale
+TO080	è uscito il marito incavolato dicendo no voi non potete fare queste cose e dobbiamo aspettare l'amministratore un putiferio infernale
 TO080	e poi alla fine siamo riusciti a farlo però comunque
 TO071	in mezzo ci sono state altre litigate
 TO071	mah strano perché in genere
 TO080	scusa eh ma so~ sono le mogli quelle più stronze
-TO080	sì siì
+TO071	sì siì
+TO080	in generale
 TO071	ma sono esauriti tutti e due
-TO071	in generale
-TO080	ah okay
+TO071	ah okay
+TO080	xxx
 TO071	quindi
-TO071	xxx
 TO080	saranno i bambini saranno
 TO071	no i bambini sono dei tesori e quello eh eran loro
 TO071	okay
-TO071	ehm sentiamo invece per quanto riguarda l' università
+TO071	ehm sentiamo invece per quanto riguarda l'università
 TO080	hai tipo visto momenti strani cose strane
 TO080	eh
 TO071	a dir la verità no
@@ -735,23 +732,23 @@ TO071	può essere
 TO080	dici costituiamo una nicchia
 TO071	esatto
 TO071	oh
-TO071	ehm invece i vicini mh quelli che avevi a casa tu a nomepaese
+TO071	ehm invece i vicini mh quelli che avevi a casa tu a @nomepaese
 TO080	gli originari
 TO080	no quelli vabbè hanno proprio problemi un figlio grande che non è mai stato curato
 TO080	e cioè proprio non
 TO071	ha una malattia mentale è sempre stata nascosta come cosa
 TO080	mhmhmh
 TO080	e
-TO080	e il che non l' ha aiutato
+TO080	e il che non l'ha aiutato
 TO080	e quindi ha avuto anche scatti d'ira
 TO080	ed è successo per esempio
 TO071	noi essendo villetta a schiera abbbiamo una parte in comune
 TO080	certo
 TO080	e
-TO080	c' era un muretto in comune e sopra questo muro c' era un vaso
+TO080	c'era un muretto in comune e sopra questo muro c'era un vaso
 TO080	a un certo punto dopo vabbè ha avuto una crisi
 TO080	il figlio è uscito
-TO080	ha spinto il vaso tra l' altro non un vasetto piccolo
+TO080	ha spinto il vaso tra l'altro non un vasetto piccolo
 TO080	un
 TO080	un vaso di quelli proprio grandi e pesanti
 TO071	che sarà pesato sui cento chili
@@ -759,19 +756,19 @@ TO080	quelli color terracotta se non di terracotta
 TO080	sì con dentro
 TO071	sì di terracotta con dentro la terra
 TO080	minchia
-TO080	l' ha preso
-TO071	e l' ha buttato era nostro e l' ha buttato dalla nostra parte
-TO080	ho capito
-TO071	quindi è questa la situazione
-TO080	fortuna che non c' era nesuno sotto xxx
-TO080	no non c' era nesssuno
+TO080	l'ha preso
+TO071	e l'ha buttato era nostro e l'ha buttato dalla nostra parte
+TO071	ho capito
+TO080	fortuna che non c'era nesuno sotto xxx
+TO080	quindi è questa la situazione
+TO080	no non c'era nesssuno
 TO080	ehm
-TO080	c' era in casa solo la signora delle pulizie
+TO080	c'era in casa solo la signora delle pulizie
 TO071	che si è spaventata a morte sentendo il rumore
 TO071	chiaro
 TO080	okay animali invece ne hai mai avuti
 TO071	sì ho un cagnolino un barboncino
-TO080	lì a nomepaese
+TO080	lì a @nomepaese
 TO071	sì
 TO080	quanti anni ha
 TO071	mh quasi dieci
@@ -779,13 +776,12 @@ TO080	quasi dieci è vecchiotto come si chiama
 TO080	è vecchiotto
 TO071	marley
 TO080	ma~ marley
-TO071	
 TO080	come marley di io e marley
 TO071	si
 TO080	tendenzialmente
 TO071	ero piccola han fatto scegliere a me il nome io avevo letto il libro e
 TO080	ahah
-TO071	ero innamorata di quel cane quindi l' abbiamo chiamato marley
+TO071	ero innamorata di quel cane quindi l'abbiamo chiamato marley
 TO080	ma il cane come dire lo lo senti cioè sei tu la mamma o è tua mamma la mamma del
 TO071	entrambe praticamente no essendo molto affettuoso siamo
 TO080	ah okay
@@ -811,7 +807,7 @@ TO080	cerco di rimandare il più possibile quindi
 TO080	sono cose che posso fare essendo da sola
 TO080	poi ovviamente ci sono momenti in cui
 TO080	se mi dici certo se ci fosse un coinquilino potrei chiacchierare così però non è detto
-TO071	perché se avessi un coinquilino magari non c' andrei neanche d'accordo
+TO071	perché se avessi un coinquilino magari non c'andrei neanche d'accordo
 TO071	sì esatto esatto
 TO071	e nella situazione tipica okay
 TO071	mettiamola così
@@ -826,20 +822,20 @@ TO071	sì
 TO080	sei sola a casa tua
 TO071	sì
 TO080	che fai
-TO080	ehm dipende cosa c' è da fare
+TO080	ehm dipende cosa c'è da fare
 TO071	allora se ci sono delle xxx
 TO080	hai finto anche tutte le commissioni di casa
 TO080	finito le commissioni di casa
 TO080	eh o mi metto a guardare un film o a leggere un libro o proprio a non fare nulla
-TO080	a dir la verità sono anche abituata a stare da sola
-TO071	perché anche a casa magari capitava
+TO071	a dir la verità sono anche abituata a stare da sola
 TO080	mhmh
+TO080	perché anche a casa magari capitava
 TO080	ehm che i miei genitori fossero fuori mio fratello pure fuori
 TO080	io ero da sola
 TO080	ma anche per metà giornata una giornata intera
 TO080	quindi non è una cosa che proprio
 TO071	estranea completamente
-TO071	non rifuggi l' ozio
+TO071	non rifuggi l'ozio
 TO080	diciamo
 TO071	no esatto
 TO071	okay
@@ -867,7 +863,7 @@ TO080	alla vikings insomma molto ste cose un po' romanzate
 TO080	esatto
 TO071	anche ehm molto romanzato però è fatta bene
 TO080	mhmh
-TO071	quello è l' importante anche a livello di costumi di scenografie tutto
+TO071	quello è l'importante anche a livello di costumi di scenografie tutto
 TO080	okay
 TO071	e le musiche le musiche sono
 TO080	ti è piaciuta la musica ti piace
@@ -918,11 +914,11 @@ TO071	ehm va bene ultimissima domanda ti faccio una domanda
 TO080	anzi guarda faccio una cosa che non ho mai fatto perché manca un minuto e quindi
 TO071	okay
 TO071	faccio una cosa alla marzullo
-TO080	si faccia una domanda e si dia una risposta
+TO071	si faccia una domanda e si dia una risposta
+TO080	e che duri un minuto e mezzo non t'hanno mai fatto sta cosa eh te la faccio io te la faccio
+TO080	no
 TO071	no
-TO080	e che duri un minuto e mezzo non t' hanno mai fatto sta cosa eh te la faccio io te la faccio
-TO071	no
-TO080	e neanch' io l' ho mai fatta dai su deh
+TO080	e neanch'io l'ho mai fatta dai su deh
 TO071	e mi mette ansia
 TO071	ma non ti deve mettere ansia fatti fatti una domanda qualsiasi come se se ti stessi esaminando
 TO080	fatti una domanda scema e datti una risposta ancora più scema
@@ -939,7 +935,7 @@ TO080	quaranta secondi che
 TO071	proprio
 TO080	che finisce questa cosa
 TO071	il minuto
-TO080	sì esatto così io c' ho la coscienza a posto
+TO080	sì esatto così io c'ho la coscienza a posto
 TO071	esatto
 TO071	ciao e a natale che fai
 TO080	torni dai tuoi
@@ -947,7 +943,7 @@ TO071	torno a casa
 TO080	capodanno non lo sai
 TO071	capodanno in teoria stiamo organizzando qualcosa però dato che deve venire gente dal resto d'italia
 TO080	e che cazzo quanti siete
-TO071	eh cioè c' abbiamo amici perché siamo tutti che ci ritroviamo al paesino giù e quindi
+TO071	eh cioè c'abbiamo amici perché siamo tutti che ci ritroviamo al paesino giù e quindi
 TO080	quindi in basilicata
 TO071	sì
 TO071	lo fai
@@ -962,7 +958,7 @@ TO080	io ogni anno cambio
 TO071	perché a volte con le mie amiche a volte con i miei cugini quelli là quindi
 TO080	ah
 TO071	mi trovo sempre in posti diversi
-TO080	e quest' anno c' è già qualcosa in ballo diciamo
+TO080	e quest'anno c'è già qualcosa in ballo diciamo
 TO071	speriamo
 TO080	che cosa dovrebbe essere
 TO080	ma niente andare da un mio amico che abita
