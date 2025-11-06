@@ -13,7 +13,6 @@ TO059	qual è la vostra abitazione se avete coinquilini se mh state sole se vi p
 TO071	okay
 TO060	cominciamo con nadia
 TO060	con nadia o con lavinia
-TO071	
 TO059	co' lavinia sì ho detto io ho detto nadia ma ho indicato lavinia va bene cominciamo con lavinia
 TO059	okay
 TO071	allora io ho vissuto il il primo anno di università quindi comunque sempre nel duemila e diciotto
@@ -25,13 +24,13 @@ TO059	ehm s~ ero praticamente alla fine di nomeluogo quindi sotto
 TO059	sotto superga
 TO071	il xx era bellissimo cioè sono stata benissimo
 TO071	ah okay
-TO071	c' arrivavi
-TO059	c' andavi a superga o comunque mh okay
+TO071	c'arrivavi
+TO059	c'andavi a superga o comunque mh okay
 TO071	ci so' andata a superga sì col trenino chiaramente a piedi no perché era troppo freddo
 TO059	col trenino chiaramente
 TO071	e però mh no era carino lì eh la casa era vabbè in un condominio
 TO059	okay
-TO071	mh tipo all' ultimo piano
+TO071	mh tipo all'ultimo piano
 TO059	mhm
 TO071	eh infatti bella vista a destra la mole a sinistra superga era bellissimo
 TO059	okay ma quindi vedevi la mole da là
@@ -40,9 +39,9 @@ TO071	perché
 TO059	ah okay perché io non la vedo
 TO071	perché ero molto alta comunque
 TO059	mh ah okay
-TO071	ehm ce l' avevo proprio dritto per dritto quindi si vedeva bene
+TO071	ehm ce l'avevo proprio dritto per dritto quindi si vedeva bene
 TO059	mhm
-TO059	e mh vabbè ho vissuto in una singola c' erano anche c' avevo altre due coinquiline
+TO059	e mh vabbè ho vissuto in una singola c'erano anche c'avevo altre due coinquiline
 TO059	che ho cambiato
 TO059	due volte
 TO071	non per scelta mia
@@ -50,23 +49,22 @@ TO059	per scelta loro
 TO071	sì
 TO059	eri il problema eri tu forse
 TO071	eh fo~ probabilmente
-TO059	
-TO059	e no vabbè comunque vabbè la casa ehm era carina c' erano due stanze la singola la mia singola
-TO071	e poi un' altra che era la doppia
+TO059	e no vabbè comunque vabbè la casa ehm era carina c'erano due stanze la singola la mia singola
+TO071	e poi un'altra che era la doppia
 TO059	aha
-TO071	bagno cucina non c' era salotto cosa che m' è mancata molto
+TO071	bagno cucina non c'era salotto cosa che m'è mancata molto
 TO059	okay
 TO059	e era un po' troppo lontano
 TO071	per questo ho cambiato adesso sto a san salvario
 TO059	okay
 TO059	molto
 TO071	molto meglio nel senso che è più vicino molto più carino il problema è che dalla mia finestra
-TO059	c' è la movida
-TO071	c' è una movida pazzesca e quindi per dormire è un po' complesso
+TO059	c'è la movida
+TO071	c'è una movida pazzesca e quindi per dormire è un po' complesso
 TO071	maledetta
 TO059	ah io ho vissuto in entrambi i quartieri negli ultimi tre anni okay
 TO071	mhm
-TO059	eh in che zone più o men~ allora la prima me l' ha detta vanchiglietta giusto
+TO059	eh in che zone più o men~ allora la prima me l'ha detta vanchiglietta giusto
 TO071	sì vanchiglietta ma proprio fondo
 TO071	vanchigl~ io sto più vicino rispetto a te san salvario invece
 TO059	che zona
@@ -75,38 +73,37 @@ TO059	aha o~ okay e quindi proprio
 TO071	ehm vabbè ma proprio sopra nomeluogo praticamente proprio sopra sopra
 TO059	ah okay okay quindi silenzio tipo il cimitero monumentale diciamo
 TO059	sì
-TO071	e però mh la casa mi piace molto di più perché c' è il salotto
+TO071	e però mh la casa mi piace molto di più perché c'è il salotto
 TO059	aha
-TO071	e c' è una cucina grande a me piace cucinare quindi erano due cose fondamentali
+TO071	e c'è una cucina grande a me piace cucinare quindi erano due cose fondamentali
 TO059	ma sei pure brava o ti piace e basta
 TO060	no secondo me so' brava
 TO071	è brava è brava
 TO059	okay va bene
-TO060	
 TO059	confermo
-TO071	e sempre in una singola con un' altra ragazza quindi sono due singole insomma è molto più tranquillo e gestibile
+TO071	e sempre in una singola con un'altra ragazza quindi sono due singole insomma è molto più tranquillo e gestibile
 TO071	okay
 TO059	chiaramente quando esci esci a san salvario no manco pe' niente
-TO071	mh sì in realtà sì dipende cioè l' anno scorso sono uscita molto in santa giulia
+TO071	mh sì in realtà sì dipende cioè l'anno scorso sono uscita molto in santa giulia
 TO059	mhm
-TO071	però m' ha ricordato un sacco venezia
+TO071	però m'ha ricordato un sacco venezia
 TO059	ah okay
-TO059	nel senso che ho fatto l' università a venezia era la stessa cosa quando uscivi mh quindi una piazza
+TO059	nel senso che ho fatto l'università a venezia era la stessa cosa quando uscivi mh quindi una piazza
 TO059	mille bar intorno e tu che stai lì e
 TO071	poi in realtà non fai niente e quindi per me è un po' noioso dopo un po'
 TO071	okay
 TO071	e okay ehm
 TO059	allora passiamo un atttimo a nadia poi ti chiedo altre cose
 TO071	mhm
-TO060	stessa domanda dove vivi e com' è la casa dove sei vissuta nella tua esperienza a torino eccetera eccetera
+TO060	stessa domanda dove vivi e com'è la casa dove sei vissuta nella tua esperienza a torino eccetera eccetera
 TO071	ma io vivo sempre a san salvario quindi
 TO060	okay
 TO071	da oramai quattro anni quindi
 TO060	mh
 TO060	mi sono piazzata lì non mi sposto più
-TO060	però molto più su di lei in nomeluogo
-TO071	dove c' è anche
-TO060	uh c' ho vissu~ no io ho vissuto in in ho vissuto che è tipo la parallela cioè no è la l~ l' incrocia tipo
+TO071	però molto più su di lei in nomeluogo
+TO060	uh c'ho vissu~ no io ho vissuto in in @nomeluogo ho vissuto che è tipo la parallela cioè no è la l~ l'incrocia tipo
+TO060	dove c'è anche
 TO060	mh sì è la parallela
 TO060	sì sì sì
 TO071	e quindi in realtà è molto più tranquillo però non ci sono locali quindi io la notte dormo però
@@ -115,28 +112,27 @@ TO060	esatto
 TO071	la casa è carina e siamo in due in realtà ho una coinquilina
 TO060	aha
 TO071	è anche lei nadia quindi due nadia in casa
-TO060	colle è che cos' è il tuo paese la tua città d'origine
+TO060	colle è che cos'è il tuo paese la tua città d'origine
 TO071	no nadia
 TO060	ah nadia ah okay di colle ho capito
 TO060	due nadia
-TO071	
 TO060	quindi due nadia va bene
 TO060	esattamente
 TO071	camere singole perché io camera doppia
 TO060	ah okay
 TO060	no
-TO071	cucina bagno piccolino no una casa carina anch' io vedo la mole però
+TO071	cucina bagno piccolino no una casa carina anch'io vedo la mole però
 TO060	ah benissimo
 TO071	punto positivo dal balcone vedo la mole
 TO071	allora ci metti un po' di più per arrivare qua che prendi il diciotto
 TO060	per arrivar~
 TO071	sì o il diciotto un quarto d'ora
 TO060	mhm
-TO071	o a piedi quando mi sento sportiva mezz' ora o in bici in bici ci metto un quarto d'ora sì e no
+TO071	o a piedi quando mi sento sportiva mezz'ora o in bici in bici ci metto un quarto d'ora sì e no
 TO060	ah okay minchia
 TO071	quindi xxx
 TO071	benissimo
-TO059	pure tu lavinia vieni col diciotto qui all' università
+TO059	pure tu lavinia vieni col diciotto qui all'università
 TO059	sì o il diciotto o a piedi
 TO071	oggi ad esempio è stata un po' un problema perché erano tutti stracolmi
 TO059	mhm
@@ -168,16 +164,15 @@ TO071	quindi
 TO060	ora nadia ci parla di corso monte cucco casa e quartiere e coinquilini
 TO071	eh
 TO059	e lavinia poi di venezia dai dai va bene più
-TO060	
-TO071	non c' è molto da dire perché era lontanissimo tipo quaranta minuti di mezzi
-TO060	aha
+TO071	non c'è molto da dire perché era lontanissimo tipo quaranta minuti di mezzi
+TO071	aha
+TO060	cioè dove sta questo monte cucco
 TO071	perché a piedi
-TO071	cioè dove sta questo monte cucco
 TO060	cioè geograficamente
 TO060	è la fermata della metro monte grappa
 TO071	è oltre il politecnico
 TO071	mì
-TO060	lì c' ho lavorato
+TO060	lì c'ho lavorato
 TO060	eh
 TO071	fa confine tra san paolo e pozzo strada praticamente
 TO071	mamma mia
@@ -188,13 +183,12 @@ TO071	mhm
 TO060	mi~
 TO060	bellissima
 TO060	arredata vecchia però era tenuta bene
-TO060	solo che veramente cioè dovevo prendere la metro poi cambiare prendere l' autobus a porta susa per arrivare
+TO060	solo che veramente cioè dovevo prendere la metro poi cambiare prendere l'autobus a porta susa per arrivare
 TO071	quindi cioè troppo troppo
 TO060	'n ti co non ti conveniva scendere a porta nuova
-TO071	sì ma in entrambi i casi comunque dovevo fare due cambi e ci mettevo più di mezz' ora
+TO071	sì ma in entrambi i casi comunque dovevo fare due cambi e ci mettevo più di mezz'ora
 TO060	è ugual~
-TO071	la zona non c' è niente cioè proprio niente
-TO060	
+TO071	la zona non c'è niente cioè proprio niente
 TO071	esci la sera dopo le dieci e forse trovi la signora col cagnolino e basta
 TO060	okay
 TO060	oltre al fatto che è un quartiere
@@ -202,7 +196,7 @@ TO059	penso per la maggior parte di torinesi
 TO060	mhm
 TO071	e ho trovato difficoltà a socializzare
 TO071	sì no vabbè eh diciamolo pure senza vergogna sono penso
-TO060	più sociali i quarteri pieni d'extracomunitari che quelli pieni di torinesi cioè non è che cioè c' è u~
+TO060	più sociali i quarteri pieni d'extracomunitari che quelli pieni di torinesi cioè non è che cioè c'è u~
 TO071	ma anche solo di italiani di altre parti d'italia cioè
 TO060	ah sì okay questo pure
 TO060	ho notato che per un anno stessa tabaccheria stesso copisteria stesso tutto e più di un saluto
@@ -211,15 +205,14 @@ TO060	niente
 TO071	s~ trasferita a san salvario le grandi chiacchierate con chiunque cioè proprio
 TO071	okay
 TO071	esatto
-TO071	e poi c' avete il valentino vicino cioè
-TO060	chiaramente c' andate o vi fa schifo il valentino no
+TO071	e poi c'avete il valentino vicino cioè
+TO060	chiaramente c'andate o vi fa schifo il valentino no
 TO059	mhm
 TO060	no io x ogni tanto ci siamo pure state insieme
 TO059	sì
 TO060	poi vabbè è bello cioè ti fai la passeggiata quando è bel tempo
 TO059	se non straripa il po
 TO071	no
-TO071	
 TO071	okay
 TO059	torniamo a lavinia e andiamo a venezia
 TO059	ah io sono stata a venezia
@@ -236,31 +229,30 @@ TO059	mhm
 TO059	e ho vissuto con altre tre ragazze ero in doppia
 TO059	una doppia con una mia amica mh di casa insomma quindi
 TO059	con una persona conosciuta e le altre due ragazze
-TO059	una non c' era praticamente mai perché
-TO071	faceva sempre su e giù per casa e l' altra marchigiana una tipa stranissima
+TO059	una non c'era praticamente mai perché
+TO071	faceva sempre su e giù per casa e l'altra marchigiana una tipa stranissima
 TO071	mhm
 TO060	eh strana perché
-TO059	
 TO059	ehm
-TO059	è strana perché io che c~ io sono una persona molto paziente eppure c' ho avuto veramente
+TO059	è strana perché io che c~ io sono una persona molto paziente eppure c'ho avuto veramente
 TO071	gravi problemi di pazienza
 TO059	di pazienza
-TO059	ehm quindi vabbè due anni così e poi l' ultimo anno ho cam~ ho cambiato casa perché
+TO059	ehm quindi vabbè due anni così e poi l'ultimo anno ho cam~ ho cambiato casa perché
 TO071	comunque il posto non era dei migliori
 TO059	mhm
-TO059	eh sono andata u~ un po' praticamente in centro a mestre diciamo in un' altra casa dove anche qui di nuovo c' era il salotto cosa che io cerco sempre
-TO059	ehm ero sempre in una doppia con un' altra ragazza
-TO059	e erano due doppie quindi sì io e un' altra ragazza e altre due
+TO059	eh sono andata u~ un po' praticamente in centro a mestre diciamo in un'altra casa dove anche qui di nuovo c'era il salotto cosa che io cerco sempre
+TO059	ehm ero sempre in una doppia con un'altra ragazza
+TO059	e erano due doppie quindi sì io e un'altra ragazza e altre due
 TO059	di cui
 TO071	una un posto letto cambiato anche lì mille volte
 TO071	okay
 TO059	quindi eravate in quattro là
 TO059	eravamo in quattro sì
 TO059	e vabbè un bagno e una cucina molto molto piccola però
-TO071	in realtà era bello perché c' era un un terrazzo tutto intorno alla casa
+TO071	in realtà era bello perché c'era un un terrazzo tutto intorno alla casa
 TO059	mhm ah
 TO059	quindi era molto sì
-TO059	proprio diciamo casa casa sen~ te la sentivi proprio come casa mentre l' altra si vedeva che era stata adibita xx
+TO059	proprio diciamo casa casa sen~ te la sentivi proprio come casa mentre l'altra si vedeva che era stata adibita xx
 TO071	più per gli studenti era un po' messa là così
 TO059	okay quindi quattro donne e un bagno solo mi stai dicendo
 TO071	sì
@@ -269,7 +261,6 @@ TO071	esatto
 TO071	okay quindi abbiamo finito il periodo universitario andiamo un po' più indietro
 TO071	ditemi dove avete vissuto in gioventù
 ???	quando boh n~ ma no che mo siete vecchie insomma in in adolescenza okay forse adolescenti non lo siete
-TO071	
 TO059	più forse non lo so
 TO071	madonna direi di no
 TO060	okay
@@ -279,7 +270,7 @@ TO071	che immagino sia quella della famiglia suppongo ditemi voi
 TO060	ritorniamo a nicole ritorniamo
 TO071	e io periodo di scuola nelle marche
 TO060	mhm
-TO071	a nomepaese che è in provincia di ancona un po' più a sud
+TO071	a @nomepaese che è in provincia di ancona un po' più a sud
 TO060	mh
 TO071	paese minuscolo facciamo forse quattromila persone se va bene
 TO060	okay
@@ -289,36 +280,36 @@ TO060	su una collinetta a strapiombo sul mare quindi devo dire che senza patriot
 TO071	se la mia famiglia si spostasse io lì probabilmente non tornerei
 TO060	okay
 TO071	però è molto bello come come paese ecco
-TO071	il problema è che il mare è l' adriatico
+TO071	il problema è che il mare è l'adriatico
 TO060	questo è il problema
 TO071	sì però da noi è bello perché è tipo il gargano
 TO071	ti capisco p~
 TO071	ah okay
 TO060	ah
-TO071	cioè insieme al gargano è l' unica parte di costa che rocciosa con la montagna dietro il verde quindi molto bello
+TO071	cioè insieme al gargano è l'unica parte di costa che rocciosa con la montagna dietro il verde quindi molto bello
 TO060	okay
-TO060	solo che poi nel paese non c' è un cavolo da fare cioè in estate va bene vai al bar fa caldo
+TO060	solo che poi nel paese non c'è un cavolo da fare cioè in estate va bene vai al bar fa caldo
 TO071	d'inverno
 TO071	niente la morte
-TO060	ma senti ci passa l' autostrada lì vicino quindi se tu invece che sta sul mare
+TO060	ma senti ci passa l'autostrada lì vicino quindi se tu invece che sta sul mare
 TO071	e la a quattordici se x se mi ricordo
-TO071	sì chiaro no no volevo sapere quanto vicino perché io l' ho fatta un miliardo di volte quell' autostrada okay
+TO071	sì chiaro no no volevo sapere quanto vicino perché io l'ho fatta un miliardo di volte quell'autostrada okay
 TO060	quindi mi ricordo tutte le uscite a memoria mi ricordo
 TO071	e siamo vicino a metà tra ancona sud
 TO060	mhm
 TO071	e quella x dopo mi pare che è loreto
 TO060	loreto okay
 TO071	sì però in entrambi i casi sono un quarto d'ora di macchina
-TO071	finalmente l' hanno
+TO071	finalmente l'hanno
 TO060	ah
 TO071	dieci minuti un quarto d'ora più o meno non è proprio attaccata
 TO060	okay e lì ha fatto anche le superiori in ques~ o le o le hai fatte a ancona no proprio lì in
 TO071	ah no no a scuola ad ancona
 TO060	okay
-TO060	no nel paese c' è elementari e medie
+TO060	no nel paese c'è elementari e medie
 TO060	basta
 TO060	superiori ti devi ti devi spostare andavo ad ancona
-TO071	con un' ora e passa di viaggio tutte le mattine e tutti i pomeriggi
+TO071	con un'ora e passa di viaggio tutte le mattine e tutti i pomeriggi
 TO060	mì
 TO060	però
 TO071	quando vivi nel paesino per forza
@@ -326,20 +317,20 @@ TO060	che devi fa' eh
 TO071	passa solo un autobus e quindi quello è
 TO060	al mattino uno alle due
 TO060	sì più o meno passa solo per le scuole
-TO071	cioé per and~ arrivare a scuola alle otto prendevo l' autobus alle sette
+TO071	cioé per and~ arrivare a scuola alle otto prendevo l'autobus alle sette
 TO071	okay
 TO071	e la casa invece
 TO060	la casa
 TO060	casa una villetta a schiera mh su tre
 TO071	no beh due piani forse perché ha la tavernetta piano terra e primo piano
 TO060	mhm
-TO060	condiviso camera con mio fratello fino ai vent' anni
+TO060	condiviso camera con mio fratello fino ai vent'anni
 TO071	poi quando io mi son trasferita a torino lui ha deciso di cambiare camera e andare al piano di sotto
-TO060	e quindi è rimasta vuota fammi capì occupata per vent' anni da due persone
+TO060	e quindi è rimasta vuota fammi capì occupata per vent'anni da due persone
 TO060	sì adesso è rimasta vuoto
-TO071	e adesso è vuota cioè ci sono io quando torno ma torno tre volte all' anno quindi
+TO071	e adesso è vuota cioè ci sono io quando torno ma torno tre volte all'anno quindi
 TO060	okay
-TO071	poi c' è la camera dei miei bagno x al primo piano
+TO071	poi c'è la camera dei miei bagno x al primo piano
 TO060	mhm
 TO060	salotto cucina e un altro bagno a piano terra
 TO071	e bagno e la nuova camera di mio fratello al
@@ -365,10 +356,10 @@ TO071	addirittura
 TO060	mhm
 TO060	e siamo leggermente
 TO071	più sopra al monte rispetto al paese
-TO060	e chiaramente 'sta frazione c' avra pure un nome suppongo
-TO071	
-TO071	okay
-TO060	quindi sarebbe di com' è che è nomeluogo in provincia di ancona
+TO060	e chiaramente 'sta frazione c'avra pure un nome suppongo
+TO071	@nomeluogo
+TO071	@nomeluogo okay
+TO060	quindi sarebbe @nomeluogo di com'è che è nomeluogo in provincia di ancona
 TO071	esattamente
 TO060	okay perfetto perfetto
 TO060	però insomma
@@ -409,23 +400,23 @@ TO071	tavernetta come la chiama nadia
 TO071	vabbè
 TO059	e te come la chiami invece
 TO059	che
-TO059	ma in realtà noi l' abbiamo sempre chiamato studio perché mia mamma ci tiene cioè ci teneva il pianoforte
+TO071	ma in realtà noi l'abbiamo sempre chiamato studio perché mia mamma ci tiene cioè ci teneva il pianoforte
+TO059	aha
 TO071	quindi lei studiava lì perché non la sentiva nessuno però ora è diventata una tavernetta
-TO071	aha
 TO059	okay
 TO059	col quindi col letto il cucinino eccetera
 TO059	ehm
 TO059	vabbè mh il primo piano è enorme è un salotto con la cucina tutto diciamo open space
-TO059	quindi e c' è un bagnetto e poi al secondo piano ci sono le camere
+TO059	quindi e c'è un bagnetto e poi al secondo piano ci sono le camere
 TO059	anche io ho vissuto cioè ho dormito praticamente nella stessa camera di mia sorella per
 TO071	parecchi anni poi quando lei ha cominciato ad essere più grande se ne voleva andare e non voleva più avermi sì
 TO059	ma è più grande di te o più piccola
 TO059	lei è più grande
 TO059	e quindi vabbè le hanno
 TO059	fatto diciamo una stanza
-TO059	poi c' è quindi c' abbiamo due camere singole cioè mh da letto insomma e poi c' è quella matrimoniale che ha il bagno
-TO059	dentro la camera e infatti era un problema perché c' è una stanza che
-TO071	tutt' ora è ancora di cemento
+TO059	poi c'è quindi c'abbiamo due camere singole cioè mh da letto insomma e poi c'è quella matrimoniale che ha il bagno
+TO059	dentro la camera e infatti era un problema perché c'è una stanza che
+TO071	tutt'ora è ancora di cemento
 TO059	mhm
 TO059	penso da quando hanno fatto la casa quindi pas~ cioè almeno venticinque anni
 TO071	che doveva essere un bagno
@@ -438,22 +429,21 @@ TO059	mh eh
 TO060	e quindi sì e quella è ancora è rimasta tutta cementata sì sì
 TO059	così
 TO059	ehm
-TO059	e niente invece l' altra casa che è praticamente la casa de~ de~ della compagna di papà
+TO059	e niente invece l'altra casa che è praticamente la casa de~ de~ della compagna di papà
 TO071	una casa popolare molto semplice
 TO059	okay
-TO059	cucina salotto e c' era sì la camera diciamo matrimoniale e un' altra
+TO059	cucina salotto e c'era sì la camera diciamo matrimoniale e un'altra
 TO059	che avevamo
-TO059	mh cioè c' avevamo messo sì un letto a castello
+TO059	mh cioè c'avevamo messo sì un letto a castello
 TO059	e due bagni ma comunque molto molto piccola
 TO071	eh quindi niente sì
 TO071	okay
-TO071	ehm vi faccio un' ultima domandina
+TO071	ehm vi faccio un'ultima domandina
 ???	prima di chiudere che poi arriverà xxx me pare a 'sto punto
-TO071	
 TO071	no se mi volete dire invece due parole su le case dei nonni mo' dei nonni
 TO071	la situazione può esse~ molto varia per chiunque però se
 TO071	non lo so
-TO071	c' avete esperienze di case di nonni se
+TO071	c'avete esperienze di case di nonni se
 TO071	vi va di descrivermele dove stanno quanto distano
 TO071	non tutte eh le case di tutti i nonni fino alla xx okay
 TO071	e partiamo da nadia
@@ -474,7 +464,7 @@ TO060	quadri antichi
 TO060	la camera soprattutto dove ci mettevano a dormire era
 TO071	quando i miei zii e mio papà erano piccoli era la era una camera cioè la camera di mia zia
 TO060	mhm
-TO071	però poi è diventata lo studio di di mio nonno e c' hanno appeso quadri di guerra
+TO071	però poi è diventata lo studio di di mio nonno e c'hanno appeso quadri di guerra
 TO060	ah okay
 TO060	quindi io dormivo sotto quadri con sangue gente squartata
 TO060	e lo odiavo profondamente cioè proprio dormire lì per me era un trauma
@@ -482,7 +472,7 @@ TO060	però la casa era bella cioè una
 TO071	una villetta grande con tre stanze da letto due bagni
 TO060	mhm
 TO060	cucina sala da pranzo
-???	un altro salottino un' altra cucina non lo so neanch' io quanta roba avevano
+???	un altro salottino un'altra cucina non lo so neanch'io quanta roba avevano
 TO071	xxx
 TO060	vabbè insomma un bel casone diciamo no
 TO060	sì no la parte più bella però era il giardino perché era tutto intorno alla casa
@@ -493,14 +483,14 @@ TO060	ah bello
 TO060	mia ma~ mia nonna prima di pranzo prima di cena dava la ciotola a qualcuno vai a raccogliere la frutta
 TO071	e la si portava in tavola
 TO060	okay
-TO071	quindi c' erano prugne mele fichi di tutto
+TO071	quindi c'erano prugne mele fichi di tutto
 TO060	stava vicino al mare
 TO060	quella era la parte bella
 TO071	ma ostuni è vicino al mare però non lo raggiungi a piedi
 TO060	mhm
 TO071	devi comunque prender la macchina fare dieci minuti
 TO060	ah okay
-TO059	un quarto d'ora se c' è traffico perché poi la strada è una e fanno tutti quella ad andare
+TO059	un quarto d'ora se c'è traffico perché poi la strada è una e fanno tutti quella ad andare
 TO059	chiaro
 TO071	chiaro
 TO071	ehm
@@ -510,25 +500,23 @@ TO071	vicino a orvieto
 TO059	mhm
 TO059	sempre provincia di terni
 TO059	in realtà non non stanno proprio diciamo nel paese ma un po' più fuori
-TO059	è una strada che va verso corbara praticamente c' è solo casa loro
-TO059	
+TO059	è una strada che va verso corbara praticamente c'è solo casa loro
 TO071	e anche sì e anche questa è una villa io mh in realtà ho sempre pensato fosse un po' una fattoria
 TO059	ah okay
-TO071	cioè io l' ho sempre chiamata una fattoria perché era così che
+TO071	cioè io l'ho sempre chiamata una fattoria perché era così che
 TO059	ma avevate gli animali almeno ah okay
 TO059	sì
 TO059	e infatti no ma mh adesso ovviamente ne hanno molti di meno e
 TO059	cioè invecchiando se ne occupano un po' di meno però prima
 TO071	era veramente una fattoria cioè animali e orto frutta eccetera
-TO059	che animali c' erano
+TO059	che animali c'erano
 TO071	eh
-TO059	che animali c' erano
-TO059	mamma mia di tutto ehm non lo so c' hanno avuto
+TO059	che animali c'erano
+TO059	mamma mia di tutto ehm non lo so c'hanno avuto
 TO071	agnelli mon~ montoni addirittura
 TO059	aha
 TO059	mi ricordo era tipo una cosa più alta di me pericolosissimo oltretutto
 TO060	eh no è vero i piccioni
-TO071	
 TO059	mhm
 TO060	e le oche le anatre con lo stagnetto proprio molto molto carino vabbè poi
 TO059	scusa i piccioni allevati
@@ -538,8 +526,7 @@ TO059	nella gabbia
 TO059	certo
 TO071	cioè la piccionara la chiamano i nonni
 TO060	esatto
-TO059	
-TO059	c' è la piccionara dove ci stanno varie gabbie che in realtà poi sono aperte loro girano lì s' accoppiano
+TO059	c'è la piccionara dove ci stanno varie gabbie che in realtà poi sono aperte loro girano lì s'accoppiano
 TO071	poi vanno ritornano
 TO059	i piccioni li allevano sì sì
 TO059	sì sì
@@ -547,19 +534,16 @@ TO060	e sono buonissimi
 TO059	davvero
 TO059	te lo giuro
 TO071	sono buonissimi
-TO060	io non c' ho mai avuto il coraggio però chi se li magna dice che
+TO060	io non c'ho mai avuto il coraggio però chi se li magna dice che
 TO059	e non lo so infatti
 TO059	no raga sono so' buonissimi
 TO060	cioè mangiateli provateli veramente
-TO071	
-TO071	
-TO059	insomma xx perché a torino ce n' è x
+TO059	insomma xx perché a torino ce n'è x
 TO071	meh vabbè quelli di torino magari no e è quello il problema tanti pe~ pensano
 TO071	per poter
 TO060	eh
-TO059	
 TO059	che cioè tu prendi un piccione per strada e te lo mangi
-TO060	ovviamente cioè non è così insomma nel senso penso che rischi veramente di andare all' ospedale quindi no
+TO060	ovviamente cioè non è così insomma nel senso penso che rischi veramente di andare all'ospedale quindi no
 TO071	xxx
 TO059	invece no
 TO071	ehm vabbè comunque ecco appunto anche qui la famosissima tavernetta
@@ -582,18 +566,18 @@ TO059	non non ci sta mai nessuno perché stanno sempre in questa
 TO071	tavernetta
 TO059	okay
 TO059	e però sì il bello della casa è appunto tutto tutto intorno perché sì ci s~
-TO059	c' è di tutto cioè animali
+TO059	c'è di tutto cioè animali
 TO059	ehm anche
 TO059	poi un sacco di alberi da frutta hanno
 TO059	e
-TO071	è bello io l' ho sempre vista come una fattoria da piccola adesso è un po' dismessa però
+TO071	è bello io l'ho sempre vista come una fattoria da piccola adesso è un po' dismessa però
 TO059	aha
 TO071	comunque
 TO059	quando la erediterai fra quarant'anni dopo la la rimetti a nuovo tu
 TO071	se no però è bella molto bella
 TO071	e va bene mh
 TO071	mi volete raccontare un aneddoto e poi vi lascio
-TO071	di tutte 'ste case che m' avete di cui m' avete parlato no
+TO071	di tutte 'ste case che m'avete di cui m'avete parlato no
 TO071	sarà successo qualcosa boh di di particolare di
 TO059	boh di paranormale di
 TO071	più che di paranormale vabbè io mh mh in realtà è una cosa che m~ mi hanno raccontato perché credo che neanche ero stata concepita
@@ -603,7 +587,7 @@ TO059	aha
 TO059	e eh mia sorella è rimasta traumatizzata perché lui fa ha sempre fatto degli scherzi
 TO071	un po' anche e forse troppo scioccanti
 TO059	ok~
-TO059	e quindi lei è rimasta traumatizzata da mh un giorno e il lo il giorno della befana l' epifania
+TO059	e quindi lei è rimasta traumatizzata da mh un giorno e il lo il giorno della befana l'epifania
 TO059	no sai la befana scende dal camino tutte 'ste cose e mio padre si era inventato una roba assurda aveva registrato
 TO059	eh con un registratore ehm delle domande
 TO059	a cui poi seguivano delle pause
@@ -611,7 +595,7 @@ TO059	per dar modo a mia sorella di rispondere
 TO059	con una voce tipo da strega
 TO059	e ha infilato questo re~ registratore sul nel camino
 TO059	con i rumori anche cioè delle cose
-TO059	e quindi niente poi l' ha azionato e
+TO059	e quindi niente poi l'ha azionato e
 TO059	e mia madre mio padre e mia sorella si sono messi davanti al camino a ascoltare questa cosa ovviamente tu
 TO059	non pensi cioè non penserai mai che o tua madre o tuo padre perché
 TO071	sono lì con te
@@ -626,13 +610,11 @@ TO059	sbizzarrito con degli scherzi maschere che pendevano da dalle scale cioè
 TO071	sì veramente un po'
 TO059	okay comu~ come dire ha sprimentato la vena artistica pure su su sulla famiglia
 TO059	sì sì sì lui molto
-TO060	
 TO071	tua sorella in particolare
-TO059	
 TO071	sì porella
 TO059	poi avendo traumatizzato lei chiaramente tu tu sei scampata a certe cose perché
 TO059	sì no io sono scampata cioè tutti i miei cugini e tutti i più piccoli sono stati praticamente massacrati
-TO071	mentre io l' ho scampata un po'
+TO071	mentre io l'ho scampata un po'
 TO059	okay
 TO071	per fortuna
 TO060	nadia tu invece mi che che mi vuoi dire dai di tutti i coinquilini ch~ no tu non hai avuto tanti coinquilini mi hai detto stai con la tua
@@ -642,11 +624,10 @@ TO071	perché poi sto in casa da quattro anni ma nel frattempo ho avuto quattro 
 TO071	il q~ q~ q~ quello che hai odiato di più chi è stato
 TO060	dai me lo puoi dire e e perché dimmi il perché
 TO060	allora come diceva lei prima
-TO071	eh io ho tanta pazienza ma veramente un' infinità di pazienza
+TO071	eh io ho tanta pazienza ma veramente un'infinità di pazienza
 TO060	okay
 TO071	e il primo anno quando ero in corso monte cucco ho avuto questa coinquilina che
 TO060	corso monte cucco io ero là a lavorare a corso monte cucco vai vai
-TO060	
 TO071	che era un po' particolare del tipo boh
 TO060	aha
 TO060	le cose vanno in quel preciso punto spostate anche solo un po' più a destra o a sinistra era una tragedia
@@ -657,13 +638,13 @@ TO071	eh se una sera viene che ti costa tanto sta in camera mia non lo vedi non 
 TO060	appunto
 TO060	e ci siam fatti la litigata sul fatto che secondo lei
 TO060	se lui era a casa non poteva andare in bagno di notte se si doveva alzare perché aveva il pigiama trasparente
-TO071	e la mattina non poteva fare la doccia perché c' era lui
+TO071	e la mattina non poteva fare la doccia perché c'era lui
 TO060	ma perché la porta del bagno fammi capì no si chiudeva eh
 TO060	certo che si chiudeva no non aveva senso questa discussione cioè è stata proprio
 TO071	il culmine di una marea di cose poi perché era un po'
 TO060	un po' particolare diciamo xx
 TO060	sì si chiudeva in camera al buio tutto il giorno a~
-TO060	nel periodo che io ero lì tra l' altro è cambiata anche una coinquilina
+TO060	nel periodo che io ero lì tra l'altro è cambiata anche una coinquilina
 TO071	e praticamente questa nuova ragazza non ha saputo il suo nome per settimane perché la vedeva così poco che
 TO071	ma che davvero
 TO060	ma si chiudeva in camera al buio perché
@@ -680,8 +661,8 @@ TO060	mh sarà per quello cioè può darsi
 TO060	però era proprio no questi fiori puzzano sembra di stare in un cimitero
 TO071	quando mia mamma mi aveva mandato i fiori per il compleanno
 TO060	ma
-TO059	e o entrava in cucina c' è puzza di bruciato e nessuno aveva bruciato niente cioè
-TO060	s~ c' aveva le sue fisime diciamo
+TO059	e o entrava in cucina c'è puzza di bruciato e nessuno aveva bruciato niente cioè
+TO060	s~ c'aveva le sue fisime diciamo
 TO060	sì
 TO071	un tantinello sì era molto particolare
 TO071	okay
