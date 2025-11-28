@@ -7,12 +7,12 @@
 	- [Verticalized content](#verticalized-content)
 	- [Data access](#data-access)
 	- [How to cite](#how-to-cite)
+	- [Changelog](#changelog)
 
 The ParlaTO corpus is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
-
-The ParlaTO corpus was funded by the CRT Foundation.
+The ParlaTO corpus was was funded by the CRT Foundation ("ParlaTO - Corpus del Parlato di Torino" project).
 
 It consists of about 50 hours of interactions collected in Turin and its province through semi-structured interviews. The interviews, conducted between 2018 and 2020, involved 88 speakers with different origins, ages, education levels, and types of occupation, and addressed personal life experiences in the city (study, work, leisure activities, retirement, memories of the past, etc.).
 
@@ -132,6 +132,15 @@ in your references
 ```
 
 If you use the ParlaBO module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
+
+## Changelog
+
+* 2025-10-07 v1.0.0
+  * First release
+
+* 2025-11-28 v1.1.0
+  * Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
+  * Minor fix: empty turns in linear-orthographic were removed
 
 -----
 
