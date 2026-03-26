@@ -255,7 +255,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 26-2	TO071	26	è	è	linguistic	none	_	_	_	_	_	_
 26-3	TO071	26	il	il	linguistic	none	_	_	_	_	_	_
 26-4	TO071	26	nuovo	nuovo	linguistic	none	_	_	_	_	_	_
-26-5	TO071	26	sindaco,	sindaco	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+26-5	TO071	26	sindaco,	sindaco	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 26-6	TO071	26	di	di	linguistic	none	_	_	_	_	_	_
 26-7	TO071	26	che:	che	linguistic	none	_	End=100.219	2x1	_	_	_
 27-0	TO073	27	eh	eh	linguistic	none	_	Begin=100.228	_	_	_	_
@@ -1226,7 +1226,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 101-3	TO071	101	com'	com'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 101-4	TO071	101	era	era	linguistic	none	_	_	_	_	_	_
 101-5	TO071	101	la	la	linguistic	none	_	_	_	_	_	_
-101-6	TO071	101	casa,	casa	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+101-6	TO071	101	casa,	casa	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 101-7	TO071	101	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 101-8	TO071	101	ma	ma	linguistic	none	_	_	_	_	_	_
 101-9	TO071	101	era	era	linguistic	none	_	_	_	_	_	_
@@ -1653,7 +1653,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 132-7	TO071	132	[che	che	linguistic	none	_	_	_	_	_	0-3(33)
 132-8	TO071	132	ha	ha	linguistic	none	_	_	_	_	_	0-2(33)
 132-9	TO071	132	fatto	fatto	linguistic	none	_	_	_	_	_	0-5(33)
-132-10	TO071	132	jack,	jack	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-4(33)
+132-10	TO071	132	jack,	jack	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-4(33)
 132-11	TO071	132	ah	ah	linguistic	none	_	_	_	_	_	0-2(33)
 132-12	TO071	132	okay]	okay	linguistic	none	_	End=510.74	_	_	_	0-4(33)
 133-0	TO073	133	[sì	sì	linguistic	none	_	Begin=509.203	_	_	_	0-2(33)
@@ -1940,7 +1940,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 158-14	TO071	158	in	in	linguistic	none	_	_	_	_	_	_
 158-15	TO071	158	via	via	linguistic	none	_	_	_	_	_	_
 158-16	TO071	158	gaudenzio	gaudenzio	linguistic	none	_	_	_	_	_	_
-158-17	TO071	158	ferrari,	ferrari	linguistic	none	Intonation=weakly_rising	End=592.639	_	_	_	_
+158-17	TO071	158	ferrari,	ferrari	linguistic	none	Intonation=WeaklyRising	End=592.639	_	_	_	_
 159-0	TO073	159	[eh]	eh	linguistic	none	_	Begin=592.638	_	_	_	0-2(?)
 159-1	TO073	159	e	e	linguistic	none	_	_	_	_	_	_
 159-2	TO073	159	sopratutto	sopratutto	linguistic	none	_	_	_	_	_	_
@@ -2789,7 +2789,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 237-10	TO071	237	avevi	avevi	linguistic	none	_	_	_	_	_	_
 237-11	TO071	237	dei	dei	linguistic	none	_	_	_	_	_	_
 237-12	TO071	237	coinquilini	coinquilini	linguistic	none	_	_	_	_	_	_
-237-13	TO071	237	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+237-13	TO071	237	no,	no	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 237-14	TO071	237	uno	uno	linguistic	none	_	_	_	_	_	_
 237-15	TO071	237	era	era	linguistic	none	_	_	_	_	_	_
 237-16	TO071	237	jack	jack	linguistic	none	_	_	_	_	_	_
@@ -5296,7 +5296,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 491-16	TO071	491	puoi	puoi	linguistic	none	_	_	_	_	_	_
 491-17	TO071	491	dire	dire	linguistic	none	_	_	_	_	_	_
 491-18	TO071	491	un	un	linguistic	none	_	_	_	_	_	_
-491-19	TO071	491	segreto,	segreto	linguistic	none	Intonation=weakly_rising	End=1612.0	_	_	_	_
+491-19	TO071	491	segreto,	segreto	linguistic	none	Intonation=WeaklyRising	End=1612.0	_	_	_	_
 492-0	TO073	492	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1608.474|End=1610.386	_	_	_	_
 493-0	TO071	493	[che	che	linguistic	none	_	Begin=1612.0	_	_	_	0-3(104)
 493-1	TO071	493	eh	eh	linguistic	none	_	_	_	_	_	0-2(104)
@@ -5448,7 +5448,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 512-0	TO073	512	[esatto	esatto	linguistic	none	_	Begin=1660.37	_	_	_	0-6(105)
 512-1	TO073	512	ah	ah	linguistic	none	_	_	_	_	_	0-2(105)
 512-2	TO073	512	si	si	linguistic	none	_	_	_	_	_	0-2(105)
-512-3	TO073	512	può,	può	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-3(105)
+512-3	TO073	512	può,	può	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-3(105)
 512-4	TO073	512	okay	okay	linguistic	none	_	_	_	_	_	0-4(105)
 512-5	TO073	512	poi	poi	linguistic	none	_	_	_	_	_	0-3(105)
 512-6	TO073	512	si	si	linguistic	none	_	_	_	_	_	0-2(105)
@@ -5573,7 +5573,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 526-13	TO073	526	mo]lto	molto	linguistic	none	_	End=1697.944	_	_	_	0-2(108)
 527-0	TO071	527	[sono	sono	linguistic	none	_	Begin=1695.885	_	_	_	0-4(108)
 527-1	TO071	527	più	più	linguistic	none	_	_	_	_	_	0-3(108)
-527-2	TO071	527	gravi,	gravi	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-5(108)
+527-2	TO071	527	gravi,	gravi	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-5(108)
 527-3	TO071	527	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(108)
 527-4	TO071	527	sì]	sì	linguistic	none	_	End=1697.386	_	_	_	0-2(108)
 528-0	TO073	528	(a)desso	adesso	linguistic	none	_	Begin=1698.197	_	_	0-1(0)	_
@@ -5690,9 +5690,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 538-8	TO073	538	come	come	linguistic	none	_	_	_	Fast=0-4	_	_
 538-9	TO073	538	fare<	fare	linguistic	none	_	End=1725.142	_	Fast=0-4	_	_
 539-0	TO073	539	>cosa	cosa	linguistic	none	_	Begin=1725.142	_	Fast=0-4	_	_
-539-1	TO073	539	faccio,	faccio	linguistic	none	Intonation=weakly_rising	_	_	Fast=0-6	_	_
+539-1	TO073	539	faccio,	faccio	linguistic	none	Intonation=WeaklyRising	_	_	Fast=0-6	_	_
 539-2	TO073	539	cosa	cosa	linguistic	none	_	_	_	Fast=0-4	_	_
-539-3	TO073	539	faccio,	faccio	linguistic	none	Intonation=weakly_rising	_	_	Fast=0-6	_	_
+539-3	TO073	539	faccio,	faccio	linguistic	none	Intonation=WeaklyRising	_	_	Fast=0-6	_	_
 539-4	TO073	539	la	la	linguistic	none	_	_	_	Fast=0-2	_	_
 539-5	TO073	539	nascondo	nascondo	linguistic	none	_	_	_	Fast=0-8	_	_
 539-6	TO073	539	nelle	nelle	linguistic	none	_	_	_	Fast=0-5	_	_
