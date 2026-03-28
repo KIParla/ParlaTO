@@ -1,0 +1,63 @@
+name: Release Module
+
+# Run this workflow manually after merging the version-bump PR to main.
+# It reads the version from CITATION.cff and automates tag creation and
+# GitHub Release publication. The notify-collection workflow fires automatically
+# once the release is published.
+
+on:
+  workflow_dispatch:
+    inputs:
+      notes:
+        description: 'Release notes / changelog (optional)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Read version from CITATION.cff
+        id: version
+        run: |
+          VERSION=$(grep '^version:' CITATION.cff | awk '{print $2}')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Check tag does not already exist
+        run: |
+          if git ls-remote --tags origin "refs/tags/v${{ steps.version.outputs.version }}" | grep -q .; then
+            echo "Tag v${{ steps.version.outputs.version }} already exists. Aborting."
+            exit 1
+          fi
+
+      - name: Create and push tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -a "v${{ steps.version.outputs.version }}" \
+            -m "Release v${{ steps.version.outputs.version }}"
+          git push origin "v${{ steps.version.outputs.version }}"
+
+      - name: Create GitHub Release
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const notes = `${{ github.event.inputs.notes }}`;
+            await github.rest.repos.createRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag_name: `v${{ steps.version.outputs.version }}`,
+              name: `v${{ steps.version.outputs.version }}`,
+              body: notes || 'See CITATION.cff for full citation information.',
+              draft: false,
+              prerelease: false,
+            });
