@@ -1,17 +1,13 @@
 name: Release Module
 
 # Run this workflow manually after merging the version-bump PR to main.
-# It reads the version from CITATION.cff and automates tag creation and
-# GitHub Release publication. The notify-collection workflow fires automatically
-# once the release is published.
+# It reads the version from CITATION.cff, creates the tag, and opens a
+# DRAFT release pre-filled with auto-generated notes (commits since last tag).
+# Review and edit the draft on GitHub, then publish it manually.
+# Publishing triggers notify-collection, which rebuilds KIParla-collection.
 
 on:
   workflow_dispatch:
-    inputs:
-      notes:
-        description: 'Release notes / changelog (optional)'
-        required: false
-        default: ''
 
 permissions:
   contents: write
@@ -58,17 +54,18 @@ jobs:
             -m "Release v${{ steps.version.outputs.version }}"
           git push origin "v${{ steps.version.outputs.version }}"
 
-      - name: Create GitHub Release
+      - name: Create draft release with auto-generated notes
         uses: actions/github-script@v7
         with:
           script: |
-            const notes = `${{ github.event.inputs.notes }}`;
-            await github.rest.repos.createRelease({
+            const { data: release } = await github.rest.repos.createRelease({
               owner: context.repo.owner,
               repo: context.repo.repo,
               tag_name: `v${{ steps.version.outputs.version }}`,
               name: `v${{ steps.version.outputs.version }}`,
-              body: notes || 'See CITATION.cff for full citation information.',
-              draft: false,
+              draft: true,
               prerelease: false,
+              generate_release_notes: true,
             });
+            core.summary.addRaw(`Draft release created: ${release.html_url}\nReview the notes, edit if needed, then publish to trigger the collection rebuild.`);
+            await core.summary.write();
