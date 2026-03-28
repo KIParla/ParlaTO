@@ -32,6 +32,17 @@ jobs:
           VERSION=$(grep '^version:' CITATION.cff | awk '{print $2}')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
+      - name: Update docs/antora.yml version
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i "s/^version:.*/version: '${{ steps.version.outputs.version }}'/" docs/antora.yml
+          git add docs/antora.yml
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update docs version to ${{ steps.version.outputs.version }}"
+            git push origin main
+          fi
+
       - name: Check tag does not already exist
         run: |
           if git ls-remote --tags origin "refs/tags/v${{ steps.version.outputs.version }}" | grep -q .; then
