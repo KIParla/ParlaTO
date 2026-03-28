@@ -112,14 +112,7 @@ ____
 
 If you use the ParlaTO module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
 
-== Changelog
-
-* 2025-10-07 v1.0.0
- ** First release
-* 2025-11-28 v1.1.0
- ** Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
- ** Minor fix: empty turns in linear-orthographic were removed
-
+See xref:changelog.adoc[Changelog] for the full release history.
 '''
 
 This work is licensed under a
