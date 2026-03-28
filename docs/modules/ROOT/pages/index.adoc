@@ -1,3 +1,126 @@
-= Modulo ParlaTO
+= ParlaTO
 
-Hello from ParlaTO.
+image::https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg[CC BY-NC-SA 4.0,link=http://creativecommons.org/licenses/by-nc-sa/4.0/]
+
+The ParlaTO corpus is part of the larger https://www.kiparla.it[KIParla collection],
+which can be freely queried through the https://kiparla.it/search/[NoSketch Engine interface].
+
+The ParlaTO corpus was funded by the CRT Foundation (_ParlaTO – Corpus del Parlato di Torino_ project).
+
+It consists of about 50 hours of interactions collected in Turin and its province through
+semi-structured interviews. The interviews, conducted between 2018 and 2020, involved 100 speakers
+with different origins, ages, education levels, and types of occupation, and addressed personal
+life experiences in the city (study, work, leisure activities, retirement, memories of the past, etc.).
+
+The transcriptions have been anonymized.
+
+Overall, the module is made up of 68 conversations and includes 100 speakers.
+
+== Repository organization
+
+This repository contains:
+
+* metadata for both speakers and conversations, in the `metadata` subfolder (see <<metadata,Metadata>> below)
+* descriptions of the transcription conventions used for this module (xref:./jefferson-notation.adoc[Transcription conventions])
+
+For each conversation you will find:
+
+* `.eaf` file in `eaf/`: time-aligned Jefferson-style transcriptions (open with https://archive.mpi.nl/tla/elan[ELAN]).
+* `.txt` file in `linear-jefferson/`: linearized Jefferson-style transcription.
+* `.txt` file in `linear-orthographic/`: linearized transcription retaining only orthographic words.
+* `.tsv` file in `tsv/`: verticalized, token-level data with Jefferson features as columns (see <<verticalized-content,Verticalized content>>).
+
+Linear files contain one Transcription Unit (TU) per line with two columns: speaker code and transcription. TUs are sorted by start time.
+
+[#metadata]
+== Metadata
+
+Each participant and conversation have associated metadata in `metadata/participants.tsv` and `metadata/conversations.tsv`.
+
+. Participants metadata:
+ ** `code`: unique anonymized 5-char identifier. Unknown or occasional participants use the special code `???`.
+ ** `gender`: `M` for masculine or `F` for feminine.
+ ** `age-range`: 5-year range including the participant's age.
+ ** `birth-region`: Italian regionfootnote:[`abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`] where the participant was born. If outside Italy, the label `estero` is used.
+ ** `occupation`: occupation according to https://professioni.istat.it/[ISTAT categories].
+ ** `study-level`: highest completed level of education.footnote:[`elementary-school`, `liceo-diploma`, `middle-school`, `phd`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`]
+ ** `conversations`: summary of conversations in which the participant appears.
+. Conversations metadata:
+ ** `code`: unique conversation identifier.
+ ** `type`: type of interaction — for this module, all conversations are `semistructured-interview`.
+ ** `duration`: duration in `hh:mm:ss` format.
+ ** `participants-number`: number of participants.
+ ** `languages`: languages spoken — `italian`, `dialect`, or both.
+ ** `participants-relationship`: relationship among speakers — `symmetric` or `asymmetric`.
+ ** `moderator`: presence of a moderator.
+ ** `topic`: fixed for this module.
+ ** `year`: year of collection.
+ ** `collection-point`: two-letter code of the collection area — `TO` for Turin.
+ ** `participants`: codes of participants in the conversation.
+
+[#verticalized-content]
+== Verticalized content
+
+Conversations are also available in a vertical, pseudo-tokenized version in `tsv/`.
+Tokenization is obtained by validating the Jefferson transcription using custom https://github.com/LaboratorioSperimentale/kiparla-tools[tools] and splitting on whitespaces, prosodic links (`=`), and apostrophes used for elision.
+Each token is represented as 13 columns:
+
+. `token_id`: unique token identifier within the conversation.
+. `speaker`: speaker `code` as found in `metadata/participants.tsv`.
+. `tu_id`: progressive identifier of the transcription unit.
+. `span`: portion of the original Jefferson transcription containing the token.
+. `form`: orthographic form. Short pauses (`(.)`) are represented as `[PAUSE]`; unintelligible tokens as `x`.
+. `type`: one of `linguistic`, `nonverbalbehavior`, `shortpause`, `unknown`, `error`.
+. `variation`: `some` if the TU contains dialect code-mixing; `none` otherwise.
+. `jefferson_feats`: word-level features from the Jefferson transcription:
+ ** `SpaceAfter=No`: no whitespace between this token and the next.
+ ** `ProsodicLink=Yes`: prosodic link (`=`) to the following token.
+ ** `Intonation`: `Falling`, `Rising`, or `WeaklyRising`.
+ ** `Interrupted=Yes`: word interrupted in speech (transcribed with `~`).
+ ** `Truncated=Yes`: truncated form.
+ ** `Volume`: `High` or `Low`.
+. `align`: `AlignBegin` and `AlignEnd` for the first and last token of each TU, in milliseconds.
+. `prolongations`: sound prolongations encoded as `<char_id>x<count>` pairs (e.g., `2x2,6x1`).
+. `pace`: fast or slow paced spans — `Fast=<start>-<end>` or `Slow=<start>-<end>`, zero-based over `form`.
+. `guesses`: uncertain character spans — `<start>-<end>`, zero-based, inclusive, over `form`.
+. `overlaps`: simultaneous speech spans — `<start>-<end>(<overlap_id>)` per group.
+
+== Data access
+
+Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available under a restricted-access license.
+To request access, contact the corpus coordinators through the KIParla website and follow the provided procedure.
+
+== How to cite
+
+To cite this module please include:
+
+____
+Cerruti, M., & Ballarè, S. (2020). ParlaTO: corpus del parlato di Torino. _Bollettino dell'Atlante Linguistico Italiano (BALI)_, 44, 171–196.
+____
+
+[,bibtex]
+----
+@article{Cerruti_ParlaTO_corpus_del_2020,
+  author  = {Cerruti, Massimo and Ballarè, Silvia},
+  journal = {Bollettino dell'Atlante Linguistico Italiano (BALI)},
+  pages   = {171--196},
+  title   = {{ParlaTO: corpus del parlato di Torino}},
+  volume  = {44},
+  year    = {2020}
+}
+----
+
+If you use the ParlaTO module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
+
+== Changelog
+
+* 2025-10-07 v1.0.0
+ ** First release
+* 2025-11-28 v1.1.0
+ ** Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
+ ** Minor fix: empty turns in linear-orthographic were removed
+
+'''
+
+This work is licensed under a
+http://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
