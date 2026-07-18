@@ -6188,7 +6188,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1107-1	TOR001	1107	1107	1	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(275)
 1107-2	TOR001	1107	1107	2	fatto]?	fatto	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1843.065	_	_	_	0-5(275)
 1108-0	TOI003	1108	1108	0	EH	eh	_	_	_	_	_	linguistic	_	none	Volume=high	Begin=1843.156|End=1843.813	_	_	_	_
-1109-0	TOI002	1109	1109	0	#mazze:te	#mazze:te	_	_	_	_	_	error	_	none	_	Begin=1843.813|End=1844.619	_	_	_	_
+1109-0	TOI002	1109	1109	0	mazze:te	mazzete	_	_	_	_	_	linguistic	_	unspecified	_	Begin=1843.813|End=1844.619	4x1	_	_	_
 1110-0	TOI003	1110	1110	0	con	con	_	_	_	_	_	linguistic	_	none	_	Begin=1844.619	_	_	_	_
 1110-1	TOI003	1110	1110	1	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1110-2	TOI003	1110	1110	2	con:	con	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_

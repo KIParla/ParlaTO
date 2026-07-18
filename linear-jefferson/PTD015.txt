@@ -132,7 +132,7 @@ TOR001	certo
 TOI073	anche perché >ese~< i mie nonni avevano una drogheria in zona di m::h
 TOI073	corso peschiera
 TOR001	mh mh
-TOI073	#quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
+TOI073	quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
 TOR001	((ride))
 TOI073	eh ((ride)) e non entravamo poi col tempo in[somma]
 TOR001	[certo]
@@ -813,7 +813,7 @@ TOI073	decisamente una bella zona ma dal punto di vista della vita:::
 TOI073	e:h <serale> o così non é:
 TOI073	non c'é non c'era granché non (.) ancora anche adesso non c'é granché in realtà [c(io)é é a]ttaccata a san salvario
 TOR001	[mh mh]
-TOI073	p[eró all' epoca san salvario:: scappa da sotto e]cco
+TOI073	p[eró all'epoca san salvario:: scappa da sotto e]cco
 TOI072	[peró all'epoca san salvario:: (.) esatto]
 TOI074	cioé?
 TOI073	er[a::: un quartieracci]o (.) il bronx (.) tipo porta palazzo

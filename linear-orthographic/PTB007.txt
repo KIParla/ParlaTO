@@ -1659,7 +1659,7 @@ TOI021	insomma le tradizioni non le hanno mai perse
 TOI021	e anche parlare parlano quasi sempre il dialetto quindi
 TOR004	sì nonostante comunque leggano si
 TOR004	si tengono informati a loro piace parlare il dialetto
-TOR004	cosera che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
+TOR004	cos'era che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
 TOI021	eh
 TOR004	e nessuno lo sapeva
 TOI021	eh eh eh

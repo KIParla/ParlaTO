@@ -711,7 +711,7 @@ TOI078	altrimenti: è sempre: >io parlo<
 TOI078	personalme[nte di person]e che conosco
 TOR001	[mh mh mh]
 TOI078	e s~ all'inizio è sempre un po'::
-TOI078	#tutto ciò che va che è fora via no co[me si di]ce in piemontese tutto ciò che è fuori da
+TOI078	tutto ciò che va che è fora via no co[me si di]ce in piemontese tutto ciò che è fuori da
 TOR001	[mh mh] ((ride))
 TOI078	i i canonici quello che fanno tutti gli altr[i]
 TOR001	[mh] mh
@@ -1086,7 +1086,7 @@ TOI078	pourquoi pas
 TOI078	però:: mh
 TOI078	però sto bene a torino ripeto
 TOR001	okay
-TOI078	#detto sinceramente: io sono uno di quelli bugia nen
+TOI078	detto sinceramente: io sono uno di quelli bugia nen
 TOI078	cioè nel senso che
 TOR001	((ride))
 TOI078	e::h

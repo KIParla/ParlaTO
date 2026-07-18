@@ -1022,7 +1022,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 171-0	TOR001	171	171	0	esatto	esatto	_	_	_	_	_	linguistic	_	none	_	Begin=349.153	_	_	_	_
 171-1	TOR001	171	171	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 171-2	TOR001	171	171	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-171-3	TOR001	171	171	3	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+171-3	TOR001	171	171	3	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 171-4	TOR001	171	171	4	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 171-5	TOR001	171	171	5	[mai	mai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(31)
 171-6	TOR001	171	171	6	nessuno]	nessuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(31)

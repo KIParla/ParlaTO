@@ -304,10 +304,10 @@ TOR004	((ride))
 TOI021	non mi ricordo
 TOR004	no:: dai ((ride))
 TOI021	no comunque [che mo~]
-TOR004	#[che vi chia]mava, vi urlava, vi diceva caru::
+TOR004	[che vi chia]mava, vi urlava, vi diceva caru::
 TOI021	eh no ah e~ sì lei è meridionale ci diceva
-TOI021	#sì caru:: state attente
-TOI021	#un ite e:h dda vicino::
+TOI021	sì caru:: state attente
+TOI021	un ite e:h dda vicino::
 TOI021	a::h la balaustra
 TOI021	la chiamavano loro il parapetto si chiamava bala~ loro la lei la chiamava così
 TOI021	perché: se no v'annegate
@@ -740,7 +740,7 @@ TOI021	e::h anche:: i compagnetti, compagni
 TOI021	e::h di scuola che magari:::
 TOI021	erano figli:::
 TOI021	piemontesi magari che loro erano del piemonte però magari sentivano
-TOI021	#a casa parlare ah cul lì a l'è n napuli cul lì chiel sì cul lì là
+TOI021	a casa parlare ah cul lì a l'è n napuli cul lì chiel sì cul lì là
 TOI021	e::: quindi facevano::: del razzismo
 TOI021	però queste cose te ne accorgi
 TOI021	ti vengono in mente quando sei grande
@@ -933,7 +933,7 @@ TOI021	che mi deve servire
 TOI021	ecco perché lei voleva esser servita da me
 TOI021	e se mia sorella le diceva eh cosa vuole
 TOI021	cosa desidera lei diceva no no no
-TOI021	#voglio nenti d~ x da lei
+TOI021	voglio nenti d~ x da lei
 TOI021	voglio che mi serve:::
 TOI021	perch~
 TOI021	era insegnante parlava un po' il siciliano
@@ -1409,14 +1409,14 @@ TOI021	e:h te prego dai va là
 TOI021	eh de~ delle cose così
 TOI021	però capire capivo cosa mi dicevano: eh
 TOI021	e:h magari all'inizio ecco
-TOI021	#eh popa per dire bambina
-TOI021	#loro dicono popa
+TOI021	eh popa per dire bambina
+TOI021	loro dicono popa
 TOI021	e:h beh all'inizio quando io l'ho conosciuti::
-TOI021	#certo mi dovevo far spiegare cosa voleva dire popa o mattelotto
+TOI021	certo mi dovevo far spiegare cosa voleva dire popa o mattelotto
 TOR004	eh
-TOI021	#o mattelotta perché
-TOI021	#per loro è bambino sia popa che:: popo
-TOI021	#o mattelotto mattelotto vuol dire bambino
+TOI021	o mattelotta perché
+TOI021	per loro è bambino sia popa che:: popo
+TOI021	o mattelotto mattelotto vuol dire bambino
 TOI021	ecco
 TOI021	o: per esempio una volta mia suocera mi dice giuliana dice vuoi
 TOI021	che compro un po' di stracchino per le bambine oggi?
@@ -1680,7 +1680,7 @@ TOI021	insomma le tradizioni non le hanno mai pe:rse
 TOI021	e anche parlare parlano quasi sempre il dialetto quindi::
 TOR004	sì nonostante comunque leggano si
 TOR004	si tengono informati a loro piace parlare il dialetto
-TOR004	#cos'era che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
+TOR004	cos'era che è successo un po' di tempo fa che ha chiesto cos'era un marruggiu
 TOI021	eh
 TOR004	((ride)) e nessuno lo sapeva
 TOI021	eh eh eh

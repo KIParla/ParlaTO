@@ -25,7 +25,7 @@ TOI023	gianni
 TOI023	ciao
 TOI023	scusa anch'io ti ho disturbato. comunque è okay, v~ vai pure avanti con quella cosa lì poi
 TOI023	sì quando c~ avvisami solo che io ci sia poi siamo a posto
-TOI023	#va bin
+TOI023	va bin
 TOI023	okay
 TOI023	ciao un abbraccio >ciao ciao<
 TOI022	ti vengo a vedere anch(e) io?
@@ -424,7 +424,7 @@ TOI022	borgo del fumo
 TOI023	[si chiama ancora x]x
 TOI022	[iniziava con tutte]
 TOI022	sì
-TOI023	#come [soprannome è: nomin]ato burg dal fum
+TOI023	come [soprannome è: nomin]ato burg dal fum
 TOI022	[viene nominato]
 TOI022	[eh]
 TOR005	[mh]
@@ -1628,8 +1628,8 @@ TOI022	i: nostri personaggi storici del quartiere
 TOI022	e::hm:::
 TOI022	siamo
 TOI022	tra il po' e la dora
-TOI022	#e noi ci siamo inventati i personaggi il munsù po
-TOI022	#e madama doi[ra]
+TOI022	e noi ci siamo inventati i personaggi il munsù po
+TOI022	e madama doi[ra]
 TOR005	[ah a]:h
 TOI022	che sono andati
 TOI022	tutto il piemonte e la proovincia di torino tutta
@@ -2370,7 +2370,7 @@ TOR005	con i [cartoni]
 TOI022	[con i no] con i cartoni o addirittura col ferro, andava a [ra]cccogliere il ferro in giro
 TOI023	[sì::]
 TOI023	[eh]
-TOI022	#i feramiun di una vol[ta]
+TOI022	i feramiun di una vol[ta]
 TOI023	[e:h]
 TOI022	giravano col carretto, c'è gente che si è fatta un impero (.) impero
 TOI022	non ti faccio nomi e cognomi ma

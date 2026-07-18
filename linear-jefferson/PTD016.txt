@@ -118,7 +118,7 @@ TOI076	fino alle:: fino a quando c'era luce
 TOI076	in re[altà]
 TOR004	°[mado:]:nna santa che [ca]ldo°
 TOI076	[mh]
-TOR004	#va bin (.) e invece tu che lavoro fai?
+TOR004	va bin (.) e invece tu che lavoro fai?
 TOI077	e io: faccio:::
 TOI077	x x
 TOI077	cioè (.) gestisco un'azienda di stampaggio articoli tecnici di silicone
@@ -314,7 +314,7 @@ TOR004	m::h
 TOI077	ch[e:::]
 TOR004	[ma qui] in italia?
 TOI077	sì sì qui di torino
-TOI076	#di turin
+TOI076	di turin
 TOR004	ah
 TOI077	e lui si è:: diciamo::
 TOI077	assisteva dei ragazzi che facevano palestra xx [per i de]nti quindi:: faceva le:
@@ -1063,7 +1063,7 @@ TOI076	[e:h ma] ti davano un borsellino piccolino
 TOR004	sì
 TOR004	sì
 TOR004	e::h e comunque vi siete conosciuti così, insieme
-TOI076	#e:h ci siamo conosciuti accussì
+TOI076	e:h ci siamo conosciuti accussì
 TOR004	e poi?
 TOR004	quanto siete stati insieme?
 TOI077	[m:h m:h]
@@ -1182,7 +1182,7 @@ TOR004	[sì:]?
 TOI077	[cioè che] tu hai dipendenti che paghi poco
 TOR004	m:h
 TOI077	quindi tu ti raddoppi i dipendenti
-TOR004	#un cineis
+TOR004	un cineis
 TOI077	e:h e:h rad[doppi quindi eh] quasi la produzione puoi quasi raddoppiarla:
 TOI076	[cin ciun wan]
 TOI077	[avendo quin]di le spese:
@@ -2105,7 +2105,7 @@ TOI077	[e::h vai a mona]co di baviera
 TOR004	((ride)) mia [sorella lo] guarda per imparare il tedesco
 TOI076	[e:cco]
 TOI076	quei posti lì:::
-TOR004	#va bin
+TOR004	va bin
 TOI076	invece in italia mi piacerebbe andare in trenti:no proprio: (.) farmi [una cavalca:ta:]
 TOR004	[e:h in trentino c(i) abbiamo i parenti]
 TOI076	e::h
@@ -2113,8 +2113,8 @@ TOI076	a farmi [la cavalca]ta:: in mezzo a tutti gli alberi così
 TOI077	[arriviamo]
 TOR004	va bene
 TOR004	grazie per questa intervista
-TOI076	#arvetse
-TOR004	#arve[tse]
-TOI077	#[ar]vetse
+TOI076	arvetse
+TOR004	arve[tse]
+TOI077	[ar]vetse
 TOI076	in gamba
 TOR004	((ride)) mi hai saluta~

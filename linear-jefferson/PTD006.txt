@@ -282,7 +282,7 @@ TOR004	[chiaro]
 TOI055	po::i ((sospira))
 TOI055	ho fatto tante di que~ aspetta po:i e:h
 TOI055	ho lavora:to per mh: quattro mesi:, in un albergo lì a settimo, un quattro s[telle come],
-TOR004	[[all' a]~ all' atlantic no [quello è di borgaro]
+TOR004	[[all~ a]~ all'atlantic no [quello è di borgaro]
 TOI055	[no al:=e:hm] al green center hotel, e:h che è un quattro stelle come portiere di notte
 TOR004	mado:nna,
 TOI055	un'esperienza fighissima
@@ -1164,7 +1164,7 @@ TOI055	se vuole io dal primo aprile sono: a sua disposizione
 TOI055	xx va bene dal primo aprile
 TOI055	quindi io (.) mi ricorderò sempre che la sera alle dieci ho chiuso lì a:
 TOI055	lì alla coin,
-TOI055	[e il (primo aprile,) ero a lavorare dall' altra] parte
+TOI055	[e il (primo aprile,) ero a lavorare dall'altra] parte
 TOR004	[e il giorno dopo eri a lavorare dall'a~]
 TOR004	fichissimo
 TOI055	quindi: lì è >stata veramente< una botta di di fortuna: e a volte::: m:h

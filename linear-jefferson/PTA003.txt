@@ -1106,7 +1106,7 @@ TOR001	[il quartiere stes[so]?
 TOI003	sì sì sì il quartiere stes[so sì sì]
 TOR001	[come ha fatto]?
 TOI003	EH
-TOI002	#mazze:te
+TOI002	mazze:te
 TOI003	con eh con: brutti gesti
 TOR001	((ride))
 TOI002	((ride))

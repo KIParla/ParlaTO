@@ -10060,7 +10060,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 2182-3	TOI051	2182	2182	3	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2182-4	TOI051	2182	2182	4	zio	zio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2182-5	TOI051	2182	2182	5	perché:	perché	_	_	_	_	_	linguistic	_	none	_	End=3019.724	5x1	_	_	_
-2183-0	TOI051	2183	2183	0	m'	m'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=3019.772	_	_	_	_
+2183-0	TOI051	2183	2183	0	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=3019.772	_	_	_	_
 2183-1	TOI051	2183	2183	1	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2183-2	TOI051	2183	2183	2	detto	detto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2183-3	TOI051	2183	2183	3	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

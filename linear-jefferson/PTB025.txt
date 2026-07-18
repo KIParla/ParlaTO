@@ -15,7 +15,7 @@ TOR001	((ride))
 TOR002	((ride))
 TOI117	[ma io tradu]co xx
 TOI116	poche co[se insomma]
-TOI117	#[t'ai capì co che] j'o dicc
+TOI117	[t'ai capì co che] j'o dicc
 TOI116	eh
 TOI117	x hai capito cosa ho detto?
 TOR002	((ride))
@@ -266,11 +266,11 @@ TOR002	mia non[na era di mo]ntiglio
 TOI117	[vabbè]
 TOI116	ah [monti~ beh mo]ntiglio è vicino a passera[no]
 TOI117	[xxx]
-TOI117	#[m]untij muntij certo
-TOR002	#muntij
+TOI117	[m]untij muntij certo
+TOR002	muntij
 TOR001	((ride))
 TOI116	°(montiglio)°
-TOI117	#°munt[ij°]
+TOI117	°munt[ij°]
 TOI116	[ma ha] ancora qualche riferimento lì o n[o]?
 TOR002	[e]:h no son [andati] via tu~
 TOI116	[no]
@@ -593,7 +593,7 @@ TOI117	è stata dura per quello e allora dico vabbè
 TOI116	beh siamo finiti cioè da do~
 TOI117	vabbè
 TOR001	((ride))
-TOI117	#francesco a dis che si può andare avanti
+TOI117	francesco a dis che si può andare avanti
 TOR002	((ride))
 TOI117	n[o no ma adesso andate avanti voi]
 TOI116	[no xxxxxx ((ride)) taglia]te
@@ -605,7 +605,7 @@ TOR001	vi [sembr]a sia cambiato nel corso del tempo?
 TOI116	[sì]
 TOR001	come?
 TOI116	m[a non mol~ non molti]ssimo non moltis[sim]o
-TOI117	#[rispund ti che lo frequenti]
+TOI117	[rispund ti che lo frequenti]
 TOR001	[mh]
 TOI116	diciamo che cioè beh come come r~ m:h massaia no che uno frequenta i negozi e allora magari e:h
 TOR001	((ride))
@@ -695,13 +695,13 @@ TOI117	e: dovevo andar dal parrucchiere no
 TOI117	mentre che venivo su perché tanto deve venire la buca delle lettere eccetera
 TOI117	io vabbè tanto ne ho uno da cui vado da da da quarant'anni no
 TOI117	e (.) vengo su (.) e questo era chiuso
-TOI117	#vabbè allora pij la macchina, anduma su curs belgio magare
+TOI117	vabbè allora pij la macchina, anduma su curs belgio magare
 TOI117	madonna non ne ho trovato uno
 TOI117	tutt~ tutti chiusi nessuno aperto
 TOR001	((ride))
 TOI117	allora
 TOI117	passo per caso davanti alla sua parrucchiera
-TOI117	#e non sono entrato ho telefonato a lei i di(je) ma vara ma ansuma. mentre son qua cos~
+TOI117	e non sono entrato ho telefonato a lei i di(je) ma vara ma ansuma. mentre son qua cos~
 TOI117	possibile che se vado dalla tua parrucchiera vabbè che è una parrucchiera da donna ma
 TOR002	((ride))
 TOR001	((ride))
@@ -717,7 +717,7 @@ TOI117	guar~ xx dico [vedi? ve~]
 TOI116	[xx lavaggio d]i test[a: non tu non l'hai fatto l'ha fatto lei] ((ride))
 TOI117	[ve~ vedi vedi cosa succede nel tem]po adesso tu lavi la testa al tuo professore di matematica
 TOR002	((ride))
-TOI117	#e beh cosa vol di
+TOI117	e beh cosa vol di
 TOR001	((ride))
 TOI116	[(fatto)] bene lo stesso
 TOI117	adesso le cose son cambiate bon tanto per dire
@@ -725,9 +725,9 @@ TOR001	((ride))
 TOI117	quindi (.) bisognerebbe però
 TOR002	((ride))
 TOI117	perché sono tre o quattro eh
-TOI117	#a m lu di[va l'atar dì]
+TOI117	a m lu di[va l'atar dì]
 TOI116	[sì] dai un'o~ dai un'alt[ernanza però in effetti s]e vai a prender proprio la settimana di ferra[gosto:]
-TOI117	#[a: a: l pruchè]
+TOI117	[a: a: l pruchè]
 TOI117	[#a sun tre o qua~] eh p[or es~]
 TOI116	[vabbè] i capelli te li puoi lavare anche in casa
 TOR001	((ride))
@@ -810,7 +810,7 @@ TOI117	un quarto alle sette là senza avere nulla eh
 TOI117	no no no ma io sono ce l'ho nella testa eh
 TOI117	io io avrei proseguito eh
 TOR001	((ride))
-TOI117	non m' avessero non avrei proseguito a insegnare per carità
+TOI117	non m'avessero non avrei proseguito a insegnare per carità
 TOI117	la cattedra va a un altro
 TOI117	però: m:h e:h
 TOI117	sarei rimasto: per interessarmi della disciplina.
@@ -1217,10 +1217,10 @@ TOI117	[no no no] lo dico s~
 TOI116	(vab[bè vabbè)]
 TOI117	[ma i miei colle]ghi lo sanno
 TOR001	e e dopo quando siete andati in pensione cosa cosa avete iniziato a fare, avete avuto più tempo, a cosa vi siete dedicati,
-TOI117	#xxx [mi]
+TOI117	xxx [mi]
 TOI116	[allora]
 TOI116	allora f~ comin[cia tu per]ché ah x abbiamo cominciato
-TOI117	#[no di ti]
+TOI117	[no di ti]
 TOR001	((ride))
 TOI116	allora ni[ente io sono andata in pe]nsione: cioè io avrei conti~ av~ cioè avrei continuato nel senso che
 TOI117	[(precedenze)]
@@ -1294,12 +1294,12 @@ TOR001	ah s[empre]?
 TOI116	[tu~ tutta l'es]tate
 TOI116	ehm d'inverno [no eh d'inverno no ma ci andiamo da da marzo]
 TOR001	[okay okay okay okay]
-TOI117	#[d'inverno no ma anduma sempi giu eh]
+TOI117	[d'inverno no ma anduma sempi giu eh]
 TOI116	[però andia]mo sempre giù t[ra una stor~ c'è sempre qualco]s[a: eh]
 TOR001	((ride))
 TOR002	((ride))
-TOI117	#[stuma nen dui di]
-TOI117	#[eh anduma sempi giu]
+TOI117	[stuma nen dui di]
+TOI117	[eh anduma sempi giu]
 TOI116	o c'è la [pioggia] o c'è l'infiltrazione oppure c'è qualcosa: da concordare
 TOR002	[eh beh]
 TOI116	e poi ci andiamo volentieri perché comunque lì abbiamo collegamenti, gli amici che s~ poi sono
@@ -1316,7 +1316,7 @@ TOI116	[è la vita del p]aese la solita e[cco quindi]
 TOR001	[beh però]
 TOR001	un sacco di attività nel pae[se eh]
 TOI116	[sì sì in]somm[a]
-TOI117	#[sì] sta [tranquil che a i na j'è] fin che t [vole]
+TOI117	[sì] sta [tranquil che a i na j'è] fin che t [vole]
 TOI116	[(qualcosina) sì]
 TOI116	[s]ì
 TOR002	((ride))
@@ -1572,7 +1572,7 @@ TOR001	[mh] mh
 TOI116	eh c'è chi xxx vediamo la differenza tra un nostro amico che ha pure la casa in campagna no?
 TOI116	eh vive anche lui a torino ma ha la casa vicino a noi
 TOI116	e però è cresciuto: sempre a torino
-TOI116	#e lui=e:h turineis=e::h no no eh conosce tutto conosce le vie conosc~
+TOI116	e lui=e:h turineis=e::h no no eh conosce tutto conosce le vie conosc~
 TOR001	((ride))
 TOI116	i modi di x anche di
 TOI116	anche di parlare noi il torinese non l'abbiamo mai imparato perché poi parlando piemontese
@@ -1667,7 +1667,7 @@ TOI117	eh quindi quindi no no ah io:
 TOI117	qualunque roba ci sia vado in giro e ripre[n~]
 TOR002	[b]eh adesso fan tutto col drone que: ((ride)) [quelle situazioni lì]
 TOI116	eh [eh eh]
-TOI117	#[des~ eh c~ il] drone: saría:: a j'è co na bela a:h cul drone
+TOI117	[des~ eh c~ il] drone: saría:: a j'è co na bela a:h cul drone
 TOR001	((ride))
 TOI117	ma eh sì
 TOI117	allora
@@ -1771,7 +1771,7 @@ TOI117	sto attento eh
 TOI117	quello sì
 TOI117	[°faceva] bene°
 TOI116	[faceva il] xx no x eh
-TOI117	#andava giù:: ma poi a na cunt~
+TOI117	andava giù:: ma poi a na cunt~
 TOI116	xxx
 TOI116	x[xxx]
 TOR002	((ride))
@@ -1796,7 +1796,7 @@ TOR001	[va beniss~]
 TOR002	[va]
 TOR001	[va benissimo] va be[nissimo]
 TOR002	[benissimo]
-TOI117	#damla co a mi che a [forsa ed parlé]
+TOI117	damla co a mi che a [forsa ed parlé]
 TOI116	[xxx]x
 TOR002	((ride))
 TOI117	ma si può sentir (solo) qualcosa?

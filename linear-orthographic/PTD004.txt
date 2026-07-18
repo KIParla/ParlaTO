@@ -684,7 +684,7 @@ TOI043	tutti capivano che eri stato al casino per cui
 TOI042	questa è vera perché d~ d~ de el flit è restata a torino
 TOI043	e quindi
 TOI042	per dire mandare via in qualche area adesso non lo so
-TOI042	cè uno che ti pesa d~ deje el flit fare in modo che se ne vada
+TOI042	c'è uno che ti pesa d~ deje el flit fare in modo che se ne vada
 TOI043	eh esatto
 TOI043	quindi era così xxx
 TOI042	perché queste madame oramai in disarmo del del casino
@@ -1932,7 +1932,7 @@ TOI042	quel mini grattacielo xxx
 TOI042	lì c'era la velosolex
 TOR001	mhmh
 TOI042	quella in nella canzone di gipo
-TOI042	lhai catate el velosolex per culé
+TOI042	l'hai catate el velosolex per culé
 TOI042	che era una bici a motore
 TOI044	sì
 TOR001	okay

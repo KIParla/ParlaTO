@@ -1214,13 +1214,13 @@ TOI056	mi sento a disagio
 TOR001	certo
 TOI056	ma comunque
 TOI056	eh n~ lu parlu d menu perché non c'è
-TOI056	jè nen l'interlocutur sufficiente
+TOI056	j'è nen l'interlocutur sufficiente
 TOI056	a capire
 TOI056	difatti e questo abbiamo sbagliato
 TOI056	a mia figlia conosce il piemontese
 TOI056	ma allora abbiamo incominciato a parlare italiano
 TOR001	mh mh
-TOI056	luma ncumincià a parlè n italian
+TOI056	l'uma ncumincià a parlè n italian
 TOI056	perché
 TOI056	ma poi quando va a scuola a s trova n dificultà e poi invece
 TOI056	x saria nen stai vera

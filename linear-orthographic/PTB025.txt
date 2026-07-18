@@ -13,7 +13,7 @@ TOI116	ma lo capi~
 TOI116	sì pro~ allora provano a tradurre a vedere se evidentemente hanno capito proprio no non sembra però
 TOI117	ma io traduco xx
 TOI116	poche cose insomma
-TOI117	tai capì co che j'o dicc
+TOI117	t'ai capì co che j'o dicc
 TOI116	eh
 TOI117	x hai capito cosa ho detto
 TOR001	allora vi faccio compilare mh la liberatoria
@@ -715,7 +715,7 @@ TOI117	sì dall'ottantaquattro fino al duemi~ fino al duemila e dodici xx lì ho
 TOI117	un quarto alle sette là senza avere nulla eh
 TOI117	no no no ma io sono ce l'ho nella testa eh
 TOI117	io io avrei proseguito eh
-TOI117	non m' avessero non avrei proseguito a insegnare per carità
+TOI117	non m'avessero non avrei proseguito a insegnare per carità
 TOI117	la cattedra va a un altro
 TOI117	però mh eh
 TOI117	sarei rimasto per interessarmi della disciplina
@@ -1157,7 +1157,7 @@ TOR001	ah sempre
 TOI116	tu~ tutta l'estate
 TOI116	ehm d'inverno no eh d'inverno no ma ci andiamo da da marzo
 TOR001	okay okay okay okay
-TOI117	dinverno no ma anduma sempi giu eh
+TOI117	d'inverno no ma anduma sempi giu eh
 TOI116	però andiamo sempre giù tra una stor~ c'è sempre qualcosa eh
 TOI117	stuma nen dui di
 TOI117	eh anduma sempi giu
@@ -1491,7 +1491,7 @@ TOI117	eh quindi quindi no no ah io
 TOI117	qualunque roba ci sia vado in giro e ripren~
 TOR002	beh adesso fan tutto col drone que quelle situazioni lì
 TOI116	eh eh eh
-TOI117	des eh c~ il drone saría a j'è co na bela ah cul drone
+TOI117	des~ eh c~ il drone saría a j'è co na bela ah cul drone
 TOI117	ma eh sì
 TOI117	allora
 TOI117	diciamo una cosa

@@ -216,7 +216,7 @@ TOI050	eh dov'é indirizzo presidenti ah che abita in via vabbé ma quello non i
 TOR001	vabbé
 TOI050	san paolo che é dante di nanni
 TOR001	okay
-TOI050	cha j'è marco blu
+TOI050	ch'a j'è marco blu
 TOI050	eh corso ferruccio sessantacique di che siamo noi
 TOR002	sì dove ci siam visti
 TOR001	okay okay dove siamo sì
@@ -1024,7 +1024,7 @@ TOR002	si rideva poco
 TOI049	ecco ad ogni modo
 TOI049	e poi sono andato
 TOI049	eh
-TOI049	ndua j'era me cumandant
+TOI049	'ndua j'era me cumandant
 TOR001	mh mh
 TOI049	e chi s na ricorda
 TOR001	cosa sta guardando adesso
@@ -1050,7 +1050,7 @@ TOI050	sì che che eri con lui che dicevi che volevo andare a fare il partigiano
 TOI050	é lui
 TOI049	non é venuto
 TOI050	mario era una uno di piazza carlina
-TOI049	lai pi nen guardaje non ho più guardato
+TOI049	l'ai pi nen guardaje non ho più guardato
 TOI050	e qui c'hai tutto le le date
 TOI050	le date di co~ di come ti sei mosso
 TOI049	me lo portate indietro la roba
@@ -1281,7 +1281,7 @@ TOI050	sono fuori
 TOI050	ce n'é fuori
 TOI049	niente
 ???	c'ho ancora il gusto del caffé
-TOI049	jeru
+TOI049	j'eru
 TOI049	eh sai gnanca mi perché
 TOI049	o giravo attorno alle cascine
 TOR001	vi spostavate mh mh mh
@@ -1398,7 +1398,7 @@ TOI050	eh
 TOR001	certo
 TOI050	eh niente quando poi
 TOR001	e
-TOI050	ce ve~ ce~ ve~ han dicio ma stanno entrando i partigiani che and~ arrivavano da volpiano da settimo da lì dalla collina
+TOI050	ce~ ve~ ce~ ve~ han dicio ma stanno entrando i partigiani che and~ arrivavano da volpiano da settimo da lì dalla collina
 TOI050	allora i tedeschi hanno incomiciato
 TOI050	a scappare via e scappavano verso
 TOI050	verso leinì giù da di lì da la falchera
@@ -2027,7 +2027,7 @@ TOI049	lina
 TOI050	oh
 TOI049	qual è darera a piasa sulferin
 TOI050	eh la stip no la stipel eh la sip c'era
-TOI049	lera la stipel
+TOI049	l'era la stipel
 TOI049	sì
 TOR001	ah okay
 TOR002	mh

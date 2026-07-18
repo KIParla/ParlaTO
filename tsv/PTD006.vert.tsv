@@ -2320,9 +2320,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 283-13	TOI055	283	283	13	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 283-14	TOI055	283	283	14	s[telle	stelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-6(111)
 283-15	TOI055	283	283	15	come],	come	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=734.735	_	_	_	0-4(111)
-284-0	TOR004	284	284	0	[[all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=734.086	_	_	_	_
+284-0	TOR004	284	284	0	[[all~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=734.086	_	_	_	_
 284-1	TOR004	284	284	1	a]~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-284-2	TOR004	284	284	2	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+284-2	TOR004	284	284	2	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 284-3	TOR004	284	284	3	atlantic	atlantic	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 284-4	TOR004	284	284	4	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 284-5	TOR004	284	284	5	[quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -10004,7 +10004,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1166-4	TOI055	1166	1166	4	ero	ero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(381)
 1166-5	TOI055	1166	1166	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(381)
 1166-6	TOI055	1166	1166	6	lavorare	lavorare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(381)
-1166-7	TOI055	1166	1166	7	dall'	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-5(381)
+1166-7	TOI055	1166	1166	7	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-5(381)
 1166-8	TOI055	1166	1166	8	altra]	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(381)
 1166-9	TOI055	1166	1166	9	parte	parte	_	_	_	_	_	linguistic	_	none	_	End=3051.796	_	_	_	_
 1167-0	TOR004	1167	1167	0	[e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3049.52	_	_	_	0-1(381)

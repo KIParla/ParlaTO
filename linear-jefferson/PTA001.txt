@@ -559,9 +559,9 @@ TOR001	dimmi dimmi
 TOR002	no volevo fare una domanda [io appena fini]sci [quelle serie]
 TOR001	[vai vai]
 TOR001	[no: no va]i vai f[ai]
-TOR002	#[no] cazzo >la domanda è< spiega il papocc giulio
+TOR002	[no] cazzo >la domanda è< spiega il papocc giulio
 TOI001	((ride)) #ah il papocc
-TOI001	#e:h il papocc è::
+TOI001	e:h il papocc è::
 TOR002	ma proprio l'origine::
 TOI001	vabbè diciamo che::
 TOI001	è il nome di un personaggio: de de=delle mie parti
@@ -579,7 +579,7 @@ TOR002	((ride))
 TOI001	finché a un certo punto non ti alzi più dalla sedia o non ti metti a ridere
 TOR001	((ride))
 TOR002	((ride))
-TOI001	#papocc più o meno era la stessa cosa (.) insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
+TOI001	papocc più o meno era la stessa cosa (.) insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
 TOR001	((ride))
 TOR002	((ride))
 TOR001	ma non sapevo che era una persona io
@@ -2557,7 +2557,7 @@ TOR002	[v]a[i]
 TOI001	[qu]elle che son buone
 TOR001	vai
 TOI001	°<puttana eva>°
-TOI001	#vacca logia
+TOI001	vacca logia
 TOI001	°xxxx°
 TOI001	((sbuffa))
 TOR001	((ride))

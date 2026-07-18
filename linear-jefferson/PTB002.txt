@@ -1004,8 +1004,8 @@ TOR004	[quello che volevano]
 TOI017	controvoglia o con la voglia lo facevi il lavoro.
 TOI017	comunque mi son trovato bene.
 TOI017	e poi ho:: si capisce impari a fare qualche cosa no?
-TOI017	#dopo tanti anni se: se sei un cutu non capisci niente (.) ma se ca~
-TOR004	#se sei un cutu ((ride))
+TOI017	dopo tanti anni se: se sei un cutu non capisci niente (.) ma se ca~
+TOR004	se sei un cutu ((ride))
 TOI017	eh
 TOI017	e allora: alla fine:
 TOI018	xxx

@@ -747,7 +747,7 @@ TOR004	che ne so,
 TOI020	(e inso~)?
 TOI020	mh io, io: abi~ mh bi~ tu:d
 TOI020	ho l'abituine di ripetere spesso delle cose che
-TOI020	#e:h diceva:: ecco per esempio oggi ho detto questa. attacca lu ciucciu (n)du vole lu patrune
+TOI020	e:h diceva:: ecco per esempio oggi ho detto questa. attacca lu ciucciu (n)du vole lu patrune
 TOR004	che cosa vu[ol di~]?
 TOI020	[che vuol] dire lega l'asino,
 TOI020	dove vuole (.) il proprietario. e::h
@@ -892,7 +892,7 @@ TOI020	[eh i na]poletani venivano da napoli e venivano a vedere la frutta.
 TOR004	mh mh
 TOI020	e::h c'era,
 TOI020	sempre lì nella: piazzetta un solo fruttivendolo e lì s~ c'erano: vabbè: i vari artigiani: della: del paese.
-TOI020	#poi c'è la chiazza
+TOI020	poi c'è la chiazza
 TOR004	m=[eh]
 TOI020	[quella (è) l]a piazzetta, e poi c'è la piazza. che è:
 TOI020	quindi è la: dove c'è il mo[numento del e:h, dove] ci si incontra,
@@ -902,14 +902,14 @@ TOI020	e:h a suo tempo non potevano attraversare la piazza.
 TOI020	in=m=e:h
 TOR004	in mez[z(o)]?
 TOI020	[sì] in diagonale. dovevano fare il giro intorno perché
-TOI020	#inde a la chiazza camenarne solo gli uomini
+TOI020	inde a la chiazza camenarne solo gli uomini
 TOR004	[davve(ro)]?
 TOI020	[solo i] maschi. [sì].
 TOR004	[e] ma, questa cosa?
-TOI020	#e: questa è una cosa che (.) io ricordo perché: appunto non se passaj in mezzo a la chiazze se non magari con il marito.
+TOI020	e: questa è una cosa che (.) io ricordo perché: appunto non se passaj in mezzo a la chiazze se non magari con il marito.
 TOI020	questo no so:n~ forse questo te lo può dire meglio: zia anna. però
 TOR004	ma per scaramanzia di[ci]?
-TOI020	#[no] no no, era [proprio perché] eh re femme~ eh beh peggio che i marocchi:~ ci(o)è che: gli arabi eh. eh eh eravamo lì.
+TOI020	[no] no no, era [proprio perché] eh re femme~ eh beh peggio che i marocchi:~ ci(o)è che: gli arabi eh. eh eh eravamo lì.
 TOR004	[proprio: prassi].
 TOR004	((ride))
 TOR004	comunque (.) [ho sentito di] questa cosa anche in sicilia [non=eh]
@@ -919,7 +919,7 @@ TOR004	[poi con tutti: i me]cca che ci so:(no)
 TOI020	[eravamo peggio].
 TOI020	no ma eravamo molto, molto molto pegg~ c(io)è anche da noi le donne col foulard
 TOR004	s[ì:]
-TOI020	#[eh] sì: >sì sì< (.) lu maccature
+TOI020	[eh] sì: >sì sì< (.) lu maccature
 TOI020	le donne avevano il foulard in testa,
 TOI020	e:h poi (.) il foulard si mette~ se erano: se era mancato qualcuno
 TOI020	il foulard si teneva
@@ -932,8 +932,8 @@ TOI020	se c'era il lutto (.) diventava (.) [ner]o,
 TOR004	[nero].
 TOI020	e:h rosso era nei giorni di festa, gli altri giorni era marrone ma~ nero.
 TOI020	se c'era il lutto,
-TOI020	#e:: si chiama lu (.) e::h=mh
-TOI020	#e:h allora. l iuppune (.) e non mi ricordo come si chiam[a il pezzo], eh la: ha un nome
+TOI020	e:: si chiama lu (.) e::h=mh
+TOI020	e:h allora. l iuppune (.) e non mi ricordo come si chiam[a il pezzo], eh la: ha un nome
 TOR004	[la cintur(a)].
 TOI020	specifico,
 TOI020	e: e::h se mancava un figlio
@@ -976,7 +976,7 @@ TOI020	che era la nipote avrebbe dovuto tenerlo (.) per tre mesi. la figlia per 
 TOI020	c'avevano delle::
 TOR004	c(io)è [delle scade:nze],
 TOI020	[scadenze. sì] sì sì era: così
-TOI020	#poi prima di mettevi: re cauzette neure
+TOI020	poi prima di mettevi: re cauzette neure
 TOI020	poi te le mettevi grigie. perché andavi a scalare il lutto. [no no ma era pro~]
 TOR004	[ci facevi la scala] di [grigi].
 TOI020	[sì s]ì era proprio così
@@ -1042,7 +1042,7 @@ TOR004	beh certo. no no ma [>eh eh (in)somma<],
 TOI020	[e ognu:no]
 TOI020	e il mio paese quindi è così. poi man mano sali, perché il nostro paese è fatto: di scale,
 TOI020	e ci sono i vari quartie:ri. quindi c'è:
-TOI020	#eh (ngape) la lavanga che era dove abitavo io perché c'era stata una vala:nga
+TOI020	eh (ngape) la lavanga che era dove abitavo io perché c'era stata una vala:nga
 TOI020	e [quindi per]ché il nostro è un paese franoso
 TOR004	[ah ecco].
 TOI020	e quindi
@@ -1050,7 +1050,7 @@ TOR004	è alto?
 TOI020	è alto, è novecent[o:: metri],
 TOR004	[ah beh quindi è (.) m]ontagna pra[ticamente].
 TOI020	[monta]gna, sì.
-TOI020	#e quindi da noi si chiama ngape la lavanga poi c'è: la surutedde perché c'è è un=eh
+TOI020	e quindi da noi si chiama ngape la lavanga poi c'è: la surutedde perché c'è è un=eh
 TOI020	e:::h=m=e:h
 TOI020	un sentiero ve~ della parte vecchia quindi dove si andava verso la campagna.
 TOI020	e quindi la chiamavano così,
@@ -1062,24 +1062,24 @@ TOR004	a:h sì me ne ave(v)an parlato di que[sta co]sa qua
 TOI020	[mh]
 TOI020	poi c'è:: il calvario e:h è quest[o::: m]onte: un pochino più in alto,
 TOR004	[monte]?
-TOI020	#e poi c'è::: ngape lo puo:sce ngape l'a:nge c(io)è c'è: t[utto, ab]biamo tutti i quartieri. e nel nostro paese le famiglie
+TOI020	e poi c'è::: ngape lo puo:sce ngape l'a:nge c(io)è c'è: t[utto, ab]biamo tutti i quartieri. e nel nostro paese le famiglie
 TOR004	[tutti i quartieri].
 TOI020	si: eh riconoscono dai soprannomi.
 TOR004	sì dalla stir[pe].
 TOI020	[dalla] stirpe, °e:h° ma co~ b~ e:h ci sono per dire io sono arancion[i]
 TOR004	[sì]
-TOI020	#ma la mia stirpe si chiama gliere.
-TOI020	#e quindi siamo tutti, gliere.
+TOI020	ma la mia stirpe si chiama gliere.
+TOI020	e quindi siamo tutti, gliere.
 TOI020	l'altr~ c'è un altro arancioni che si chiama
-TOI020	#e::h musse luonge
+TOI020	e::h musse luonge
 TOR004	cioè muso lun[go]?
-TOI020	#[mus]o lungo perché noi gli~ gliere pe(r)ché c'era (un) ghiro.
+TOI020	[mus]o lungo perché noi gli~ gliere pe(r)ché c'era (un) ghiro.
 TOR004	ah
 TOI020	mh qualcuno che dove~ ave~
 TOI020	l'hanno trovato che dormi:va [avrà dormito] per un sacco di tempo quindi noi
 TOR004	[pensa te:]
 TOI020	abbiamo preso (.) quella roba lì.
-TOI020	#però della stesso cognome c'è l'altra stirpe che si chiama musse luonge
+TOI020	però della stesso cognome c'è l'altra stirpe che si chiama musse luonge
 TOI020	c'è: l'altra stirpe che si chiama:
 TOI020	°mh=e::h mh mh mh adesso non mi ricordo.° perché ho un fratello di latte,
 TOI020	perché una volta le donne d[avano: alla~] mia mamma che aveva perso il figlio
