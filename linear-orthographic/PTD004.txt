@@ -568,8 +568,8 @@ TOI043	un comico torinese no per cui dice che andavano in giro
 TOI042	mh mh
 TOI044	tutto quella zona lì era
 TOI043	facevano
-TOI043	f~ faceva~ eh eh esatto
 TOI044	macario mh farà sì ma dopo
+TOI043	f~ faceva~ eh eh esatto
 TOI043	erano quelli che praticamente facevano tipo le le le riviste
 TOI043	il teatro nel nel nelle piole
 TOI043	e si esibivano nelle piole
@@ -684,7 +684,7 @@ TOI043	tutti capivano che eri stato al casino per cui
 TOI042	questa è vera perché d~ d~ de el flit è restata a torino
 TOI043	e quindi
 TOI042	per dire mandare via in qualche area adesso non lo so
-TOI042	c'è uno che ti pesa d~ deje el flit fare in modo che se ne vada
+TOI042	cè uno che ti pesa d~ deje el flit fare in modo che se ne vada
 TOI043	eh esatto
 TOI043	quindi era così xxx
 TOI042	perché queste madame oramai in disarmo del del casino
@@ -1303,8 +1303,8 @@ TOI042	corso vazzi è quello immortalato da dario argento anche
 TOI043	eh sì
 TOI044	eh da lì è proprio la parte lì è proprio la
 TOR001	mh mh
-TOI043	eh sì
 TOI044	questa clinica sanatrix è pare forse una clinica xxx che poi non
+TOI043	eh sì
 TOI043	ma infatti tra l'altro
 TOI043	è è tutta una zona liberty bellissima
 TOI044	sono andata a cercarlo ehm
@@ -1432,8 +1432,8 @@ TOR001	mhmhmh
 TOI044	è un tentativo di relazione
 TOI044	in una mh una parte
 TOI044	difficile eh
-TOR001	mhmh
 TOI044	cioè
+TOR001	mhmh
 TOI044	perché lì anche le scuole che ci sono
 TOR001	mh mh
 TOI044	eh la la scuola di fronte a
@@ -1932,7 +1932,7 @@ TOI042	quel mini grattacielo xxx
 TOI042	lì c'era la velosolex
 TOR001	mhmh
 TOI042	quella in nella canzone di gipo
-TOI042	l'hai catate el velosolex per culé
+TOI042	lhai catate el velosolex per culé
 TOI042	che era una bici a motore
 TOI044	sì
 TOR001	okay
@@ -2324,8 +2324,8 @@ TOI043	che si sono molto degrada~
 TOI043	al~ cioè alcune che si sono molto valorizzate
 TOI043	come dicevo prima per il quadrilatero
 TOI043	e altre che si sono molto degradate
-TOI043	come come appunto valentino mh
 TOI044	cioè xxx questa
+TOI043	come come appunto valentino mh
 TOI044	specialmente una zona di quel tipo lì
 TOI043	mh
 TOI043	eh

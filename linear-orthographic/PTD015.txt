@@ -568,8 +568,8 @@ TOI074	no va bene
 TOI072	peró una pizza tipo l'hamburger di chianina con le patatine insomma sui dodici euro quindici euro cioé abbastanza
 TOI074	ah che fame
 TOR001	cambiamo argomento
-TOI073	basta
 TOI072	no
+TOI073	basta
 TOI072	poi ci sono i tartufi i formaggi i vini
 TOI073	xxx
 TOI072	un sacco di cose
@@ -1283,8 +1283,8 @@ TOR001	beh é molto bella come zona
 TOI073	é bellissimo il sermig
 TOI073	sei stata mai
 TOI074	no
-TOI073	andiamo
 TOI072	eh
+TOI073	andiamo
 TOI072	vai
 TOI073	andiamo
 TOR001	va bene

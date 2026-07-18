@@ -24,8 +24,8 @@ TOI019	((ride)) (io non sto l~)
 TOI019	GUARDO lì ma
 TOI019	#ma edoardo ma siamo già arriv~ seme già arruate a rionero
 TOI019	#ma sì ma tu non te ne ncarcà
-TOI019	((ride))
 TOR004	((ride))
+TOI019	((ride))
 TOI019	e allora mi porta fino a foggia
 TOI019	ci porta fino a foggia.
 TOI019	#xxx bell::e

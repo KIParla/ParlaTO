@@ -582,8 +582,8 @@ TOI043	[un comico] torinese no, per cui [dice] che andavano in gi[ro]
 TOI042	[mh mh]
 TOI044	[tu]tto quella [zona lì era]
 TOI043	[facevano:]
-TOI043	[f~ faceva~ (.) eh eh esatto]
 TOI044	[macario mh (.) farà (sì ma) dopo]
+TOI043	[f~ faceva~ (.) eh eh esatto]
 TOI043	[erano quelli] che praticamente facevano tipo le le le riviste
 TOI043	il teatro: nel nel nelle piole
 TOI043	e si esi[bivano nelle piole]
@@ -1356,8 +1356,8 @@ TOI042	corso vazzi è quello im[mortalato] da dario argento an[che]
 TOI043	[eh sì]
 TOI044	[e:h da] lì è proprio la parte lì è proprio la
 TOR001	[mh mh]
-TOI043	[eh sì]
 TOI044	[questa] (.) clinica sanatrix è pare forse una clinica [xxx che poi] non
+TOI043	[eh sì]
 TOI043	[ma infatti (.) tra l'altro]
 TOI043	è [è tutta una zona liberty bellissi]ma
 TOI044	[sono andata a cercarlo e:hm]
@@ -1488,8 +1488,8 @@ TOR001	mhmhmh
 TOI044	è un tentativo di: relazione
 TOI044	in una m:h una parte:
 TOI044	difficile eh
-TOR001	[mhmh]
 TOI044	[cioè]
+TOR001	[mhmh]
 TOI044	perché lì anche le scuole che ci sono
 TOR001	mh mh
 TOI044	e:h la la scuola di fronte a:
@@ -2417,8 +2417,8 @@ TOI043	che si sono molto degrada~
 TOI043	al~ cioè alcune che si sono molto valorizzate
 TOI043	come dicevo prima per il quadrilatero
 TOI043	e altre che si sono molto degradate
-TOI043	[come come appunto valentino] mh
 TOI044	[c(io)è xxx questa:]
+TOI043	[come come appunto valentino] mh
 TOI044	specialmente una zo[na] di quel tipo lì
 TOI043	[mh]
 TOI043	eh

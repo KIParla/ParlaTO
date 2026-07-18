@@ -509,7 +509,7 @@ TOR007	[mh mh]
 TOI051	noi siamo la banda dei defun[ti]
 TOR007	[a:]:h ((ride))
 TOI051	e::h (.) bertina si chiama
-TOI052	°((ride))°
+TOI052	((ride))
 TOI051	io quel nome lì non l'avevo mai sentito
 TOI051	non mi ricordavo mai
 TOI051	e allora non la chiamavo mai per nome

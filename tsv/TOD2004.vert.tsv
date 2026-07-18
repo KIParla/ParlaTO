@@ -10,7 +10,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1-3	TO999	1	1	3	dalle	dalle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1-4	TO999	1	1	4	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1-5	TO999	1	1	5	importanti,	importanti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-1-6	TO999	1	1	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1-6	TO999	1	1	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1-7	TO999	1	1	7	quanti	quanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1-8	TO999	1	1	8	hanni	hanni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1-9	TO999	1	1	9	hai?	hai	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5.883	_	_	_	_
@@ -106,7 +106,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 22-0	TO084	22	22	0	pechinese.	pechinese	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=43.681|End=44.44	_	_	_	_
 23-0	TO084	23	23	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=44.886	_	_	_	_
 23-1	TO084	23	23	1	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-23-2	TO084	23	23	2	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=46.59	_	_	_	_
+23-2	TO084	23	23	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=46.59	_	_	_	_
 24-0	TO999	24	24	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=45.175	_	_	_	_
 24-1	TO999	24	24	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 24-2	TO999	24	24	2	cinese.	cinese	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=46.582	_	_	_	_
@@ -311,7 +311,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 63-5	TO084	63	63	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 63-6	TO084	63	63	6	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 63-7	TO084	63	63	7	cuciniamo	cuciniamo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-63-8	TO084	63	63	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+63-8	TO084	63	63	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 63-9	TO084	63	63	9	<sempre>.	sempre	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=124.665	_	Slow=0-6(0)	_	_
 64-0	TO999	64	64	0	mhmh.	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=125.011|End=125.456	_	_	_	_
 65-0	TO084	65	65	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=125.531	_	_	_	_
@@ -349,10 +349,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 67-14	TO084	67	67	14	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 67-15	TO084	67	67	15	focolaio	focolaio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 67-16	TO084	67	67	16	tranquillo:,	tranquillo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=139.574	9x1	_	_	_
-68-0	TO999	68	68	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=139.656|End=140.476	_	_	_	_
+68-0	TO999	68	68	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=139.656|End=140.476	_	_	_	_
 69-0	TO084	69	69	0	per	per	_	_	_	_	_	linguistic	_	none	_	Begin=140.726	_	_	_	_
 69-1	TO084	69	69	1	quello	quello	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-69-2	TO084	69	69	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+69-2	TO084	69	69	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 69-3	TO084	69	69	3	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 69-4	TO084	69	69	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 69-5	TO084	69	69	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -371,7 +371,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 72-5	TO999	72	72	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 72-6	TO999	72	72	6	casa	casa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 72-7	TO999	72	72	7	perché	perché	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-72-8	TO999	72	72	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+72-8	TO999	72	72	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 72-9	TO999	72	72	9	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 72-10	TO999	72	72	10	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 72-11	TO999	72	72	11	senta	senta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -403,7 +403,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 75-8	TO084	75	75	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-9	TO084	75	75	9	pareti	pareti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-10	TO084	75	75	10	colorate.	colorate	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-75-11	TO084	75	75	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+75-11	TO084	75	75	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 75-12	TO084	75	75	12	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-13	TO084	75	75	13	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-14	TO084	75	75	14	punto	punto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -417,7 +417,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 76-4	TO084	76	76	4	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 76-5	TO084	76	76	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 76-6	TO084	76	76	6	parete	parete	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-76-7	TO084	76	76	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+76-7	TO084	76	76	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 76-8	TO084	76	76	8	diversa.	diversa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=166.956	_	_	_	_
 77-0	TO999	77	77	0	okay.	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=166.99|End=167.556	_	_	_	_
 78-0	TO084	78	78	0	quindi::	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=167.629|End=168.48	5x2	_	_	_
@@ -484,7 +484,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 87-20	TO999	87	87	20	periodo,	periodo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=194.254	_	_	_	_
 88-0	TO084	88	88	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=194.254	_	_	_	_
 88-1	TO084	88	88	1	ho	ho	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-88-2	TO084	88	88	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+88-2	TO084	88	88	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 88-3	TO084	88	88	3	sempre:	sempre	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
 88-4	TO084	88	88	4	vissuto	vissuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 88-5	TO084	88	88	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -642,7 +642,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 121-0	TO084	121	121	0	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	none	_	Begin=247.465	_	_	_	_
 121-1	TO084	121	121	1	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 121-2	TO084	121	121	2	sola.	sola	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
-121-3	TO084	121	121	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=248.831	_	_	_	_
+121-3	TO084	121	121	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=248.831	_	_	_	_
 122-0	TO084	122	122	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=249.354	_	_	_	_
 122-1	TO084	122	122	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 122-2	TO084	122	122	2	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -810,7 +810,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 147-4	TO084	147	147	4	riesce	riesce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 147-5	TO084	147	147	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 147-6	TO084	147	147	6	condividere	condividere	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-147-7	TO084	147	147	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+147-7	TO084	147	147	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 147-8	TO084	147	147	8	niente	niente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 147-9	TO084	147	147	9	di:	di	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	1x1	_	_	_
 147-10	TO084	147	147	10	mh,	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=315.448	_	_	_	_
@@ -868,7 +868,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 157-7	TO084	157	157	7	rispetto.	rispetto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=339.521	_	_	_	_
 158-0	TO084	158	158	0	perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=339.954	_	_	_	_
 158-1	TO084	158	158	1	se	se	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-158-2	TO084	158	158	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+158-2	TO084	158	158	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 158-3	TO084	158	158	3	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 158-4	TO084	158	158	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 158-5	TO084	158	158	5	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -886,7 +886,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 160-0	TO084	160	160	0	quello	quello	_	_	_	_	_	linguistic	_	none	_	Begin=344.926	_	_	_	_
 160-1	TO084	160	160	1	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 160-2	TO084	160	160	2	me:	me	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	1x1	_	_	_
-160-3	TO084	160	160	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+160-3	TO084	160	160	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 160-4	TO084	160	160	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 160-5	TO084	160	160	5	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 160-6	TO084	160	160	6	base	base	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -902,7 +902,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 161-8	TO999	161	161	8	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 161-9	TO999	161	161	9	torino?	torino	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=349.826	_	_	_	_
 162-0	TO084	162	162	0	<sempre>	sempre	_	_	_	_	_	linguistic	_	none	_	Begin=349.826	_	Slow=0-6(0)	_	_
-162-1	TO084	162	162	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+162-1	TO084	162	162	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 162-2	TO084	162	162	2	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 162-3	TO084	162	162	3	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 162-4	TO084	162	162	4	sempre.	sempre	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=353.023	_	_	_	_
@@ -1113,7 +1113,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 193-5	TO084	193	193	5	quella,	quella	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=435.931	_	_	_	_
 194-0	TO084	194	194	0	ti	ti	_	_	_	_	_	linguistic	_	none	_	Begin=436.415	_	_	_	_
 194-1	TO084	194	194	1	dico	dico	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-194-2	TO084	194	194	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+194-2	TO084	194	194	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 194-3	TO084	194	194	3	quale	quale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 194-4	TO084	194	194	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 194-5	TO084	194	194	5	stato	stato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1170,7 +1170,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 204-2	TO084	204	204	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 204-3	TO084	204	204	3	stato	stato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 204-4	TO084	204	204	4	veramente	veramente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-204-5	TO084	204	204	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+204-5	TO084	204	204	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 204-6	TO084	204	204	6	<emozionante>,	emozionante	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=461.078	_	Slow=0-11(0)	_	_
 205-0	TO084	205	205	0	passare	passare	_	_	_	_	_	linguistic	_	none	_	Begin=461.39	_	_	_	_
 205-1	TO084	205	205	1	pe:r	per	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	1x1	_	_	_
@@ -1186,7 +1186,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 207-5	TO084	207	207	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 207-6	TO084	207	207	6	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 207-7	TO084	207	207	7	era	era	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-207-8	TO084	207	207	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+207-8	TO084	207	207	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 207-9	TO084	207	207	9	<nessuno>,	nessuno	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=468.583	_	Slow=0-7(0)	_	_
 208-0	TO084	208	208	0	vedere	vedere	_	_	_	_	_	linguistic	_	none	_	Begin=469.106	_	_	_	_
 208-1	TO084	208	208	1	queste	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1311,7 +1311,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 225-0	TO084	225	225	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=514.15	_	_	_	_
 225-1	TO084	225	225	1	ballare,	ballare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=515.106	_	_	_	_
 226-0	TO084	226	226	0	ero	ero	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=515.658	_	_	_	_
-226-1	TO084	226	226	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+226-1	TO084	226	226	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 226-2	TO084	226	226	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 226-3	TO084	226	226	3	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 226-4	TO084	226	226	4	poche	poche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1359,11 +1359,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 233-4	TO084	233	233	4	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-5	TO084	233	233	5	ritmo	ritmo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-6	TO084	233	233	6	del	del	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-233-7	TO084	233	233	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+233-7	TO084	233	233	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 233-8	TO084	233	233	8	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-9	TO084	233	233	9	musica	musica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-10	TO084	233	233	10	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-233-11	TO084	233	233	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+233-11	TO084	233	233	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 233-12	TO084	233	233	12	nonostante	nonostante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-13	TO084	233	233	13	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 233-14	TO084	233	233	14	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1376,7 +1376,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 234-1	TO084	234	234	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 234-2	TO084	234	234	2	poi:	poi	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
 234-3	TO084	234	234	3	<scivoloni::>	scivoloni	_	_	_	_	_	linguistic	_	none	_	_	8x2	Slow=0-9(0)	_	_
-234-4	TO084	234	234	4	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=542.186	_	_	_	_
+234-4	TO084	234	234	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=542.186	_	_	_	_
 235-0	TO084	235	235	0	>cose	cose	_	_	_	_	_	linguistic	_	none	_	Begin=542.671	_	Fast=0-4(0)	_	_
 235-1	TO084	235	235	1	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
 235-2	TO084	235	235	2	genere<	genere	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
@@ -1399,7 +1399,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 238-4	TO084	238	238	4	interessante	interessante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 238-5	TO084	238	238	5	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 238-6	TO084	238	238	6	serata.	serata	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=552.094	_	_	_	_
-239-0	TO999	239	239	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=552.133|End=552.806	_	_	_	_
+239-0	TO999	239	239	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=552.133|End=552.806	_	_	_	_
 240-0	TO999	240	240	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=553.208	_	_	_	_
 240-1	TO999	240	240	1	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 240-2	TO999	240	240	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1482,7 +1482,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 252-7	TO084	252	252	7	rimanere	rimanere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 252-8	TO084	252	252	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 252-9	TO084	252	252	9	sola:	sola	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	3x1	_	_	_
-252-10	TO084	252	252	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+252-10	TO084	252	252	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 252-11	TO084	252	252	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 252-12	TO084	252	252	12	sentire	sentire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 252-13	TO084	252	252	13	sai	sai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1548,7 +1548,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 264-2	TO084	264	264	2	certa	certa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 264-3	TO084	264	264	3	età,	età	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=617.518	_	_	_	_
 265-0	TO084	265	265	0	comunque:	comunque	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=618.126	7x1	_	_	_
-265-1	TO084	265	265	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+265-1	TO084	265	265	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 265-2	TO084	265	265	2	penso	penso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 265-3	TO084	265	265	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 265-4	TO084	265	265	4	debba	debba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1575,7 +1575,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 269-1	TO084	269	269	1	conoscer~	conoscer~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 269-2	TO084	269	269	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 269-3	TO084	269	269	3	affrontare	affrontare	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-269-4	TO084	269	269	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+269-4	TO084	269	269	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 269-5	TO084	269	269	5	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 269-6	TO084	269	269	6	difficoltà,	difficoltà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=630.023	_	_	_	_
 270-0	TO084	270	270	0	<affrontare	affrontare	_	_	_	_	_	linguistic	_	none	_	Begin=630.741	_	Slow=0-10(0)	_	_

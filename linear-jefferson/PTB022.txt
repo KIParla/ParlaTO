@@ -40,7 +40,7 @@ TOR002	[noi stavamo] in via
 TOI075	[sono stato]
 TOI075	battezzato a maria ausiliatrice
 TOR001	mhmh
-TOI075	sapete dov'è la chiesa (.) [] di maria ausiliatrice?
+TOI075	sapete dov'è la chiesa (.) di maria ausiliatrice?
 TOR001	[sì],
 TOI075	mio padre anche lui era un torinese DOC
 TOI075	lui è stato battezzato alla chiesa dei santi MARTIRI
@@ -63,7 +63,7 @@ TOI075	va giù verso il po
 TOI075	prima di arrivare al fondo,
 TOI075	c'è una piazza,
 TOR001	mhmh
-TOI075	che si chiama x piazza maria teresa (.) [] considerato un quartiere molto chic.
+TOI075	che si chiama x piazza maria teresa (.) considerato un quartiere molto chic.
 TOR001	[okay]
 TOR001	[okay]
 TOI075	[xx]
@@ -103,7 +103,7 @@ TOI075	a torino il quartiere: diciamo
 TOI075	delle persone più
 TOI075	eleganti la crocetta. [xx] avrà sentito (.) xx x noi non c'erano le persone della crocetta. persone norma:li
 TOR001	[mhmh]
-TOI075	operai, artigiani, (.) [] (così nel) genere
+TOI075	operai, artigiani, (.) (così nel) genere
 TOR001	[mhmh]
 TOR001	okay.
 TOR001	e ah lei prima ha accennato alla guerra
@@ -545,7 +545,7 @@ TOI075	#per esempio c'era anche il fogolar furlan
 TOR002	mhmh
 TOI075	che riuniva i fur~ i i::: gli originari del friuli
 TOR002	mhmhmh
-TOI075	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso (.) [] torino
+TOI075	del veneto eh c'è stato un tempo che dal veneto c'è stata molta immigrazione verso (.) torino
 TOR001	[certo]
 TOI075	poi adesso xxxx sarebbe il contrario
 TOI075	nel veneto (.) sono più ricchi di noi

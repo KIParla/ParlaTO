@@ -131,8 +131,8 @@ TOI012	festa
 TOR001	okay
 TOR001	la domanda dopo è lavori in proprio o sei dipendente ma mi sa che
 TOI012	beh dipendente
-TOI013	dipendente certo
 TOR001	di entrambi vero mh mh
+TOI013	dipendente certo
 TOR001	avete sempre fatto lo stesso lavoro
 TOI013	no assolutamente no
 TOI012	no
@@ -227,8 +227,8 @@ TOR001	okay cosa vorresti fare
 TOI013	eh il mio lavoro raggruppa tantissime mansione dall'attivare il cliente dal lavorare in centrale dal lavorare solo in strada
 TOI013	quindi vorrei mh cambiare
 TOI013	e lavorare solo in strada
-TOI013	eliminare la parte del contatto col pubblico insom~
 TOR001	okay
+TOI013	eliminare la parte del contatto col pubblico insom~
 TOI013	sì sì
 TOR001	è pesante
 TOI013	è no è che lo sto facendo da settembre
@@ -432,7 +432,7 @@ TOI012	o l'editoria forse ancora un pochino
 TOI012	riesci a lavorare se vuoi fare qualunque altro lavoro
 TOI012	o arranchi o preghi nel colpo di fortuna
 TOI012	o se no
-TOR001	puoi dire culo eh non succede niente okay.
+TOR001	puoi dire culo eh non succede niente okay
 TOI012	culo
 TOI012	colpo di culo
 TOI012	ehm eh
@@ -568,8 +568,8 @@ TOI012	e per evidente ragioni
 TOI012	vabbè nel nostro caso ci è andata di culo
 TOI012	però tante coppie anche giovani rischiano tra virgolette l'andare a convivere fin da subito che abbassi dimezzi le spese
 TOI013	mh
-TOI013	è vero
 TOR001	eh certo
+TOI013	è vero
 TOI012	mutualmente
 TOR001	beh ma noi abbiamo ini~ adesso non voglio però noi abbiamo iniziato a convivere molto presto perché non essendo di qua
 TOI012	certo
@@ -711,8 +711,8 @@ TOI013	se no se ne hai di più di venticinque paghi cinque euro al mese di abbon
 TOI013	però sempre meno di quattordici centesimi al minuto
 TOI012	vabbè comunque buono
 TOR002	beh buo~ molto meno di enjoy
-TOI013	sì sì
 TOR001	enjoy è carissima
+TOI013	sì sì
 TOI012	che comnque ha ha abbasato le of~ le
 TOI013	enjoy è carissima sì
 TOI013	però enjoy se tu ti fermi per esempio a comprare le sigarette o sali a casa a prendere le chiavi puoi metterla in pausa
@@ -1396,22 +1396,22 @@ TOI012	non ne abbiamo a lingotto
 TOI012	però
 TOI013	lingotto no
 TOI012	infatti
-TOI012	andiamo a farci degli amici a lingot~ visto che il biscotto del fortuna dice devo farmi nuovi amici
+TOI012	andiamo a farci degli amici a lingotvisto che il biscotto del fortuna dice devo farmi nuovi amici
 TOI013	domani te lo trovo se vuoi
 TOR001	xxx
 TOI013	lo vuole un amico
 TOR001	quindi comunque
 ???	con la foto
-TOI013	con la foto
 TOR001	esatto
+TOI013	con la foto
 TOR001	sparsi per torino g~
 TOI012	sì
 TOI013	sì
 TOR001	okay
 TOR001	em eh vi piace la zona in cui abitate
 TOI013	eh nì
-TOI013	ci sono molte cose che cambierei della mia zona
 TOR001	okay dimmi
+TOI013	ci sono molte cose che cambierei della mia zona
 TOR001	sì dimmi
 TOI013	ehm eh cosa cambierei o cosa non mi piace
 TOR001	sì cosa ti
@@ -1435,8 +1435,8 @@ TOI012	è colpa di voi meridionali
 TOI013	quarant'anni fa magari sì ora non più
 TOI013	però
 TOI013	eh il comunque il problema dell'immigrazione da noi c'è
-TOI013	veramente da noi c'è sì assolutamente sì
 TOR001	si sente tanto lì
+TOI013	veramente da noi c'è sì assolutamente sì
 TOR001	mh mh
 TOR001	e che conseguenze ha su~ sulla cioè sulla dimensione del quartiere
 TOI013	eh la criminalità
@@ -1749,8 +1749,8 @@ TOI013	lingotto
 ???	adesso lui è tutto di lingotto
 TOI012	ah
 TOI012	io vorrei proprio
-TOI013	esatto
 TOR001	xxx lingotto
+TOI013	esatto
 TOI012	l'unica che conosco è il the space eh
 TOI012	in via livorno che è dentro a comunque una sala giochi
 TOI013	sì sì sì sì
@@ -1881,8 +1881,8 @@ TOI013	cioè della circoscrizione tra virgolette
 TOR001	okay okay okay
 TOR001	ma però di~ cioè dicevate prima delle olimpiadi e il cambiamento è positivo immagino no
 TOI012	sì
-TOI013	sì sì sì per me sì
 TOR001	okay
+TOI013	sì sì sì per me sì
 TOR001	e
 TOR001	che tipo di cambiamento ha portato
 TOI013	lui non molto
@@ -1986,8 +1986,8 @@ TOR001	cioè non lo so
 TOI013	sì sì
 TOR001	città d'arte
 TOI012	sì sì
-TOI013	sì
 TOR001	cioè in tre~ cioè non lo so mi immagino non lo so però a me da bambina che c'avevo qua gli zii così per me torino era
+TOI013	sì
 TOR001	grigia la fiat fabbrica eh
 TOI013	era milano
 TOI013	eh torino era milano
@@ -2174,8 +2174,8 @@ TOI012	sì ma è mia
 TOI013	sul piano del turismo io son contento perché comunque m eh
 TOI013	viene valorizzata ci son più soldi come dicevamo prima è molto bello sì
 ???	che vengono poi investiti per i torinesi
-TOI013	sì sì sì assolutamente sì
 TOR001	certo
+TOI013	sì sì sì assolutamente sì
 TOI013	però
 TOR001	è un giapponese in realtà
 TOI013	te lo
@@ -2193,8 +2193,8 @@ TOI012	sì
 TOI012	eh eh
 TOI012	torino secondo me è a livello di città italiana è una delle più belle
 TOI013	xxx
-TOI013	mh eh
 TOR001	mh mh
+TOI013	mh eh
 TOI012	non tutte le architetture abbiamo parchi stupendi case stupende
 TOI012	musei stupendi
 TOI012	il po
@@ -2487,8 +2487,8 @@ TOR001	d'accordo
 TOI013	vabbè certo
 TOR001	e in che zona state di solito
 TOI012	centro
-TOI013	sì in centro
 TOR001	centro
+TOI013	sì in centro
 TOR001	okay
 TOR001	musica ascoltate musica
 TOI013	i sì
@@ -2711,8 +2711,8 @@ TOR001	mh mh
 TOI013	non seguo particolari film eh
 TOI013	cioè un eh un film mi piace lo guardo
 TOR001	okay
-TOI013	tutto qua
 TOR001	va bene
+TOI013	tutto qua
 TOI012	io quello che voi in casa avete tra cd e libri eccetera io ho il doppio in film
 TOR001	okay
 TOR001	molto bene

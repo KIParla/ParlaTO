@@ -1172,7 +1172,7 @@ TOI060	idem eh magari
 TOI060	adesso magari mi sbaglierò tutti i metallica
 TOR001	mh mh
 TOI060	ci sono i grandi festival
-TOI060	penso all'anno scorso che appunto a~ guns'n'roses e iron maiden me li sono visti a firenze
+TOI060	penso all'anno scorso che appunto a~ guns'nroses e iron maiden me li sono visti a firenze
 TOR001	mh mh
 TOI060	però ripeto a torino a suo tempo già col traffic non sono venuti questi mostri
 TOR001	eh infatti infatti

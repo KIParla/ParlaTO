@@ -1100,8 +1100,8 @@ TOI041	mi muovo tra casa mia e il centro
 TOI041	o casa mia e
 TOI041	ehm
 TOI041	via asinari quella zona lì
-TOI041	insomma comunque mi muovo prevalentemente coi mezzi pubblici
 TOR001	mh mh mh mh
+TOI041	insomma comunque mi muovo prevalentemente coi mezzi pubblici
 TOI041	qualche volta anche con la macchina
 TOR001	mh mh
 TOI041	che ho e quindi
@@ -1177,8 +1177,8 @@ TOI041	xxxxxx
 TOR001	beh bello no c'è
 TOI041	ottimo bellissimo
 TOI041	direi di sì anche perché è una città bellissima quindi
-TOI041	meno male che
 TOR001	sono sono d'accordo
+TOI041	meno male che
 TOI041	entra nei percorsi turistici
 TOR001	però
 TOR001	spesso no cioè adesso xxx
@@ -1236,8 +1236,8 @@ TOI041	che frequento io
 TOI041	che sono comunque
 TOI041	in qualche modo
 TOI041	paracentrali
-TOI041	perché in ogni caso sono dei quar~
 TOR001	okay
+TOI041	perché in ogni caso sono dei quar~
 TOI041	eh
 TOI041	quando mi sposto
 TOI041	mi capita anche solo di passare magari coi mezzi

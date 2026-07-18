@@ -100,8 +100,8 @@ TOI050	la sapet sì
 TOR001	okay
 TOR001	eh dunque quando era piccolo parlava italiano o parlava un dialetto
 TOI050	italiano
-TOI050	io almeno penso là
 TOR001	italiano
+TOI050	io almeno penso là
 TOI049	eh ma beh
 TOI050	perché non hai mai parlato il veneto tu
 TOI049	eh no ma mia mamma eh
@@ -216,7 +216,7 @@ TOI050	eh dov'é indirizzo presidenti ah che abita in via vabbé ma quello non i
 TOR001	vabbé
 TOI050	san paolo che é dante di nanni
 TOR001	okay
-TOI050	ch'a j'è marco blu
+TOI050	cha j'è marco blu
 TOI050	eh corso ferruccio sessantacique di che siamo noi
 TOR002	sì dove ci siam visti
 TOR001	okay okay dove siamo sì
@@ -447,8 +447,8 @@ TOI049	vado a fare il partigiano
 TOI049	eh
 TOI049	dato i miei libretti
 TOR002	mh
-TOI049	che mh me ne vado vado vado via
 TOR001	mh mh
+TOI049	che mh me ne vado vado vado via
 TOI049	eh mi pare adesso non posso dire giusti il
 TOR002	certo
 TOI049	sarà stato dicembre novembre millenovencen~ non mi ricordo non importa
@@ -583,8 +583,8 @@ TOI050	nere
 TOI049	no ma non non so se eran le briga~
 TOI050	i fascisti
 TOI049	ci son già i fascisti
-TOR002	mh mh
 TOR001	okay
+TOR002	mh mh
 TOI049	scendi un
 TOI049	un una fermata prima
 TOR001	prima
@@ -631,8 +631,8 @@ TOR001	eh okay okay okay
 TOR002	sì sì sì sì sì
 TOI049	eh
 TOR002	noi lo capiamo il piemontese eh
-TOI049	sì
 TOR001	ah se é più se é più comodo
+TOI049	sì
 TOR002	sì sì sì
 TOI049	no ma mica perché sia più comodo é che magari
 TOR002	sì sì sì
@@ -812,8 +812,8 @@ TOI050	sì
 TOI050	in quello lì c'é tutto il racconto adesso tanto c'hanno la la
 TOI049	delle fotografie cosa
 TOI050	la fotocopia
-TOR002	sì sì
 TOR001	mh mh
+TOR002	sì sì
 TOI050	l'ha già fatta la fotocopia
 TOI049	perché è un problema io ormai ho la testa
 TOR001	non si preoccupi
@@ -936,8 +936,8 @@ TOR002	mh mh mh
 TOI049	io sono stato uno di quelli fortunati forse correvo più degli altri
 TOI049	eh
 TOI049	ho avuto tanta fortuna
-???	grazie al sottoscalo della gallina
 TOR001	mh mh
+???	grazie al sottoscalo della gallina
 TOR001	eh cos'è successo
 TOI049	pol ese
 ???	é vero
@@ -988,8 +988,8 @@ TOI049	vanno via io prendo la strada
 TOI050	che se lo beccavano ammazzavano anche gli altri
 TOR001	eh certo
 TOR002	eh sì
-TOI049	eh e sun andat eh
 TOR001	certo
+TOI049	eh e sun andat eh
 TOI049	scappando dalla casa
 TOR001	mh mh
 TOI049	eh nell'angolo
@@ -1024,7 +1024,7 @@ TOR002	si rideva poco
 TOI049	ecco ad ogni modo
 TOI049	e poi sono andato
 TOI049	eh
-TOI049	'ndua j'era me cumandant
+TOI049	ndua j'era me cumandant
 TOR001	mh mh
 TOI049	e chi s na ricorda
 TOR001	cosa sta guardando adesso
@@ -1050,7 +1050,7 @@ TOI050	sì che che eri con lui che dicevi che volevo andare a fare il partigiano
 TOI050	é lui
 TOI049	non é venuto
 TOI050	mario era una uno di piazza carlina
-TOI049	l'ai pi nen guardaje non ho più guardato
+TOI049	lai pi nen guardaje non ho più guardato
 TOI050	e qui c'hai tutto le le date
 TOI050	le date di co~ di come ti sei mosso
 TOI049	me lo portate indietro la roba
@@ -1059,8 +1059,8 @@ TOI050	eh eh
 TOR002	ma noi facciamo le foto gliela non ce la portiamo proprio via
 TOR001	le lasciamo tutto eh lasciamo tutto no no ci mancherebbe
 TOI049	no era perché ci sono
-TOR002	sì sì
 TOR001	eh certo no no no certo
+TOR002	sì sì
 TOI050	lo dite
 TOR002	no ma noi facciamo le foto ve le lasciamo non ci portiamo via niente
 TOR001	ma vi lasciamo tutto eh
@@ -1095,8 +1095,8 @@ TOI049	eh i camion però noi in compenso andavamo poi
 TOI049	quando loro andavano via andavamo poi giù in paesi
 TOI049	eh portavamo via noi
 TOI049	i altri camion
-TOI050	lavorato come tipografo
 TOR001	mh mh mh certo
+TOI050	lavorato come tipografo
 TOI049	perché noi quando si andava a fare un'azione
 TOI049	si saliva dieci quindici venti
 TOI049	su un camion e si andava
@@ -1281,7 +1281,7 @@ TOI050	sono fuori
 TOI050	ce n'é fuori
 TOI049	niente
 ???	c'ho ancora il gusto del caffé
-TOI049	j'eru
+TOI049	jeru
 TOI049	eh sai gnanca mi perché
 TOI049	o giravo attorno alle cascine
 TOR001	vi spostavate mh mh mh
@@ -1293,8 +1293,8 @@ TOI050	del quarantatré e e sei arrivato a giugno del quarantacinque
 TOR001	del quarantatre giusto
 TOI049	del quarantatré
 TOI049	eh e ho finito
-TOR002	mh mh mh mh
 TOR001	caspita
+TOR002	mh mh mh mh
 TOR001	e beh
 TOR002	e il venticique aprile eravate qua
 TOI050	i venti mesi
@@ -1398,7 +1398,7 @@ TOI050	eh
 TOR001	certo
 TOI050	eh niente quando poi
 TOR001	e
-TOI050	ce~ ve~ ce~ ve~ han dicio ma stanno entrando i partigiani che and~ arrivavano da volpiano da settimo da lì dalla collina
+TOI050	ce ve~ ce~ ve~ han dicio ma stanno entrando i partigiani che and~ arrivavano da volpiano da settimo da lì dalla collina
 TOI050	allora i tedeschi hanno incomiciato
 TOI050	a scappare via e scappavano verso
 TOI050	verso leinì giù da di lì da la falchera
@@ -1820,8 +1820,8 @@ TOR001	aspetti che faccio una foto
 TOI049	questa ma è bruta
 TOR001	sì
 TOI050	é una é una che ho recuperato gino
-TOI049	sì sì ma
 TOR001	grazie
+TOI049	sì sì ma
 TOI050	ricordiamo il comandante siciliano ah
 TOI050	questo qui invece é la storia di un'intervista che gli han fatto a lui
 TOR001	mh mh
@@ -1849,8 +1849,8 @@ TOI049	eh
 TOR002	cioè cosa dicevano le persone quando gli dicevi eh io ho fattto il partigiano son stato in montagna come reagivano
 TOI049	di regola
 TOI049	niente di tutto quello
-TOI050	se vuole anche questo del comandante ba~ eh barbato
 TOR001	cioé
+TOI050	se vuole anche questo del comandante ba~ eh barbato
 TOI049	cioé difficilmente ne parlavamo
 TOR002	non
 TOI049	no
@@ -2027,7 +2027,7 @@ TOI049	lina
 TOI050	oh
 TOI049	qual è darera a piasa sulferin
 TOI050	eh la stip no la stipel eh la sip c'era
-TOI049	l'era la stipel
+TOI049	lera la stipel
 TOI049	sì
 TOR001	ah okay
 TOR002	mh
@@ -2059,8 +2059,8 @@ TOR001	mh mh
 TOI050	si vede che gli avevano mandato un avviso di andare
 TOR001	eh può essere
 TOR002	mh
-TOI050	e allora son andata la distretto militare
 TOR001	eh vabbé
+TOI050	e allora son andata la distretto militare
 TOI050	e ha fatto
 TOR001	ma no ma adesso vi lasciamo eh
 ??	tutti la stessa sera
@@ -2111,8 +2111,8 @@ TOI050	insieme
 TOI050	ormai la tecnologia é andata avanti eh
 ???	guarda lì come piove
 ??	ma sta piovendo oh
-TOR002	sta piovendo
 TOR001	sì
+TOR002	sta piovendo
 ???	e non ho l'ombrello io
 ??	sono senza ombrello anche io
 ???	ma dimmi te
@@ -2180,8 +2180,8 @@ TOI049	davanti all'elettrauto
 TOR002	sì sì sì sì sì
 TOR001	certo
 TOI050	che adesso l'elettrauto a l'è spustase andua j'è i preivi
-TOI049	sì
 TOR001	mh mh
+TOI049	sì
 TOI050	eh xx é lì dove c'é i preti lì dove c'é quella struttura che c'hanno anche
 ???	ah sì
 TOR002	mh mh mh mh

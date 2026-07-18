@@ -257,13 +257,13 @@ TOR005	ehm
 TOR005	quindi ehm
 ???	ah sei qua
 TOI024	eh eh eh
-TOI024	sta inten~
 ???	x
+TOI024	sta inten~
 TOR005	prego
 TOI024	eh
 TOI024	a i'è na tessera da fè
-TOI024	poi ha detto che dobbiamo a essere in due
 ???	eh
+TOI024	poi ha detto che dobbiamo a essere in due
 TOI024	adesso mi fa qualche domanda
 TOI024	eh
 TOI024	è l'altra mia collega
@@ -386,13 +386,13 @@ TOI024	ah mi ricordo poco
 TOI024	comunque in via meucci mi pare nove
 TOR005	ah okay eh va bene
 TOI024	mh eh c'era la
-TOI024	l'avviamento commerciale
 ???	eccomi
-TOI024	ecco
+TOI024	l'avviamento commerciale
 ???	oh
+TOI024	ecco
 TOR005	salve buongiorno
-TOI024	x eh
 ???	ce l'ho fatta
+TOI024	x eh
 TOI024	eh questa è l'altra mia collega
 TOR005	salve
 TOI024	eh
@@ -582,8 +582,8 @@ TOI024	sì
 TOR005	perché
 TOI024	sì nei dintorni nelle nei paesi
 ???	sì perché prima non c'è quasi mai visto che
-TOI024	eh
 ???	non può
+TOI024	eh
 ???	è un po' famoso
 ???	eh
 TOI024	è famo~
@@ -789,8 +789,8 @@ TOR005	allora
 TOR005	le do la liberatoria intanto
 TOI024	e intanto magari finiamo
 TOR005	la penna
-TOI024	le domande per me
 ???	dammi la biro
+TOI024	le domande per me
 TOR005	uno
 TOR005	ehm
 TOR005	allora
@@ -833,8 +833,8 @@ TOR005	anziché andare a milano o aosta
 TOR005	okay
 TOI024	mah eh torino è una bella città tranquilla
 TOI024	eh insomma più o meno
-TOI024	x la sera di giorno trovi x
 ???	era
+TOI024	x la sera di giorno trovi x
 ???	al~ allora torino era una bella città
 TOI024	se viene in questo borgo
 ???	tranquilla
@@ -846,8 +846,8 @@ TOI024	le dico vieni ad abitare in questo borgo
 TOI024	come ho fatto io
 TOR005	benissimo
 ???	sì
-TOI024	e vedrai che sarai bene accolto
 ???	questo sì xxx
+TOI024	e vedrai che sarai bene accolto
 TOI024	se è un uomo o una donna non lo so
 TOR005	va bene
 TOI024	sarai ben accolto

@@ -954,8 +954,8 @@ TOR001	ma perché anche gli altri tuoi nonni [stavano:: in zona]?
 TOR003	[sì a barriera sì]
 TOR001	in barriera
 TOR003	sì sì
-TOR003	in zona lì
 TOR001	((ride))
+TOR003	in zona lì
 TOR003	eh sì perché si son cosciuti a:l liceo [andavano al liceo] insieme [xxx]
 ???	[buongiorno]
 TOR001	[in barriera]
@@ -968,8 +968,8 @@ TOI035	sì era una zona che non c'era un granché non
 TOI035	[xxx]
 ???	[buongiorno]
 TOI035	[buongiorno]
-TOR003	[buongiorno]
 TOR001	[salve]
+TOR003	[buongiorno]
 TOI035	poi::: ((tossisce))
 TOI035	un pochino la barriera è migliorata han fatto qualche casa nuova,
 TOI035	han messo qualche negozio perché prima era una zona anche tanti artigiani
@@ -1386,8 +1386,8 @@ TOI035	il portare le pizze eh
 TOR001	abbiamo un fu[turo xx]
 TOR003	[speriamo::]
 TOI035	no per carità
-TOR003	((ride))
 TOR001	((ride))
+TOR003	((ride))
 TOI035	no non dico non dico ce[rto]
 TOR003	[sì sì]
 TOI035	[per un] giovane non è facile [vedere il futu]ro

@@ -116,8 +116,8 @@ TOI050	la sapet. (.) sì
 TOR001	okay
 TOR001	e:::h (.) dunque quando era piccolo parlava italiano o parlava un dialetto?
 TOI050	italiano
-TOI050	[io alme]no penso là
 TOR001	[italiano]?
+TOI050	[io alme]no penso là
 TOI049	eh [ma beh]
 TOI050	[perché non hai mai] parlato il veneto tu
 TOI049	e:h no ma mia mamma e::h
@@ -423,8 +423,8 @@ TOI049	facevo l~ (.) le commissioni per un negozio
 TOR001	mh mh
 TOI049	ma:
 TOI049	#via ruma vinteset
-TOR002	((ride))
 TOR001	((ride))
+TOR002	((ride))
 TOI049	ma neanche xxx no no (.) é troppo presto
 TOI049	facevo il tipo~ eh (.) lina
 TOI049	#co fasia l'ultim mesté ch'i l'ai fait?
@@ -484,8 +484,8 @@ TOI049	vado a fare il partigiano
 TOI049	e:h
 TOI049	dato i miei libretti
 TOR002	mh
-TOI049	[che:] m:h me ne vado vado vado via
 TOR001	[mh mh]
+TOI049	[che:] m:h me ne vado vado vado via
 TOI049	eh mi pare: (a)desso non posso dire giusti il
 TOR002	certo
 TOI049	sarà stato dicembre novembre millenovencen~ non mi ricordo [non importa]
@@ -632,8 +632,8 @@ TOI050	[nere]
 TOI049	no. [ma non non] so se eran le briga~
 TOI050	[i fascisti]
 TOI049	ci son già i fascisti
-TOR002	[mh mh]
 TOR001	[okay]
+TOR002	[mh mh]
 TOI049	scendi un:
 TOI049	un [una ferma]ta prima
 TOR001	[prima]
@@ -681,16 +681,16 @@ TOR001	[eh ok][ay okay okay]
 TOR002	[sì sì sì sì sì]
 TOI049	e:h
 TOR002	noi lo capiamo il piemontese eh
-TOI049	[sì]
 TOR001	[ah se é] più: se é più [comodo:]
+TOI049	[sì]
 TOR002	((ride)) [sì sì sì]
 TOI049	no ma: mica perché sia più comodo é che magari
 TOR002	sì sì sì
 TOR001	se le scappa qualche parola va bene lo stesso
 TOR001	((ride))
 TOR002	cume a ven a ven
-TOI049	#ecco va bin alura
 TOR001	((ride))
+TOI049	#ecco va bin alura
 TOR002	((ride))
 TOR001	okay
 TOI049	ad ogni modo niente [e:h]
@@ -790,7 +790,7 @@ TOR001	((ride))
 TOI049	e compagnia bella (.) che a me stava: sullo stomaco
 TOR001	((ride))
 TOI049	io volevo:
-TOI049	divertirmi (.) [] ecco e loro: (.) e un bel giorno m:h
+TOI049	divertirmi (.) ecco e loro: (.) e un bel giorno m:h
 TOR001	[certo]
 TOI049	non (a)desso non so più con chi ho parlat[o]
 TOR001	[mh] mh
@@ -877,8 +877,8 @@ TOI050	sì.
 TOI050	in quello lì c'é tutto il racconto adesso tanto c'hanno la la:
 TOI049	delle foto[grafie cosa]
 TOI050	[la fotocopia]
-TOR002	[sì sì]
 TOR001	[mh m:h]
+TOR002	[sì sì]
 TOI050	l'ha già fatta la fotoco[pia]
 TOI049	[perch]é è un problema io: ormai ho la testa
 TOR001	non si preoccupi
@@ -978,8 +978,8 @@ TOI049	e:h m'han ba~ m'han fatto aspettare un po' finché (.) e:h (c'è) venuto 
 TOR001	oka[y]
 TOI049	#[e] sono andato a finire: ecco m ricordu nen.
 TOI050	#as ricorda nen
-TOI049	val varaita c'è: allora se vado dritto andavo a san peyre
 TOR001	((ride))
+TOI049	val varaita c'è: allora se vado dritto andavo a san peyre
 TOR001	okay
 TOI049	e:h (.) a fine vallata
 TOR001	mh mh mh mh
@@ -1011,8 +1011,8 @@ TOI049	[io so]no stato uno di quelli fortunati forse (.) correvo più degli altr
 TOR001	((ride))
 TOI049	e:h
 TOI049	ho avuto tanta fortuna
-???	[grazie al] sottoscalo della gallina
 TOR001	[mh mh]
+???	[grazie al] sottoscalo della gallina
 TOR001	eh cos'è suc[cesso]?
 TOI049	#[pol ese]
 ???	é vero?
@@ -1024,8 +1024,8 @@ TOI049	#suta i: [i scalin]
 ???	[ha visto uscire una] gallina e ha [detto] ca~
 TOI049	[ma]
 TOI050	e lui s'é nascosto lì sotto
-TOI049	ecco adesso per dire lui mi ricorda
 TOR001	((ride))
+TOI049	ecco adesso per dire lui mi ricorda
 TOR002	((ride))
 TOI049	in val pel[lice]
 ???	[poi si] so sono eh (.) han fatto i gradini e lui era là sotto
@@ -1040,8 +1040,8 @@ TOI049	diciamo:
 TOI049	c'avevano circondati
 TOR002	mh mh mh
 TOI049	e io per scappare: dove mi metto?
-TOI050	apro un po'?
 TOR001	((ride))
+TOI050	apro un po'?
 TOI049	e:h c'era una casa >mi son trovato< la casa di fronte
 TOI049	ho bussa~ so c'eran tre gradini da salire
 TOI049	ho bussato la porta
@@ -1067,12 +1067,12 @@ TOI049	(a)desso non so cosa: han (ra)contato (.) ad ogni modo
 ??	((tossisce))
 TOI049	e:h vanno via
 TOI049	vanno via io prendo la strada
-TOI050	che se lo beccavano ammazzavano anche gli [altri]
 TOR001	((ride))
+TOI050	che se lo beccavano ammazzavano anche gli [altri]
 TOR001	[eh certo]
 TOR002	[eh sì]
-TOI049	#[e:h] e sun andat e:h
 TOR001	[certo]
+TOI049	#[e:h] e sun andat e:h
 TOI049	scappando dalla casa
 TOR001	mh mh
 TOI049	e:h (.) nell'angolo:
@@ -1148,8 +1148,8 @@ TOI050	eh eh
 TOR002	ma noi facciamo le foto gliela: [non ce la portiamo proprio via]
 TOR001	[le lasciamo tutto eh lasciamo tu]tto (.) no no ci mancherebbe
 TOI049	no: era perché ci son[o:]
-TOR002	[sì sì]
 TOR001	[eh cer]to no no no cer[to]
+TOR002	[sì sì]
 TOI050	[lo dite]
 TOR002	[no ma] noi facciamo le foto ve [le lasciamo] (.) [non ci portiamo via niente]
 TOR001	[ma vi lasciamo tutto eh]
@@ -1189,8 +1189,8 @@ TOI049	quando loro andavano via (.) andavamo poi: giù in paesi
 TOI049	e:h portavamo via noi
 TOR001	((ride))
 TOI049	i: altri camion
-TOI050	[lavorato come tipografo]
 TOR001	[>mh mh mh< certo]
+TOI050	[lavorato come tipografo]
 TOI049	[perché noi] quando si andava a fare un'azione
 TOI049	si saliva: dieci quindici venti
 TOI049	su un camion e si andava:
@@ -1384,7 +1384,7 @@ TOR002	[sì sì sì eh beh]
 TOR001	[cer][to]
 ???	[ma] va
 TOR001	certo
-TOR001	e le giornate di[ciamo invece quelle più:] (.) [] e:h (.) più o meno tranquille cosa facevate?
+TOR001	e le giornate di[ciamo invece quelle più:] (.) e:h (.) più o meno tranquille cosa facevate?
 TOI050	[sono fuori]
 ??	[vuoi un po' d'acqua]]?
 TOI050	ce n'é fuori
@@ -1403,8 +1403,8 @@ TOI050	del quaran[tatré e e sei] arrivato a giu[gno del quaranta]cinque
 TOR001	[del quarantatre giusto]?
 TOI049	[del quarantatré]
 TOI049	[e:h e ho finito]
-TOR002	[mh mh mh mh]
 TOR001	[caspita]
+TOR002	[mh mh mh mh]
 TOR001	e beh
 TOR002	e il venticique aprile eravate qua?
 TOI050	i [venti mesi]
@@ -1551,7 +1551,7 @@ TOI050	[e] é lunga eh?
 TOR001	é lunga ((ride))
 TOI050	((ride)) é lunga
 ??	però lì (.) spiega (.) [spiega bene]
-TOI050	[e:h ma la] (.) [] l'ha intervi[stato due o tre vol]te difatti io gli ho parlato ancora l'al~
+TOI050	[e:h ma la] (.) l'ha intervi[stato due o tre vol]te difatti io gli ho parlato ancora l'al~
 TOR001	[sì]
 ??	[più di adesso]
 ??	[eh spiega meglio d'a]desso (.) c(io)é
@@ -1738,8 +1738,8 @@ TOR001	davvero?
 TOI049	[sì]
 TOR001	wow
 TOR002	come se niente fosse
-TOI049	e::h
 TOR001	((ride))
+TOI049	e::h
 TOI050	altro che continuare la scuo[la io]
 TOR002	[e:h]
 TOR001	ce[rto]
@@ -1963,8 +1963,8 @@ TOR001	[sì]
 TOR001	((ride))
 TOR002	((ride))
 TOI050	é una é una che ho recuperato gino
-TOI049	[sì sì ma]
 TOR001	[grazie]
+TOI049	[sì sì ma]
 TOI050	ricordiamo (.) il comandante (.) siciliano ah
 TOI050	questo qui invece é la storia di un'intervista che gli han fatto a lui
 TOR001	mh mh
@@ -1995,8 +1995,8 @@ TOI049	[eh]
 TOR002	c(io)è cosa dicevano le persone quando gli dicevi: eh io ho fattto il partigiano son stato in montagna [come::: reagi]vano?
 TOI049	[di regola:]
 TOI049	niente di tutto quello
-TOI050	[se vuole anche questo del comandante ba~ e::h] barbato
 TOR001	[cioé]?
+TOI050	[se vuole anche questo del comandante ba~ e::h] barbato
 TOI049	[cioé: difficilmente ne parlavamo]
 TOR002	non:
 TOI049	[no]
@@ -2218,8 +2218,8 @@ TOR001	mh mh
 TOI050	si vede che gli avevano mandato:: un avviso di an[dare]
 TOR001	[e::h può esse]re
 TOR002	[m:h]
-TOI050	[e allora son] (a)ndata la distretto militare
 TOR001	[eh vabbé]
+TOI050	[e allora son] (a)ndata la distretto militare
 TOI050	e ha fatto::
 TOR001	ma no ma adesso [vi lasciamo eh]
 ??	[tutti la stessa sera]
@@ -2244,8 +2244,8 @@ TOR001	interrompiamo?
 TOR002	[eh]?
 TOR002	ma sì ma [lascialo lì]
 TOI050	[no ma::]
-??	e:h vabbé
 TOR001	((ride))
+??	e:h vabbé
 TOR002	va bene niente allora:: noi adesso noi ci studiamo tutte queste cose ci che avete d[ato]
 TOI050	[poi ci sentiamo]
 TOR002	[poi]::: (.) [ci sentia]mo ci vediamo lì in sede:: [in corso xxx riveniamo qua] se ci volete
@@ -2273,8 +2273,8 @@ TOI050	ormai la tecnologia é andata avanti [eh]
 TOR002	((ride))
 ???	[guarda lì] (.) come piove
 ??	ma sta piovendo? [o::h]
-TOR002	[sta piovendo]
 TOR001	[sì:::]
+TOR002	[sta piovendo]
 ???	e [non ho l'ombrello io]
 ??	[sono senza ombrello] anche io
 ???	ma dimmi [te]
@@ -2317,8 +2317,8 @@ TOR002	((ride)) eh allora
 TOR001	[caspita]
 TOR002	#[ma l'è stait 'n ura si a pa]rlé (.) eh
 TOI050	[al tre ago~]
-TOR002	((ride))
 TOR001	va benissimo
+TOR002	((ride))
 ??	eh sì
 TOR001	ci mancherebbe altr[o]
 TOI049	[no] é perché:: (.) mi spiac[e]
@@ -2338,8 +2338,8 @@ TOR002	pia[zza rivoli più o meno]
 TOI050	[eh io é da da quando mi so]no sposata che sono nella zona era[vamo in via] eravamo in via
 TOR002	((ride))
 TOR001	[ah beh]
-TOR002	[a::h]
 TOR001	((ride))
+TOR002	[a::h]
 TOI050	tra via frejus e via fras[sineto]
 TOR002	[e::h era a]ncora più vicino
 TOI050	con la tipografia [e:h sono stata quaranta]tre anni lì
@@ -2347,8 +2347,8 @@ TOI049	[davanti all'elettrauto]
 TOR002	sì sì sì [sì sì]
 TOR001	[certo]
 TOI050	#[che adesso] l'elettrauto a l'è spustase andua j'è i preivi
-TOI049	[sì]
 TOR001	[mh mh]
+TOI049	[sì]
 TOI050	eh (.) xx [é lì dove] c'é i preti [lì dove c'é] quella struttura che c'hanno anche:
 ???	[ah sì]?
 TOR002	[mh mh mh mh]

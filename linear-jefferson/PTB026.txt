@@ -157,8 +157,8 @@ TOR002	bisogna farlo quadrare [se non é giusto]
 TOI119	[non é che ci fa andare vendere]
 TOI118	[anche la fidan]za~ la:::: la fidanzata non la porti a vedere?
 TOI118	le ho conosciute tutte
-TOR002	[a::h] devo portà anche la mia?
 TOI119	[e::h]
+TOR002	[a::h] devo portà anche la mia?
 TOR002	((ride))
 TOI119	((ride))
 TOR002	eh no ma la porto ogni tanto é che >non:< non vi siete mai incrociati
@@ -858,7 +858,7 @@ TOI118	al comune (.) che invece da dare a noi italiani
 TOI118	signor registratore
 TOI118	li danno a loro
 TOI119	bon é finito?
-TOI118	#no::: (.) [] no anduma avanti
+TOI118	#no::: (.) no anduma avanti
 TOI119	[bon]
 TOR002	((ride))
 TOI119	perché se no:: ((ride)) tiri fuori troppe co[se]
@@ -953,8 +953,8 @@ TOI118	fino: a cascine vica
 TOR002	m::h mh mh
 TOI118	saranno quattro o cinque anni di sofferenze
 TOI119	però (.) i posteggi son tutti gratis qua eh non paghi niente
-TOR002	[tutto strisce bia]nche qua
 TOI118	[cosa? no]
+TOR002	[tutto strisce bia]nche qua
 TOI119	nien[te] (.) [a vena]ria vai é tutto a pagamento
 TOR002	[ah]
 TOR002	[ah]
@@ -1454,8 +1454,8 @@ TOI119	le colti[va~]
 TOI118	#[l'è logic che] se it vade sui tremila meter [quat] mila
 TOR002	[mh]
 TOI118	#xxx
-TOR002	[mh mh]
 TOI118	[però é p]aesano
+TOR002	[mh mh]
 TOR002	sì:
 TOI118	#a portu giu:
 TOR002	ma sì ma lo sanno dove anda[re sanno] quando andare
@@ -1521,7 +1521,7 @@ TOR002	[e i genito]ri anche erano veneti,
 TOI119	sì sì anche [loro sì] (.) tutti (.) [tu::tti] tutti nati in::
 TOR002	[o:kay]
 TOR002	[sempre di rovigo],
-TOI118	(.) (.) antica roma ro~ (.) [gio]vane
+TOI118	(.) antica roma ro~ (.) [gio]vane
 TOI119	[eh]
 TOI119	bello eh
 TOI118	ma la sa la storia?
@@ -1673,8 +1673,8 @@ TOI119	s[olo per] que[st'anno]
 TOR002	[no]
 TOI118	[han fatto un'op]era di bene
 TOI118	alla città di settimo
-TOR002	[a::h]
 TOI119	[a:::h]
+TOR002	[a::h]
 TOI119	pensavo torino (.) mh
 TOR002	no ma é comoda la::: tessera [musei é:::]
 TOI119	[sì::: due tre] volte si paga già la tessera
@@ -1805,8 +1805,8 @@ TOR002	guadagnano poco ((ride))
 TOI119	eh
 TOR002	eh ma gli attori [guada]gnano sempre poco ((ride))
 TOI119	[eh] ((ride))
-TOI119	[gli attori pri]ma che::
 TOI118	[la mamma]?
+TOI119	[gli attori pri]ma che::
 TOR002	mia mamma era:: dipendente alla san paolo
 TOR002	x adesso é in pensione
 TOI118	#eh beh stan bin

@@ -13,7 +13,7 @@ TOI116	ma lo capi~
 TOI116	sì pro~ allora provano a tradurre a vedere se evidentemente hanno capito proprio no non sembra però
 TOI117	ma io traduco xx
 TOI116	poche cose insomma
-TOI117	t'ai capì co che j'o dicc
+TOI117	tai capì co che j'o dicc
 TOI116	eh
 TOI117	x hai capito cosa ho detto
 TOR001	allora vi faccio compilare mh la liberatoria
@@ -60,8 +60,8 @@ TOI116	eh per quello che lo dicevo
 TOR001	sì c'è da compilare appunto questa parte qui in basso
 TOR001	c'è già tutto
 TOI116	ma no hai solo firmato tu eh non hai compilato
-TOR001	deve compilare
 TOI117	solo firmato
+TOR001	deve compilare
 TOI117	ah è compilato ah eh non ho visto
 TOI117	allora
 TOI117	xxxx
@@ -222,8 +222,8 @@ TOI116	in origine magari
 TOR002	in realtà era di caselle mio nonno
 TOI116	ah quindi xxxx
 TOR002	però
-TOI116	eh poi probabilmente sì come
 TOI117	eh
+TOI116	eh poi probabilmente sì come
 TOR002	lontanamente sì siamo
 TOI116	sì come ogni tanto trovi degli omonimi poi dici ah è paren~ ma chissà da dove viene xx quando però c~ nomi
 TOI117	mah pensavo
@@ -1037,8 +1037,8 @@ TOI117	algebra meno tre più uno
 TOI117	meno tre meno quattro che oh devi far cioè
 TOI117	così eh e il commissario l'ha permesso
 TOI117	non era possibile una roba
-TOR001	già già
 TOI117	un anno è successo così
+TOR001	già già
 TOI117	ma non capitava nulla di co~ ma ma dovevi adeguarti
 TOI117	io al pomeriggio eh con tecnica dividevamo la classe
 TOI117	io una volta arrivo perché lì ne avevo che non ti dico da fare eh
@@ -1157,7 +1157,7 @@ TOR001	ah sempre
 TOI116	tu~ tutta l'estate
 TOI116	ehm d'inverno no eh d'inverno no ma ci andiamo da da marzo
 TOR001	okay okay okay okay
-TOI117	d'inverno no ma anduma sempi giu eh
+TOI117	dinverno no ma anduma sempi giu eh
 TOI116	però andiamo sempre giù tra una stor~ c'è sempre qualcosa eh
 TOI117	stuma nen dui di
 TOI117	eh anduma sempi giu
@@ -1224,7 +1224,7 @@ TOI117	e poi qundi già prima
 TOI117	io voglio preparare sempre mh allora
 TOI117	io cosa porto
 TOI117	ehm di argomenti ormai sì ne ho un certo
-TOI117	numero ma ne preparo anche altri per esempio l'altr'anno ho cominciato al paese no il direttore della biblioteca dice ma perché non facciamo qualcosa
+TOI117	numero ma ne preparo anche altri per esempio l'altranno ho cominciato al paese no il direttore della biblioteca dice ma perché non facciamo qualcosa
 TOI117	allora ho fatto truffe agli anziani e truffe informatiche ho tenuto in~ due incontri di ecologia
 TOR001	ah
 TOI117	un incontro sulle migrazioni quindi argomenti duri
@@ -1491,7 +1491,7 @@ TOI117	eh quindi quindi no no ah io
 TOI117	qualunque roba ci sia vado in giro e ripren~
 TOR002	beh adesso fan tutto col drone que quelle situazioni lì
 TOI116	eh eh eh
-TOI117	des~ eh c~ il drone saría a j'è co na bela ah cul drone
+TOI117	des eh c~ il drone saría a j'è co na bela ah cul drone
 TOI117	ma eh sì
 TOI117	allora
 TOI117	diciamo una cosa

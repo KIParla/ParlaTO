@@ -771,7 +771,7 @@ TOI069	[eh]
 TOI069	[e::h]
 TOI069	[eh (.) eh (.) eh]
 TOI069	[eh]
-TOR009	eh ((P))>certo faccia<
+TOR009	eh > ((P)) certo faccia<
 TOI069	dove stai anna? dove sei?
 TOR009	((ride))
 TOI069	che stai facendo?

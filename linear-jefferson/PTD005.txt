@@ -610,7 +610,7 @@ TOI054	nel mille::
 TOR004	[nell'ottantaquattro]
 TOI054	[novecentoottantaqua]ttro
 TOI054	quindi nell'ottantatré
-TOR004	quindi prima della caduta del muro quindi con tutto il (.) [] pasticcio?
+TOR004	quindi prima della caduta del muro quindi con tutto il (.) pasticcio?
 TOI054	[°sì°]
 TOI054	quindi abbiamo fatto tutta l'istria
 TOR004	ah

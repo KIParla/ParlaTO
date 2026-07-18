@@ -1,7 +1,7 @@
 token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR004	0	0	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=0.64	_	_	_	_
 0-1	TOR004	0	0	1	bene	bene	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-0-2	TOR004	0	0	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+0-2	TOR004	0	0	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 0-3	TOR004	0	0	3	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 0-4	TOR004	0	0	4	registrando.	registrando	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2.003	_	_	_	_
 1-0	TOR004	1	1	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=2.379|End=2.836	_	_	_	_
@@ -47,7 +47,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 13-1	TOR004	13	13	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 13-2	TOR004	13	13	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 13-3	TOR004	13	13	3	basilicata.	basilicata	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-13-4	TOR004	13	13	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+13-4	TOR004	13	13	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 13-5	TOR004	13	13	5	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 13-6	TOR004	13	13	6	[mh,	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	0-2(2)
 13-7	TOR004	13	13	7	e]:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	0-1(2)
@@ -71,10 +71,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 17-2	TOR004	17	17	2	giovanissima,	giovanissima	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=32.366	_	_	_	_
 18-0	TOI020	18	18	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=32.688	_	_	_	_
 18-1	TOI020	18	18	1	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-18-2	TOI020	18	18	2	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=35.908	_	_	_	_
+18-2	TOI020	18	18	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=35.908	_	_	_	_
 19-0	TOR004	19	19	0	caspita	caspita	_	_	_	_	_	linguistic	_	none	_	Begin=34.82|End=35.583	_	_	_	_
 20-0	TOR004	20	20	0	e	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=35.908	_	_	_	_
-20-1	TOR004	20	20	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+20-1	TOR004	20	20	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 20-2	TOR004	20	20	2	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 20-3	TOR004	20	20	3	tuoi	tuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 20-4	TOR004	20	20	4	genitori,	genitori	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
@@ -84,7 +84,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 21-0	TOI020	21	21	0	son[o::	sono	_	_	_	_	_	linguistic	_	none	_	Begin=38.698	3x2	_	_	3-4(6)
 21-1	TOI020	21	21	1	della]	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(6)
 21-2	TOI020	21	21	2	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-21-3	TOI020	21	21	3	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+21-3	TOI020	21	21	3	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 21-4	TOI020	21	21	4	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 21-5	TOI020	21	21	5	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 21-6	TOI020	21	21	6	sc[usa,	scusa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	2-5(7)
@@ -116,7 +116,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 25-6	TOR004	25	25	6	[molto].	molto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=52.375	_	_	_	0-5(9)
 26-0	TOI020	26	26	0	[lo	lo	_	_	_	_	_	linguistic	_	none	_	Begin=51.862	_	_	_	0-2(9)
 26-1	TOI020	26	26	1	parlo]	parlo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-5(9)
-26-2	TOI020	26	26	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+26-2	TOI020	26	26	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 26-3	TOI020	26	26	3	molto.	molto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=53.171	_	_	_	_
 27-0	TOR004	27	27	0	sì?	sì	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=53.203|End=53.593	_	_	_	_
 28-0	TOI020	28	28	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=53.65	_	_	_	_
@@ -157,7 +157,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 32-3	TOI020	32	32	3	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 32-4	TOI020	32	32	4	famiglia,	famiglia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=68.136	_	_	_	_
 33-0	TOI020	33	33	0	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=68.345	_	_	_	_
-33-1	TOI020	33	33	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+33-1	TOI020	33	33	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 33-2	TOI020	33	33	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 33-3	TOI020	33	33	3	trovato	trovato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 33-4	TOI020	33	33	4	qui	qui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -198,7 +198,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 37-1	TOI020	37	37	1	casa,	casa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=84.13	_	_	_	_
 38-0	TOI020	38	38	0	lo	lo	_	_	_	_	_	linguistic	_	none	_	Begin=84.425	_	_	_	_
 38-1	TOI020	38	38	1	parlo.	parlo	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-38-2	TOI020	38	38	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+38-2	TOI020	38	38	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 38-3	TOI020	38	38	3	[con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(17)
 38-4	TOI020	38	38	4	perché]:	perché	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	0-6(17)
 38-5	TOI020	38	38	5	sia:	sia	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
@@ -233,7 +233,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 42-8	TOI020	42	42	8	cpaire	cpaire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-9	TOI020	42	42	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-10	TOI020	42	42	10	°fo[rza°].	forza	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	_	_	_	_	2-5(?)
-42-11	TOI020	42	42	11	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=101.503	_	_	_	_
+42-11	TOI020	42	42	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=101.503	_	_	_	_
 43-0	TOR004	43	43	0	[e	e	_	_	_	_	_	linguistic	_	none	_	Begin=99.52	_	_	_	0-1(19)
 43-1	TOR004	43	43	1	ce]rto	certo	_	_	_	_	_	linguistic	_	none	_	End=100.277	_	_	_	0-2(19)
 44-0	TOR004	44	44	0	beh	beh	_	_	_	_	_	linguistic	_	none	_	Begin=100.759	_	_	_	_
@@ -243,13 +243,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 44-4	TOR004	44	44	4	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 44-5	TOR004	44	44	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 44-6	TOR004	44	44	6	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-44-7	TOR004	44	44	7	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+44-7	TOR004	44	44	7	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 44-8	TOR004	44	44	8	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 44-9	TOR004	44	44	9	hai:	hai	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
 44-10	TOR004	44	44	10	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 44-11	TOR004	44	44	11	hai	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 44-12	TOR004	44	44	12	usato::	usato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	4x2	_	_	_
-44-13	TOR004	44	44	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+44-13	TOR004	44	44	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 44-14	TOR004	44	44	14	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 44-15	TOR004	44	44	15	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 44-16	TOR004	44	44	16	usi	usi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -260,7 +260,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 44-21	TOR004	44	44	21	t[i	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(21)
 44-22	TOR004	44	44	22	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(21)
 44-23	TOR004	44	44	23	così,	così	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	0-4(21)
-44-24	TOR004	44	44	24	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(21)
+44-24	TOR004	44	44	24	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 44-25	TOR004	44	44	25	naturale].	naturale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=109.165	_	_	_	0-7(21)
 45-0	TOI020	45	45	0	[no	no	_	_	_	_	_	linguistic	_	none	_	Begin=107.548	_	_	_	0-2(21)
 45-1	TOI020	45	45	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(21)
@@ -389,7 +389,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 59-5	TOI020	59	59	5	corso	corso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 59-6	TOI020	59	59	6	regionale,	regionale	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=157.985	_	_	_	_
 60-0	TOI020	60	60	0	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=159.015	_	_	_	_
-60-1	TOI020	60	60	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+60-1	TOI020	60	60	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 60-2	TOI020	60	60	2	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 60-3	TOI020	60	60	3	dovuto::	dovuto	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
 60-4	TOI020	60	60	4	essere:::	essere	_	_	_	_	_	linguistic	_	none	_	End=163.212	5x3	_	_	_
@@ -531,7 +531,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 75-2	TOI020	75	75	2	novantatre	novantatre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-3	TOI020	75	75	3	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-4	TOI020	75	75	4	duemila	duemila	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-75-5	TOI020	75	75	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+75-5	TOI020	75	75	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 75-6	TOI020	75	75	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-7	TOI020	75	75	7	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-8	TOI020	75	75	8	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -584,7 +584,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 84-0	TOI020	84	84	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=254.291	_	_	_	_
 84-1	TOI020	84	84	1	circoscrizione,	circoscrizione	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=255.715	_	_	_	_
 85-0	TOI020	85	85	0	dove,	dove	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	Begin=256.351	_	_	_	_
-85-1	TOI020	85	85	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+85-1	TOI020	85	85	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 85-2	TOI020	85	85	2	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 85-3	TOI020	85	85	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 85-4	TOI020	85	85	4	periodo	periodo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -609,7 +609,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 86-5	TOI020	86	86	5	andata	andata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 86-6	TOI020	86	86	6	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 86-7	TOI020	86	86	7	ufficio	ufficio	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-86-8	TOI020	86	86	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+86-8	TOI020	86	86	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 86-9	TOI020	86	86	9	lavoro,	lavoro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=268.302	_	_	_	_
 87-0	TOR004	87	87	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=268.745	_	_	_	_
 87-1	TOR004	87	87	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=269.213	_	_	_	_
@@ -710,7 +710,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 101-6	TOI020	101	101	6	persone	persone	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 101-7	TOI020	101	101	7	eravamo	eravamo	_	_	_	_	_	linguistic	_	none	_	End=312.77	_	_	_	_
 102-0	TOI020	102	102	0	insomma	insomma	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=313.394	_	_	_	_
-102-1	TOI020	102	102	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+102-1	TOI020	102	102	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 102-2	TOI020	102	102	2	e::h	eh	_	_	_	_	_	linguistic	_	none	_	End=315.319	0x2	_	_	_
 103-0	TOI020	103	103	0	più	più	_	_	_	_	_	linguistic	_	none	_	Begin=316.118	_	_	_	_
 103-1	TOI020	103	103	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -792,7 +792,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 112-4	TOI020	112	112	4	lavoriamo	lavoriamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 112-5	TOI020	112	112	5	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 112-6	TOI020	112	112	6	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-112-7	TOI020	112	112	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+112-7	TOI020	112	112	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 112-8	TOI020	112	112	8	un	un	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
 112-9	TOI020	112	112	9	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 112-10	TOI020	112	112	10	responsabile	responsabile	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -812,7 +812,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 113-7	TOI020	113	113	7	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 113-8	TOI020	113	113	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 113-9	TOI020	113	113	9	quindi	quindi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-113-10	TOI020	113	113	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+113-10	TOI020	113	113	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 113-11	TOI020	113	113	11	riu[sciamo:]	riusciamo	_	_	_	_	_	linguistic	_	none	_	End=356.837	8x1	_	_	3-9(44)
 114-0	TOR004	114	114	0	[si	si	_	_	_	_	_	linguistic	_	none	_	Begin=356.172	_	_	_	0-2(44)
 114-1	TOR004	114	114	1	lavora]	lavora	_	_	_	_	_	linguistic	_	none	_	End=356.827	_	_	_	0-6(44)
@@ -843,7 +843,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 118-1	TOI020	118	118	1	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 118-2	TOI020	118	118	2	ameno	ameno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 118-3	TOI020	118	118	3	io	io	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-118-4	TOI020	118	118	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+118-4	TOI020	118	118	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 118-5	TOI020	118	118	5	parlo	parlo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 118-6	TOI020	118	118	6	dico	dico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 118-7	TOI020	118	118	7	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -901,7 +901,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 127-0	TOI020	127	127	0	[a]	a	_	_	_	_	_	linguistic	_	none	_	Begin=384.075	_	_	_	0-1(49)
 127-1	TOI020	127	127	1	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-2	TOI020	127	127	2	ti	ti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-127-3	TOI020	127	127	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+127-3	TOI020	127	127	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 127-4	TOI020	127	127	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-5	TOI020	127	127	5	stessa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-6	TOI020	127	127	6	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -964,7 +964,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 131-2	TOR004	131	131	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(50)
 131-3	TOR004	131	131	3	cambiamen]to	cambiamento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-9(50)
 131-4	TOR004	131	131	4	tecnologico	tecnologico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-131-5	TOR004	131	131	5	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+131-5	TOR004	131	131	5	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 131-6	TOR004	131	131	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 131-7	TOR004	131	131	7	[conti:nuo	continuo	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	0-8(51)
 131-8	TOR004	131	131	8	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(51)
@@ -1024,7 +1024,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 138-6	TOI020	138	138	6	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 138-7	TOI020	138	138	7	co:se,	cose	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=427.396	1x1	_	_	_
 139-0	TOI020	139	139	0	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=427.629	_	_	_	_
-139-1	TOI020	139	139	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+139-1	TOI020	139	139	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 139-2	TOI020	139	139	2	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 139-3	TOI020	139	139	3	proprio,	proprio	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 139-4	TOI020	139	139	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1053,7 +1053,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 142-1	TOI020	142	142	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-2	TOI020	142	142	2	fanno	fanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-3	TOI020	142	142	3	però::	però	_	_	_	_	_	linguistic	_	none	_	_	3x2	_	_	_
-142-4	TOI020	142	142	4	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+142-4	TOI020	142	142	4	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 142-5	TOI020	142	142	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-6	TOI020	142	142	6	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-7	TOI020	142	142	7	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1142,7 +1142,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 149-3	TOI020	149	149	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 149-4	TOI020	149	149	4	master	master	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 149-5	TOI020	149	149	5	informatico,	informatico	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-149-6	TOI020	149	149	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+149-6	TOI020	149	149	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 149-7	TOI020	149	149	7	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 149-8	TOI020	149	149	8	carità	carità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 149-9	TOI020	149	149	9	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
@@ -1154,7 +1154,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 150-1	TOR004	150	150	1	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(58)
 150-2	TOR004	150	150	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(58)
 150-3	TOR004	150	150	3	co]rso.	corso	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	0-2(58)
-150-4	TOR004	150	150	4	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	0-4(59)
+150-4	TOR004	150	150	4	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	0-4(59)
 150-5	TOR004	150	150	5	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(59)
 150-6	TOR004	150	150	6	senso:]	senso	_	_	_	_	_	linguistic	_	none	_	End=469.676	4x1	_	_	0-5(59)
 151-0	TOI020	151	151	0	[e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=468.436	0x1	_	_	0-2(59)
@@ -1175,7 +1175,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 154-2	TOI020	154	154	2	macchine	macchine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 154-3	TOI020	154	154	3	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 154-4	TOI020	154	154	4	comunque,	comunque	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-154-5	TOI020	154	154	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+154-5	TOI020	154	154	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 154-6	TOI020	154	154	6	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 154-7	TOI020	154	154	7	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 154-8	TOI020	154	154	8	aggiusti.	aggiusti	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
@@ -1239,7 +1239,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 162-16	TOI020	162	162	16	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-5(63)
 162-17	TOI020	162	162	17	altra]	altra	_	_	_	_	_	linguistic	_	none	_	End=502.495	_	_	_	0-5(63)
 163-0	TOR004	163	163	0	[certo]	certo	_	_	_	_	_	linguistic	_	none	_	Begin=497.639|End=498.088	_	_	_	0-5(62)
-164-0	TOR004	164	164	0	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=501.499	_	_	1-3(0)	0-4(63)
+164-0	TOR004	164	164	0	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=501.499	_	_	_	0-4(63)
 164-1	TOR004	164	164	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(63)
 164-2	TOR004	164	164	2	fai	fai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(63)
 164-3	TOR004	164	164	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(63)
@@ -1265,13 +1265,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 167-1	TOI020	167	167	1	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-2	TOI020	167	167	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-3	TOI020	167	167	3	al~	al~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-167-4	TOI020	167	167	4	>c(io)è<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	1-3(0)	_
+167-4	TOI020	167	167	4	>c(io)è<	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	Fast=0-4(0)	_	_
 167-5	TOI020	167	167	5	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-6	TOI020	167	167	6	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
 167-7	TOI020	167	167	7	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-8	TOI020	167	167	8	devi	devi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-9	TOI020	167	167	9	dire	dire	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-167-10	TOI020	167	167	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+167-10	TOI020	167	167	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 167-11	TOI020	167	167	11	e::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	0x2	_	_	_
 167-12	TOI020	167	167	12	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 167-13	TOI020	167	167	13	mentre	mentre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1322,7 +1322,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 169-8	TOI020	169	169	8	scrivere	scrivere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-9	TOI020	169	169	9	undici	undici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-10	TOI020	169	169	10	uno	uno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-169-11	TOI020	169	169	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+169-11	TOI020	169	169	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 169-12	TOI020	169	169	12	duemila	duemila	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-13	TOI020	169	169	13	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-14	TOI020	169	169	14	diciannove.	diciannove	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=528.669	_	_	_	_
@@ -1382,7 +1382,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 178-0	TOI020	178	178	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=543.894	_	_	_	_
 178-1	TOI020	178	178	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 178-2	TOI020	178	178	2	po'	po'	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-178-3	TOI020	178	178	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+178-3	TOI020	178	178	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 178-4	TOI020	178	178	4	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 178-5	TOI020	178	178	5	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 178-6	TOI020	178	178	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1390,7 +1390,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 178-8	TOI020	178	178	8	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 178-9	TOI020	178	178	9	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 178-10	TOI020	178	178	10	cavia(mo).	caviamo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	5-7(0)	_
-178-11	TOI020	178	178	11	{sospira}	{sospira}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=546.746	_	_	_	_
+178-11	TOI020	178	178	11	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=546.746	_	_	_	_
 179-0	TOR004	179	179	0	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=546.438	_	_	_	_
 179-1	TOR004	179	179	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 179-2	TOR004	179	179	2	la::	la	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
@@ -1418,7 +1418,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 182-2	TOI020	182	182	2	tutto.	tutto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=552.96	_	_	_	_
 183-0	TOI020	183	183	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	Begin=553.501	_	_	_	_
 183-1	TOI020	183	183	1	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-183-2	TOI020	183	183	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+183-2	TOI020	183	183	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 183-3	TOI020	183	183	3	uman~	uman~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 183-4	TOI020	183	183	4	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 183-5	TOI020	183	183	5	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1558,12 +1558,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 198-0	TOI020	198	198	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=607.04	_	_	_	_
 198-1	TOI020	198	198	1	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-2	TOI020	198	198	2	era,	era	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-198-3	TOI020	198	198	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+198-3	TOI020	198	198	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 198-4	TOI020	198	198	4	prettamente	prettamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-5	TOI020	198	198	5	amministrativo	amministrativo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-6	TOI020	198	198	6	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-7	TOI020	198	198	7	era,	era	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-198-8	TOI020	198	198	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+198-8	TOI020	198	198	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 198-9	TOI020	198	198	9	completamente	completamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-10	TOI020	198	198	10	diverso	diverso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-11	TOI020	198	198	11	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1753,12 +1753,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 220-6	TOI020	220	220	6	rimanevano	rimanevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-7	TOI020	220	220	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-8	TOI020	220	220	8	casa	casa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-220-9	TOI020	220	220	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+220-9	TOI020	220	220	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 220-10	TOI020	220	220	10	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 220-11	TOI020	220	220	11	oggi	oggi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-12	TOI020	220	220	12	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-13	TOI020	220	220	13	domani	domani	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-220-14	TOI020	220	220	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+220-14	TOI020	220	220	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 220-15	TOI020	220	220	15	licenziate	licenziate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-16	TOI020	220	220	16	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 220-17	TOI020	220	220	17	mutui::,	mutui	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=692.197	4x2	_	_	_
@@ -1865,7 +1865,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 229-2	TOI020	229	229	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 229-3	TOI020	229	229	3	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 229-4	TOI020	229	229	4	signora	signora	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-229-5	TOI020	229	229	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+229-5	TOI020	229	229	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 229-6	TOI020	229	229	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 229-7	TOI020	229	229	7	pe~	pe~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 229-8	TOI020	229	229	8	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1947,7 +1947,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 236-17	TOI020	236	236	17	ri]cordo	ricordo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(84)
 236-18	TOI020	236	236	18	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 236-19	TOI020	236	236	19	era	era	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-236-20	TOI020	236	236	20	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+236-20	TOI020	236	236	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 236-21	TOI020	236	236	21	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 236-22	TOI020	236	236	22	avrebbe	avrebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 236-23	TOI020	236	236	23	dovuto	dovuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2011,7 +2011,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 248-6	TOI020	248	248	6	[perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(89)
 248-7	TOI020	248	248	7	qua]ndo	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(89)
 248-8	TOI020	248	248	8	tu	tu	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-248-9	TOI020	248	248	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+248-9	TOI020	248	248	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 248-10	TOI020	248	248	10	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 248-11	TOI020	248	248	11	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 248-12	TOI020	248	248	12	blocchi	blocchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2123,7 +2123,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 258-5	TOI020	258	258	5	lì	lì	_	_	_	_	_	linguistic	_	none	_	End=818.849	_	_	_	_
 259-0	TOI020	259	259	0	il	il	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=819.043	_	_	_	_
 259-1	TOI020	259	259	1	eh	eh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-259-2	TOI020	259	259	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+259-2	TOI020	259	259	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 259-3	TOI020	259	259	3	poco	poco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-4	TOI020	259	259	4	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-5	TOI020	259	259	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2168,7 +2168,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 262-4	TOR004	262	262	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(95)
 262-5	TOR004	262	262	5	eh]	eh	_	_	_	_	_	linguistic	_	none	_	End=831.805	_	_	_	0-2(95)
 263-0	TOI020	263	263	0	piangeva	piangeva	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=834.15	_	_	_	_
-263-1	TOI020	263	263	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+263-1	TOI020	263	263	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 263-2	TOI020	263	263	2	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 263-3	TOI020	263	263	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 263-4	TOI020	263	263	4	disperata.	disperata	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
@@ -2215,7 +2215,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 267-8	TOI020	267	267	8	lavo:ro	lavoro	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
 267-9	TOI020	267	267	9	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 267-10	TOI020	267	267	10	puoi	puoi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-267-11	TOI020	267	267	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+267-11	TOI020	267	267	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 267-12	TOI020	267	267	12	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 267-13	TOI020	267	267	13	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 267-14	TOI020	267	267	14	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2278,7 +2278,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 274-5	TOI020	274	274	5	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 274-6	TOI020	274	274	6	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 274-7	TOI020	274	274	7	curriculum,	curriculum	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-274-8	TOI020	274	274	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+274-8	TOI020	274	274	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 274-9	TOI020	274	274	9	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 274-10	TOI020	274	274	10	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 274-11	TOI020	274	274	11	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2320,7 +2320,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 278-1	TOR004	278	278	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 278-2	TOR004	278	278	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 278-3	TOR004	278	278	3	scontato.	scontato	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
-278-4	TOR004	278	278	4	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+278-4	TOR004	278	278	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 278-5	TOR004	278	278	5	[perché],	perché	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=889.8	_	_	_	0-6(99)
 279-0	TOI020	279	279	0	[che	che	_	_	_	_	_	linguistic	_	none	_	Begin=889.439	_	_	_	0-3(99)
 279-1	TOI020	279	279	1	no]n	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(99)
@@ -2333,7 +2333,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-8	TOI020	279	279	8	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-9	TOI020	279	279	9	questa:	questa	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
 279-10	TOI020	279	279	10	era:	era	_	_	_	_	_	linguistic	_	none	_	End=893.502	2x1	_	_	_
-280-0	TOR004	280	280	0	[ci(o)è]	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=890.277|End=890.738	_	_	2-3(0)	0-4(100)
+280-0	TOR004	280	280	0	[ci(o)è]	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=890.277|End=890.738	_	_	_	0-4(100)
 281-0	TOI020	281	281	0	una	una	_	_	_	_	_	linguistic	_	none	_	Begin=893.893	_	_	_	_
 281-1	TOI020	281	281	1	collega	collega	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 281-2	TOI020	281	281	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2385,7 +2385,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 285-0	TOR004	285	285	0	[orientamento]	orientamento	_	_	_	_	_	linguistic	_	none	_	Begin=908.377|End=909.264	_	_	_	0-12(101)
 286-0	TOI020	286	286	0	ed	ed	_	_	_	_	_	linguistic	_	none	_	Begin=911.976	_	_	_	_
 286-1	TOI020	286	286	1	è,	è	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-286-2	TOI020	286	286	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+286-2	TOI020	286	286	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 286-3	TOI020	286	286	3	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 286-4	TOI020	286	286	4	abbiam	abbiam	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 286-5	TOI020	286	286	5	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2409,7 +2409,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 288-7	TOR004	288	288	7	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 288-8	TOR004	288	288	8	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 288-9	TOR004	288	288	9	fo:ndi,	fondi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	1x1	_	_	_
-288-10	TOR004	288	288	10	c(io)è:	cioè	_	_	_	_	_	linguistic	_	none	_	End=921.058	3x1	_	1-3(0)	_
+288-10	TOR004	288	288	10	c(io)è:	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	End=921.058	3x1	_	_	_
 289-0	TOI020	289	289	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=921.058	_	_	_	_
 289-1	TOI020	289	289	1	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-2	TOI020	289	289	2	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2591,7 +2591,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 308-7	TOI020	308	308	7	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 308-8	TOI020	308	308	8	rimasta::	rimasta	_	_	_	_	_	linguistic	_	none	_	End=982.171	6x2	_	_	_
 309-0	TOR004	309	309	0	no	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=982.536	_	_	_	_
-309-1	TOR004	309	309	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+309-1	TOR004	309	309	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 309-2	TOR004	309	309	2	[adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(108)
 309-3	TOR004	309	309	3	no].	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=983.399	_	_	_	0-2(108)
 310-0	TOI020	310	310	0	[adesso	adesso	_	_	_	_	_	linguistic	_	none	_	Begin=982.792	_	_	_	0-6(108)
@@ -2649,7 +2649,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 317-0	TOI020	317	317	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=999.692	_	_	_	_
 317-1	TOI020	317	317	1	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 317-2	TOI020	317	317	2	è,	è	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-317-3	TOI020	317	317	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+317-3	TOI020	317	317	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 317-4	TOI020	317	317	4	quanto	quanto	_	_	_	_	_	linguistic	_	none	_	End=1001.035	_	_	_	_
 318-0	TOR004	318	318	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=1001.318|End=1001.834	_	_	_	_
 319-0	TOR004	319	319	0	e:::	e	_	_	_	_	_	linguistic	_	none	_	Begin=1002.148	0x3	_	_	_
@@ -2659,7 +2659,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 319-4	TOR004	319	319	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 319-5	TOR004	319	319	5	cosa,	cosa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 319-6	TOR004	319	319	6	rispetto	rispetto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-319-7	TOR004	319	319	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+319-7	TOR004	319	319	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 319-8	TOR004	319	319	8	al	al	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
 319-9	TOR004	319	319	9	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 319-10	TOR004	319	319	10	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2677,7 +2677,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 320-3	TOI020	320	320	3	bella	bella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 320-4	TOI020	320	320	4	terra	terra	_	_	_	_	_	linguistic	_	none	_	End=1011.36	_	_	_	_
 321-0	TOR004	321	321	0	eh	eh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1011.695	_	_	_	_
-321-1	TOR004	321	321	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+321-1	TOR004	321	321	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 321-2	TOR004	321	321	2	st[ai:]	stai	_	_	_	_	_	linguistic	_	none	_	End=1012.644	3x1	_	_	2-4(113)
 322-0	TOI020	322	322	0	[il	il	_	_	_	_	_	linguistic	_	none	_	Begin=1012.227	_	_	_	0-2(113)
 322-1	TOI020	322	322	1	ra]pporto	rapporto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(113)
@@ -2730,7 +2730,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 329-5	TOI020	329	329	5	suoceri:::	suoceri	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	6x3	_	_	_
 329-6	TOI020	329	329	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 329-7	TOI020	329	329	7	qua,	qua	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-329-8	TOI020	329	329	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+329-8	TOI020	329	329	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 329-9	TOI020	329	329	9	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 329-10	TOI020	329	329	10	loro	loro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 329-11	TOI020	329	329	11	andavano	andavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2750,7 +2750,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 330-9	TOI020	330	330	9	superio~	superio~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 330-10	TOI020	330	330	10	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 330-11	TOI020	330	330	11	a	a	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-330-12	TOI020	330	330	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+330-12	TOI020	330	330	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 330-13	TOI020	330	330	13	quattordici	quattordici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 330-14	TOI020	330	330	14	anni:	anni	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
 330-15	TOI020	330	330	15	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2848,7 +2848,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 341-7	TOI020	341	341	7	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 341-8	TOI020	341	341	8	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 341-9	TOI020	341	341	9	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-341-10	TOI020	341	341	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+341-10	TOI020	341	341	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 341-11	TOI020	341	341	11	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 341-12	TOI020	341	341	12	stati:	stati	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 341-13	TOI020	341	341	13	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2973,7 +2973,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 360-3	TOI020	360	360	3	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-4	TOI020	360	360	4	senso	senso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-5	TOI020	360	360	5	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-360-6	TOI020	360	360	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+360-6	TOI020	360	360	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 360-7	TOI020	360	360	7	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-8	TOI020	360	360	8	[dormivamo	dormivamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-9(120)
 360-9	TOI020	360	360	9	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(120)
@@ -3001,7 +3001,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 363-8	TOI020	363	363	8	tornare	tornare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 363-9	TOI020	363	363	9	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 363-10	TOI020	363	363	10	comunque	comunque	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-363-11	TOI020	363	363	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+363-11	TOI020	363	363	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 363-12	TOI020	363	363	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 363-13	TOI020	363	363	13	[una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(121)
 363-14	TOI020	363	363	14	certa	certa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(121)
@@ -3021,7 +3021,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 365-0	TOI020	365	365	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1156.0	_	_	_	_
 365-1	TOI020	365	365	1	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 365-2	TOI020	365	365	2	ospita:to	ospitato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	5x1	_	_	_
-365-3	TOI020	365	365	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+365-3	TOI020	365	365	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 365-4	TOI020	365	365	4	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 365-5	TOI020	365	365	5	quelli	quelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 365-6	TOI020	365	365	6	che:	che	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
@@ -3140,7 +3140,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 377-1	TOI020	377	377	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 377-2	TOI020	377	377	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 377-3	TOI020	377	377	3	un	un	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-377-4	TOI020	377	377	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+377-4	TOI020	377	377	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 377-5	TOI020	377	377	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 377-6	TOI020	377	377	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 377-7	TOI020	377	377	7	sistema	sistema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3214,7 +3214,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 382-19	TOI020	382	382	19	era,	era	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1223.219	_	_	_	_
 383-0	TOR004	383	383	0	[nel	nel	_	_	_	_	_	linguistic	_	none	_	Begin=1217.974	_	_	_	0-3(125)
 383-1	TOR004	383	383	1	sud]	sud	_	_	_	_	_	linguistic	_	none	_	End=1218.664	_	_	_	0-3(125)
-384-0	TOI020	384	384	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1223.601	_	_	1-3(0)	_
+384-0	TOI020	384	384	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1223.601	_	_	_	_
 384-1	TOI020	384	384	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-2	TOI020	384	384	2	vedevano	vedevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-3	TOI020	384	384	3	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3290,7 +3290,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 392-1	TOI020	392	392	1	andavamo	andavamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 392-2	TOI020	392	392	2	nelle	nelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 392-3	TOI020	392	392	3	case	case	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-392-4	TOI020	392	392	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+392-4	TOI020	392	392	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 392-5	TOI020	392	392	5	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 392-6	TOI020	392	392	6	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 392-7	TOI020	392	392	7	propaganda	propaganda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3357,7 +3357,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 399-8	TOI020	399	399	8	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(128)
 399-9	TOI020	399	399	9	no]n	non	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	0-2(128)
 399-10	TOI020	399	399	10	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-399-11	TOI020	399	399	11	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
+399-11	TOI020	399	399	11	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 399-12	TOI020	399	399	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 399-13	TOI020	399	399	13	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 399-14	TOI020	399	399	14	non	non	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
@@ -3431,7 +3431,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 406-17	TOI020	406	406	17	fa~	fa~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 406-18	TOI020	406	406	18	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 406-19	TOI020	406	406	19	allora:	allora	_	_	_	_	_	linguistic	_	none	_	End=1300.1	5x1	_	_	_
-407-0	TOI020	407	407	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1300.507	_	_	1-3(0)	_
+407-0	TOI020	407	407	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1300.507	_	_	_	_
 407-1	TOI020	407	407	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 407-2	TOI020	407	407	2	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 407-3	TOI020	407	407	3	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3464,14 +3464,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 410-0	TOI020	410	410	0	mi	mi	_	_	_	_	_	linguistic	_	none	_	Begin=1309.074	_	_	_	_
 410-1	TOI020	410	410	1	vedevano	vedevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-2	TOI020	410	410	2	vestita	vestita	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-410-3	TOI020	410	410	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+410-3	TOI020	410	410	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 410-4	TOI020	410	410	4	d~	d~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 410-5	TOI020	410	410	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-6	TOI020	410	410	6	nero	nero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-7	TOI020	410	410	7	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-8	TOI020	410	410	8	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-9	TOI020	410	410	9	ecc~	ecc~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-410-10	TOI020	410	410	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+410-10	TOI020	410	410	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 410-11	TOI020	410	410	11	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-12	TOI020	410	410	12	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-13	TOI020	410	410	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3482,7 +3482,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 410-18	TOI020	410	410	18	vestita	vestita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-19	TOI020	410	410	19	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 410-20	TOI020	410	410	20	chiaro,	chiaro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1315.065	_	_	_	_
-411-0	TOR004	411	411	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1313.424|End=1314.56	_	_	_	_
+411-0	TOR004	411	411	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1313.424|End=1314.56	_	_	_	_
 412-0	TOI020	412	412	0	gli	gli	_	_	_	_	_	linguistic	_	none	_	Begin=1315.466	_	_	_	_
 412-1	TOI020	412	412	1	han	han	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 412-2	TOI020	412	412	2	chiesto	chiesto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3502,7 +3502,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 412-16	TOI020	412	412	16	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 412-17	TOI020	412	412	17	giuro	giuro	_	_	_	_	_	linguistic	_	none	_	End=1319.656	_	_	_	_
 413-0	TOR004	413	413	0	[veramente],	veramente	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1317.702|End=1318.698	_	_	_	0-9(130)
-414-0	TOR004	414	414	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1319.94|End=1320.134	_	_	_	_
+414-0	TOR004	414	414	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1319.94|End=1320.134	_	_	_	_
 415-0	TOI020	415	415	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1320.164	_	_	_	_
 415-1	TOI020	415	415	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 415-2	TOI020	415	415	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
@@ -3514,7 +3514,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 416-3	TOR004	416	416	3	ha[i	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-3(132)
 416-4	TOR004	416	416	4	detto]?	detto	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1322.563	_	_	_	0-5(132)
 417-0	TOI020	417	417	0	[°sai,°	sai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes|Volume=low	Begin=1321.811	_	_	_	0-3(132)
-417-1	TOI020	417	417	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(132)
+417-1	TOI020	417	417	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 417-2	TOI020	417	417	2	io]	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(132)
 417-3	TOI020	417	417	3	niente.	niente	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
 417-4	TOI020	417	417	4	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3534,7 +3534,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 419-4	TOI020	419	419	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 419-5	TOI020	419	419	5	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 419-6	TOI020	419	419	6	mari:to	marito	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	3x1	_	_	_
-419-7	TOI020	419	419	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+419-7	TOI020	419	419	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 419-8	TOI020	419	419	8	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 419-9	TOI020	419	419	9	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 419-10	TOI020	419	419	10	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3571,7 +3571,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 421-13	TOI020	421	421	13	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 421-14	TOI020	421	421	14	siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 421-15	TOI020	421	421	15	andati	andati	_	_	_	_	_	linguistic	_	none	_	End=1340.251	_	_	_	_
-422-0	TOR004	422	422	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1340.124|End=1340.567	_	_	_	_
+422-0	TOR004	422	422	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1340.124|End=1340.567	_	_	_	_
 423-0	TOI020	423	423	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1340.543	_	_	_	_
 423-1	TOI020	423	423	1	f~	f~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=1340.975	_	_	_	_
 424-0	TOI020	424	424	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=1341.342	_	_	_	_
@@ -3590,7 +3590,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 425-0	TOI020	425	425	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=1345.164	_	_	_	_
 425-1	TOI020	425	425	1	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 425-2	TOI020	425	425	2	visto	visto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-425-3	TOI020	425	425	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+425-3	TOI020	425	425	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 425-4	TOI020	425	425	4	mar~	mar~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 425-5	TOI020	425	425	5	ah	ah	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 425-6	TOI020	425	425	6	eravamo	eravamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3624,9 +3624,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 427-8	TOI020	427	427	8	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 427-9	TOI020	427	427	9	cugina	cugina	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 427-10	TOI020	427	427	10	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-427-11	TOI020	427	427	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+427-11	TOI020	427	427	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 427-12	TOI020	427	427	12	mar[cello],	marcello	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1358.55	_	_	_	3-8(133)
-428-0	TOR004	428	428	0	[ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1358.235	_	_	2-3(0)	0-4(133)
+428-0	TOR004	428	428	0	[ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1358.235	_	_	_	0-4(133)
 428-1	TOR004	428	428	1	ne]anche	neanche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(133)
 428-2	TOR004	428	428	2	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 428-3	TOR004	428	428	3	marcello	marcello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3659,7 +3659,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 431-3	TOI020	431	431	3	detto	detto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 431-4	TOI020	431	431	4	°ma	ma	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 431-5	TOI020	431	431	5	no	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=low	_	_	_	_	_
-431-6	TOI020	431	431	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	Volume=low	_	_	_	_	_
+431-6	TOI020	431	431	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 431-7	TOI020	431	431	7	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 431-8	TOI020	431	431	8	visto	visto	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 431-9	TOI020	431	431	9	margherita°	margherita	_	_	_	_	_	linguistic	_	none	Volume=low	End=1367.886	_	_	_	_
@@ -3743,7 +3743,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 440-3	TOR004	440	440	3	presi	presi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-4	TOR004	440	440	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-5	TOR004	440	440	5	g[i:ro]	giro	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	1-4(139)
-440-6	TOR004	440	440	6	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1391.672	_	_	_	_
+440-6	TOR004	440	440	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1391.672	_	_	_	_
 441-0	TOI020	441	441	0	[li	li	_	_	_	_	_	linguistic	_	none	_	Begin=1391.32	_	_	_	0-2(139)
 441-1	TOI020	441	441	1	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(139)
 441-2	TOI020	441	441	2	pre]si	presi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(139)
@@ -3780,7 +3780,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 444-17	TOI020	444	444	17	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 444-18	TOI020	444	444	18	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 444-19	TOI020	444	444	19	così.	così	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1401.109	_	_	_	_
-445-0	TOI020	445	445	0	c(io)è:	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1401.537|End=1402.019	3x1	_	1-3(0)	_
+445-0	TOI020	445	445	0	c(io)è:	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1401.537|End=1402.019	3x1	_	_	_
 446-0	TOI020	446	446	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=1402.277	_	_	_	_
 446-1	TOI020	446	446	1	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 446-2	TOI020	446	446	2	so,	so	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
@@ -3854,7 +3854,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 459-0	TOI020	459	459	0	quindic'	quindic'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1430.104	_	_	_	_
 459-1	TOI020	459	459	1	anni	anni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 459-2	TOI020	459	459	2	f[a:	fa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	1x1	_	_	0-2(142)
-459-3	TOI020	459	459	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(142)
+459-3	TOI020	459	459	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 459-4	TOI020	459	459	4	dicevano	dicevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(142)
 459-5	TOI020	459	459	5	che]	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(142)
 459-6	TOI020	459	459	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3976,7 +3976,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 472-5	TOI020	472	472	5	fine	fine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 472-6	TOI020	472	472	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 472-7	TOI020	472	472	7	tutto	tutto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-472-8	TOI020	472	472	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+472-8	TOI020	472	472	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 472-9	TOI020	472	472	9	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 472-10	TOI020	472	472	10	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 472-11	TOI020	472	472	11	vanno	vanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3996,7 +3996,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 474-5	TOI020	474	474	5	che:	che	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
 474-6	TOI020	474	474	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-7	TOI020	474	474	7	gira	gira	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-474-8	TOI020	474	474	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+474-8	TOI020	474	474	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 474-9	TOI020	474	474	9	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-10	TOI020	474	474	10	dire,	dire	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1474.182	_	_	_	_
 475-0	TOI020	475	475	0	sono	sono	_	_	_	_	_	linguistic	_	none	_	Begin=1474.348	_	_	_	_
@@ -4092,7 +4092,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 485-4	TOI020	485	485	4	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 485-5	TOI020	485	485	5	figli	figli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 485-6	TOI020	485	485	6	così,	così	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-485-7	TOI020	485	485	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+485-7	TOI020	485	485	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 485-8	TOI020	485	485	8	ugua:le.	uguale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	3x1	_	_	_
 485-9	TOI020	485	485	9	allora	allora	_	_	_	_	_	linguistic	_	none	_	End=1507.777	_	_	_	_
 486-0	TOI020	486	486	0	come	come	_	_	_	_	_	linguistic	_	none	_	Begin=1508.373	_	_	_	_
@@ -4132,7 +4132,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 493-6	TOR004	493	493	6	altra	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 493-7	TOR004	493	493	7	cosa,	cosa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1521.287	_	_	_	_
 494-0	TOR004	494	494	0	e::	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1521.824	0x2	_	_	_
-494-1	TOR004	494	494	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+494-1	TOR004	494	494	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 494-2	TOR004	494	494	2	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 494-3	TOR004	494	494	3	qual	qual	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 494-4	TOR004	494	494	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4152,7 +4152,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 495-3	TOR004	495	495	3	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 495-4	TOR004	495	495	4	>vivere	vivere	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
 495-5	TOR004	495	495	5	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
-495-6	TOR004	495	495	6	c(io)è<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	1-3(0)	_
+495-6	TOR004	495	495	6	c(io)è<	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	Fast=0-4(0)	_	_
 495-7	TOR004	495	495	7	qual	qual	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 495-8	TOR004	495	495	8	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 495-9	TOR004	495	495	9	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4175,7 +4175,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 498-7	TOR004	498	498	7	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
 498-8	TOR004	498	498	8	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 498-9	TOR004	498	498	9	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-498-10	TOR004	498	498	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+498-10	TOR004	498	498	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 498-11	TOR004	498	498	11	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 498-12	TOR004	498	498	12	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 498-13	TOR004	498	498	13	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4198,7 +4198,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 499-8	TOI020	499	499	8	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 499-9	TOI020	499	499	9	hanno:	hanno	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 499-10	TOI020	499	499	10	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-499-11	TOI020	499	499	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+499-11	TOI020	499	499	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 499-12	TOI020	499	499	12	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 499-13	TOI020	499	499	13	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 499-14	TOI020	499	499	14	fortunatae:h.	fortunataeh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1543.022	9x1	_	_	_
@@ -4253,7 +4253,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 505-1	TOI020	505	505	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-2	TOI020	505	505	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-3	TOI020	505	505	3	cercato,	cercato	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-505-4	TOI020	505	505	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+505-4	TOI020	505	505	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 505-5	TOI020	505	505	5	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-6	TOI020	505	505	6	marcello	marcello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-7	TOI020	505	505	7	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4275,7 +4275,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 507-4	TOI020	507	507	4	cercato	cercato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 507-5	TOI020	507	507	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 507-6	TOI020	507	507	6	mie	mie	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-507-7	TOI020	507	507	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+507-7	TOI020	507	507	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 507-8	TOI020	507	507	8	[amici]zie.	amicizie	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1574.388	_	_	_	0-5(152)
 508-0	TOR004	508	508	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1573.45	_	_	_	0-2(152)
 508-1	TOR004	508	508	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1573.948	_	_	_	0-2(152)
@@ -4325,7 +4325,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 514-3	TOR004	514	514	3	iden[tità]	identità	_	_	_	_	_	linguistic	_	none	_	End=1592.193	_	_	_	3-8(154)
 515-0	TOI020	515	515	0	[di	di	_	_	_	_	_	linguistic	_	none	_	Begin=1591.822	_	_	_	0-2(154)
 515-1	TOI020	515	515	1	ave]re,	avere	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	0-3(154)
-515-2	TOI020	515	515	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+515-2	TOI020	515	515	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 515-3	TOI020	515	515	3	un'	un'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 515-4	TOI020	515	515	4	identità.	identità	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1593.357	_	_	_	_
 516-0	TOI020	516	516	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1593.561	_	_	_	_
@@ -4341,7 +4341,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 519-1	TOI020	519	519	1	tempo:	tempo	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 519-2	TOI020	519	519	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 519-3	TOI020	519	519	3	avuto:	avuto	_	_	_	_	_	linguistic	_	none	_	End=1599.495	4x1	_	_	_
-520-0	TOI020	520	520	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1599.714	_	_	1-3(0)	_
+520-0	TOI020	520	520	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1599.714	_	_	_	_
 520-1	TOI020	520	520	1	io	io	_	_	_	_	_	linguistic	_	none	_	End=1600.293	_	_	_	_
 521-0	TOI020	521	521	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=1600.681	_	_	_	_
 521-1	TOI020	521	521	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4383,7 +4383,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 525-0	TOR004	525	525	0	c[erto]	certo	_	_	_	_	_	linguistic	_	none	_	Begin=1615.982|End=1616.524	_	_	_	1-5(155)
 526-0	TOI020	526	526	0	[io	io	_	_	_	_	_	linguistic	_	none	_	Begin=1616.122	_	_	_	0-2(155)
 526-1	TOI020	526	526	1	s]ono	sono	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-1(155)
-526-2	TOI020	526	526	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+526-2	TOI020	526	526	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 526-3	TOI020	526	526	3	[margherita]	margherita	_	_	_	_	_	linguistic	_	none	_	End=1617.743	_	_	_	0-10(156)
 527-0	TOR004	527	527	0	[sei	sei	_	_	_	_	_	linguistic	_	none	_	Begin=1617.122	_	_	_	0-3(156)
 527-1	TOR004	527	527	1	arrivata]	arrivata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(156)
@@ -4413,14 +4413,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 530-1	TOI020	530	530	1	(ero)	ero	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 530-2	TOI020	530	530	2	anche,	anche	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1626.605	_	_	_	_
 531-0	TOI020	531	531	0	giovane	giovane	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1627.447	_	_	_	_
-531-1	TOI020	531	531	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+531-1	TOI020	531	531	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 531-2	TOI020	531	531	2	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 531-3	TOI020	531	531	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 531-4	TOI020	531	531	4	venire	venire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 531-5	TOI020	531	531	5	via	via	_	_	_	_	_	linguistic	_	none	_	End=1629.696	_	_	_	_
 532-0	TOI020	532	532	0	ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=1630.128	_	_	_	_
 532-1	TOI020	532	532	1	avuto	avuto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-532-2	TOI020	532	532	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+532-2	TOI020	532	532	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 532-3	TOI020	532	532	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 532-4	TOI020	532	532	4	ho	ho	_	_	_	_	_	linguistic	_	none	_	End=1631.777	_	_	_	_
 533-0	TOI020	533	533	0	ce	ce	_	_	_	_	_	linguistic	_	none	_	Begin=1632.151	_	_	_	_
@@ -4472,7 +4472,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 540-6	TOI020	540	540	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 540-7	TOI020	540	540	7	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 540-8	TOI020	540	540	8	son	son	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-540-9	TOI020	540	540	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+540-9	TOI020	540	540	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 540-10	TOI020	540	540	10	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 540-11	TOI020	540	540	11	riuscita	riuscita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 540-12	TOI020	540	540	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4517,7 +4517,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 547-0	TOI020	547	547	0	questa:	questa	_	_	_	_	_	linguistic	_	none	_	Begin=1665.389	5x1	_	_	_
 547-1	TOI020	547	547	1	grand[e	grande	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	5-6(161)
 547-2	TOI020	547	547	2	opportunità.	opportunità	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	0-11(161)
-547-3	TOI020	547	547	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(161)
+547-3	TOI020	547	547	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 547-4	TOI020	547	547	4	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(161)
 547-5	TOI020	547	547	5	ava]nti,	avanti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1668.487	_	_	_	0-3(161)
 548-0	TOR004	548	548	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1666.222	_	_	_	0-2(161)
@@ -4527,7 +4527,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 548-4	TOR004	548	548	4	rispetto],	rispetto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1668.015	_	_	_	0-8(161)
 549-0	TOI020	549	549	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	Begin=1668.814	_	_	_	_
 549-1	TOI020	549	549	1	che,	che	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-549-2	TOI020	549	549	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+549-2	TOI020	549	549	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 549-3	TOI020	549	549	3	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 549-4	TOI020	549	549	4	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 549-5	TOI020	549	549	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4598,7 +4598,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 558-1	TOI020	558	558	1	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1693.388	_	_	_	_
 559-0	TOR004	559	559	0	cer(to)	certo	_	_	_	_	_	linguistic	_	none	_	Begin=1693.45|End=1693.734	_	_	3-5(0)	_
 560-0	TOI020	560	560	0	punto	punto	_	_	_	_	_	linguistic	_	none	_	Begin=1693.734|End=1694.212	_	_	_	_
-561-0	TOI020	561	561	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1694.504	_	_	1-3(0)	_
+561-0	TOI020	561	561	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1694.504	_	_	_	_
 561-1	TOI020	561	561	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 561-2	TOI020	561	561	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 561-3	TOI020	561	561	3	andata	andata	_	_	_	_	_	linguistic	_	none	_	End=1695.759	_	_	_	_
@@ -4614,7 +4614,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 563-5	TOI020	563	563	5	ero	ero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 563-6	TOI020	563	563	6	già	già	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 563-7	TOI020	563	563	7	pronta	pronta	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-563-8	TOI020	563	563	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+563-8	TOI020	563	563	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 563-9	TOI020	563	563	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 563-10	TOI020	563	563	10	andare:	andare	_	_	_	_	_	linguistic	_	none	_	End=1701.954	5x1	_	_	_
 564-0	TOI020	564	564	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1702.261	_	_	_	_
@@ -4634,11 +4634,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 565-2	TOI020	565	565	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-3	TOI020	565	565	3	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-4	TOI020	565	565	4	detto,	detto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-565-5	TOI020	565	565	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+565-5	TOI020	565	565	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 565-6	TOI020	565	565	6	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-7	TOI020	565	565	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-8	TOI020	565	565	8	qua	qua	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-565-9	TOI020	565	565	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+565-9	TOI020	565	565	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 565-10	TOI020	565	565	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-11	TOI020	565	565	11	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 565-12	TOI020	565	565	12	muovi	muovi	_	_	_	_	_	linguistic	_	none	_	End=1710.694	_	_	_	_
@@ -4647,10 +4647,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 566-2	TOI020	566	566	2	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 566-3	TOI020	566	566	3	vai	vai	_	_	_	_	_	linguistic	_	none	_	End=1712.338	_	_	_	_
 567-0	TOI020	567	567	0	poi	poi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1713.263	_	_	_	_
-567-1	TOI020	567	567	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+567-1	TOI020	567	567	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 567-2	TOI020	567	567	2	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 567-3	TOI020	567	567	3	fratello	fratello	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-567-4	TOI020	567	567	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+567-4	TOI020	567	567	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 567-5	TOI020	567	567	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 567-6	TOI020	567	567	6	doveva	doveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 567-7	TOI020	567	567	7	andare	andare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4693,7 +4693,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 571-11	TOI020	571	571	11	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 571-12	TOI020	571	571	12	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 571-13	TOI020	571	571	13	anchi:o	anchio	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	4x1	_	_	_
-571-14	TOI020	571	571	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+571-14	TOI020	571	571	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 571-15	TOI020	571	571	15	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 571-16	TOI020	571	571	16	vado	vado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 571-17	TOI020	571	571	17	anchi:o	anchio	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
@@ -4768,7 +4768,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 579-6	TOI020	579	579	6	d[estra	destra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-6(166)
 579-7	TOI020	579	579	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(166)
 579-8	TOI020	579	579	8	co]rteo	corteo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-2(166)
-579-9	TOI020	579	579	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+579-9	TOI020	579	579	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 579-10	TOI020	579	579	10	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 579-11	TOI020	579	579	11	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 579-12	TOI020	579	579	12	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4817,7 +4817,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 584-8	TOI020	584	584	8	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 584-9	TOI020	584	584	9	manifestazioni	manifestazioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 584-10	TOI020	584	584	10	lì	lì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-584-11	TOI020	584	584	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+584-11	TOI020	584	584	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 584-12	TOI020	584	584	12	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 584-13	TOI020	584	584	13	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 584-14	TOI020	584	584	14	facevamo	facevamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4861,7 +4861,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 590-0	TOR004	590	590	0	[andavi	andavi	_	_	_	_	_	linguistic	_	none	_	Begin=1791.629	_	_	_	0-6(169)
 590-1	TOR004	590	590	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(169)
 590-2	TOR004	590	590	2	scu]ola	scuola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(169)
-590-3	TOR004	590	590	3	[c(io)è].	cioè	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1792.899	_	_	1-3(0)	0-4(170)
+590-3	TOR004	590	590	3	[c(io)è].	cioè	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Reduced=Yes	End=1792.899	_	_	_	0-4(170)
 591-0	TOI020	591	591	0	[anda]vo	andavo	_	_	_	_	_	linguistic	_	none	_	Begin=1792.556	_	_	_	0-4(170)
 591-1	TOI020	591	591	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 591-2	TOI020	591	591	2	scuo:la	scuola	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
@@ -4876,7 +4876,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 591-11	TOI020	591	591	11	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(172)
 591-12	TOI020	591	591	12	m]anifestazione[eh.	manifestazioneeh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	12-16(173)
 591-13	TOI020	591	591	13	°eh°	eh	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-2(173)
-591-14	TOI020	591	591	14	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(1)	0-4(173)
+591-14	TOI020	591	591	14	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	0-4(173)
 591-15	TOI020	591	591	15	co]sa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(173)
 591-16	TOI020	591	591	16	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 591-17	TOI020	591	591	17	devo	devo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4949,7 +4949,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 599-23	TOI020	599	599	23	ragazze	ragazze	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(177)
 599-24	TOI020	599	599	24	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(177)
 599-25	TOI020	599	599	25	scuola].	scuola	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1817.07	_	_	_	0-6(177)
-600-0	TOR004	600	600	0	[ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1816.127	_	_	2-3(0)	0-4(177)
+600-0	TOR004	600	600	0	[ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1816.127	_	_	_	0-4(177)
 600-1	TOR004	600	600	1	picchettavate	picchettavate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-13(177)
 600-2	TOR004	600	600	2	le]	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(177)
 600-3	TOR004	600	600	3	suore,	suore	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1817.551	_	_	_	_
@@ -5028,7 +5028,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 613-4	TOR004	613	613	4	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 613-5	TOR004	613	613	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 613-6	TOR004	613	613	6	qualcosa,	qualcosa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-613-7	TOR004	613	613	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+613-7	TOR004	613	613	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 613-8	TOR004	613	613	8	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 613-9	TOR004	613	613	9	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 613-10	TOR004	613	613	10	mentre	mentre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5049,7 +5049,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 615-2	TOR004	615	615	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 615-3	TOR004	615	615	3	manca:ta	mancata	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 615-4	TOR004	615	615	4	de[l	del	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	2-3(184)
-615-5	TOR004	615	615	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(184)
+615-5	TOR004	615	615	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 615-6	TOR004	615	615	6	di]	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(184)
 615-7	TOR004	615	615	7	giù.	giù	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1850.108	_	_	_	_
 616-0	TOI020	616	616	0	[di	di	_	_	_	_	_	linguistic	_	none	_	Begin=1849.15	_	_	_	0-2(184)
@@ -5072,7 +5072,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 620-4	TOI020	620	620	4	e::h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 620-5	TOI020	620	620	5	noi::	noi	_	_	_	_	_	linguistic	_	none	_	End=1858.299	2x2	_	_	_
 621-0	TOI020	621	621	0	anzi.	anzi	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	Begin=1859.366	_	_	_	_
-621-1	TOI020	621	621	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+621-1	TOI020	621	621	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 621-2	TOI020	621	621	2	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 621-3	TOI020	621	621	3	dico	dico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 621-4	TOI020	621	621	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5140,7 +5140,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 626-3	TOI020	626	626	3	suocera	suocera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 626-4	TOI020	626	626	4	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 626-5	TOI020	626	626	5	principalmen~	principalmen~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-626-6	TOI020	626	626	6	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+626-6	TOI020	626	626	6	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 626-7	TOI020	626	626	7	°m	m	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes|Volume=low	_	_	_	_	_
 626-8	TOI020	626	626	8	eh°	eh	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 626-9	TOI020	626	626	9	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5169,7 +5169,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 631-2	TOI020	631	631	2	mia	mia	_	_	_	_	_	linguistic	_	none	_	End=1895.716	_	_	_	_
 632-0	TOR004	632	632	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1895.747	_	_	_	_
 632-1	TOR004	632	632	1	già.	già	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-632-2	TOR004	632	632	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+632-2	TOR004	632	632	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 632-3	TOR004	632	632	3	quin[di]	quindi	_	_	_	_	_	linguistic	_	none	_	End=1896.623	_	_	_	4-6(187)
 633-0	TOI020	633	633	0	[e]	e	_	_	_	_	_	linguistic	_	none	_	Begin=1896.509	_	_	_	0-1(187)
 633-1	TOI020	633	633	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5216,7 +5216,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 636-5	TOI020	636	636	5	parte	parte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 636-6	TOI020	636	636	6	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 636-7	TOI020	636	636	7	cucina.	cucina	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-636-8	TOI020	636	636	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+636-8	TOI020	636	636	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 636-9	TOI020	636	636	9	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 636-10	TOI020	636	636	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 636-11	TOI020	636	636	11	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
@@ -5276,9 +5276,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 644-6	TOI020	644	644	6	[cartelle],	cartelle	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1937.448	_	_	_	0-8(189)
 645-0	TOR004	645	645	0	[come	come	_	_	_	_	_	linguistic	_	none	_	Begin=1936.536	_	_	_	0-4(189)
 645-1	TOR004	645	645	1	tavolo],	tavolo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	0-6(189)
-645-2	TOR004	645	645	2	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1937.674	_	_	_	_
+645-2	TOR004	645	645	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1937.674	_	_	_	_
 646-0	TOI020	646	646	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1937.711	_	_	_	_
-646-1	TOI020	646	646	1	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+646-1	TOI020	646	646	1	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 646-2	TOI020	646	646	2	[era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(190)
 646-3	TOI020	646	646	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(190)
 646-4	TOI020	646	646	4	modo	modo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(190)
@@ -5331,7 +5331,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 654-13	TOI020	654	654	13	belli:	belli	_	_	_	_	_	linguistic	_	none	_	End=1955.127	4x1	_	_	_
 655-0	TOI020	655	655	0	credo	credo	_	_	_	_	_	linguistic	_	none	_	Begin=1955.562	_	_	_	_
 655-1	TOI020	655	655	1	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-655-2	TOI020	655	655	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+655-2	TOI020	655	655	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 655-3	TOI020	655	655	3	ta:nti	tanti	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 655-4	TOI020	655	655	4	tanti	tanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 655-5	TOI020	655	655	5	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5520,7 +5520,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 684-1	TOR004	684	684	1	piace]	piace	_	_	_	_	_	linguistic	_	none	_	End=2014.977	_	_	_	0-5(199)
 685-0	TOI020	685	685	0	n	n	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=2016.341	_	_	_	_
 685-1	TOI020	685	685	1	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-685-2	TOI020	685	685	2	{sbuffa}	{sbuffa}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2017.239	_	_	_	_
+685-2	TOI020	685	685	2	((sbuffa))	((sbuffa))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2017.239	_	_	_	_
 686-0	TOI020	686	686	0	marcello	marcello	_	_	_	_	_	linguistic	_	none	_	Begin=2017.43	_	_	_	_
 686-1	TOI020	686	686	1	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 686-2	TOI020	686	686	2	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5661,7 +5661,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 707-10	TOI020	707	707	10	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 707-11	TOI020	707	707	11	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 707-12	TOI020	707	707	12	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-707-13	TOI020	707	707	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+707-13	TOI020	707	707	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 707-14	TOI020	707	707	14	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 707-15	TOI020	707	707	15	mi:	mi	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 707-16	TOI020	707	707	16	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5680,7 +5680,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 709-1	TOR004	709	709	1	chiederti	chiederti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 709-2	TOR004	709	709	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 709-3	TOR004	709	709	3	cosa.	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-709-4	TOR004	709	709	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+709-4	TOR004	709	709	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 709-5	TOR004	709	709	5	ma,	ma	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2071.993	_	_	_	_
 710-0	TOR004	710	710	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=2072.292	_	_	_	_
 710-1	TOR004	710	710	1	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5891,9 +5891,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 732-17	TOR004	732	732	17	grado	grado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 732-18	TOR004	732	732	18	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 732-19	TOR004	732	732	19	bell[e:zza]	bellezza	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	4-8(215)
-732-20	TOR004	732	732	20	{ridendo}	{ridendo}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2141.859	_	_	_	_
+732-20	TOR004	732	732	20	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2141.859	_	_	_	_
 733-0	TOI020	733	733	0	[no]	no	_	_	_	_	_	linguistic	_	none	_	Begin=2141.17	_	_	_	0-2(215)
-733-1	TOI020	733	733	1	{ridendo}	{ridendo}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2141.871	_	_	_	_
+733-1	TOI020	733	733	1	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2141.871	_	_	_	_
 734-0	TOR004	734	734	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=2141.907	_	_	_	_
 734-1	TOR004	734	734	1	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 734-2	TOR004	734	734	2	paragoni.	paragoni	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2142.809	_	_	_	_
@@ -5926,7 +5926,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 737-8	TOR004	737	737	8	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 737-9	TOR004	737	737	9	storia	storia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 737-10	TOR004	737	737	10	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-737-11	TOR004	737	737	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+737-11	TOR004	737	737	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 737-12	TOR004	737	737	12	potresti	potresti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 737-13	TOR004	737	737	13	raccontarmi,	raccontarmi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2154.292	_	_	_	_
 738-0	TOR004	738	738	0	m	m	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=2154.857	_	_	_	_
@@ -6020,7 +6020,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 751-5	TOI020	751	751	5	asino,	asino	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2189.636	_	_	_	_
 752-0	TOI020	752	752	0	dove	dove	_	_	_	_	_	linguistic	_	none	_	Begin=2189.953	_	_	_	_
 752-1	TOI020	752	752	1	vuole	vuole	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-752-2	TOI020	752	752	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+752-2	TOI020	752	752	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 752-3	TOI020	752	752	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 752-4	TOI020	752	752	4	proprietario.	proprietario	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
 752-5	TOI020	752	752	5	e::h	eh	_	_	_	_	_	linguistic	_	none	_	End=2192.446	0x2	_	_	_
@@ -6081,7 +6081,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 760-1	TOR004	760	760	1	facciamolo	facciamolo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-10(221)
 760-2	TOR004	760	760	2	andare].	andare	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2211.596	_	_	_	0-6(221)
 761-0	TOI020	761	761	0	perché	perché	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2213.183	_	_	_	_
-761-1	TOI020	761	761	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+761-1	TOI020	761	761	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 761-2	TOI020	761	761	2	[ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(222)
 761-3	TOI020	761	761	3	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(222)
 761-4	TOI020	761	761	4	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(222)
@@ -6185,14 +6185,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 783-6	TOI020	783	783	6	ammazzava,	ammazzava	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2257.293	_	_	_	_
 784-0	TOI020	784	784	0	lo	lo	_	_	_	_	_	linguistic	_	none	_	Begin=2257.723	_	_	_	_
 784-1	TOI020	784	784	1	puliva	puliva	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-784-2	TOI020	784	784	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+784-2	TOI020	784	784	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 784-3	TOI020	784	784	3	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 784-4	TOI020	784	784	4	cucinava	cucinava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 784-5	TOI020	784	784	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 784-6	TOI020	784	784	6	f~	f~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 784-7	TOI020	784	784	7	[lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(227)
 784-8	TOI020	784	784	8	se~	se~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(227)
-784-9	TOI020	784	784	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(227)
+784-9	TOI020	784	784	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 784-10	TOI020	784	784	10	l]o:	lo	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	0-1(227)
 784-11	TOI020	784	784	11	servivano	servivano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 784-12	TOI020	784	784	12	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6266,7 +6266,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 793-5	TOR004	793	793	5	portavano	portavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 793-6	TOR004	793	793	6	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 793-7	TOR004	793	793	7	mangia~	mangia~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-793-8	TOR004	793	793	8	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	0-4(231)
+793-8	TOR004	793	793	8	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	0-4(231)
 793-9	TOR004	793	793	9	>proprio<	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	0-7(231)
 793-10	TOR004	793	793	10	una]	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(231)
 793-11	TOR004	793	793	11	vera	vera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6306,13 +6306,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 798-16	TOR004	798	798	16	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-17	TOR004	798	798	17	Ita~	ita~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|Volume=high	_	_	_	_	_
 798-18	TOR004	798	798	18	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-798-19	TOR004	798	798	19	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+798-19	TOR004	798	798	19	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 798-20	TOR004	798	798	20	nell'	nell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 798-21	TOR004	798	798	21	antichità	antichità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-22	TOR004	798	798	22	oddio	oddio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-23	TOR004	798	798	23	n	n	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
-798-24	TOR004	798	798	24	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	1-2(1)	_
-798-25	TOR004	798	798	25	(in)somma.	insomma	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2294.282	_	_	0-1(1)	_
+798-24	TOR004	798	798	24	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	1-2(0)	_
+798-25	TOR004	798	798	25	(in)somma.	insomma	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2294.282	_	_	0-1(0)	_
 799-0	TOI020	799	799	0	[si	si	_	_	_	_	_	linguistic	_	none	_	Begin=2289.719	_	_	_	0-2(235)
 799-1	TOI020	799	799	1	f~]	f~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=2290.195	_	_	_	0-2(235)
 800-0	TOI020	800	800	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2294.282	_	_	_	_
@@ -6352,7 +6352,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 806-4	TOI020	806	806	4	casa:	casa	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
 806-5	TOI020	806	806	5	paterna,	paterna	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2306.1	_	_	_	_
 807-0	TOI020	807	807	0	avevamo	avevamo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2306.723	_	_	_	_
-807-1	TOI020	807	807	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+807-1	TOI020	807	807	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 807-2	TOI020	807	807	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 807-3	TOI020	807	807	3	camino,	camino	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 807-4	TOI020	807	807	4	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6542,7 +6542,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 826-2	TOR004	826	826	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 826-3	TOR004	826	826	3	campagna	campagna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 826-4	TOR004	826	826	4	[comun~	comun~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-6(240)
-826-5	TOR004	826	826	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(240)
+826-5	TOR004	826	826	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 826-6	TOR004	826	826	6	no].	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2382.126	_	_	_	0-2(240)
 827-0	TOI020	827	827	0	[no.	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=2381.331	_	_	_	0-2(240)
 827-1	TOI020	827	827	1	non]	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(240)
@@ -6685,7 +6685,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 847-3	TOI020	847	847	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 847-4	TOI020	847	847	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 847-5	TOI020	847	847	5	sposata	sposata	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-847-6	TOI020	847	847	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+847-6	TOI020	847	847	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 847-7	TOI020	847	847	7	°e:h°	eh	_	_	_	_	_	linguistic	_	none	Volume=low	End=2430.667	0x1	_	_	_
 848-0	TOI020	848	848	0	°nel,	nel	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Volume=low	Begin=2431.116	_	_	_	_
 848-1	TOI020	848	848	1	dunque.	dunque	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	_	_	_	_	_
@@ -6748,7 +6748,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 856-0	TOI020	856	856	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2454.829	0x2	_	_	_
 856-1	TOI020	856	856	1	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 856-2	TOI020	856	856	2	papà,	papà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2456.722	_	_	_	_
-857-0	TOR004	857	857	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2457.314	_	_	1-3(0)	_
+857-0	TOR004	857	857	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2457.314	_	_	_	_
 857-1	TOR004	857	857	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 857-2	TOR004	857	857	2	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 857-3	TOR004	857	857	3	mai	mai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6766,9 +6766,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 858-7	TOI020	858	858	7	ricordo.	ricordo	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	_	_	_	_	_
 858-8	TOI020	858	858	8	forse	forse	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 858-9	TOI020	858	858	9	no.°	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=2463.311	_	_	_	_
-859-0	TOR004	859	859	0	{interrompe_e_riprende_la_registrazione}	{interrompe_e_riprende_la_registrazione}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2463.316|End=2463.77	_	_	_	_
+859-0	TOR004	859	859	0	((interrompe_e_riprende_la_registrazione))	((interrompe_e_riprende_la_registrazione))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2463.316|End=2463.77	_	_	_	_
 860-0	TOI020	860	860	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=2463.502	_	_	_	_
-860-1	TOI020	860	860	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2464.431	_	_	_	_
+860-1	TOI020	860	860	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2464.431	_	_	_	_
 861-0	TOR004	861	861	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=2464.431|End=2465.256	_	_	_	_
 862-0	TOR004	862	862	0	e::	e	_	_	_	_	_	linguistic	_	none	_	Begin=2465.64	0x2	_	_	_
 862-1	TOR004	862	862	1	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6840,7 +6840,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 873-0	TOI020	873	873	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=2487.653	_	_	_	_
 873-1	TOI020	873	873	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 873-2	TOI020	873	873	2	viene,	viene	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-873-3	TOI020	873	873	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+873-3	TOI020	873	873	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 873-4	TOI020	873	873	4	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 873-5	TOI020	873	873	5	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 873-6	TOI020	873	873	6	dico.	dico	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2489.132	_	_	_	_
@@ -6883,7 +6883,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 881-3	TOI020	881	881	3	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 881-4	TOI020	881	881	4	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 881-5	TOI020	881	881	5	prima	prima	_	_	_	_	_	linguistic	_	none	_	End=2509.071	_	_	_	_
-882-0	TOI020	882	882	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2509.192	_	_	1-3(0)	_
+882-0	TOI020	882	882	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2509.192	_	_	_	_
 882-1	TOI020	882	882	1	nella:::	nella	_	_	_	_	_	linguistic	_	none	_	_	4x3	_	_	_
 882-2	TOI020	882	882	2	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 882-3	TOI020	882	882	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6905,7 +6905,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 886-3	TOI020	886	886	3	piazzetta	piazzetta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 886-4	TOI020	886	886	4	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 886-5	TOI020	886	886	5	era	era	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-886-6	TOI020	886	886	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+886-6	TOI020	886	886	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 886-7	TOI020	886	886	7	il	il	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
 886-8	TOI020	886	886	8	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 886-9	TOI020	886	886	9	mercato,	mercato	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2518.397	_	_	_	_
@@ -6998,7 +6998,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 898-3	TOR004	898	898	3	incontra]	incontra	_	_	_	_	_	linguistic	_	none	_	End=2548.681	_	_	_	0-8(260)
 899-0	TOI020	899	899	0	e::	e	_	_	_	_	_	linguistic	_	none	_	Begin=2550.266	0x2	_	_	_
 899-1	TOI020	899	899	1	dove,	dove	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-899-2	TOI020	899	899	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+899-2	TOI020	899	899	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 899-3	TOI020	899	899	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 899-4	TOI020	899	899	4	passeggia,	passeggia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 899-5	TOI020	899	899	5	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7050,7 +7050,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 908-3	TOI020	908	908	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 908-4	TOI020	908	908	4	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 908-5	TOI020	908	908	5	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-908-6	TOI020	908	908	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+908-6	TOI020	908	908	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 908-7	TOI020	908	908	7	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 908-8	TOI020	908	908	8	ricordo	ricordo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 908-9	TOI020	908	908	9	perché:	perché	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
@@ -7101,7 +7101,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 911-12	TOI020	911	911	12	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-13	TOI020	911	911	13	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-14	TOI020	911	911	14	marocchi:~	marocchi~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	7x1	_	_	_
-911-15	TOI020	911	911	15	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+911-15	TOI020	911	911	15	ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 911-16	TOI020	911	911	16	che:	che	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
 911-17	TOI020	911	911	17	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-18	TOI020	911	911	18	arabi	arabi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7112,9 +7112,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 911-23	TOI020	911	911	23	lì.	lì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2589.73	_	_	_	_
 912-0	TOR004	912	912	0	[proprio:	proprio	_	_	_	_	_	linguistic	_	none	_	Begin=2584.115	6x1	_	_	0-7(265)
 912-1	TOR004	912	912	1	prassi].	prassi	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2585.121	_	_	_	0-6(265)
-913-0	TOR004	913	913	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2586.727|End=2587.5	_	_	_	_
+913-0	TOR004	913	913	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2586.727|End=2587.5	_	_	_	_
 914-0	TOR004	914	914	0	comunque	comunque	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2589.928	_	_	_	_
-914-1	TOR004	914	914	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+914-1	TOR004	914	914	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 914-2	TOR004	914	914	2	[ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(266)
 914-3	TOR004	914	914	3	sentito	sentito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(266)
 914-4	TOR004	914	914	4	di]	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(266)
@@ -7159,7 +7159,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 919-4	TOI020	919	919	4	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 919-5	TOI020	919	919	5	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 919-6	TOI020	919	919	6	pegg~	pegg~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-919-7	TOI020	919	919	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+919-7	TOI020	919	919	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 919-8	TOI020	919	919	8	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 919-9	TOI020	919	919	9	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 919-10	TOI020	919	919	10	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7172,7 +7172,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 921-1	TOI020	921	921	1	sì:	sì	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 921-2	TOI020	921	921	2	>sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
 921-3	TOI020	921	921	3	sì<	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-2(0)	_	_
-921-4	TOI020	921	921	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+921-4	TOI020	921	921	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 921-5	TOI020	921	921	5	lu	lu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 921-6	TOI020	921	921	6	maccature	maccature	_	_	_	_	_	linguistic	_	none	_	End=2606.694	_	_	_	_
 922-0	TOI020	922	922	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=2606.858	_	_	_	_
@@ -7184,7 +7184,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 922-6	TOI020	922	922	6	testa,	testa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2609.088	_	_	_	_
 923-0	TOI020	923	923	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2609.617	0x1	_	_	_
 923-1	TOI020	923	923	1	poi	poi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-923-2	TOI020	923	923	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+923-2	TOI020	923	923	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 923-3	TOI020	923	923	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 923-4	TOI020	923	923	4	foulard	foulard	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 923-5	TOI020	923	923	5	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7215,7 +7215,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 927-0	TOI020	927	927	0	e:,	e	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2622.098	0x1	_	_	_
 927-1	TOI020	927	927	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 927-2	TOI020	927	927	2	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-927-3	TOI020	927	927	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+927-3	TOI020	927	927	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 927-4	TOI020	927	927	4	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 927-5	TOI020	927	927	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 927-6	TOI020	927	927	6	mamme	mamme	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7237,9 +7237,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 930-2	TOI020	930	930	2	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 930-3	TOI020	930	930	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 930-4	TOI020	930	930	4	lutto	lutto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-930-5	TOI020	930	930	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+930-5	TOI020	930	930	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 930-6	TOI020	930	930	6	diventava	diventava	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-930-7	TOI020	930	930	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+930-7	TOI020	930	930	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 930-8	TOI020	930	930	8	[ner]o,	nero	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2634.963	_	_	_	0-3(270)
 931-0	TOR004	931	931	0	[nero].	nero	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=2634.187|End=2634.6	_	_	_	0-4(270)
 932-0	TOI020	932	932	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2635.51	0x1	_	_	_
@@ -7265,14 +7265,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 934-1	TOI020	934	934	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-2	TOI020	934	934	2	chiama	chiama	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-3	TOI020	934	934	3	lu	lu	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-934-4	TOI020	934	934	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+934-4	TOI020	934	934	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 934-5	TOI020	934	934	5	e::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	0x2	_	_	_
 934-6	TOI020	934	934	6	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=2645.419	_	_	_	_
 935-0	TOI020	935	935	0	#e:h	#e:h	_	_	_	_	_	error	_	none	_	Begin=2646.534	_	_	_	_
 935-1	TOI020	935	935	1	allora.	allora	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
 935-2	TOI020	935	935	2	l	l	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 935-3	TOI020	935	935	3	iuppune	iuppune	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-935-4	TOI020	935	935	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+935-4	TOI020	935	935	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 935-5	TOI020	935	935	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 935-6	TOI020	935	935	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 935-7	TOI020	935	935	7	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7356,9 +7356,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 955-1	TOI020	955	955	1	mia	mia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 955-2	TOI020	955	955	2	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 955-3	TOI020	955	955	3	oggi	oggi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-955-4	TOI020	955	955	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+955-4	TOI020	955	955	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 955-5	TOI020	955	955	5	avrebbe	avrebbe	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-955-6	TOI020	955	955	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+955-6	TOI020	955	955	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 955-7	TOI020	955	955	7	avuto,	avuto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2685.361	_	_	_	_
 956-0	TOI020	956	956	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=2685.781	_	_	_	_
 956-1	TOI020	956	956	1	de	de	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7398,7 +7398,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 960-0	TOI020	960	960	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=2697.854	_	_	_	_
 960-1	TOI020	960	960	1	bambini	bambini	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 960-2	TOI020	960	960	2	mettevano	mettevano	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-960-3	TOI020	960	960	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+960-3	TOI020	960	960	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 960-4	TOI020	960	960	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 960-5	TOI020	960	960	5	lutto.	lutto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2700.074	_	_	_	_
 961-0	TOI020	961	961	0	li	li	_	_	_	_	_	linguistic	_	none	_	Begin=2700.409	_	_	_	_
@@ -7424,13 +7424,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 963-5	TOI020	963	963	5	cinquantanove,	cinquantanove	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2707.804	_	_	_	_
 964-0	TOI020	964	964	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=2708.396	_	_	_	_
 964-1	TOI020	964	964	1	mancato	mancato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-964-2	TOI020	964	964	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+964-2	TOI020	964	964	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 964-3	TOI020	964	964	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 964-4	TOI020	964	964	4	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 964-5	TOI020	964	964	5	zio	zio	_	_	_	_	_	linguistic	_	none	_	End=2710.83	_	_	_	_
 965-0	TOI020	965	965	0	nel	nel	_	_	_	_	_	linguistic	_	none	_	Begin=2711.393	_	_	_	_
 965-1	TOI020	965	965	1	se~	se~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-965-2	TOI020	965	965	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+965-2	TOI020	965	965	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 965-3	TOI020	965	965	3	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 965-4	TOI020	965	965	4	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 965-5	TOI020	965	965	5	sessanta	sessanta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7480,7 +7480,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 970-3	TOI020	970	970	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 970-4	TOI020	970	970	4	lutto,	lutto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2732.465	_	_	_	_
 971-0	TOI020	971	971	0	aveva,	aveva	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	Begin=2732.781	_	_	_	_
-971-1	TOI020	971	971	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+971-1	TOI020	971	971	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 971-2	TOI020	971	971	2	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 971-3	TOI020	971	971	3	tutta	tutta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 971-4	TOI020	971	971	4	vestita	vestita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7500,7 +7500,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 973-3	TOI020	973	973	3	base	base	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 973-4	TOI020	973	973	4	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 973-5	TOI020	973	973	5	grado.	grado	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
-973-6	TOI020	973	973	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+973-6	TOI020	973	973	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 973-7	TOI020	973	973	7	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 973-8	TOI020	973	973	8	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 973-9	TOI020	973	973	9	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7520,7 +7520,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 974-4	TOI020	974	974	4	avrebbe	avrebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 974-5	TOI020	974	974	5	dovuto	dovuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 974-6	TOI020	974	974	6	tenerlo	tenerlo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-974-7	TOI020	974	974	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+974-7	TOI020	974	974	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 974-8	TOI020	974	974	8	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 974-9	TOI020	974	974	9	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 974-10	TOI020	974	974	10	mesi.	mesi	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
@@ -7532,7 +7532,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 975-0	TOI020	975	975	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=2750.167	_	_	_	_
 975-1	TOI020	975	975	1	avevano	avevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 975-2	TOI020	975	975	2	delle::	delle	_	_	_	_	_	linguistic	_	none	_	End=2752.242	4x2	_	_	_
-976-0	TOR004	976	976	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2752.316	_	_	1-3(0)	_
+976-0	TOR004	976	976	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2752.316	_	_	_	_
 976-1	TOR004	976	976	1	[delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(276)
 976-2	TOR004	976	976	2	scade:nze],	scadenze	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2753.491	4x1	_	_	0-8(276)
 977-0	TOI020	977	977	0	[scadenze.	scadenze	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=2752.446	_	_	_	0-8(276)
@@ -7589,7 +7589,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 983-9	TOR004	983	983	9	capivano].	capivano	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2767.744	_	_	_	0-8(280)
 984-0	TOI020	984	984	0	[era	era	_	_	_	_	_	linguistic	_	none	_	Begin=2766.695	_	_	_	0-3(280)
 984-1	TOI020	984	984	1	ri~	ri~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(280)
-984-2	TOI020	984	984	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(280)
+984-2	TOI020	984	984	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 984-3	TOI020	984	984	3	tu]tti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(280)
 984-4	TOI020	984	984	4	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 984-5	TOI020	984	984	5	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7655,8 +7655,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 994-15	TOI020	994	994	15	serviva	serviva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 994-16	TOI020	994	994	16	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 994-17	TOI020	994	994	17	niente	niente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-994-18	TOI020	994	994	18	>ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	2-3(0)	_
-994-19	TOI020	994	994	19	ci(o)è<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	2-3(1)	_
+994-18	TOI020	994	994	18	>ci(o)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	Fast=0-4(0)	_	_
+994-19	TOI020	994	994	19	ci(o)è<	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	Fast=0-4(0)	_	_
 994-20	TOI020	994	994	20	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 994-21	TOI020	994	994	21	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 994-22	TOI020	994	994	22	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7724,17 +7724,17 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1001-3	TOI020	1001	1001	3	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1001-4	TOI020	1001	1001	4	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1001-5	TOI020	1001	1001	5	andate	andate	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1001-6	TOI020	1001	1001	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1001-6	TOI020	1001	1001	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1001-7	TOI020	1001	1001	7	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1001-8	TOI020	1001	1001	8	vostro	vostro	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1001-9	TOI020	1001	1001	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1001-9	TOI020	1001	1001	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1001-10	TOI020	1001	1001	10	bel	bel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1001-11	TOI020	1001	1001	11	paesello.	paesello	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2815.922	_	_	_	_
 1002-0	TOI020	1002	1002	0	perché	perché	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2816.399	_	_	_	_
-1002-1	TOI020	1002	1002	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1002-1	TOI020	1002	1002	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1002-2	TOI020	1002	1002	2	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1002-3	TOI020	1002	1002	3	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-1002-4	TOI020	1002	1002	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1002-4	TOI020	1002	1002	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1002-5	TOI020	1002	1002	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1002-6	TOI020	1002	1002	6	ve	ve	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1002-7	TOI020	1002	1002	7	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7806,7 +7806,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1010-4	TOI020	1010	1010	4	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1010-5	TOI020	1010	1010	5	uguale	uguale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1010-6	TOI020	1010	1010	6	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2840.526	_	_	_	_
-1011-0	TOI020	1011	1011	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2840.816	_	_	1-3(0)	_
+1011-0	TOI020	1011	1011	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2840.816	_	_	_	_
 1011-1	TOI020	1011	1011	1	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1011-2	TOI020	1011	1011	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1011-3	TOI020	1011	1011	3	faceva	faceva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7816,7 +7816,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1011-7	TOI020	1011	1011	7	fac~	fac~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 1011-8	TOI020	1011	1011	8	doveva	doveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1011-9	TOI020	1011	1011	9	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1011-10	TOI020	1011	1011	10	ugual(e).	uguale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2843.756	_	_	4-6(1)	_
+1011-10	TOI020	1011	1011	10	ugual(e).	uguale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2843.756	_	_	4-6(0)	_
 1012-0	TOI020	1012	1012	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=2844.173	_	_	_	_
 1012-1	TOI020	1012	1012	1	io:	io	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 1012-2	TOI020	1012	1012	2	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7841,7 +7841,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1013-4	TOI020	1013	1013	4	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1013-5	TOI020	1013	1013	5	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1013-6	TOI020	1013	1013	6	ognuno	ognuno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1013-7	TOI020	1013	1013	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1013-7	TOI020	1013	1013	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1013-8	TOI020	1013	1013	8	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1013-9	TOI020	1013	1013	9	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1013-10	TOI020	1013	1013	10	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7880,7 +7880,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1015-4	TOI020	1015	1015	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1015-5	TOI020	1015	1015	5	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1015-6	TOI020	1015	1015	6	colo:re.	colore	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	3x1	_	_	_
-1015-7	TOI020	1015	1015	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+1015-7	TOI020	1015	1015	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 1015-8	TOI020	1015	1015	8	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1015-9	TOI020	1015	1015	9	dire	dire	_	_	_	_	_	linguistic	_	none	_	End=2864.312	_	_	_	_
 1016-0	TOR004	1016	1016	0	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	Begin=2864.389	_	_	_	_
@@ -8025,7 +8025,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1029-15	TOI020	1029	1029	15	ne]r(o).	nero	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2910.824	_	_	3-4(0)	0-2(1)
 1030-0	TOR004	1030	1030	0	[ti	ti	_	_	_	_	_	linguistic	_	none	_	Begin=2909.878	_	_	_	0-2(1)
 1030-1	TOR004	1030	1030	1	mettevi	mettevi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-7(1)
-1030-2	TOR004	1030	1030	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(1)
+1030-2	TOR004	1030	1030	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1030-3	TOR004	1030	1030	3	eh]	eh	_	_	_	_	_	linguistic	_	none	_	End=2910.628	_	_	_	0-2(1)
 1031-0	TOI020	1031	1031	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=2911.242	_	_	_	_
 1031-1	TOI020	1031	1031	1	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8038,7 +8038,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1032-4	TOI020	1032	1032	4	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1032-5	TOI020	1032	1032	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1032-6	TOI020	1032	1032	6	rispetto	rispetto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1032-7	TOI020	1032	1032	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1032-7	TOI020	1032	1032	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1032-8	TOI020	1032	1032	8	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1032-9	TOI020	1032	1032	9	c~	c~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 1032-10	TOI020	1032	1032	10	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8050,7 +8050,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1033-1	TOI020	1033	1033	1	ha:i	hai	_	_	_	_	_	linguistic	_	none	_	End=2919.066	1x1	_	_	_
 1034-0	TOR004	1034	1034	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=2919.16	_	_	_	_
 1034-1	TOR004	1034	1034	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=2919.651	_	_	_	_
-1035-0	TOI020	1035	1035	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2920.136	_	_	1-3(0)	_
+1035-0	TOI020	1035	1035	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2920.136	_	_	_	_
 1035-1	TOI020	1035	1035	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-2	TOI020	1035	1035	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-3	TOI020	1035	1035	3	faccio	faccio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8064,7 +8064,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1035-11	TOI020	1035	1035	11	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-12	TOI020	1035	1035	12	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-13	TOI020	1035	1035	13	elegante.	elegante	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
-1035-14	TOI020	1035	1035	14	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(1)	_
+1035-14	TOI020	1035	1035	14	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 1035-15	TOI020	1035	1035	15	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-16	TOI020	1035	1035	16	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-17	TOI020	1035	1035	17	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8169,7 +8169,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1050-1	TOR004	1050	1050	1	beh	beh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(13)
 1050-2	TOR004	1050	1050	2	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(13)
 1050-3	TOR004	1050	1050	3	è	è	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-1(13)
-1050-4	TOR004	1050	1050	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(13)
+1050-4	TOR004	1050	1050	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1050-5	TOR004	1050	1050	5	m]ontagna	montagna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(13)
 1050-6	TOR004	1050	1050	6	pra[ticamente].	praticamente	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2955.846	_	_	_	3-12(14)
 1051-0	TOI020	1051	1051	0	[monta]gna,	montagna	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2955.357	_	_	_	0-5(14)
@@ -8283,7 +8283,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1064-7	TOI020	1064	1064	7	ngape	ngape	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1064-8	TOI020	1064	1064	8	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1064-9	TOI020	1064	1064	9	a:nge	ange	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
-1064-10	TOI020	1064	1064	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
+1064-10	TOI020	1064	1064	10	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 1064-11	TOI020	1064	1064	11	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1064-12	TOI020	1064	1064	12	è:	è	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 1064-13	TOI020	1064	1064	13	t[utto,	tutto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	0-5(24)
@@ -8357,10 +8357,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1075-3	TOI020	1075	1075	3	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1075-4	TOI020	1075	1075	4	gli~	gli~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 1075-5	TOI020	1075	1075	5	gliere	gliere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1075-6	TOI020	1075	1075	6	pe(r)ché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	2-3(0)	_
+1075-6	TOI020	1075	1075	6	pe(r)ché	perché	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 1075-7	TOI020	1075	1075	7	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1075-8	TOI020	1075	1075	8	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1075-9	TOI020	1075	1075	9	(un)	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(1)	_
+1075-9	TOI020	1075	1075	9	(un)	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
 1075-10	TOI020	1075	1075	10	ghiro.	ghiro	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3026.598	_	_	_	_
 1076-0	TOR004	1076	1076	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=3026.841|End=3027.281	_	_	_	_
 1077-0	TOI020	1077	1077	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=3027.281	_	_	_	_
@@ -8386,7 +8386,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1079-1	TOR004	1079	1079	1	te:]	te	_	_	_	_	_	linguistic	_	none	_	End=3031.573	1x1	_	_	0-2(29)
 1080-0	TOI020	1080	1080	0	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	Begin=3033.828	_	_	_	_
 1080-1	TOI020	1080	1080	1	preso	preso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1080-2	TOI020	1080	1080	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1080-2	TOI020	1080	1080	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1080-3	TOI020	1080	1080	3	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1080-4	TOI020	1080	1080	4	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1080-5	TOI020	1080	1080	5	lì.	lì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3035.712	_	_	_	_
@@ -8499,7 +8499,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1096-0	TOI020	1096	1096	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3070.676	_	_	_	_
 1096-1	TOI020	1096	1096	1	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1096-2	TOI020	1096	1096	2	è:	è	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x1	_	_	_
-1096-3	TOI020	1096	1096	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1096-3	TOI020	1096	1096	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1096-4	TOI020	1096	1096	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1096-5	TOI020	1096	1096	5	[nostro]:	nostro	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	0-6(36)
 1096-6	TOI020	1096	1096	6	paese.	paese	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3073.928	_	_	_	_
@@ -8512,7 +8512,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1098-4	TOR004	1098	1098	4	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1098-5	TOR004	1098	1098	5	intervista,	intervista	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=3076.377	_	_	_	_
 1099-0	TOR004	1099	1099	0	e::	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=3076.552	0x2	_	_	_
-1099-1	TOR004	1099	1099	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1099-1	TOR004	1099	1099	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1099-2	TOR004	1099	1099	2	grazie	grazie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1099-3	TOR004	1099	1099	3	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1099-4	TOR004	1099	1099	4	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
