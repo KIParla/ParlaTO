@@ -297,7 +297,7 @@ TOI074	[ah]
 TOI073	>mi chiamasse alessio< mi dicesse vieni a vedere
 TOR001	((ride))
 TOI073	sono arrivata (.) ho visto già solo gli ultimi:
-TOI073	frizzi e lazzi dell' ((ride)) dell'evento sì
+TOI073	frizzi e lazzi dell~ ((ride)) dell'evento sì
 TOI074	((ride))
 TOR001	((ride))
 TOI073	gli ai ragazzi seduti nei dehors

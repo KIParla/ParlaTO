@@ -915,9 +915,9 @@ TOI077	eh il l'ha segnata
 TOR004	sì sì
 TOR004	no ma il mi han detto che è un posto assurdo
 TOI076	no nel io sono pochi anni che ci ho messo di nuovo piede
-TOR004	ma a me all'
+TOR004	ma a me all~
 TOI076	se no avevo il terrore solo a nominarlo
-TOR004	ma sì a me all' mi avevano fatto un una proposta cioè per per l'università per pagare l'università
+TOR004	ma sì a me all~ mi avevano fatto un una proposta cioè per per l'università per pagare l'università
 TOR004	mi han fatto una proposta io mai fatto mai visto cucina niente mi avevan proposto di andare in pasticceria
 TOR004	e di prendere le commesse delle torte di fare le torte zia ma io non so neanche montare la panna cioè
 TOR004	voglio dire

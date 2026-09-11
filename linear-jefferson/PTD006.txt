@@ -490,7 +490,7 @@ TOR004	sempr[e::: in call center],
 TOI055	[sempre >i:n que~ in quesempre in questo<] call center bellissimo di via
 TOR004	((ride))
 TOI055	il=ehm:::
-TOI055	l'assistente:: all' quella finanzi[aria::]
+TOI055	l'assistente:: all~ quella finanzi[aria::]
 TOR004	[oh madonna] quella dei prestiti?
 TOI055	ma:mma mi~ lasciamo sta~ guard~ per carità [è da (ri~)]
 TOR004	[cioè è un mu]ro del [pianto]
@@ -893,7 +893,7 @@ TOI055	e:h poi a un certo punto ha tentato il suicidio >ma non so per quale moti
 TOR004	[sì lì l~] lì al [fondo di via doria],
 TOI055	[per f~ esatto e]satto per fortuna si è salvato,
 TOR004	[cioè ma cosa ha fatto si è buttato dal monumento]?
-TOI055	[e:::hm ehm dal no] dal balc~ dall' dall'appartamento,
+TOI055	[e:::hm ehm dal no] dal balc~ dall~ dall'appartamento,
 TOR004	a:h >ma perché lui aveva l'apparta~< [ah poverino],
 TOI055	[>aveva l'appartamento lì<]
 TOR004	[cioè]
@@ -1087,7 +1087,7 @@ TOR004	[sì comunque],
 TOI055	al che, mentre ero lì,
 TOI055	ho detto matteo (.) basta allora mi son messo:
 TOI055	a mandar curriculum
-TOI055	quindi sfruttando il computer dell' dell'azienda de~ del mio corner,
+TOI055	quindi sfruttando il computer dell~ dell'azienda de~ del mio corner,
 TOI055	mandavo curriculum=e:h,
 TOI055	alle varie:: a~ m::h [nego:z~ m]a io sì lo facevo me ne sono sempre fregato
 TOR004	[ma potevi farlo]?

@@ -755,7 +755,7 @@ TOR001	mh mh mh mh mh mh
 TOI078	magari venezia magari certe parti dell'est italia poi magari invece non è vero
 TOR001	mh mh mh
 TOR001	mh mh mh mh
-TOI078	ho quest' impressione
+TOI078	ho quest'impressione
 TOI078	però appunto il ehm
 TOI078	son sempre convinto che comunque sia sì sì siam tutti amici siam tutti uguali
 TOI078	però
