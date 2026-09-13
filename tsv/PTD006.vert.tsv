@@ -4320,7 +4320,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 491-1	TOI055	491	491	1	ehm:::	ehm	_	_	_	_	_	linguistic	_	none	_	End=1343.62	2x3	_	_	_
 492-0	TOI055	492	492	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1343.715	_	_	_	_
 492-1	TOI055	492	492	1	assistente::	assistente	_	_	_	_	_	linguistic	_	none	_	_	9x2	_	_	_
-492-2	TOI055	492	492	2	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+492-2	TOI055	492	492	2	all~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 492-3	TOI055	492	492	3	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 492-4	TOI055	492	492	4	finanzi[aria::]	finanziaria	_	_	_	_	_	linguistic	_	none	_	End=1347.553	10x2	_	_	6-11(183)
 493-0	TOR004	493	493	0	[oh	oh	_	_	_	_	_	linguistic	_	none	_	Begin=1346.949	_	_	_	0-2(183)
@@ -7883,7 +7883,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 895-3	TOI055	895	895	3	no]	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(307)
 895-4	TOI055	895	895	4	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 895-5	TOI055	895	895	5	balc~	balc~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-895-6	TOI055	895	895	6	dall'	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+895-6	TOI055	895	895	6	dall~	dall~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 895-7	TOI055	895	895	7	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 895-8	TOI055	895	895	8	appartamento,	appartamento	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2424.692	_	_	_	_
 896-0	TOR004	896	896	0	a:h	ah	_	_	_	_	_	linguistic	_	none	_	Begin=2424.73	0x1	_	_	_
@@ -9311,7 +9311,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1089-1	TOI055	1089	1089	1	sfruttando	sfruttando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1089-2	TOI055	1089	1089	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1089-3	TOI055	1089	1089	3	computer	computer	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1089-4	TOI055	1089	1089	4	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+1089-4	TOI055	1089	1089	4	dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 1089-5	TOI055	1089	1089	5	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1089-6	TOI055	1089	1089	6	azienda	azienda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1089-7	TOI055	1089	1089	7	de~	de~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_

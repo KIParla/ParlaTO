@@ -1,0 +1,1510 @@
+TOR001	no no figurati adesso la cerchiamo
+???	xx
+TOR001	sì ma di chi è
+???	c'era qualcosa che c'entra coi soldi penny
+???	cioè un nome che
+TOI011	pennywise penny
+TOR001	ah diretta~ aspetta aspetta
+TOR001	aspetta perché si apre aspetta arrivo
+TOI010	se clicchi sopra
+TOR001	eh ma eh c'è la registrazione accesa
+TOI010	sì sì sì
+TOR001	no no ma stavo cercando la canzone aspetta eh
+TOR001	arrivo
+???	c'entra penny
+TOR001	aspetta
+???	sixpence none the richer
+TOR001	sì fatto
+TOR001	ma non non mi ha detto mo~ tante cose dì più però cioè non so chi siano vabbè comunque insomma
+TOR001	okay
+TOR001	allora
+TOR001	avete domande prima di iniziare
+TOI010	no
+TOI011	no
+TOR001	benissimo che lavoro fate
+TOI011	eh sviluppatore software
+TOI010	la stessa cosa
+TOR001	mhmh
+TOR001	in cosa consiste in pratica
+???	xxx
+TOI010	programmiamo
+TOR001	okay
+TOI010	in gene~ mh creiamo
+TOI010	qualcosa che non c'è
+TOI010	o
+TOI010	connettiamo cose
+TOI010	diverse tra di loro
+TOI010	dell'informatica
+TOI011	più pragmaticamente siti internet eh applicazioni eh web app eh software di vario genere eccetera eccetera
+TOR001	eh esatto perché io non ho idea di cosa sia okay
+TOI010	sì
+TOR001	okay
+TOR001	okay
+TOR001	quindi vi commissionano direttamente a voi qualcosa
+TOR001	e poi lo fate voi o ci sono intermediari come funziona
+TOI011	beh dicia~
+TOI010	beh lavorando l~ mh u~ un po' lui l'intermediario cioè comunque noi altri colleghi noi
+TOI010	cioè a volte capita anche sì di prendere direttamente
+TOR001	mhmh
+TOI010	però sì di solito facciamo una riunione prima e capiamo chi deve fare il lavoro come
+TOR001	okay
+TOR001	okay
+TOI010	e poi lo si fa
+TOR001	okay
+TOI010	poi ogni tanto ci sono anche dei contatti diretti col cliente
+TOR001	mhmh
+TOI010	che cerchiamo di evitare
+TOI011	come la peste
+TOI011	però sì in linea di massima sì
+TOI011	la commessa viene presa dall'azienda e poi internamente si decide
+TOR001	okay
+TOI011	chi fa cosa in base a capacità esperienza eccetera eccetera
+TOI010	poi solo al cioè ti riferisci al momento attuale o
+TOR001	per adesso sì poi dopo
+TOI010	okay va bene
+TOR001	okay
+TOR001	e quindi per esempio una cosa recente che avete fatto
+TOR001	una app o un sito
+TOI010	sì
+TOI010	uno un software gestionale per condomini eh
+TOR001	okay
+TOR001	tutto bene aspetta
+TOI011	eh
+???	è caduto qualcosa ma non ho capito co~ ah è mio
+TOR001	neanch'io
+???	okay
+TOI010	scusa
+TOR001	tutto a posto
+???	tutto a posto
+TOR001	no figurati scusa mi dicevi
+TOI011	un software diceva per condomini sì e
+TOI010	sì anche se
+TOI011	e io un software eh per l'insegnamento della musica
+TOI010	e~
+TOI011	mh cosa
+TOI010	delle scuole medie
+TOI011	sc~ delle scuole medie sì
+TOR001	okay
+TOR001	e quindi in pratica cosa facevano questi due cioè in cosa consisteva il software per l'insegnamento della musica
+TOI011	software per l'insegnamento della musica mh essenzialmente è un programma che funziona su su pc e su mac
+TOR001	okay
+TOI011	e dove ci sono degli spartiti ci sono delle canzoni e diciamo si si si si fanno partire queste queste tracce
+TOR001	mhmh
+TOI011	c'è una modalità di ascolto per cui dove essenzialmente si si ascolta la traccia in versione come se fosse suonata
+TOR001	mhmh
+TOI011	e e poi c'è invece una modalità di apprendimento dove diciamo a supporto di questa cosa c'è
+TOI011	la visualizzazione dello strumento per cui
+TOI011	lo studente diciamo ripete
+TOR001	okay
+TOI011	pigiando sui sui tasti del flauto la chitarra e la e la pianola e la tastiera
+TOR001	mhmh
+TOI011	eh diciamo ripete quello che vede sullo schermo e di conseguenza impara
+TOR001	mhmh
+TOR001	okay invece tu dicevi un'applicazione per
+TOI010	sì
+TOI010	uno che mh ho sviluppato in realtà è stata sviluppata inizialmente da una supervisione e da un
+TOI010	un programmatore junior poi son subentrato io per fare delle altre funzioni più avanzate
+TOR001	mhmh
+TOR001	mhmh
+TOI010	eh l~ non è proprio uno un software di gestione diciamo
+TOI010	mh condominiale classica no in realtà serve agli amministratori di condominio per gestire gli interventi di manutenzione
+TOR001	mhmh
+TOR001	ah okay
+TOI010	emh quindi
+TOI010	e xx permette di essere di poter essere usato da più amministratori di condomini
+TOR001	mhmh
+TOI010	coordinati da un cosiddetto call center e che
+TOR001	mhmh
+TOI010	praticamente prende prende i guasti
+TOI010	dai condomini che chiamano e poi li smista ai vari
+TOR001	okay
+TOI010	ai vari amministratori di condominio che fanno parte della piattaforma che a loro volta poi li assegnano ai vari fornitori
+TOR001	mhmh
+TOR001	okay
+TOI010	della mh ai insomma tecnici che poi faranno
+TOR001	xx
+TOI010	è stata xxrata con un con telegram
+TOR001	mhmh
+TOI010	che è la parte che maggiormante ho sviluppato io che diffonde
+TOI010	e comunica le notifiche non solo tramite mail ma anche con telegram
+TOR001	okay
+TOR001	okay perfetto
+TOR001	allora da quanto tempo fate questo lavoro
+TOI010	eh vent'anni credo okay
+TOR001	okay
+???	in questa società o in assoluto
+TOR001	no in assoluto
+TOI010	sì più o meno vent'anni
+TOI011	bah no eh sì vent'anni io
+TOI011	da qua~ da quant'è che lavoro in cinque
+???	duemila e tre
+TOI011	no duemila e tredici
+???	tredici scusami sì
+TOI010	xx duemila e tredici
+TOI011	quindi cinque più un paio d'anni prima sei se~ sette ti direi
+TOR001	okay
+TOR001	va bene
+TOR001	ehm lavorate in proprio o siete dipendenti
+TOI010	come
+TOI011	sì siamo
+TOR001	lavorate in proprio o siete dipendenti
+TOI010	adesso siamo dipendenti
+TOI011	siamo dipendenti
+TOR001	okay
+TOI010	x
+TOR001	avete sempre fatto lo stesso lavoro
+TOI010	no
+TOI010	cioè non nella stessa maniera
+TOR001	okay
+TOI010	però no anche ho fatto anche lavori diversi
+TOR001	tipo
+TOI010	e lavorato in mh cioè ho sempre fatto questo lavoro
+TOR001	mhmh
+TOI010	e ho avuto un un dove l'ho fatto un po'
+TOI010	per delle società da dipendente o società private poi mi sono messo in proprio per
+TOR001	mhmh
+TOI010	un otto anni e mentre ero in proprio ho lavorato anche per apple dove
+TOR001	okay
+TOI010	ho fatto tutt'altro cioè io mi sono occupato di di siri di
+TOI010	un sempre insomma sempre informatica ma un tutto un altro genere di di occupazione e di mansione
+TOR001	mhmh
+TOR001	okay
+TOR001	tu invece
+TOI011	io ho fatto anche altro
+TOI011	mh sempre lavoretti diciamo o cose da da weekend o
+TOI011	comunque mh diciamo non non per periodi prolungati
+TOR001	mhmh
+TOI011	ho penso che il mio primo lavoro in assoluto sia stato il bagnino
+TOR001	okay
+TOI011	ho il brevetto da bagnino per cui ho lavorato in un albergo e facevo il bagnino nella piscina
+TOI010	ah io per un amministratore di condominio invece
+TOI011	emh e poi ho lavorato invece
+TOI011	mh sì almeno tre anni nei weekend come barista poi cameriere
+TOR001	mhmh
+TOI011	e e poi poi ho iniziato a fare quello che faccio adesso
+TOR001	okay
+TOI010	è vero anch'io per un un ann~ n~ netto e mezzo ero s~ andavo da barista o mentre facevo il programmatore solo nel weekend mi sa
+TOR001	okay
+TOR001	ehm ti piacerebbe anzi vi piacerebbe andare avanti a far sempre lo stesso lavoro oppure vi piacerebbe cambiare
+TOI010	mh per me mi piacerebbe mi piace l'informatica probabilmente sono un po' logoro della mansione del
+TOI010	mi piacerebbe insomma evolvermi sì
+TOR001	mhm
+TOR001	e quindi
+TOI010	quindi così no poi anche perché credo cioè che in realtà ormai sl~ il
+TOI010	cioè il ruolo dell'impegato
+TOI010	sia del tutto cioè ormai è simile a quello dell'operaio però solamente insomma in un nuovo contesto tecnologico ma di fatto
+TOR001	mhmh
+TOI010	diciamo che ormai i rapporti e il tipo di lavoro sta diventando esattamente quello
+TOR001	mhmh
+TOI010	mh seriale con
+TOI010	insomma della responsabilità che magari non ti compete nemmeno
+TOR001	mhmh
+TOI010	e reperibilità da ospedale appunto cioè ovviamente
+TOI010	cosa no vabbè ade~
+???	un po' esagerato non è che xxx
+TOI010	adesso esa~ no vabbè ma perché io mi baso mi baso anche sul passato ovviamente adesso non è più così però quando
+TOR001	mhmh
+TOI010	avevo la partita iva sì cioè
+TOI010	il numero di telefono in mano ai ai clienti e ti chiamavano a qualsiasi orario pensando che tu s~ fossi
+TOI010	responsabile
+TOI010	cioè acca ventiquattro di qualsiasi cosa tu avessi fatto cioè neanche un dottore
+TOR001	mh mhmh
+TOR001	certo
+TOI010	cioè i dottori sabato e domenica non lavorano io a volte lavoravo cioè
+TOR001	mh mhmh
+TOR001	e quindi t~ cioè ti piacerebbe andare avanti a far lo stesso lavoro ma diciamo
+TOI010	e cambiando più tutelato cioè nel
+TOR001	cambiando
+TOR001	mh
+TOI010	d~ allor adesso la situazione in realtà è migliorata da quando da da prima
+TOR001	mhmh
+TOI010	però diciamo che mi piacerebbe cambiare mansione nella
+TOR001	okay
+TOI010	o ruolo ne~ all'interno di quello dello stesso settore
+TOR001	okay
+TOR001	okay tu invece
+TOI011	ma allora ti dico anch'io tendenzialmente
+TOI011	cioè vorrei rimanere in questo ambito qua
+TOR001	mhmh
+TOI011	e poi il discorso è che comunque cioè mh lo sviluppo software l'informatica è una cosa enorme e ta~ e tante
+TOI011	e diciamo tanti lavori e tante mansioni stanno venendo fuori adesso cioè tanti specializzazioni sono cose
+TOR001	mhmh
+TOI011	cose che non esistevano
+TOI011	per cui mh tendenzialmente mh s~
+TOI011	probabilmente mi piacerebbe specializzarmi in un qualcosa
+TOR001	mhmh
+TOI011	specifico verticale
+TOR001	mhmh
+TOI011	poi non lo so se sarà così però io ti dico solo tendenzialmente questo è
+TOR001	mhmh
+TOI011	e sicuramente mi piacerebbe avere una
+TOI011	cioè u~ un percorso di crescita che che mi porti ad av~ ad essere una figura più di coordinamento magari e un po' meno
+TOR001	mhmh
+TOI011	ehm cioè
+TOI011	di di realizzazione pratica delle cose
+TOR001	mhmhmh
+TOR001	okay
+TOI011	però in linea di massima comunque son felice sì
+TOR001	okay
+TOR001	per cui anche tu comunque rimanendo sempre nell'ambito
+TOI011	assolutamente sì sì sì sì
+TOR001	ehm pensate che torino sia un buon posto per lavorare
+TOI010	eh bella domanda
+TOI010	potrebbe esserlo nel senso che
+TOI010	in in questo momento qui secondo me non tanto
+TOI010	perché c'è il solito discorso insomma
+TOI010	quello che vedo io è molto molta stanchezza molto
+TOI010	mh c'è po~ anche poca aggressività nel nel nel settore no cioè si mh
+TOR001	mhmh
+TOI010	cioè si lavoricchia ecco però e soprattutto c'è
+TOR001	mhmh
+TOI010	molta poca specializzazione in questa cosa qua cioè mh io
+TOI010	mh personalmente no ho passato anche queste fasi qui nel senso che sono
+TOI010	cresciuto ero il pivello che faceva queste cose qui le facevo male
+TOI010	adesso mi~ credo di farle un po' meglio
+TOI010	però noto che comunque è questa la tendenza
+TOR001	mhmh
+TOI010	cioè
+TOI010	io ho fatto anche qualche esperienza fuori
+TOI010	e quello che vedi cioè è proprio u~ u~ u~
+TOI010	insomma un salto pazzesco no cioè tra
+TOI010	cioè magari tra come mh lavorano quei miei stessi colleghi
+TOR001	mhmh
+TOI010	e invece altrove cioè quello che vedo io è molto
+TOI010	ehm un se~ un settore amatoriale non so
+TOR001	okay
+TOI010	poi sempre sull'eco di quello che arriva dall'estero no
+TOR001	mhmh
+TOI010	le nuove cose che arrivano sì le mettono in pratica xx ma
+TOI010	cioè sono sempre di seconda mano
+TOR001	okay
+TOI010	e cioè dico che potrebbe esserlo perché
+TOI010	mh cioè anche parlando con molte persone c'è la creatività ci sono le idee
+TOR001	mhmh
+TOI010	però poi spesso si si cioè mh si riducono
+TOI010	o all'apertura di una società che fallisce entro pochissimo
+TOR001	mhmh
+TOI010	mh fatta insomma in una maniera un po' sempre amatoriale
+TOR001	mhmh
+TOI010	senza una una visione di prospettiva no
+TOR001	mhmh mhmh
+TOI010	senza un business model che poi possa avere non so magari un seguito
+TOR001	mh okay
+TOI010	e oppure insomma magari semplicemente mancanza di soldi
+TOR001	mhmh mh
+TOI010	o mancanza delle persone giuste che facciano andare avanti la cosa
+TOR001	okay
+TOI010	e anche
+TOI010	la mancanza di ovviamente investitori che ci mettano
+TOR001	okay
+TOR001	mhmh mhmh
+TOI010	dei soldi sopra
+TOR001	soldi
+TOI011	bah non so io forse sono un po' meno tragico diciamo su questa da questo punto di vista nel senso che allora
+TOI011	mh in generale torino come come città mi piace molto
+TOI011	e mi ci trovo bene parlando per la mia esperienza personale
+TOR001	mhmh mh
+TOI011	mh sono comodo ma
+TOI011	perché banalmente sono comodo nel posto di lavoro dove abito e insomma e e quindi diciamo che
+TOR001	mhmh
+TOR001	certo
+TOI011	e e e essendo comunque diciamo tendenzialmente una città un pochino più a misura d'uomo rispetto ad altre città
+TOI011	io non mi trovo male
+TOR001	mhmh mh
+TOI011	e questa cosa che dice mattia è vera nel senso che
+TOI011	eh
+TOI011	torino mh i~ in tante cose rincorre un po' le altre nello specifico milano
+TOI011	anche da un punto di vista della tecnologia diciamo che milano è proprio lab
+TOI011	dove crescono le cose e dove ci sono diciamo le aziende
+TOR001	mh mhmh
+TOI011	che fanno innovazione e che fanno cose un po' più fighe
+TOR001	mhmh
+TOI011	poi anche qua ci sono un sacco di realtà questa cosa
+TOI011	mh diciamo
+TOI011	la questa differenza territoriale è anche un po' abbattuta dal discorso che comunque noi facciamo un lavoro che non è
+TOR001	certo
+TOI011	per forza legato o localizzato no
+TOI010	localizzato xx
+TOI011	e
+TOI011	e quindi sì mh probabilmente ecco nei confronti di milano
+TOI011	e il discorso è semplicemente una è una città più a misura d'uomo
+TOR001	mhmh
+TOI011	torino ovviamente dove gli stipendi sono più bassi però ovviamente la vita costa di meno
+TOI011	e di là ci sono probabilmente più e un po' più di opportunità
+TOR001	mhm
+TOI011	perché appunto l~ lì c'è fermento dal punto di vista del digitale del
+TOR001	mhmh
+TOI011	di quello che facciamo noi
+TOI011	dopodiché è un altro genere di città con stipendi più alti ma anche con un costo della vita diverso
+TOI011	e in linea di massima n~ non mi lamento diciamo
+TOR001	okay
+TOI010	quindi la soluzione è
+TOI010	xxx
+TOI011	quindi la soluzione è xxarsi esatto
+TOR001	ehm e appunto pensate sarebbe meglio lavorare altrove
+TOR001	cioè
+TOR001	detto questo riguardo a torino pensate che ci siano posti in cui sarebbe meglio
+TOI010	adesso dico una cosa che probabilmente cioè l'avrai già sentito da mille volte però
+TOR001	mh
+TOI010	cioè è sempre u~ un rapporto di amore e odio no
+TOR001	mhmh
+TOI010	nel senso che io più volte ormai cioè ho capito che
+TOI010	dopo aver vissuto per trent'anni più di trent'anni qui
+TOI010	non è che disprezzi torino però semplicemente boh mi son stufato
+TOR001	mhmh
+TOI010	e io in realtà adesso ho deciso di metterci radici qui per vari motivi
+TOI010	però cioè dentro di me non nascondo che ho sempre questa cioè questa sensazione di
+TOI010	non so cioè di probabilmente di dover essere altrove
+TOI010	con tutti i dubbi e le cose che
+TOI010	insomma che ti porti dietro però
+TOI010	e secondo me cioè siamo anche una generazione che secondo me si è fossilizzata tantissimo anche con
+TOI010	cioè noi siamo i figli dei migranti che ormai hanno trovato il posto dove stare no
+TOR001	mhmh mhmh
+TOI010	e quindi non abbiamo più tanto la spinta e la fame di dire
+TOI010	vado a cercare la fortuna altrove
+TOR001	mhmh mh
+TOI010	perché siamo in una situ~ mh in una situazione ambigua in cui
+TOI010	non abbiamo così tanta fame ma non stiamo neanche così tanto bene no
+TOR001	mh mhmh
+TOI010	e viviamo questo limbo di di mezzo in cui non sappiamo cosa fare
+TOR001	mhm
+TOI010	e quindi cioè s~ lo penso ma sono ancora qui
+TOR001	okay
+TOR001	secondo te
+TOI011	vabbè no aspetta d~ co~ com'era la domanda
+TOR001	la domanda era detto questo riguardo a torino cioè quello che abbiam detto fino a adesso
+TOI011	sì eh
+TOR001	pensi che sarebbe meglio lavorare altrove o ci sono luoghi in cui pensi sarebbe meglio
+TOI011	ma e la mia considerazione è strettamente personale nel senso che io sono venuto a torino
+TOI011	per
+TOI011	per fare l'università che poi non ho finito altrimenti non saremmo qua
+TOR001	mhmh
+TOI011	ehm
+TOI011	e quindi per me cioè nel senso non è casa mia
+TOR001	mhmh
+TOI011	mh io sono n~ nato e cresciuto in un altro posto che non è una città con diciamo tutte le altre logiche
+TOR001	mhmh
+TOI011	e
+TOI011	tendenzialmente a me pe~ piacerebbe o comunque sono nel processo di
+TOI011	e di tornare dalle mie parti mettiamola così
+TOR001	okay
+TOI011	e tutto da definire tutto da capire esattamente come però
+TOI011	no~ non mi vedo non mi vedo diciamo mh as~ mh stabilito qua
+TOR001	okay
+TOR001	okay
+TOI011	anche perché tra un tra una cosa e l'altra io appunto ho iniziato cioè sono venuto qua per l'università nel duemila e cinque
+TOI011	siamo nel duemila e diciotto
+TOR001	mh
+TOI011	e è un è po' vero quello che dice mattia cioè
+TOI011	m~ mi ha stufato un po' ma no~ non per per torino in sè ma è proprio una questione di
+TOR001	mhmh
+TOI011	sai di cambiamento perché dopo un po' dici vabbò nel senso quello che mi doveva dare me l'ha dato e e e quindi boh
+TOR001	certo
+TOR001	mhmh mhmh mhmh
+TOI011	probabilmente mi piacerebbe mi piacerebbe ritornare
+TOR001	okay
+TOI011	dalle mie parti diciamo
+TOR001	okay
+TOR001	quindi comunque idealmente la vedi come una parentesi cioè potendo okay
+TOI011	sì assolutamente sì
+TOI011	sì
+TOR001	ehm
+TOR001	avete mai vissuto fuori torino
+TOI010	sì
+TOR001	okay
+TOI010	ehm
+TOI010	un t~ nella cioè nella mia esperienza cioè tu vi~ intendi vissuto per motivi di lavoro
+TOI010	o perché abbiamo
+TOR001	sì o sì
+TOI010	ma io ho vissuto un po' in giro per un paio d'anni quando appunto ho lavorato per apple perché mi facevano girare un po'
+TOI010	ho vissuto un annetto in california qualche mese
+TOR001	ah
+TOI010	ma
+TOI010	tipo cinque o sei mesi a parigi adesso non mi ricordo neanche più
+TOR001	mhmh
+TOI010	e e poco di meno no molto di meno un n~ neanche un mese invece in in irlanda
+TOR001	mhmh
+TOI010	quindi diciamo che comunque
+TOI010	cioè non è stato ovviamente un periodo cioè lunghissimo no cioè però mi ha consentito cioè di essere lì
+TOI010	non da turista
+TOR001	mhmh mh
+TOI010	vai lì con una casa un lavoro un anche una macchina delle volte
+TOR001	certo
+TOI010	cioè quindi cioè
+TOI010	mi hanno proprio trapiantato m~ momentaneamente da un'altra parte no cioè quindi avevo proprio
+TOR001	mhmh
+TOI010	nel ed è incredibile come
+TOI010	tu prendi una routine in frettissima cioè una volta che hai un lavoro e sei
+TOR001	mhmh
+TOR001	eh sì certo
+TOI010	non x mh ci metti un po' ad adattarti però in realtà hai già diciamo tutto il percorso già fatto
+TOR001	mhmh
+TOI010	e quindi io
+TOI010	vivevo vivevo lì con anche a volte la noia del caso no nonostante
+TOR001	mhmh mh
+TOI010	e e ovviamente tutte le cose nuove che che potevi vedere
+TOR001	e come ti sei trovato
+TOI010	eh molto bene se non altro perché cioè comunque
+TOI010	quello che io ho notato più volte è che un nuovo stimolo
+TOI010	passata diciamo magari anche il timore iniziale
+TOI010	in realtà t~ cioè ti mette in moto moto una cosa in testa che xx non pensavi nemmeno di avere
+TOR001	mhmh mh
+TOI010	e ti sorprendi come magari poi cioè ti anche nel~ nelle sfide quotidiane
+TOI010	lo devi fare cioè perché devi vivere no
+TOR001	certo
+TOI010	cioè io non sono andato in f~ quando ero in francia io non sapevo il francese però
+TOI010	l'ho dovuto fare cioè la eh
+TOI010	la spesa la dovevo fare dovevo comunicare comunque un po' con la gente e alla fine mi sono arrangiato
+TOR001	certo
+TOR001	e in irlanda e california dove sei stato
+???	eh
+TOI010	in california a cupertino e san francisco
+TOR001	mh okay
+TOI010	ehm io vivevo diciamo nella south bay però comunque mi spostavo tantissimo
+TOR001	mhmh
+TOI010	cioè e~ ero spesso a san francisco anche se il lavoro in realtà è a coupertino come dove c'era la sede principale
+TOR001	mhmh
+TOI010	ehm che è praticamente aperta campagna però con
+TOI010	cioè un po' una specie di pescarito però con queste mega società e
+TOR001	okay
+TOI010	e ristoranti a mai finire xx comunque una cosa che non manca mai è un posto aperto dove mangiare
+TOR001	mhmh mh
+TOR001	okay
+TOI010	e mentre invece in irlanda ero a cork
+TOR001	okay bella cork
+TOI010	che è a sud
+TOI010	sì è un è una come cioè infatti la definiscono il la la più bella pi~ cioè la mh
+TOI010	la più bella piccola città del mondo
+TOI010	no
+TOR001	è molto a me era piaciuta un sacco
+???	chi cork io invece lo ricordo come un posto orrendo
+TOI010	sì
+TOR001	e a me forse un po' piacciono quei postiun po' xxx
+TOI010	no a me piace
+???	xxx
+TOI010	cioè pensa pensa che dicono che è la seconda città più grossa del dell'irlanda cioè una è dublino cioè
+TOR001	è un buco madonna
+TOI010	sì è un buco che ti giri in due ore però insomma un un centro città carino no sì sì sì anch'io
+TOR001	sì
+TOR001	carino
+TOI010	e mh non so una mia collega c'è stata lì per un anno dice okay
+TOR001	va bene eh sì sì sì forse xxx
+TOI010	va bene e poi dopo un po' ti spari anche però no anche perché poi anche la la solita movida insomma dopo che esci
+TOR001	certo
+TOI010	i posti li conoscevi
+TOR001	sì si piccolina
+TOI010	guarda pensare è talmente piccola che io appena sono arrivato
+TOI010	dopo quattro ore ho incontrato nel nel cortile del mh del mio hotel
+TOR001	mhm
+TOI010	un mio compagno di classe che viveva lì
+TOR001	a cork
+TOI010	a cork
+TOR001	a me era piaciuta un sacco anche perché sai boh magari rispetto a dublino magari che è
+TOR001	boh la classica capitale europea tutto sommato
+TOI010	mhmh
+TOR001	cork boh mi dava più l'idea di un posto reale non so come dire
+TOI010	sì
+TOR001	mah insom~ beh io son stata tre giorni eh quindi
+TOI010	xxx
+TOR001	non ho avuto la la sensazione di
+TOI010	però
+TOI010	una cosa che mi sorprende anche comunque del mh cioè anche c~ mh
+TOI010	sia un po' del della california che della del non so la la francia perché non ci sono mai stato in c~ però nelle campagne no questi paesi qui
+TOI010	perché poi alla fine cork per noi è come è un paese
+TOR001	è un paese sì
+TOI010	e non sono uguali ai nostri pae~ cioè i nostri paesi son proprio paesi
+TOR001	mhmh
+TOI010	cioè non c'è niente lì invece cork per esempio
+TOR001	un sacco sì
+TOI010	o anche magari nelle piccole città californiane in pochissimo magari c'hai
+TOI010	un un sacco di negozi un sacco di vita che magari poi è delimitata
+TOI010	a quattro isolati però ci sono
+TOR001	mhmh mh
+???	però intorno non c'è un cazzo proprio e quindi devi fare ancora
+TOI010	eh beh ma nei paesi non c'è proprio u~ un
+???	vabbè xx quando c'è un paese
+TOI010	cioè io magari anche x
+???	voglio vedere quanti abitanti fa adesso cork
+TOI010	m medio
+???	farà centomila dai
+TOI010	no no di più secondo me di più
+???	dire città come de~ dell'emilia reggio emilia non è che c'è niente dentro
+TOI011	ah beh sticazzi quindi piccola xx piccola
+TOI010	no ma cork no no ma cork è c'è eh no eh
+TOR001	no no è piccolissima però comunque
+TOI010	e intorno sì c'è il nulla
+???	centodiciannove
+TOI010	cioè pensa che addirittura vengono
+TOR001	ah già che tu sei fissato con le popolazioni x
+TOI011	sì sì sì
+TOI010	cioè l~ la sera venivano dalle città vicine a cork per fare serata no da limerick cosa c'è xx cosa
+TOR001	eh sì beh anche perché intorno eh sì infatti
+???	centodiciannove ti direi come parma
+TOR001	ma come parma
+???	vediamo parma
+TOI010	a centodiciannove cos'è asti forse
+???	ma asti meno xxx
+TOI011	no no xxx parma ne ha di più
+TOR001	meno
+???	centonovantacinque
+TOI010	quanti
+???	centonovantacinque mantova
+TOR001	adesso va a a tentativi
+???	eh beh certo come
+???	xxx xxx
+TOR001	no no x adesso sono appassionata quanti ne ha mantova
+???	quarantanove
+TOI010	quarantanove
+TOI011	quarantanove e basta
+???	quarantanove xx
+TOI010	ma scusa ma c'ha più
+TOR001	cioè ha meno abitanti di rho
+TOI010	ma scusa ma xxo
+???	sai quanti capoluoghi fanno meno di cinquantamila abitanti
+TOI010	ma alcamo in sicilia ha più abitanti ma sì alcamo penso che faccia
+???	ia
+TOI011	mh xx sessanta
+???	alcamo
+TOR001	alcamo
+TOI010	no allora ehm sì mh di più ne ha
+TOI010	di sicuro
+TOR001	e in california sei riuscito a girare o lavorando
+TOI010	sì no vabbè non tantissimo come volevo però sì quanto
+???	quarantacinque
+TOI010	eh infatti cioè vacca è come mantova no sì ho girato vabbè san fra~ tu~ tutta la in realtà la mh la baia
+TOR001	vedi
+TOR001	mhmh
+TOI010	che in realtà è molto grande perché poi fa è uno mh
+TOI010	è praticamente uno stabilimento urbano
+TOI010	a sè no
+TOR001	mhmh
+TOI010	e e infatti si chiama mh cioè viene identificato proprio come baia e in realtà
+TOR001	mhmh
+TOI010	in california non è che sia così tanto comunque cioè che ci sia questa grossa densità di popolazione cioè ne~ nella baia
+TOR001	mhmh mh eh sì
+TOI010	in tutta la la parte di san francisco fino a san josè
+TOR001	mhmh
+???	scusa
+TOR001	mhmh
+TOI010	è abbastanza piena cioè passi continuamente da un da un paese all'altro
+TOI010	dove poi ci sono appunto tutti questi colossi
+???	savona
+TOI010	molto molto di san francisco soprattutto all'inizio nella parte sud e mh città dormitorio
+TOR001	mhmh
+TOR001	mhmh
+TOI010	ed è anche perché comunque proprio san francisco dentro
+TOI010	è abbastanza inarrivabile come prezzi sia delle case che affitti
+TOR001	mhmh
+TOR001	mhmh mhmh mh
+TOI010	mi ha giusto detto un
+TOI010	un mio collega che vive lì che ha appena comprato casa
+TOR001	mhmh
+TOI010	due o tre stanze penso nulla di di particolare
+TOR001	mhmh mh
+TOI010	un milioncino
+TOR001	molto bene
+???	xxx ho trovato vicenza centoundici
+TOR001	oh bravissimo
+???	come vicenza
+TOI011	come vicenza
+TOI010	come vicenza
+TOI010	ehm e quindi poi vabbè c'è quella quella parte lì poi d~ da lì
+TOR001	mhmh
+TOI010	fino più o meno a
+TOI010	e monterey non c'è più nulla ci sono solamente cittadine cos'è mo~ eh monterey e quell'altra
+TOR001	okay
+TOI010	e santa cruz dove c'è l'università
+TOR001	okay
+???	quello è xxx
+TOI010	e anche l'acquario cioè quella parte lì e poi di nuovo praticamente più nulla fino a los angeles
+TOR001	più nulla
+TOR001	mh mhm mhmh
+TOI010	los ang~ che sono più o meno san francisco e los angeles ci sono sei ore e mezza di macchina
+TOR001	eh sì
+TOI010	e quindi ci sono questi tre xx
+TOI010	e chiedendo anche a delle persone dicendo ma scusa ma sacram~
+TOI011	praticamente sta diventando il monologo di davide xx questa intervista non ho capito cioè
+TOI010	sacrame~ mi fa delle domande mi fa delle domande
+???	no io sono sconvolto dal wrestling che non non avendo la tv dico xx
+TOI010	sacra~ sacramento
+TOR001	sacramento è orribile è uno dei posti più brutti
+TOI010	no ma sacramento mi han detto che è una ghost town
+TOR001	è orri~ io ci ho fatto un mese a sacramento è uno dei posti più brutti in cui abbia mai stat~ son stata un mese a sacramento
+???	sei mesi xxx
+TOI010	ah ma quindi è per quello che mi fai le domande
+TOI011	ah okay
+TOI010	no comunque sì eh los angeles due volte
+TOI010	san diego non ci sono andato
+TOR001	mhmh
+TOI010	e dovevo andare al lago tahoe anche quello sfumato
+TOR001	è molto bello è molto bello
+???	xxx
+TOI010	e anche il lago tahoe e l'altro mh
+TOI010	yosemite non sono riuscito ad andare
+???	xx
+TOI010	e
+TOI010	poi ho fatto anche un voletto sul sull'aereo
+TOI010	insomma
+TOI010	con un con con l'aereo di un mio collega
+TOR001	mhmh
+TOI010	cioè non era suo però lo guidava lui su un un cessna
+TOR001	mh okay
+TOI010	sopra la baia comunque fa la sua figura
+TOR001	eh è figo
+TOI010	sì
+TOI010	e da paloalto fino a san francisco aiuto no era fino a mh petaluma
+TOR001	mhmh
+TOR001	okay
+???	allora
+TOI010	xxx
+???	va a xxx
+TOI010	xxx stati lì era il petaluma e dovevo arrivà il
+TOI010	pollo quello lì chicker eh chicken
+TOI010	never ever
+TOR001	ah sì
+TOI010	quello senza niente proprio solo biologico
+TOR001	okay
+TOR001	io ho fatto u~ un mese prigioniera di sacramento
+TOR001	un posto veramente atroce comunque
+TOR001	tu invece hai vissuto all'estero o fuori comunque lontano da
+TOI011	perché è per quello che poi io mi dimentico delle domande in effetti comunque comunque no è semplice io non ho vissuto all'estero ho vissuto a
+TOI010	xx eh xx
+TOR001	eh sì in effetti sì ma io le ripeto
+TOI011	qui e a torino appunto dove mi sono trasferito e
+TOR001	okay
+TOI011	prima vivevo appunto in provincia di novara a pettenasco sul lago d'orta dove ho vissuto fino a
+TOR001	okay
+TOI011	diciott'anni diciannove anni finito il liceo quindi sì semplice
+TOR001	okay
+TOR001	mhmh mhmh okay
+TOR001	adesso la faccio prima a te la domanda così ci alterniamo
+TOI011	mh
+TOI011	xx
+TOR001	ti trasferiresti all'estero per lavorare
+TOI011	mi trasferirei all'estero per lavorare
+TOI011	e ho come l'impressione di non dico di aver perso il treno però boh inizio a avere un'età
+TOI011	mh non lo so
+TOI011	cinque anni fa l'avrei fatto un pochino più con con tranquillità
+TOR001	mhmh
+TOI011	e rimane comunque sempre una cosa che mi piacerebbe fare mh
+TOI011	pragmaticamente non so se accadrà mai però boh
+TOI011	non lo so
+TOI011	co~ mi piacerebbe mi piacerebbe mi piacerebbe ba~
+TOR001	okay
+TOI011	me l'avessi chiesto cinque anni fa ti avrei detto assolutamente sì
+TOR001	mhmh
+TOI011	e poi
+TOR001	ma come esperienza o perché pensi che all'estero ci sia più lavoro x troveresti una situazione più non lo so soddisfacente o
+TOI011	allora
+TOI011	s~ parlando strettamente del nostro lavoro è ab~ abbastanza risaputo che
+TOI011	cioè ci sono ma senza andare in california e in francia voglio dire
+TOR001	mhmh mhmh
+TOI011	mh e c'è tanta richiesta ci sono gli stipendi che sono
+TOI011	a~ altri ordini di grandezza e insomma
+TOI011	non soltanto per il lavoro
+TOR001	mhmh
+TOI011	perché detto questo fortunatamente appunto lavoriamo in un ambito di di lavoro ce n'è anche qui
+TOR001	mhmh mhm mhm
+TOI011	e quindi
+TOI011	non sarebbe una cosa del tipo okay sono costretto a scappare perché qua non non so cosa fare
+TOR001	okay
+TOR001	mhmh mhmh
+TOI011	andrei all'estero sicuramente per fare per fare un'esperienza per insomma vivere per un tot di tempo in un altro posto eccetera eccetera
+TOR001	mhmh mhmh mh
+TOI011	come plus ci sarebbe comunque che gli stipendi sono diversi
+TOR001	certo
+TOR001	tu invece
+TOI010	eh sì ho tentato di farlo
+TOI010	mh adesso in questo momento diciamo che
+TOI010	mi son sposato insomma il l~ l~ l'anno scorso l'anno scorso è stato un po' mi son cambiate molte cose no e quindi diciamo che
+TOR001	okay
+TOR001	okay
+TOI010	ho abbastanza messo radici qui
+TOR001	okay
+TOI010	non dico di no mi piacerebbe sempre
+TOI010	ovviamente ora lo sforzo per farlo sarebbe decisamente maggiore
+TOR001	certo xx
+???	solo che più che il matrimonio hai anche un figlio che nasce tra due mesi
+TOI010	e
+TOI010	eh sì e una e una e una moglie che sta
+???	che aggiungerei
+???	è vero che magari non è inerente però
+TOI010	e una moglie che sta portando i suoi genitori dalla cina a vivere in italia permanentemente no
+TOR001	ah okay quindi okay
+TOI010	e quindi
+???	xxx
+TOI011	un paio di robe in ballo questi che ti rincorrono
+TOI010	eh sì
+TOI010	ecco quindi in realtà eh mi piacerebbe però
+???	quindi imparano a parlare l'italiano
+TOI010	non so mi sono anche un po' abituato a questa cosa qui
+TOI010	certo è che guarda ul~ l~ il mio compromesso adesso sarebbe
+TOI010	non magari eh trasferirmi completamente all'estero però
+TOI010	viaggiare per lavoro sì
+TOR001	okay
+TOI010	è un ogni tanto fare un viaggio
+TOI010	è quella cosa che ti da un po' di riequilibra un po' la mente
+TOI010	no comunque una cosa se posso aggiungere questa magari
+TOR001	che pirla xx
+TOR001	no scusa guardavo lui non volevo
+TOI010	xxx
+TOI010	a~ anche anche
+???	non dire no
+TOI010	e non si vede non si vede
+???	sei registrato
+???	xxx
+TOR001	tanto non c'è il video sei siamo tutti salvi
+TOI010	no è
+TOI011	mettia~ mettiamo a verbale che ha effettuato il gesto
+???	xxx
+TOI010	dello spingito~ no è una cosa che però
+TOI010	e io ho notato che comunque
+TOI010	s~ penso che chiunque abbia fatto
+TOI010	cioè quando viaggi
+TOI010	ehm ovviamente cambi cominci a cambiare il metodo cioè il modo di pensare no
+TOR001	mhmh
+TOI010	anche per quanto riguarda la società e soprattutto la politica
+TOR001	mhmh
+TOI010	cioè per me par~ è stato proprio paradossale perché mi ha fatto diventare un po' meno
+TOI010	mh come dire
+TOI010	l l~ l~ l mh
+???	campanilista
+TOI010	no no no
+TOI010	li~ liberti~ non libertino libera~ no
+TOI011	liberista un po' leghista sei diventato
+???	xxx
+TOI011	ma sì lui è questo
+TOI010	no no un po' più leghista però ecco meno un po' meno liberale un po' meno liberale ma nel senso che
+???	liberale
+???	ma quello secondo me è esserti sposato una cinese secondo me ma in senso buono
+TOI010	vabbè ma sei talmente così liberale
+TOI010	no però nel senso che io quello che cioè fuori
+TOI010	c'è un un diciamo una osservanza del delle regole
+TOI010	anche
+TOI010	cioè sull'immigrazione o su qualsiasi cosa no
+TOR001	mhmh
+TOI010	ci sono burocrazie che sono molto più rigide
+TOI010	e col cazzo che ce la fai a scavalcarle no scusa
+TOI010	xx
+???	e tu vorresti vivere in un posto così
+TOI010	ma cioè mh in che senso non è che cioè ti bacchettano sono però semplicemente vengono rispettate le regole che son stabilite
+TOI010	no mentre cioè
+TOI010	e questo qua è il paese invece del buonsenso no dove va bene insomma la legge poi la
+TOR001	mhmh
+TOI010	la la fletti un po' dove dove ti serve io vabbè
+TOI010	delle volte ho trovato anche delle grosse contraddizioni no in questo perché
+TOI010	lì era proprio l'assenza del buonsenso dici ma che cazzo cioè
+TOR001	mhmh
+TOR001	mhmh
+TOI010	non ha senso sta roba ti vai vai a cambiare la macchina in
+TOI010	che hai a noleggio gli dici guarda te la porto un giorno prima posso prendere un'altra no me la devi portare domani
+TOI010	ma gli dico ma guarda te la pago da adesso io rinuncio ai giorni che
+TOI010	che la potrei tenere in più però dammene una adesso subito perché io domani non posso venire no devi venir domani e ho detto ma che ca~
+TOR001	mh mhmh
+TOI010	cioè è questo no
+TOR001	okay
+TOI010	ehm
+TOI010	d~ per cui paradossalmente il viaggiare nel mio caso un po' mi ha fatto diventare
+TOI010	meno tollerante ecco verso alcune cose perché prima invece
+TOR001	okay
+TOI010	mh ragionavo molto più mh come sento fare un po' in giro sempre
+TOI010	ma sì dai va bene tutto
+TOR001	okay
+TOI010	vogliamoci bene cioè senza alcuna
+TOI010	e senza alcun concetto
+TOI010	cioè di che cosa
+TOI010	mh siano le risorse
+TOR001	mhmh
+TOI010	cioé del del fatto che
+TOI010	e
+TOI010	se tu prendi i numeri fai dei calcoli vedi quanto puoi cioè no~ non fai un
+TOI010	è sempre un ragionamento emotivo il nostro mai pragmatico
+TOR001	mhmh
+TOI010	e magari cioè ragionato cioè qui si discute
+TOR001	mhmh
+TOI010	ti faccio un esempio così
+TOI010	un molto attuale no comunque sugli immigranti
+TOR001	mhmh
+TOI010	immigranti sì immigranti no cioè ma nessuno
+TOI010	ha mai fatto un un
+TOI010	cioè un'analisi
+TOI010	sensata di
+TOI010	okay cioè noi possiamo permettere quanti come cos~ come possiamo
+TOI010	è sempre un discorso alla
+TOI010	cioè o sì o no
+TOI010	e destra sinistra dove
+TOI010	poi alla fin fine ci si genera solo il caos e nessuno
+TOI010	alla fine trae le conclusioni
+TOR001	mhmh mhm
+TOI010	cioè è solamente un mercato
+TOI010	nessun terreno di dialogo politico
+TOR001	mhm
+TOI010	ormai cioè
+TOI010	reale no cioè comunque è un fenomeno che c'è
+TOR001	mhmh
+TOI010	va affrontato
+TOI010	come lo affrontiamo
+TOI010	quanti realisticamente ne riusciamo a gestire dove diciamo okay li prendiamo li integriamo
+TOR001	mhmh
+TOI010	e fa~ e quanti no
+TOI010	senza dire eh vabbè se mh
+TOI010	sei un fascista oppure al contrario
+TOR001	mhmh
+TOI010	sei minchia il perbenista di sinistra del cazzo queste cose qua
+TOR001	okay
+TOI011	ecco la la domanda era sugl'immigrati
+TOI010	la la no la la
+TOI011	scusate
+TOI010	no no questa l'ho aggiunta io in realtà è stata una mia digressione proprio gratuita questa
+???	sul museo egizio e il
+TOR001	in che zona di torino vivete
+TOI010	emh io sono ab~ abito in centro ma vabbè ho sono vissuto nato e vissuto in barriera di milano
+TOR001	okay
+TOI011	ah io ho avuto da quando ho iniziato
+???	xxx è in borgo vittoria
+TOI010	borgo in b~ in barriera di milano al limite al limite
+TOI010	piazza rebaudengo dai
+???	no ma lì è barriera piena
+TOI010	eh eh infatti è lì no vabbè barriera piena è quella in corso giulio cesare
+???	lì è barriera piena
+TOI010	è al limite comunque sì inizia da lì
+TOI010	quella lì è già re baudengo falchera
+???	a su quel tratto lì
+TOR001	su quel lato lì
+TOR001	okay
+TOI011	vabbè allora adesso io sono
+TOI011	in corso racconigi e via frejus
+TOR001	okay
+TOI011	e però diciamo
+TOR001	però hai detto via frejus e quindi non sei ancora integrato completamente per
+TOI011	fr~ fri~ frijus
+TOR001	no no qua dicono via frejus sono io che non mi adatto a questa cosa scusa
+TOI011	ah
+TOI010	mi dicono che comunque è frejus
+TOI011	eh
+???	e bengasi
+TOR001	e bengasi e sofia
+TOI011	bengasi bengasi
+TOI010	e sofia
+TOI011	vabbè comunque e che cazzo non lo so vicino al mercato di corso racconigi comunque
+TOI010	eh
+TOI010	anche lei xxx
+TOR001	okay
+TOI010	racconigi
+???	che però xxxx è molto lungo come mercato e molto xx eh
+TOI011	a vattene affanculo
+TOI010	eh
+???	è lungo due chilometri
+TOI011	vabè ma il quartiere è quello
+TOI011	e però sono stato a~ mh all'inizio ero vicino a porta nuova e crocetta però al limite con san salvario
+TOR001	mhmh
+TOI011	e poi sono stato in san salvario
+TOR001	mhm
+TOI011	e poi sono stato per un breve te~ periodo invece crocetta un po' più crocetta vip diciamo
+TOR001	okay
+TOI011	e
+TOI011	sono stato anche molto vicino a dove sono adesso
+TOI011	sempre vicino a corso racconigi
+TOR001	mhmh
+TOI011	e adesso invece sono mh sono lì po~ poco distante via
+TOR001	okay
+TOR001	okay io abito in zona comunque no è vicino a dove abito io
+TOR001	io non so un cavolo non so neanche dove abito anch'io abito lì allora siamo a posto sì bravo
+TOI011	vicino a piazza rivoli
+TOI011	vicino a ah
+???	via
+TOI010	via ah ho capito xx sì
+TOR001	via
+???	via
+TOI011	sono a c~ sei sei minuti eh sette minuti a piedi dalla metro di piazza rivoli
+???	sedici
+TOR001	eh io di monte grappa
+TOI011	ah okay sei un po' più in là va bene
+TOR001	va bene ehm vi piace la zona in cui vivete
+TOI011	sì
+TOI010	sì sono in realtà son contento di essermi trasferito qua
+TOI010	cioè in in centro
+TOR001	mhmh
+TOI010	cioè non ero alla fine all'inizio non ero proprio d'accordissimo perché vabbè i prezzi delle case sono eh stellari
+TOR001	mhmh
+TOI010	però alla fine son contento di essere insomma di avercela fatta
+TOR001	mhmh
+TOR001	okay
+TOI010	perché mia moglie lavora a milano e quindi era molto comodo per lei
+TOR001	ah beh quindi
+TOI011	sì io son contento perché
+TOI011	ah a parte che lì c'è il mercato di corso racconigi
+TOI011	eh un posto in cui non ci sono mai andato praticamente però è molto bello ho sentito dire
+TOR001	xxx
+TOR001	anch'io sarò andata due volte
+TOI011	no cioè perché invece c'è la la conad che è molto più molto più
+TOR001	xx
+TOI011	poi ti danno anche i punti queste cose qua al mercato non lo fanno
+TOI010	xxx
+TOI010	sì esatto
+TOI010	mai preso xx pupazzetto alla fine quello
+TOI010	eh
+TOI011	cioè non so se ti dovrei dire quello che ti dovrei dire o quello che effettivamente è
+TOR001	no di' quello che vuoi
+TOR001	no no di' la verità tranquillo
+TOI011	perché la verità è che son vicino al mercato più f~ uno dei mercati più fighi di torino
+TOI010	ma va ma è questo qua di piazza benefica quello più figo dai ma cosa dici cioè
+TOI011	xx questo qua dietro e ci ripassi
+TOI011	allora questo è quello questo è quello più trendy
+TOI010	quale
+TOI011	questo in piazza benefica
+???	eh questo è per i vestiti per il cibo questo fa cagare eh
+TOI010	eh
+TOI011	per i vestiti c'è un botto di roba ma per il cibo va va a cagare
+TOI010	ma che è
+???	questo genere di salame buono quanto costa tre e cinquanta sì all'etto quindi vuol dire trentacinque euro al chilo
+TOI011	al netto
+TOI010	a~ al al al nerx to x to
+???	suca
+TOI011	vabbè comunque stavam dicendo eh
+TOR001	eh perché ti piace la tua zona
+TOI011	perché mi piace la mia zona ma principalmente per il mercato
+TOI011	no mi piace la mia zona perché
+TOI010	no veramente ma quante volte ci vai al mercato
+TOI011	ma non ci son mai andato dai ma era uno scherzo eh era uno scherzo
+TOI010	ma infatti cioè xxx
+TOR001	io sarò andata due volte in due anni
+TOI011	perché mi piace la mia zona mi piace la mia zona perché allora è comoda eh mh
+TOI011	perché è vicino a sul percorso della metro questa è una figata atomica perché mi permette di andare a lavoro
+TOR001	mhmh
+TOI011	con tre fermate di metro
+TOI011	andare a lavoro
+TOI011	cioè mh noi lavoriamo qua vicino quindi
+TOR001	mhmh mhm
+TOI011	eh anche a piedi cioè nel senso che boh
+TOR001	eh si certo
+TOI010	mhmh
+TOI011	d'estate comunque me lo faccio o l'andata o il ritorno il ritorno perché l'andata sono in ritardo
+TOR001	mhmh mh
+TOI010	e anche
+TOI010	e poi
+TOI011	aspe' s~ che cosa
+TOI010	no e poi anche cos'altro quello che stavi dice~ per dire
+TOI011	eh se non mi fai finire mattia però eh
+TOI011	adesso non mi ricordo più è comodo per cosa stavo dicendo la metro
+TOR001	la metro il mercato la metro
+TOI011	ecco il mercato la metro è comodo anche perché arrivando in macchina
+TOR001	mh
+TOI011	eh comunque sei lì vicino perché sei su cors~ cos'è corso trapani quello
+TOI011	eh che poi va allora è è comunque abbastanza comodo anche per la macchina perché lo pigli da fuori quindi
+???	sì
+TOR001	okay
+TOR001	sì
+TOI011	ci metti poco ad arrivare
+TOI011	ehm e basta essenzialmente sì
+TOR001	okay
+TOR001	aspetti negativi della zona in cui vivete
+TOI011	vabbè d~ parla un po' tu dell'immigrazione e
+TOI010	dei parche~ no dei parcheggi xx parliamo dei parcheggi allora aspetto negativo è che
+TOI010	vabbè mi hanno quadruplicato il la tassa sul parcheggio
+TOR001	okay
+TOI010	appena mi son trasferito tra l'altro no
+TOR001	e da quindi da quando
+TOI010	eh l'a~ l'anno scorso no eh si mhmh no no sì l'anno
+TOR001	okay
+TOR001	eh non lo so non uso la macchina
+???	ma se è in base al reddito adesso
+TOI010	eh
+TOI010	me l'han quadruplicato prima non era
+???	e col reddito che hai come fanno a avertela quadruplicata
+TOI010	eh vabbè ma eh si somma meh eh guarda che in realtà non è proprio bassissimo eh
+TOI010	cioè la soglia è abbastanza bassa
+TOI010	comunque
+TOI010	diciamo che è una tassa occulta semplicemente è una sovrattassa sul sul sul bollo ormai 'sta roba
+TOR001	okay
+TOI010	cioè
+TOR001	ma non c'è tipo il parcheggio per residenti 'ste robe qua
+TOI010	sì è quello che mi hanno aumentato sì esa~
+TOR001	ah è quello che ti hanno okay okay vabbè no
+TOI010	cioè praticamente in realtà viv~ vivo qua dietro
+TOR001	okay
+TOI010	ehm cioè in realtà vivo proprio in questo isolato
+TOR001	okay
+TOI010	eh cos'è cos'è questo isolato
+???	ti manca un po' il mercato di corso racconigi però
+TOI010	sì sì sì
+TOI011	oh minchia dovresti venire xx dovresti trasferiti da da me figata
+TOI010	però c'è il parcheggio c'è devi devi girare un casino per trovare il parcheggio poi comunque lo trovi eh e sei felice insomma eh
+TOR001	okay
+TOR001	per te invece ah scusami stavi finendo
+TOI010	il
+TOI010	x
+TOI010	no no no vabbè no
+TOI011	bah allora aspetti negativi sicuramente il mercato di corso racconigi
+TOI011	perché comunque cioè è una cosa di cui non me ne frega un cazzo e ogni giorno c'è la gente che entra esce se ne va i banchi del mercato le cose
+TOI011	non si trova parcheggio quindi
+TOI010	ma non hai la macchina
+???	però ho amici che vengono a trovarmi in macchina al mattino quando c'è il mercato
+TOI010	ah
+TOI011	no allora ap~ aspetti negativi allora tendenzialmente no però devo
+TOI011	eh sollevare anch'io la questione parcheggi perché
+TOI011	eh la mia ragazza io non ho la macchina e la mia ragazza sì e spesso viaggiamo assieme
+TOI011	e quando mi sposto in macchina
+TOI011	trovare posto è davvero davvero davvero un casino
+TOI011	cioè ci sono la domenica sera quando arrivi piuttosto che altri momenti un po' caldi
+TOI011	cioè devi girare come un pazzo per t~ eh per trovare il posto e quello è una rottura di cazzo poi io non so se
+TOI011	si può dire cazzo
+TOR001	si può dire cazzo sentiti libero
+TOI011	okay
+TOI010	ma poi tanto devi sbobini tutto vero
+TOR001	ecco probabilmente sì temo succederà questo
+TOI010	eh eh allora
+TOI011	che non rimanga più niente di 'sta cosa
+TOI011	no ehm basta tendenzialmente
+TOR001	e basta poi il resto ti piace
+TOI011	sì mi piace molto sì sì sì sì
+TOR001	non è un po' vecchio
+TOI011	a te non
+TOR001	son solo vecchi pensionati e vecchie pensionate
+TOI010	vabbè anche qua eh
+TOI011	ma ti dico da una cioè allora
+TOI011	punto di da un punto di vista dell'universitario
+TOI011	ovviamente
+TOI011	quando vivevo san salvario cioè boh è una figata atomica perché tutte le sere in giro a far casino cose
+TOR001	è un'altra roba
+TOI011	e c'erano molte facilities anche per quanto riguarda il recupero di
+TOI011	e droga per esempio
+???	droga
+TOI011	è vero comunque
+???	però quella che trovi a san salvario dai
+TOI011	no
+TOI011	però
+TOI011	vabbè ho ca~ no vabbè comunque c'erano un sacco di cose che xxa
+TOR001	mh mhmh
+TOI011	da studente universitario san salvario figata
+TOR001	certo
+TOI011	adesso come adesso sinceramente allora se mi devo muo~ cioè allora se devo andare in un posto mi muovo
+TOR001	sì quello sì
+TOI011	quindi che sia con i mezzi che sia con car to go che sia con queste robe qua
+TOR001	mh mhmh
+TOI011	mi sposto per cui
+TOR001	certo
+TOI011	non è che ho la necessità di essere sopra alla movida no
+TOR001	mhmh mhm
+TOI011	eh
+TOI011	per cui poi sai boh uno lavora e
+TOI011	anche un caso particolare perché comunque io molto spesso nei weekend torno a casa a casa provincia di novara per cui
+TOR001	okay
+TOR001	okay okay okay
+TOI011	boh non lo so
+TOI011	se se devo andare se devo la sera uscire esco prendo la metro vado in centro
+TOR001	okay
+TOI011	se vado a trovare un mio amico o quello che è mi mi sposto ehm lavorando qua vicino magari non passo neanche da casa se devo uscire
+TOR001	ti sposti
+TOR001	certo rimani in giro
+TOI011	quindi boh li vicino sì non c'è la cosa del tipo esco mi bevo una birra mh c'è lo sherlock
+TOR001	eh esatto a me quello manca
+TOR001	eh sì
+TOR001	che in cui passo però che palle eh
+TOI011	però tu dici anche basta
+TOI011	certo
+TOI011	quello è vero sì sì mh come come locali non è non è il massimo
+TOR001	c'è poco
+TOI011	sì sì sì sì
+TOR001	va bene ehm beh la domanda dopo era hai frequentato le scuole nel quartiere in cui vivi ma mi sa di no
+TOI011	no
+TOR001	no vero
+TOR001	okay
+TOR001	quindi le persone che frequentate principalmente abitano vicino a voi oppure in altre zone o nel tuo caso immagino anche altrove
+TOI010	no in altre zone
+TOR001	in altre zone
+TOI010	perché sono i miei vecchi amici che insomma abitano un po' si son spostati però comunque arrivano dalla dalla stessa zona
+TOR001	mhmh
+TOR001	quindi barriera
+TOI010	sì
+TOR001	okay
+TOI010	sì no~ non tutti però comunque adesso uno che non era in barriera si è trasferito in barriera
+TOR001	ah è tornato
+TOI010	però comunque no qui intorno no almeno
+TOR001	okay
+TOI011	sì altre zone perché diciamo che ho un misto di ex eh
+TOI011	compagni dell'università gente che è rimasta qua a torino e che si è trasferita per i fatti propri eccetera eccetera
+TOR001	mhmh mhmh
+TOR001	okay
+TOI011	i backstreet boys
+TOI010	chi sono xx i backstreet boys vabbè cioè x
+TOR001	temo di sì
+TOR001	sì
+TOI011	e colleghi che sono sparsi in giro e per cui sì
+TOR001	okay
+TOI011	in realtà per u~ un caso
+TOI011	caso vuole che un mio amico caro amico de~ xx co~ coso all'università eh~ ehm come si dice
+TOR001	è morto
+TOI011	ha fatto l'università con me si è trasferito a vivere vicino a me ma è è successa successivamente questa cosa quindi sì
+TOR001	a caso
+TOR001	okay
+TOR001	ehm mh mh mh
+TOR001	trovate tutto nella zona in cui vivete o dovete spostarvi spesso
+TOI010	no questo è quello che mi piace molto di questa zona qui perché comunque
+TOI010	sei mh vicino più o meno a tutto
+TOR001	mhmh
+TOI010	anche cioè spostandoti in bici o mh a piedi
+TOR001	mhmh
+TOI010	l'unica cosa che manca però non francamente non non è un problema sono i supermercati quelli grossi
+TOR001	okay
+TOI010	perché comunque la spesa quando vai a fare la spesa grossa insomma la fai non la fai ogni giorno quindi va bene
+TOR001	mhmh mhmh mhmh
+TOR001	per te invece c'è c'è il mercato vicino
+TOI011	bah io ti dico io ho la grossa fortuna di avere il mercato vicino
+TOI010	xx c'è il mercato
+TOI011	no allora a parte gli scherzi un'altra cosa che mi piace è che
+TOI011	cioè è è tori~ è torino ma è è è già un po' provincia lì cioè nel senso che quella strada lì
+TOI010	è pieno di vecchi
+TOR001	no sono d'accordissimo cioè
+TOI011	ci trovi di tutto ci trovi la bottega ci trovi gli alimentari ci trovi un sacco di ferramente ci trovi tutti 'sti posti qua
+TOR001	mhmh
+TOR001	è vero
+TOR001	ci sono un sacco di ferramenta
+TOI011	fighissimo fighissimo
+???	i pensionati cosa fanno
+TOI011	e
+TOI011	esatto i pensionati cosa fanno vanno nelle ferramenta
+TOI010	vado in ferramenta sì
+???	e attaccano roba
+TOI011	e le quindi no dove sono lì io è un
+TOI011	cioè se mi serve qualcosa esco e in cinque minuti ce l'ho e
+TOI011	ci sono anche vicino supermercati un pochino più grandi come diceva mattia nel senso che c'è
+TOR001	mhmh sì
+TOI011	una conad un po' più grossa e carrefour co~ cioè nel senso
+TOR001	sì
+TOI011	quello sì non mi devo spostare se ho bisogno di qualcosa
+TOI011	c'è anche vicino l'ufficio dei com'è che è l'ufficio delle
+TOI011	delle tasse della tarsu
+TOR001	ah sì
+TOI010	ah beh quello è utilissimo sì
+TOI011	che puttana eva son due anni che non pago
+TOI010	ah tra l'altro adesso eh mi hai ricordato devo pagare devo pagarla stasera credo
+TOI011	eh
+TOR001	okay
+TOI011	vabbè
+TOR001	come vi muovete in città
+TOI010	e dipende
+TOI010	no ehm
+TOI011	dipende
+TOI010	eh dipende dove devo andare no no nel spe~ ne~ nel senso che se devo andare
+???	certo
+TOI010	cioè avendo molte cose vicino
+TOI010	spesso non ho bisogno di prendere la macchina
+TOR001	mhmh quindi a piedi
+???	se no
+TOI010	e a sì a piedi o adesso è da un po' che non lo fa~ però in bici se no
+TOR001	okay
+TOI010	per~ e oppure prendo la macchina comunque io ho la macchina quindi
+TOR001	okay
+TOR001	tu invece dicevi i mezzi vero
+TOI010	però ci s~
+TOI011	allora io mi mi muovo a piedi molto perché mi piace camminare
+TOR001	mhmh
+TOR001	mhm
+TOI011	e comunque sono abbastanza vicino ai posti che devo raggiungere diciamo
+TOR001	corso francia è lungo sai che passeggiate
+TOI011	eh piedi eh metro
+TOR001	okay
+TOI011	metro che prendo tendenzialmente tutti i giorni
+TOI010	e il longboard
+TOI011	e longboard però vabbè
+TOI011	longboard è più una cosa che fa colore se lo vuoi mettere ah sì no questi giovani che si spostano in longboard
+???	sì
+TOI011	è uno skateboard ma più lungo
+TOI011	cioè vabbè
+TOI010	ma lì non puoi fare lo iol quelle cose
+TOI011	ma se vuoi sì
+TOI010	sì
+TOI011	però forse non faceva parte della domanda
+TOI010	mh
+TOR001	no no ma
+???	ma al mercato ci vai a piedi in longboard o in metro
+TOI011	vado a piedi ma me lo porto dietro
+TOI011	si sa mai
+TOI010	ma lo usi ancora
+TOR001	come arma dici
+TOI011	mi sono ammazzato col longboard tra l'altro
+TOI011	anzi voglio aprire questa parentesi sullo stato di conservazione delle strade
+TOR001	mhmh
+TOI011	perché mi sono ammazzato col longboard
+TOI011	in parte perché ero ubriaco
+TOI011	ma
+TOI011	diciamo da una parte
+TOI011	venti per~ no non lo so un ottanta per c~ sessanta per cento perché ero ubriaco un quaranta per cento perché
+TOR001	okay
+TOI011	c'era la strada dove c'era s~ era stato fatto un una toppa
+???	io ho avuto lo stesso problema cioè un buca così mi sono scassato una caviglia ma ci ho messo un sacco a recuperare
+???	sai quelle cose che dicono minchia dovevi chiamare i vigili e far causa al comune di torino sì minchia ubriaco come una merda xx i vigili xxx una buca ue ue ue
+TOI010	sì sì sì
+TOI011	eh sì
+TOI011	comunque non c'è una domanda sulle strade
+TOR001	no
+TOI011	no
+TOI011	eh cosa stavo dicendo ques~ quest~ e ah e poi fondamentale non ho una macchina
+TOI011	car to go e enjoy
+TOR001	okay
+TOI011	fondamentale
+TOI011	cioè mh la sera quando sono in un posto un po' inculato che non ci sono i mezzi
+TOR001	mhmh
+TOR001	eh sì comodo
+TOI011	e quando ho bisogno di traspostare qualcosa
+TOR001	mh mhmh
+TOI011	nel senso che tipo quando devo spostare ad esempio un mobile
+???	la casa
+TOI011	ma co~
+TOI011	che cazzo ne so la bici un mobile qualcosa di un po' più voluminoso un elettrodomestico eccetera eccetera non ho la macchina e quella roba lì è totale
+TOR001	certo
+TOR001	mh mhmh
+TOI011	tra l'altro dove sono io se ne trovano
+TOR001	sì
+TOI011	abbastanza quindi cioè non c'è neanche il problema sai che sei in centro le s~ le spostano tutti
+TOR001	mhmh mhmh eh sì
+TOI011	e quindi per me quella roba lì xx è stata abbastanza una svolta sì sì sì
+TOR001	comodo
+TOI011	e ho avuto anche il il tobike ma non
+TOR001	non ha avuto successo
+TOI011	non ha avuto successo perché la
+TOI011	la la come si dice la il coso più vicino era a xxa era lontano
+TOR001	scomodo
+TOR001	piazza rivoli
+TOI011	adesso ne han messo uno vicino invece a corso racconigi
+TOR001	a è vero
+TOI011	vicino alla piscina
+TOR001	sì è vero
+TOI011	eh sì
+TOR001	mh
+TOR001	ehm pensate che torino sia cambiata molto negli ultimi anni
+TOI010	ehm sì e sì diciam~ no eh ultimi no più che altro definiamo ultimi anni nel se~ vabbè lo sappiamo tutti insomma xx ormai
+TOI011	definisci molto
+TOR001	ultimi anni eh
+TOI010	dalle olimpiadi invernali quel fatidico anno in cui c'è stato lo start no di della di di torino
+TOI010	sì è cambiata sicuramente da da come da da quando ero giovane no
+TOR001	mhmh
+TOI010	ehm però penso che adesso insomma ci siamo
+TOI010	ha rallentato parecchio nel senso che adesso
+TOI010	c'è stato quell'impennata
+TOI010	e poi quella cosa lì mantenuta stabile alla torinese alla anzi alla bugia nen
+TOR001	mhmh
+TOI010	piemontese esattamente così lo status quo perenne
+TOR001	mhmh
+TOI011	sì sono abbastanza d'accordo con quello che dice mattia diciamo
+TOR001	okay
+TOI011	nel senso che
+TOI011	è s~
+TOI011	mh se se consideriamo il periodo de~ delle olimpiadi cioè tra una tra una cosa e l'altra son tanti anni comunque no
+TOR001	eh sì
+TOI010	eh sì
+TOI011	quindi cioè dire okay
+TOI011	quella cosa lì gli ha dato uno sprint che era una roba che se non fosse capitato probabilmente non
+TOR001	mhmh
+TOI011	non
+TOI010	ci sarebbe anc~
+???	sì
+TOI011	è mio
+???	sì sì
+TOI011	ah
+???	xxx
+TOI010	ci sarebbe x
+TOI011	ah sì scusami
+TOI011	sì sì sì sì
+TOR001	no prego
+TOI010	veramente ci sarebbe ancora il parcheggio in piazza vittorio dici no eh sopra però
+TOI011	sì esatto quindi boh ma metti la metro per dire la metro col cazzo che la facevano a torino se non c'erano le olimpiadi
+TOR001	mhmh mhmh
+TOI011	per cui gli ha dato uno uno sprint eh l'idea è che comunque si sia tendenzialmente un po' adagiata nel senso che
+TOR001	okay
+TOI011	cioè l'inerzia di questa cosa e poi è rimasta ferma
+TOR001	mhmh mh
+TOR001	e co~ complessivamente siete contenti di torino
+TOI010	e un po' di meno adesso
+TOR001	mhmh
+TOI010	mh ultimamente verso
+TOI010	mh sono un po' meno contento
+TOR001	okay
+TOR001	ma per qualcosa in particolare o
+TOI010	sì nel senso che quando quando con mia moglie magari parliamo cosa facciamo stasera
+TOR001	sensazione generale
+TOI010	non c'è un cazzo da fare
+TOR001	mhmh mhm
+TOI010	essenzialmente quello
+TOI010	cioè non anche perché comunque
+TOI010	da da coppia
+TOI010	sai da giovane qualcosa magari lo trovavi no cioè da coppia comunque cosa fai se non s~ se non è il solito museo quelle robe lì
+TOR001	mhmh mh
+TOR001	mhm
+TOI010	un po' intellettuali cioè
+TOI010	ma qualco~ no~ non c'è mai qualcosa di
+TOI010	un po' semplicemente di intrattenimento però da da coppia ecco
+TOR001	mhmh mh
+TOR001	okay
+TOI010	anche anche solo da un punto di vista xx anche commerciale
+TOR001	mhmh mh
+TOI010	cioè i i ristoranti alla fine che ci sono sono sempre quelli
+TOR001	mhmh mh
+TOI010	cioè lei vabbè lei è di shangai quindi figurati eh però dice qui
+TOI010	lì c'è sempre un qualche nuovo ristorante da provare qualcosa di nuovo da da vedere no
+TOR001	mhmh mh
+TOR001	da fare
+TOI010	qui no alla fine sono quelle due cose lì
+TOI010	quando esce la novità tipo cos'è
+TOI011	edit
+TOI010	no quelle le quelle patatine com'è che si chiamavano quelle amsterdam chips quella roba
+TOI011	ah sì
+TOI010	andiamo da amsterdam chips perché cioè è la novità
+TOI010	queste cose qui
+TOR001	mhmh
+TOI011	sei contento di torino era la domanda sì
+TOR001	aha
+TOI011	sono contento di torino
+TOI011	al netto di tutto di come è cambiato di come non è cambiato sono comunque contento
+TOR001	mhmh
+TOR001	okay
+TOR001	abbiamo quasi finito cosa fate durante il tempo libero
+TOI010	quale tempo libero no no ultimamente
+TOI010	eh il cosa faccio durante il tempo libero
+TOI011	dai rispondo prima io che mi rompi il cazzo che ci metti troppo a rispondere
+TOI010	ma anche perché non ho ancora deciso cosa rispondere
+TOI011	allora cosa faccio durante il tempo libero
+TOI011	allora io non ho grosse passioni non a parte il longboard di cui parlavo prima
+TOR001	okay
+TOI010	e il mercato il merca~
+TOI011	non sono un grosso sportivo
+TOI011	però nel tempo libero mi piace sciare io d'inverno scio un botto mi piace sciare
+TOR001	okay
+TOI011	quindi vado appena posso vado e poi
+TOR001	mhmh
+TOI011	ovviame~ non da qui nel senso da là da casa perché sono un po' più comodo però è una cosa che mi piace fare
+TOR001	mhmh
+TOI010	io non ho mai sciato ti rendi conto
+TOI011	ma non me ne frega un cazzo sto rispondendo io xxx mi stai parlando sopra
+TOI010	ma così insomma per arricchire un po'
+TOI010	xxx
+TOI011	ehm mi piace molto la montagna quindi
+TOI011	mi piace sciare perché mi piace molto la montagna e mi piace molto camminare fare escursioni in montagna e passeggiare
+TOI011	e mi piace camminare e questo te l'ho gia detto prima quindi si ricollega al discorso dell'escursionismo
+TOR001	va bene
+TOI011	in generale ehm
+TOI011	e basta mi piace cioè
+TOI011	diciamo che sono appassionato di tecnologia anche al di fuori della de~ l'ambito lavorativo per cui
+TOR001	okay
+TOR001	xxx
+TOI011	paciocco sempre faccio e un po' di robe per i fatti miei
+TOR001	okay
+TOR001	mhmh mhmh mh
+TOI011	studio mica studio eccetera eccetera
+TOI011	e e basta e quando riesco viaggio
+TOR001	okay
+TOI011	fine
+TOR001	musica f~ cinema
+TOI011	eh musica ho t~ l'abbonamento premium a spotify
+TOI011	questa non va bene in teoria
+TOR001	così puoi non ascoltare solo le playlist
+TOI011	così non poss~ esa~ posso non cioè posso scegliere cosa ascoltare e non non asc~
+TOR001	cioè sei libero dalle playlist
+TOR001	okay
+TOI010	puoi skippare quanto vuoi
+TOI011	skippare quanto voglio e non ho la pubblicità
+TOR001	ah è vero infatti sì
+TOR001	mhmh
+TOI011	ehm poi cosa stavam dicendo musica ci~
+TOR001	musica concerti
+TOI011	mh
+TOI011	bah no no diciamo che non sono proprio patito di concerti quando mi capita il gruppo che proprio è un po' così
+TOR001	okay
+TOR001	okay
+TOR001	okay
+TOI011	ci vado però non sono uno che si fa i concerti in modo seriale
+TOR001	okay
+TOI011	cinema quando esce qualcosa di interessante ci vado
+TOR001	okay
+TOI011	eh teatro non penso di esserci mai andato
+TOR001	okay
+TOI011	e
+TOI010	dai mai mai
+TOI011	son passato davanti
+TOI010	neanche a vedere tipo la locandiera quelle robe da da scuola superiore no che ti portano a vedere
+TOI010	tipo ruzzante la mandragola no xx
+TOI011	xxx
+TOR001	la mandragola
+TOI010	no la la
+???	stavo per dire la mandragora perché lui lavorava in un posto che si chiamava madragola xxx machiavelli chi cazzo lo conosce
+TOI010	xx si chiamava mandragola lo
+TOI010	no
+TOI010	no
+TOI011	no tendenzialmente
+TOR001	e quindi nient'altro
+TOI011	no
+TOR001	okay
+TOI010	qualcosa di goldoni no
+TOI011	è triste dovrei dire più cose
+TOR001	no no figurati quello che vuoi
+TOI011	se riuscite a xx della mia vita triste
+TOI011	non penso che la gente faccia tante cose in più cioè nel senso x
+TOR001	no no figurati va beni~ sport nient'altro oltre allo sci
+???	giochi a squash
+TOI011	ah no ecco ho una volta sono andato a giocare a squash e mi sono rotto un ginocchio coi miei colleghi quindi rientra anche
+TOI010	a squash giochi
+TOR001	xxx
+TOI010	nella partita demo nella partita gratis che ci hanno offerto
+TOI010	la prima volta si è spaccato il menisco
+TOI011	comunque la cosa che mi piace di più fare è camminare questo segnatelo
+TOR001	okay va bene va bene
+TOI011	perché a me camminare piace un casino
+TOR001	d'accordo
+TOI010	sì
+TOI011	sì
+TOI011	è una delle cose che mi piace di più
+TOI010	mh davvero
+TOI011	come hobby cosa fai cammino
+TOR001	okay tu invece
+TOI010	io eh allora neanche io non ho grossi mh diciamo interessi proprio fondamentali del tempo libero però
+TOI010	vabbè mi piace mi piace uscire con gli amici insomma
+TOR001	mhmh
+TOI010	ti dico quello che mi piace non quello che sto riuscendo a fare eh
+TOR001	sì sì
+TOR001	okay
+TOI010	se no
+TOI010	e
+TOI010	poi la stessa cosa anch'io non vado a grandi concerti però se c'è qualcosa che mi interessa ci vado sono andato all'ultimo di elio adesso
+TOR001	mhmh mh
+TOR001	mhmh
+TOI010	e il cinema
+TOI010	quando c'è qualcosa che mi interassa vado volentieri
+TOI011	che risposte del cazzo
+TOI010	eh x e vabbè scusami eh
+TOI011	no ma le ho dette anch'io eh
+TOI010	cioè non ho mai sciato ehm ecco però mi piacerebbe farlo
+TOI010	eh mi piace molto andare in bicicletta anche se poi in realtà non non non ci vado tantissimo
+TOR001	okay
+TOI010	però è proprio un secondo me è proprio la
+TOI010	è la velocità di spostamento che mi piace di più no
+TOR001	okay
+TOI010	come né troppo tranne quando devi andare insomma sei di fretta però
+TOI011	né troppo lento né troppo veloce
+TOI010	eh esatto
+TOI010	no eh sì perché io a camminare mi rompo i coglioni perché secondo me è
+TOI011	puoi camminare veloce xx
+TOI010	è una velocità troppo lenta quella del della camminata è
+TOI011	vabbè
+TOI010	quindi mi xx proprio il
+TOR001	okay
+TOI010	forse devo provare i pattini
+TOI011	okay
+TOI010	poi in realtà mi è da un po' che sto pensando anche mi insomma so~ suonavo la chitarra è da un po' che sto pensando di riprendere
+TOR001	mhmh
+TOR001	mhmh
+TOI010	cioè di almeno di rimettermi così a
+TOI010	perché era una cosa che mi distraeva tantissimo e mi scaricava anche solo che non sono anora riuscito a riprendere
+TOR001	mhmh
+TOR001	okay
+???	per il software di musica
+TOI010	è vero
+???	per imparare
+TOI010	pi pi pi pi
+TOI011	xxx
+TOI010	eh
+TOR001	abbiam finito grazie
+TOI011	abbiam finito
+???	e io ho una domanda ma col tuo cazzo di dottorato di linguistica cosa c'en~
+TOR001	eh
+TOR001	asc~

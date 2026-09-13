@@ -5822,7 +5822,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 961-0	TOR004	961	961	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1636.33	_	_	_	_
 961-1	TOR004	961	961	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 961-2	TOR004	961	961	2	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-961-3	TOR004	961	961	3	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	End=1637.22	_	_	_	_
+961-3	TOR004	961	961	3	all~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=1637.22	_	_	_	_
 962-0	TOI076	962	962	0	[se	se	_	_	_	_	_	linguistic	_	none	_	Begin=1636.33	_	_	_	0-2(304)
 962-1	TOI076	962	962	1	no:	no	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	0-2(304)
 962-2	TOI076	962	962	2	avevo	avevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(304)
@@ -5835,7 +5835,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 963-1	TOR004	963	963	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 963-2	TOR004	963	963	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 963-3	TOR004	963	963	3	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-963-4	TOR004	963	963	4	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+963-4	TOR004	963	963	4	all~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 963-5	TOR004	963	963	5	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 963-6	TOR004	963	963	6	avevano	avevano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 963-7	TOR004	963	963	7	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

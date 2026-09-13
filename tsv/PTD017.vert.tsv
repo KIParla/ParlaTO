@@ -5113,7 +5113,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 783-2	TOR001	783	783	2	mh]	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(181)
 783-3	TOR001	783	783	3	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=1573.29	_	_	_	_
 784-0	TOI078	784	784	0	[ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=1573.113	_	_	_	0-2(181)
-784-1	TOI078	784	784	1	qu]est'	quest'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-2(181)
+784-1	TOI078	784	784	1	qu]est'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(181)
 784-2	TOI078	784	784	2	impressione	impressione	_	_	_	_	_	linguistic	_	none	_	End=1574.186	_	_	_	_
 785-0	TOI078	785	785	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=1574.28	_	_	_	_
 785-1	TOI078	785	785	1	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

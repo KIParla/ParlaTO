@@ -158,7 +158,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 29-9	TOI060	29	29	9	campo	campo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 29-10	TOI060	29	29	10	nomadi	nomadi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 29-11	TOI060	29	29	11	dava[nti	davanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	4-7(4)
-29-12	TOI060	29	29	12	a]ll'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes|PauseAfter=Yes	_	_	_	_	0-1(4)
+29-12	TOI060	29	29	12	a]ll~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-1(4)
 29-13	TOI060	29	29	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 29-14	TOI060	29	29	14	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 29-15	TOI060	29	29	15	iveco	iveco	_	_	_	_	_	linguistic	_	none	_	End=68.118	_	_	_	_

@@ -1852,7 +1852,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 299-0	TOI073	299	299	0	frizzi	frizzi	_	_	_	_	_	linguistic	_	none	_	Begin=594.682	_	_	_	_
 299-1	TOI073	299	299	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 299-2	TOI073	299	299	2	lazzi	lazzi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-299-3	TOI073	299	299	3	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+299-3	TOI073	299	299	3	dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 299-4	TOI073	299	299	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 299-5	TOI073	299	299	5	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 299-6	TOI073	299	299	6	evento	evento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
