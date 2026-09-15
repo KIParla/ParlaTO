@@ -1,5 +1,6 @@
 *.pfsx
 *.bak
+*.eaf.001
 .DS*
 *.py
 *.zip
