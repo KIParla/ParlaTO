@@ -108,7 +108,7 @@ TOI076	fino alle fino a quando c'era luce
 TOI076	in realtà
 TOR004	madonna santa che caldo
 TOI076	mh
-TOR004	va bin e invece tu che lavoro fai
+TOR004	# va bin e invece tu che lavoro fai
 TOI077	e io faccio
 TOI077	x x
 TOI077	cioè gestisco un'azienda di stampaggio articoli tecnici di silicone
@@ -298,7 +298,7 @@ TOR004	mh
 TOI077	che
 TOR004	ma qui in italia
 TOI077	sì sì qui di torino
-TOI076	di turin
+TOI076	# di turin
 TOR004	ah
 TOI077	e lui si è diciamo
 TOI077	assisteva dei ragazzi che facevano palestra xx per i denti quindi faceva le
@@ -1019,7 +1019,7 @@ TOI076	eh ma ti davano un borsellino piccolino
 TOR004	sì
 TOR004	sì
 TOR004	eh e comunque vi siete conosciuti così insieme
-TOI076	eh ci siamo conosciuti accussì
+TOI076	# eh ci siamo conosciuti accussì
 TOR004	e poi
 TOR004	quanto siete stati insieme
 TOI077	mh mh
@@ -1133,7 +1133,7 @@ TOR004	sì
 TOI077	cioè che tu hai dipendenti che paghi poco
 TOR004	mh
 TOI077	quindi tu ti raddoppi i dipendenti
-TOR004	un cineis
+TOR004	# un cineis
 TOI077	eh eh raddoppi quindi eh quasi la produzione puoi quasi raddoppiarla
 TOI076	cin ciun wan
 TOI077	avendo quindi le spese
@@ -2007,7 +2007,7 @@ TOI077	eh vai a monaco di baviera
 TOR004	mia sorella lo guarda per imparare il tedesco
 TOI076	ecco
 TOI076	quei posti lì
-TOR004	va bin
+TOR004	# va bin
 TOI076	invece in italia mi piacerebbe andare in trentino proprio farmi una cavalcata
 TOR004	eh in trentino ci abbiamo i parenti
 TOI076	eh
@@ -2015,8 +2015,8 @@ TOI076	a farmi la cavalcata in mezzo a tutti gli alberi così
 TOI077	arriviamo
 TOR004	va bene
 TOR004	grazie per questa intervista
-TOI076	arvetse
-TOR004	arvetse
-TOI077	arvetse
+TOI076	# arvetse
+TOR004	# arvetse
+TOI077	# arvetse
 TOI076	in gamba
 TOR004	mi hai saluta~

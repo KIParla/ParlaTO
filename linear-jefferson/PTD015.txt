@@ -132,7 +132,7 @@ TOR001	certo
 TOI073	anche perché >ese~< i mie nonni avevano una drogheria in zona di m::h
 TOI073	corso peschiera
 TOR001	mh mh
-TOI073	quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
+TOI073	# quando: sono arrivati e hanno aperto: passavano davanti e dicevano no no custi si sun napuli
 TOR001	((ride))
 TOI073	eh ((ride)) e non entravamo poi col tempo in[somma]
 TOR001	[certo]

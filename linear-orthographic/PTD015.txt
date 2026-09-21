@@ -116,7 +116,7 @@ TOR001	certo
 TOI073	anche perché ese~ i mie nonni avevano una drogheria in zona di mh
 TOI073	corso peschiera
 TOR001	mh mh
-TOI073	quando sono arrivati e hanno aperto passavano davanti e dicevano no no custi si sun napuli
+TOI073	# quando sono arrivati e hanno aperto passavano davanti e dicevano no no custi si sun napuli
 TOI073	eh e non entravamo poi col tempo insomma
 TOR001	certo
 TOI073	per cui se la sono scollata di dosso credo

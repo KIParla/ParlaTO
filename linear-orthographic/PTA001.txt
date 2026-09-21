@@ -510,9 +510,9 @@ TOR001	dimmi dimmi
 TOR002	no volevo fare una domanda io appena finisci quelle serie
 TOR001	vai vai
 TOR001	no no vai vai fai
-TOR002	no cazzo la domanda è spiega il papocc giulio
+TOR002	# no cazzo la domanda è spiega il papocc giulio
 TOI001	ah il papocc
-TOI001	eh il papocc è
+TOI001	# eh il papocc è
 TOR002	ma proprio l'origine
 TOI001	vabbè diciamo che
 TOI001	è il nome di un personaggio de de delle mie parti
@@ -524,7 +524,7 @@ TOI001	e siccome è un cocktail che è fresco
 TOI001	eh
 TOI001	il primo neanche lo senti comunque va giù abbastanza velocemente
 TOI001	finché a un certo punto non ti alzi più dalla sedia o non ti metti a ridere
-TOI001	papocc più o meno era la stessa cosa insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
+TOI001	# papocc più o meno era la stessa cosa insomma non te ne accorgevi però non si alzava più dalla sedia a un certo punto
 TOR001	ma non sapevo che era una persona io
 TOI001	xx
 TOR002	mh
@@ -2320,7 +2320,7 @@ TOR002	vai
 TOI001	quelle che son buone
 TOR001	vai
 TOI001	puttana eva
-TOI001	vacca logia
+TOI001	# vacca logia
 TOI001	xxxx
 TOI001	che palo che ho preso vai
 TOR002	vai

@@ -990,7 +990,7 @@ TOR001	il quartiere stesso
 TOI003	sì sì sì il quartiere stesso sì sì
 TOR001	come ha fatto
 TOI003	eh
-TOI002	mazzete
+TOI002	# mazzete
 TOI003	con eh con brutti gesti
 TOI003	con brutti gesti
 TOI003	andavano c'era
