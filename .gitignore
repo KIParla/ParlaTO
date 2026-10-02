@@ -5,3 +5,6 @@
 *.py
 *.zip
 tmp/
+.DS_Store
+
+original/
