@@ -167,7 +167,7 @@ TOR004	no io ti volevo chiedere invece
 TOR004	com era la tua vita a volturino e poi
 TOI018	a volturino si lavorava eh si lavorava in campagna si cuciva si ricamava si filava di tutto abbiamo
 TOR004	quindi ce n'avevi ce n'avevi da fare
-TOI017	dicci per prendere l'acqua quella volta che m hai fatto spaventare dovevamo ancora sposarci
+TOI017	dicci per prendere l'acqua quella volta che mh hai fatto spaventare dovevamo ancora sposarci
 TOI018	andava a prendere l'acqua alla fontana perché non c'era l'acqua a casa
 TOR004	voi eravate nell'entroterra della puglia quindi
 TOI018	sì
@@ -267,7 +267,7 @@ TOI018	che prendevano e non potevano
 TOI018	e mi ricordo c'era un omone alto io era piccola piccola e st'omone era grosso grosso io era lì così
 TOI018	messa così e questo qui m'ha m'ha preso una corona
 TOI018	e me l'ha messe là e m'ha detto che dovevo pregare per lui eh m'ha fatto il segno della croce
-TOI018	e fa mamma mamma m'aveva detto che la corona ce l'aveva data la mamma e che doveva pregare per lui m ha fatto
+TOI018	e fa mamma mamma m'aveva detto che la corona ce l'aveva data la mamma e che doveva pregare per lui mh ha fatto
 TOR004	tu puoi
 TOR004	sì ma tu dovevi pregare per il tuo piede in quel momento non per lui
 TOI018	doveva pregare

@@ -194,7 +194,7 @@ TOI111	allora le vacanze sono due mesi estivi io le trascorro
 TOI111	facendo molte fa~ svolgendo molte faccende
 TOI111	a casa che ho sempre accantonato durante l'anno
 TOI111	poi noi abbiamo la frutta abbiamo l'orto quindi bisogna fare tutte quei lavori legati a
-TOI111	alla conservazione della frutta e della verdura per cui il tempo vola poi va be si va anche un po' in giro e
+TOI111	alla conservazione della frutta e della verdura per cui il tempo vola poi vabbè si va anche un po' in giro e
 TOI111	e mi dedico di più alle persone della mia famiglia quello sì
 TOR010	oltre la crisi degli ultimi anni ti ricordi gli altri periodi di crisi economica
 TOI111	no veramente io no

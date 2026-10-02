@@ -37,7 +37,7 @@ TOR001	altri tipi di:
 TOR001	e:h servizi c(io)è posti da frequentare la [sera:]
 TOI048	[no]. non ci sono non ci sono
 TOI048	piccoli locali, non c'è nulla.
-TOI048	((ride)) (.) vabbe c'è una pizzeria terrificante
+TOI048	((ride)) (.) vabbè c'è una pizzeria terrificante
 TOI048	che dà su un parchetto altrettanto terrificante a questa pizzeria veremente: e:h è un luogo
 TOI048	bo che mi lascia
 TOR001	((ride))

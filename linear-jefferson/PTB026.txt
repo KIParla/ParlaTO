@@ -470,7 +470,7 @@ TOI118	# e poi dopu nov ani l'ei avu la fortuna
 TOI118	# ad cunose
 TOR002	((ride))
 TOI118	# la mia steilasa si
-TOI118	# ch'a m suporta ancura des dopu quarantedui ani vero amore?
+TOI118	# ch'a mh suporta ancura des dopu quarantedui ani vero amore?
 TOI118	nel sessantanove
 TOI118	quando iniziai i cantieri lì no?
 TOI118	mamma (.) e il suo compagno (.) fecero un bel regalo (.) la cinquecento
@@ -568,9 +568,9 @@ TOI118	# cul
 TOR002	((ride))
 TOI118	# piciu di romano prodi
 TOI118	che vale millenovenctotrentasei euro virgola trentadue
-TOI118	# vinteset a m ricordu pi nen
+TOI118	# vinteset a mh ricordu pi nen
 TOR002	((ride))
-TOI118	# a m dan mila euro
+TOI118	# a mh dan mila euro
 TOI118	# ma cuntent. sun sempre dui miliun
 TOR002	((ride))
 TOI118	# poi fasu el cunt
@@ -597,7 +597,7 @@ TOI118	a poco
 TOR002	se c'arriviamo alla pensione
 TOR002	((ride))
 TOI118	perché é inutile signor marco
-TOI118	# l'ai catà l'alogg perché a m piasìan an bele sì
+TOI118	# l'ai catà l'alogg perché a mh piasìan an bele sì
 TOI118	# un bel post
 TOI118	# un panorama che
 TOI118	# vale solo un milione di euro il panorama ch'a j'è si
@@ -648,7 +648,7 @@ TOI118	la legge dice che tu (.) alloggio vuoto
 TOI118	puoi tenere i termo chiusi
 TOI118	# e chi se la prende nel sarapapié che saria el pertus de erbette?
 TOI118	# eh sun mi
-TOI118	# e ti t a m diras (.) ma chi it lu fa fe de ste lì?
+TOI118	# e ti t a mh diras (.) ma chi it lu fa fe de ste lì?
 TOI118	# anche el prufesur a l'a dime fate ti la caudera
 TOR002	beh ma non si
 TOI118	# però cuntinu a paghé
@@ -1327,7 +1327,7 @@ TOR002	e:h sì é un po':: così ades[so]
 TOI118	[sem]pre?
 TOR002	mh mh
 TOR002	a::h
-TOR002	# tastuma st genepì vah
+TOR002	# tastuma st genepì va
 TOI118	# ma it vole an ghersin quai[cosa]?
 TOR002	# [eh]? (.) no:: va bin parei
 TOI118	m'hai fatto bere
@@ -1410,7 +1410,7 @@ TOI118	la grappa no?
 TOR002	eh anche perché div[enti cieco se] ((ride))
 TOI118	[eh come gli amari ottanta] (.) ottanta erbe:: no::
 TOI118	la grappa é un distillato di vino é un
-TOI118	# e a mi: a m pias (.) pias parei no (.) perché anche cula che l'ai catà
+TOI118	# e a mi: a mh pias (.) pias parei no (.) perché anche cula che l'ai catà
 TOI118	# l'é nen buna parei
 TOI119	é più scura anche
 TOI119	l'ha detto là i frati francescani là son (.) benedettini là

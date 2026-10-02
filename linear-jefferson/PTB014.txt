@@ -43,7 +43,7 @@ TOR002	((ride))
 TOI049	perché ormai sono::
 TOR001	((ride))
 TOI049	eh
-TOI049	# a m tremula fina la man mamma mia
+TOI049	# a mh tremula fina la man mamma mia
 TOI049	# ma figurte
 TOI049	# vabé (.) tant a l'è la mia. via.
 TOR001	va benissimo va benissimo [allora aspetti] che
@@ -976,7 +976,7 @@ TOI049	seguiva i partigiani [là]
 TOR001	[mh] mh
 TOI049	e:h m'han ba~ m'han fatto aspettare un po' finché (.) e:h (c'è) venuto qualcuno a prendermi
 TOR001	oka[y]
-TOI049	# [e] sono andato a finire: ecco m ricordu nen.
+TOI049	# [e] sono andato a finire: ecco mh ricordu nen.
 TOI050	# as ricorda nen
 TOR001	((ride))
 TOI049	val varaita c'è: allora se vado dritto andavo a san peyre

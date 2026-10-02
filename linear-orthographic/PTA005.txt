@@ -521,13 +521,13 @@ TOI005	io sono un po' nel limbo
 TOR001	beh però tipo
 TOR001	certo
 TOI005	di pensieri eh
-TOR001	mh mh mh hm certo
+TOR001	mh mh mh mh certo
 TOR001	però tipo rispetto ad altri lavori fare un lavoro come il tuo
 TOR001	cioè s~ hai in mano un mestiere
 TOI005	ma io son fiero di q~
 TOR001	eh cioè
 TOI005	ti dico io a differenza dei miei io~ dei miei operai non so un cazzo
-TOR001	mh mh mh hm
+TOR001	mh mh mh mh
 TOI005	io quello che so comunque sia
 TOI005	vede me quando non ci sono io magari dormono su certe cose
 TOR001	mh mh mh mh

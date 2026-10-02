@@ -1301,7 +1301,7 @@ TOI056	mah (.) beh beh per un pregiudizio che mi mi vergogno persin di dire che 
 TOR001	((ride))
 TOI056	di non avere pregiudizi
 TOR001	((ride))
-TOI056	# perché m asmiava
+TOI056	# perché mh asmiava
 TOI056	# che i faciliteisa
 TOI056	l~ eh la l~ eh la l'apprendimen[to]
 TOR001	[scuo]la

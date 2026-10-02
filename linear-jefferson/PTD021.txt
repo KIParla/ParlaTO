@@ -21,7 +21,7 @@ TOR001	okay. che lavoro fate?
 TOI013	io faccio il giuntista di fibre ottiche.
 TOR001	okay, spiegami un po' che cos'è
 TOI013	e: in poche parole::
-TOI013	è:: una:=m=e::h è una figura professiona:le che
+TOI013	è:: una:=mh=e::h è una figura professiona:le che
 TOI013	si occupa di creare la linea dalle: centrale telecom
 TOI013	[o: f]astweb direi. qualsiasi altro operatore, fino alla: cantina:
 TOR001	[okay]
@@ -40,7 +40,7 @@ TOI013	io mi alzo:: presto alle sei,
 TOI013	e::hm alle otto sono sul posto di lavoro,
 TOI013	e molto spesso è:::=mh nei palazzi e nelle cantine,
 TOI013	oppure per strada,
-TOI013	e::=m=e::h (.) finisco di lavorare alle cinque con un'ora di pausa [che è: mo]lto: variabile e:h la gestisco io.
+TOI013	e::=mh=e::h (.) finisco di lavorare alle cinque con un'ora di pausa [che è: mo]lto: variabile e:h la gestisco io.
 TOR001	[mh mh],
 TOI012	ah invece: la mia è più complicata perché: io girando su turni:
 TOI012	e su=un nastro di ventidue ore: eh dipende dal turno che faccio.
@@ -82,7 +82,7 @@ TOR001	mh
 TOI012	e due perché: guidi un mezzo talmente grosso,
 TOI012	che
 TOI012	passi solo per determinate strade
-TOR002	m=[eh]
+TOR002	mh=[eh]
 TOI012	[ci(o)è non t]i verrebbe mai in mente di girare in una stradina.
 TOI012	tipo questa.
 TOR002	cer(to)
@@ -116,7 +116,7 @@ TOI012	[sì]
 TOR001	va bene.
 TOR001	da quanto tempo fate questo lavoro?
 TOI013	°ma° io da
-TOI013	m=e:h novembre, del, duemila, e sedici.
+TOI013	mh=e:h novembre, del, duemila, e sedici.
 TOR001	okay,
 TOI012	primo ottobre duemilaquindici
 TOR001	caspita precisione
@@ -148,7 +148,7 @@ TOR001	mh mh
 TOI013	(ho) fatto l'elettricista, che sarebbe il lavoro per cui mi sono: diplomato,
 TOR001	mh mh
 TOI013	e poi:
-TOI013	ho fatto il=e::h=m=e::h
+TOI013	ho fatto il=e::h=mh=e::h
 TOI013	ho lavorato in una: libreria,
 TOR001	mh mh,
 TOI013	col banco: o nel magazzino,
@@ -188,7 +188,7 @@ TOI013	beh
 TOR001	come: come: come lavoro
 TOI013	come lavoro?
 TOI013	la cosa migliore,
-TOI013	e::h credo::=m=eh nella libreria.
+TOI013	e::h credo::=mh=eh nella libreria.
 TOR001	mh mh,
 TOI013	peggiore,
 TOI013	il=e::h il cameriere. in=eh alcune situazioni perché appunto: quando ho iniziato mi piaceva l'ambiente: in quel posto.
@@ -220,7 +220,7 @@ TOI013	mh
 TOR001	mh mh,
 TOI013	sì è vero. sì [sì so]n=eh d'accordo.
 TOR001	[okay].
-TOR001	m=e::h vi piacerebbe andare avanti a fare il lavoro che state facendo adesso?
+TOR001	mh=e::h vi piacerebbe andare avanti a fare il lavoro che state facendo adesso?
 TOI012	s[ì].
 TOI013	[a me s]ì:
 TOR001	((ride))
@@ -453,7 +453,7 @@ TOI012	a una certa determinata fascia:
 TOI012	di:: >ci(o)è< mh eh determinata categoria
 TOR001	mh [cioè tipo]?
 TOI012	[tipo magari],
-TOI012	e: che che ne so:=m=e:::h voglio diventare un ristoratore,
+TOI012	e: che che ne so:=mh=e:::h voglio diventare un ristoratore,
 TOI012	non apro un ristorante a t:orino
 TOR001	mh mh,
 TOI012	un po' perché il turismo,
@@ -499,7 +499,7 @@ TOR001	[mh mh],
 TOI013	[quindi:] si abbassa molto: l'affitto che devi pagare
 TOR001	[mh mh mh]
 TOR001	mh mh
-TOI013	perché:: c'è molta concorrenza a livello di supermercati mercati quindi sono ba~ m=eh (.) ci sono prezzi più bassi,
+TOI013	perché:: c'è molta concorrenza a livello di supermercati mercati quindi sono ba~ mh=eh (.) ci sono prezzi più bassi,
 TOR001	mh mh
 TOI013	da quel punto di vista,
 TOI012	abbiamo imparato molto a sfruttare le: mh [offerte varie],
@@ -560,7 +560,7 @@ TOI012	[sì:]: sì sì sì assolutamente anche per[ché lo studente avendo una] 
 TOI013	[però sì]
 TOI013	[ti vedono gio:vane]
 TOI013	ti vedono gio:vane anche se non sanno se stud[i: o no comunque] ti fanno un prezzo da studente.
-TOR001	[mh mh m=e:h]
+TOR001	[mh mh mh=e:h]
 TOR001	mh
 TOR001	però è vero quello che di[cevi secondo me e:h]
 TOI012	[o molti affittano solo agl]i studenti.
@@ -590,7 +590,7 @@ TOR001	ci(o)è:: poi va be:ne siamo contenti va [tutto be(ne)]
 TOI012	[esatto. sì sì va] tutto benissimo [è:: tutto perfetto].
 TOR001	[però: ci(o)è:] quando ne abbiam parlato ne abbiamo parlato in questi termini. ci(o)è: com~ come ci organiziamo?
 TOI012	eh si è: è un'ottima soluzio:[ne. eh]
-TOR001	[eh no] per forza °[cioè] m=e::h°
+TOR001	[eh no] per forza °[cioè] mh=e::h°
 TOI012	[inevitabile]
 TOI013	poi (.) non voglio divagare però si è aperta anche la: condivisione:: sui mezzi,
 TOR001	mh [mh],
@@ -764,14 +764,14 @@ TOR001	ehm=e::::h okay eravamo rimasti a pensi che torino sia un buon posto per 
 TOR001	m:=e:h pensate che ci sareb~ che ci sono posti in cui sarebbe meglio,
 TOR001	rispetto a torino?
 TOI012	in italia?
-TOR001	mh m=e:h,
+TOR001	mh mh=e:h,
 TOR001	sì xxx [con l'estero] dopo. okay,
 TOI012	[nord est].
 TOR001	ci(o)è veneto tipo: friul[i:]
 TOI012	[sì] il triveneto
 TOR001	okay
 TOI012	perché comunque:
-TOI012	sono: sono più vicini::=mentalmente: a:::=m=e:h svizzera e germania,
+TOI012	sono: sono più vicini::=mentalmente: a:::=mh=e:h svizzera e germania,
 TOI012	gli stipendi son proporzionati anche il costo della vita per carità
 TOI012	però secondo me,
 TOI012	e::h
@@ -803,7 +803,7 @@ TOI013	esa(tto)
 TOR001	un extra regiona:le mado~
 TOR001	((ride))
 TOR001	avete mai vissuto fuori torino?
-TOI013	m=eh (.) [m=e:h no].
+TOI013	mh=eh (.) [m=e:h no].
 TOI012	[m=eh non veramente]
 TOR001	cosa vuol dire non veramente
 TOI012	(che ne so) ho fatto lunghe soste all'estero m[a::]
@@ -876,7 +876,7 @@ TOI013	n~ non valorizzano non lo so
 TOI013	che noi non abbiamo nemmeno l'idea
 TOI013	nei [posti xxx]
 TOR001	[ma in termini] naturalistic[i: o: okay].
-TOI013	[sì sì sì sì assolutame]nte naturalistici ma anche: m=e:h creati:::
+TOI013	[sì sì sì sì assolutame]nte naturalistici ma anche: mh=e:h creati:::
 TOI013	tempi passati nel medioev[o: cioè di s]tatue eno:rmi scavate nella pietra di trena metr[i]
 TOR001	[mh mh],
 TOR001	[mh] mh,
@@ -906,10 +906,10 @@ TOI013	nel senso che:: non brutta
 TOI013	ci(o)è diversa.
 TOI013	p(r)opio: anche per noi:: è difficile da: da capire anche da: da abituarsi,
 TOR001	ma tipo?
-TOI013	tipo::: che loro, (.) mett~ mangiano:::=m=e::h non hanno i piatti singoli,
+TOI013	tipo::: che loro, (.) mett~ mangiano:::=mh=e::h non hanno i piatti singoli,
 TOI013	cioè non ha~ ognuno non ha il suo piatto, [metto]no tutto in mezzo,
 TOR001	[(o)kay].
-TOI013	e:: m=e:h ed è: una condivisione.
+TOI013	e:: mh=e:h ed è: una condivisione.
 TOR001	mh mh,
 TOI013	invece: dal nostro punto di vi:sta è:: ci(o)è noi siamo i: gli egoisti per loro
 TOR001	mh mh,
@@ -1006,9 +1006,9 @@ TOR001	[mh mh],
 TOI012	e:: hanno una cultura, mo~ (.) proprio completamente diversa. non hanno una religione,
 TOR001	mh mh,
 TOI012	e: cioè non hanno una religione
-TOI012	m=e:h principale.
+TOI012	mh=e:h principale.
 TOR001	mh mh,
-TOI012	m=eh si dice che: i giapponesi (.) nascano scintuisti:: si sposino cristiani e muoiano buddisti.
+TOI012	mh=eh si dice che: i giapponesi (.) nascano scintuisti:: si sposino cristiani e muoiano buddisti.
 TOR001	o:kay
 TOI012	quindi: è:=mh proprio una cosa:: così,
 TOI012	eh sul cibo ovviamente il giapponese che magiamo qui non è: [neanche parago]nabile
@@ -1023,7 +1023,7 @@ TOI012	enorme.
 TOI012	ci(o)è roma::: roma è bellissima perché è riuscita a conservare parte della: [sua] ricchezza sorica,
 TOR001	[mh mh],
 TOI012	ma in giappone: ancora di più e soprattutto fa molto contrasto perché tu vedi magari,
-TOI012	nel quartiere: m=e:h commerciale come potrebbe essere wall street=[eh per new york]
+TOI012	nel quartiere: mh=e:h commerciale come potrebbe essere wall street=[eh per new york]
 TOR001	[mh mh mh],
 TOI012	e:h vedi questi grattacieli, (.) iper tecnologici nuovissimi bellissimi
 TOI012	e in mezzo a questi due c'è un tempio del settecento avanti cristo
@@ -1037,7 +1037,7 @@ TOI012	e:: anche per=eh anche per i giapponesi l'ospitalità:: dello straniero:
 TOI012	è fondamentale,
 TOR001	mh mh,
 TOI012	e a me una cosa che mi piace sempre racocntare,
-TOI012	è:=m=eh
+TOI012	è:=mh=eh
 TOI012	due volte, mi è capitato di perdermi,
 TOR001	mh mh
 TOI012	e gente, uno mi ha offerto un passaggio con la loro macchina
@@ -1057,8 +1057,8 @@ TOI012	[io ero da solo].
 ???	[costava me]no.
 TOI012	(e vabbè)
 TOI013	è ve(ro)
-TOI012	sì::=m=e:h
-TOI012	m=e:h
+TOI012	sì::=mh=e:h
+TOI012	mh=e:h
 TOI013	sono molto più ricchi anche °com[unque°].
 ???	[ah ques~]
 TOI012	sì: decisamente.
@@ -1074,7 +1074,7 @@ TOR001	[o]kay.
 TOI012	di solito sono: gli str~ i pochi stranieri che riescono a trovar lavoro in giappone e guadagnano: il giusto per sopravvivere e mettersi quattro spicci in tasca
 TOI012	ma niente di eccezionale.
 TOI012	e: il costo della vita è altissimo.
-TOI012	e::h in in realtà non è neanche così alto come si possa immaginare nel senso quando uno: m=eh pensa ai posti ricchissimi a parte gli emirati arabi pensi a (.) stati uniti e giappone,
+TOI012	e::h in in realtà non è neanche così alto come si possa immaginare nel senso quando uno: mh=eh pensa ai posti ricchissimi a parte gli emirati arabi pensi a (.) stati uniti e giappone,
 TOI012	e: il giappone,
 TOI012	l'ho trovato caro rispetto all'italia ovviamente perché è molto più caro,
 TOI012	però mi immaginavo molto:: molto di pe~ anzi se xxx in realtà con dieci euro mangi,
@@ -1089,13 +1089,13 @@ TOI012	self service=e:h dei nostri: un po' più bellini
 TOI012	in cui con >veramente< due euro: esci pieno. e quindi: eh u~ un po' di accortezza:: da turista:: >navigato tra virgolette<,
 TOI012	riesci a cavartela
 TOI012	però::
-TOI012	i mezzi pubblici sono cari come il fuoco >con[siderando]< che °eh m=e::h° si pagano a fermata
+TOI012	i mezzi pubblici sono cari come il fuoco >con[siderando]< che °eh mh=e::h° si pagano a fermata
 TOI013	[eh]
 TOI012	>se devo fare una fermata< la pago un euro se devo farne due ne pago due,
 TOI012	e: di seguito no?
 TOI012	esatto.
 TOR002	mh
-TOI012	e::hm=eh oppure::=m=eh
+TOI012	e::hm=eh oppure::=mh=eh
 TOR001	come in svizzera (vedi,)
 TOI012	i~ il=e:h i~ il gelato,
 TOI012	°una cazzata° il gelato, costa:
@@ -1114,7 +1114,7 @@ TOR001	((ride))
 TOI012	e come i nostri giapponesi g~ gestiti da cinesi.
 TOI012	più o me~
 TOI012	e:::
-TOI012	dicevo: m=eh per quanto riguarda l'accoglienza di stranieri son molto favorevoli,
+TOI012	dicevo: mh=eh per quanto riguarda l'accoglienza di stranieri son molto favorevoli,
 TOI012	ma se tu: vai lì con l'intenzione di trasferirtici,
 TOI012	sei la peggiore merda dell'universo, ti trattano malissimo,
 TOR001	w[ow]
@@ -1176,7 +1176,7 @@ TOI012	((ride))
 TOI013	xx
 TOI013	e vabbè,
 TOI013	e::h fallo.
-TOI012	no invece il giappone a~ è::=m=eh barba,
+TOI012	no invece il giappone a~ è::=mh=eh barba,
 TOI012	e capelli ricci,
 TOI012	il top
 TOI012	ho ho letto qualche tempo fa la storia di un ragazzo:
@@ -1297,7 +1297,7 @@ TOR001	torno all'intervista, [e]:h vi trasferireste all'estero per lavorare,
 TOI012	[sì]
 TOI013	io::
 TOI013	dipende. nel senso che lo fare:i,
-TOI013	ma:::=m=e:h non ce la farei con=e:h ci(o)è vorrei
+TOI013	ma:::=mh=e:h non ce la farei con=e:h ci(o)è vorrei
 TOR001	mh mh,
 TOI013	però: n=eh non penso di: potercela fare.
 TOR001	ma: perché non vorresti andar via da tori:no:, perché::: comunque ci(o)è:
@@ -1450,7 +1450,7 @@ TOI012	razzista:
 TOI013	((ride))
 TOI012	((ride))
 TOR001	cosa non ti pia:ce, cosa cambieresti
-TOI013	beh non mi piace::: m=e::h
+TOI013	beh non mi piace::: mh=e::h
 TOI013	sembra::: che sembra che sia abbandonata.
 TOI013	[quindi]:::
 TOR001	[okay],
@@ -1528,7 +1528,7 @@ TOI013	in quella zona si sente molto.
 TOR001	mh mh mh mh
 TOR001	e invece aspetti positivi della tua zona?
 TOI013	e:::h i servizi,
-TOI013	nel senso che:::=m=e::h i pullman tram=eh è mo~ e:h è ben fornita,
+TOI013	nel senso che:::=mh=e::h i pullman tram=eh è mo~ e:h è ben fornita,
 TOR001	mh mh,
 TOI013	e::hm=e::h
 TOI013	c'è il mercato,
@@ -1661,7 +1661,7 @@ TOI012	cose così
 TOR001	okay.
 TOI013	io farei una sosta in bagno.
 TOR001	vai tranquillo guarda è lì.
-TOI012	però:::: m=e::h
+TOI012	però:::: mh=e::h
 TOI012	a~ apparte questo,
 TOI012	che nel corso degli anni è stato mh piuttosto arginato: non del tutto ovviamente,
 TOI012	e::h xxx è: tutt'ora una bellissima zona.
@@ -1720,7 +1720,7 @@ TOI013	[no] no vabbè
 TOR002	sì no no ho capito la zo(na)
 TOI012	e:::
 TOI012	sembra improponibile perché veramente fai eh s~ s~ siamo a (.) centocinquanta metri da torino.
-TOR001	mh mh mh m=eh
+TOR001	mh mh mh mh=eh
 TOI012	però: è: tutta un'altra cosa. respiri un'aria diversa: a parte quando gli zingari all'aeroporto accendono i falò
 TOI013	te li cerchi.
 TOI012	(si vede) che: [me me li c]erco
@@ -1752,7 +1752,7 @@ TOI012	buonanotte, buongiorno. e via.
 ???	è chiusa [la serranda]
 TOI012	[esa]tto.
 TOI012	comunque::: no bello è una bella zona:: lati negativi:: di venaria:: cioè di dove siamo adesso,
-TOI012	eh i fumi tossici che: lasciano gli zingari: a: dal campo rom di: di:=m=e::h che sta lì all'aeroporto.
+TOI012	eh i fumi tossici che: lasciano gli zingari: a: dal campo rom di: di:=mh=e::h che sta lì all'aeroporto.
 TOR001	ok[ay].
 TOI012	[e]::: e i ragazzini under sedici dove stan lì a far casino al giardinetto sotto casa.
 TOI012	ma quello è normale: eh son ragazzi.
@@ -1760,7 +1760,7 @@ TOR001	okay,
 TOR001	ehm=e::h trovate tutto nella zona in cui state, o dovete spostarvi spesso?
 TOI013	e:::h penso di trovare tutto nella mia zona,
 TOR001	okay,
-TOI013	m=e::h forse gli ospedali,
+TOI013	mh=e::h forse gli ospedali,
 TOI013	gli ospedali.
 TOR001	mh
 TOI013	[nella mia zona (mancano)] (ospedali)
@@ -2043,7 +2043,7 @@ TOR001	grigia la f[iat fabbrica]: e:h
 TOI013	[era milano],
 TOI013	eh [torino e]ra mil[a:no].
 TOI012	[eh era],
-TOI012	[torino era] milano quello [che adesso è comuqnue] m=e:h
+TOI012	[torino era] milano quello [che adesso è comuqnue] mh=e:h
 TOR001	[molto be:~]
 TOR001	[che io venivo da lì] [per me era fa]cile
 TOI013	[sì sì].
@@ -2149,7 +2149,7 @@ TOR001	ma da:i,
 TOR001	e::h. [ma no]: no:
 TOI012	[non lo so]
 TOI012	studierò i dati e vi farò sapere.
-TOR001	no. (.) ci(o)è: capisco quello che dici però, non lo so poi: io ho sempre m=e:h il fatto che non essendo di quà immagin[e se]condo me diversa no?
+TOR001	no. (.) ci(o)è: capisco quello che dici però, non lo so poi: io ho sempre mh=e:h il fatto che non essendo di quà immagin[e se]condo me diversa no?
 TOI012	[sì]
 TOR001	è vero che ci sono,
 TOR001	a me sembra che siano aumentati in effetti anche se passeggi: ci(o)è nel weekend in centro così comunque ce n'è un sacco,
@@ -2226,7 +2226,7 @@ TOI013	(que)sta cosa è:: [(u)na cosa degli ultimi an~]
 ???	[scusa ma non è anche bello], sapere che la tua città viene apprezzata anche [da::]
 TOI013	[sì no] ma [infatti sul]
 TOI012	[sì ma è mia].
-TOI013	sul piano del turismo io son contento. perché comunque: m=e::h
+TOI013	sul piano del turismo io son contento. perché comunque: mh=e::h
 TOI013	viene valorizzata, ci son più soldi come dicevamo prim[a::] è molto bello. [sì:]
 ???	[che vengono poi, investiti per i tori]nesi.
 TOR001	[certo],
@@ -2240,7 +2240,7 @@ TOI013	[te lo dico:]
 TOI013	te lo dico: adesso, che sto lavorando e me ne accorgo meno. quindi non passeggio di me:no, prendo meno pullman anzi non ne prendo quasi più.
 TOI013	se me lo chiedevi:: tre anni fa quattro anni fa quando non lavoravo e di giorno non=e:h ero in giro, ti dicevo oh sì. però,
 ???	sì sì
-TOR001	mh mh m=e:h.
+TOR001	mh mh mh=e:h.
 TOI012	però la [domanda su]:: com'era la domanda?
 TOI013	[tutto qui]
 TOI012	e tre:
@@ -2406,7 +2406,7 @@ TOR001	bene
 TOI013	domanda successiva
 TOI012	prossima d[oma~]
 TOR001	[seguit]e lo sport=eh?
-TOI013	m=e::h no. seguo solo i risultati. guardo solo i risulta(ti).
+TOI013	mh=e::h no. seguo solo i risultati. guardo solo i risulta(ti).
 TOR001	ma tifi qualche squadra di calcio, o giochi e basta,
 TOI013	s:::ì tifo.
 TOI013	non guardo le partite. non ho:: nessun abbonamento, non guardarmi così
@@ -2503,7 +2503,7 @@ TOI013	se dovessi scegliere allo stadio.
 TOI012	se potessi scegliere allo stadio.
 TOR001	(o)kay d'accordo,
 TOR001	ehm=e:::h okay di calcio direi basta, altri sport avete detto?
-TOI013	m=e::h no.
+TOI013	mh=e::h no.
 TOR001	no.
 ???	[skate],
 TOI012	[°poi andavo° ne ho] praticati tanti quindi li seguo volentieri,
@@ -2820,7 +2820,7 @@ TOR001	okay.
 TOI012	hanno poi tutti seguito quel filone. si son [butta(ti) tutti den]tro.
 TOR001	[mh mh mh]
 TOI012	poi magari sono ignorante perché non l'ho poi più seguito quindi.
-TOR001	mh mh m=e:h
+TOR001	mh mh mh=e:h
 TOI012	e:: poi ovviamente da appassionato di fumetti seguo tutti i cinecomics,
 TOI012	[e:::h]=mh saga di fantascienza:. em=e:h fantasy.
 TOR001	[okay].
@@ -2902,7 +2902,7 @@ TOI012	a a at~ a tenersi:: i [clienti affez]ionati e trovare clienti nuovi.
 TOR001	[okay].
 TOI013	eh. quello che intendevo appunto che lui l'ha vissuta fin dall'inizio l'ha vissuta molto di più invece per me la play uno: è stata la prima ed è sembrato quasi: normale.
 TOR001	certo.
-TOI012	eh sì poi sono nato xxx sono nato e scresciuto con le console otto bit=e::h m=e:h quindi è normale che
+TOI012	eh sì poi sono nato xxx sono nato e scresciuto con le console otto bit=e::h mh=e:h quindi è normale che
 TOR001	mh mh mh=[eh]
 TOI012	[m~] m~ mi so tutta: la fase:
 TOI012	e::hm di avanzamento tecnologico nel=e::h modo xxx ed è stato:: [uno spettta]colo. °proprio fico°.

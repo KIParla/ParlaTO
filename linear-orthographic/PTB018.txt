@@ -1231,7 +1231,7 @@ TOR001	certo
 TOR001	e come mai avete deciso di parlare in italiano
 TOI056	mah beh beh per un pregiudizio che mi mi vergogno persin di dire che di solito ritengo
 TOI056	di non avere pregiudizi
-TOI056	# perché m asmiava
+TOI056	# perché mh asmiava
 TOI056	# che i faciliteisa
 TOI056	l~ eh la l~ eh la l'apprendimento
 TOR001	scuola
