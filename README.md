@@ -59,9 +59,6 @@ Metadata is to be interpreted as follows:
    - `duration`: duration of the conversation, expressed in `hh:mm:ss` format
    - `participants-number`: number of participants in the conversation
    - `languages`: languages spoken in the conversation, can be either `italian` or `dialect`, or both.
-   - `participants-relationship`: relation, either symmetrid or asymmetric
-   - `moderator`: presence of a moderator
-   - `topic`: fixed for this module
    - `year`: year of collection
    - `collection-point`: two-letter code of the collection area: `TO` for Turin for this module.
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
@@ -164,6 +161,7 @@ If you use the ParlaBO module in your research, please also reference this repos
   * Minor fix: empty turns in linear-orthographic were removed
 
 * YYYY-MM-DD v2.0.0
+  * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
   * Breaking: the `variation` column of the `tsv/` files is now called `code-variation` and is a feature list holding all code-variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
   * Breaking: the unit-initial `# ` / `#_ ` marker is now part of the `span` of the unit's first token, so the original transcription can be rebuilt from the `span` column
   * Breaking: the `unit` column was removed from the `tsv/` files (they now have 20 columns)
