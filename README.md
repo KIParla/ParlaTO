@@ -69,6 +69,10 @@ Metadata is to be interpreted as follows:
 [^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
 [^3]: `elementary-school`, `liceo-diploma`, `middle-school`, `phd`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
 
+## CSVW metadata
+
+The tabular files of this module are described by a [CSV on the Web (CSVW)](https://www.w3.org/TR/tabular-data-primer/) metadata document, [`csv-metadata.json`](./csv-metadata.json), placed at the root of the repository. It documents `metadata/conversations.tsv`, `metadata/participants.tsv` and every `tsv/<code>.vert.tsv` file, listing for each column its name, datatype (and format, where relevant) and a short description, together with the foreign key linking the `participants` column of the conversations table to the participants table. The file is generated from the shared schemas in the KIParla `tools` repository (`tools/csvw/generate_csvw.py`) and should not be edited by hand. CSVW-aware tools (e.g. the `csvw` Python package, `csvlint`, or R's `csvwr`) can use it to validate the data and load it with the correct types.
+
 ## Verticalized content
 
 Conversations are also available in a vertical, pseudo-tokenized version in [`tsv/`](./tsv/).
