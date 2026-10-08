@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	o:kay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.041|End=1.4	0x1	_	_	_
 1-0	TOR001	1	0	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.5	_	_	_	_
 1-1	TOR001	1	1	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.533	_	_	_	_

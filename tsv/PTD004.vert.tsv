@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI043	0	0	porta	porta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	TOI043	0	1	benefica,	benefica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 0-2	TOI043	0	2	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2032,26 +2032,26 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 458-3	TOI042	458	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(1102)
 458-4	TOI042	458	4	gipo	gipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(1102)
 458-5	TOI042	458	5	farassino]	farassino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=787.571	_	_	_	0-9(1102)
-459-0	TOI043	459	0	# [vanchiglia	vanchiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=785.837	_	_	_	0-10(1102)
-459-1	TOI043	459	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	0-2(1102)
-459-2	TOI043	459	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(1102)
-459-3	TOI043	459	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1102)
-459-4	TOI043	459	4	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(1102)
-459-5	TOI043	459	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1102)
-459-6	TOI043	459	6	lader]	lader	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(1102)
+459-0	TOI043	459	0	# [vanchiglia	vanchiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=785.837	_	_	_	0-10(1102)
+459-1	TOI043	459	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	0-2(1102)
+459-2	TOI043	459	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(1102)
+459-3	TOI043	459	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1102)
+459-4	TOI043	459	4	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(1102)
+459-5	TOI043	459	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1102)
+459-6	TOI043	459	6	lader]	lader	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(1102)
 459-7	TOI043	459	7	x[xx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=788.8	_	_	_	0-3(138)
-460-0	TOI042	460	0	# [prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=787.807	_	_	_	0-5(138)
-460-1	TOI042	460	1	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(138)
-460-2	TOI042	460	2	meridio]nali	meridionali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(138)
-460-3	TOI042	460	3	era[no	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	3-5(139)
-460-4	TOI042	460	4	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(139)
-460-5	TOI042	460	5	m~	m~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	0-2(139)
-460-6	TOI042	460	6	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(139)
+460-0	TOI042	460	0	# [prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=787.807	_	_	_	0-5(138)
+460-1	TOI042	460	1	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(138)
+460-2	TOI042	460	2	meridio]nali	meridionali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(138)
+460-3	TOI042	460	3	era[no	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	3-5(139)
+460-4	TOI042	460	4	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(139)
+460-5	TOI042	460	5	m~	m~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	0-2(139)
+460-6	TOI042	460	6	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	0-3(139)
 460-7	TOI042	460	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(139)
-460-8	TOI042	460	8	malavitusa	malavitusa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-10(139)
-460-9	TOI042	460	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(139)
-460-10	TOI042	460	10	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(139)
-460-11	TOI042	460	11	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=792.192	_	_	_	0-2(139)
+460-8	TOI042	460	8	malavitusa	malavitusa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-10(139)
+460-9	TOI042	460	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(139)
+460-10	TOI042	460	10	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(139)
+460-11	TOI042	460	11	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=792.192	_	_	_	0-2(139)
 461-0	TOI043	461	0	[esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=789.209	_	_	_	0-6(139)
 461-1	TOI043	461	1	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	_	0-3(139)
 461-2	TOI043	461	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(139)
@@ -2069,23 +2069,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 464-5	TOI043	464	5	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 464-6	TOI043	464	6	modo	modo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 464-7	TOI043	464	7	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=796.8	_	_	_	_
-465-0	TOI043	465	0	# c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Reduced=Yes	Begin=796.8	_	_	_	_
-465-1	TOI043	465	1	va~	va~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-465-2	TOI043	465	2	vanchiglia	vanchiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-3	TOI043	465	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-4	TOI043	465	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-5	TOI043	465	5	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-6	TOI043	465	6	attaccato	attaccato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-7	TOI043	465	7	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-8	TOI043	465	8	chiamavano	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-9	TOI043	465	9	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-10	TOI043	465	10	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-11	TOI043	465	11	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-12	TOI043	465	12	ladri	ladri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-13	TOI043	465	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-14	TOI043	465	14	borgo	borgo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-465-15	TOI043	465	15	[dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(1302)
-465-16	TOI043	465	16	ladri]	ladri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=801.475	_	_	_	0-5(1302)
+465-0	TOI043	465	0	# c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Reduced=Yes	Begin=796.8	_	_	_	_
+465-1	TOI043	465	1	va~	va~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+465-2	TOI043	465	2	vanchiglia	vanchiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-3	TOI043	465	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-4	TOI043	465	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-5	TOI043	465	5	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-6	TOI043	465	6	attaccato	attaccato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-7	TOI043	465	7	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-8	TOI043	465	8	chiamavano	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-9	TOI043	465	9	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-10	TOI043	465	10	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-11	TOI043	465	11	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-12	TOI043	465	12	ladri	ladri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-13	TOI043	465	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-14	TOI043	465	14	borgo	borgo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+465-15	TOI043	465	15	[dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(1302)
+465-16	TOI043	465	16	ladri]	ladri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=801.475	_	_	_	0-5(1302)
 466-0	TOR001	466	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=800.812	_	_	_	0-2(1302)
 466-1	TOR001	466	1	okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=801.403	_	_	_	0-4(1302)
 467-0	TOI042	467	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=801.212|End=803.607	_	_	_	_
@@ -2251,10 +2251,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 502-7	TOI043	502	7	usati	usati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 502-8	TOI043	502	8	[oppure]	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=849.262	_	_	_	0-6(1110)
 503-0	TOI044	503	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=848.001|End=848.792	_	_	_	_
-504-0	TOI042	504	0	# [roba	roba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=848.6	_	_	_	0-4(1110)
-504-1	TOI042	504	1	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1110)
-504-2	TOI042	504	2	la]	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1110)
-504-3	TOI042	504	3	luna	luna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=849.823	_	_	_	_
+504-0	TOI042	504	0	# [roba	roba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=848.6	_	_	_	0-4(1110)
+504-1	TOI042	504	1	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1110)
+504-2	TOI042	504	2	la]	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1110)
+504-3	TOI042	504	3	luna	luna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=849.823	_	_	_	_
 505-0	TOI043	505	0	oppure	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=849.812	_	_	_	_
 505-1	TOI043	505	1	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 505-2	TOI043	505	2	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2324,14 +2324,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 517-0	TOI043	517	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=866.094|End=866.448	_	_	_	0-2(156)
 518-0	TOI043	518	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=867.802	_	_	_	0-2(157)
 518-1	TOI043	518	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=868.335	_	_	_	_
-519-0	TOI042	519	0	# chila	chila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=868.32	_	_	_	_
-519-1	TOI042	519	1	chiel	chiel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-519-2	TOI042	519	2	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-519-3	TOI042	519	3	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(1111)
-519-4	TOI042	519	4	parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(1111)
-519-5	TOI042	519	5	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1111)
-519-6	TOI042	519	6	porta	porta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(1111)
-519-7	TOI042	519	7	pila]	pila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=870.45	_	_	_	0-4(1111)
+519-0	TOI042	519	0	# chila	chila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=868.32	_	_	_	_
+519-1	TOI042	519	1	chiel	chiel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+519-2	TOI042	519	2	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+519-3	TOI042	519	3	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(1111)
+519-4	TOI042	519	4	parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(1111)
+519-5	TOI042	519	5	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1111)
+519-6	TOI042	519	6	porta	porta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(1111)
+519-7	TOI042	519	7	pila]	pila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=870.45	_	_	_	0-4(1111)
 520-0	TOI044	520	0	[mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=869.0	_	_	_	0-3(1111)
 520-1	TOI044	520	1	padre	padre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(1111)
 520-2	TOI044	520	2	conosceva	conosceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-9(1111)
@@ -3166,10 +3166,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 686-6	TOI043	686	6	studenti	studenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 686-7	TOI043	686	7	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 686-8	TOI043	686	8	fa[cevano],	facevano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1074.968	_	_	_	2-8(242)
-687-0	TOI042	687	0	# [andasiu	andasiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1074.31	_	_	_	0-7(242)
-687-1	TOI042	687	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(242)
-687-2	TOI042	687	2	piese]	piese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(242)
-687-3	TOI042	687	3	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+687-0	TOI042	687	0	# [andasiu	andasiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1074.31	_	_	_	0-7(242)
+687-1	TOI042	687	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(242)
+687-2	TOI042	687	2	piese]	piese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(242)
+687-3	TOI042	687	3	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 687-4	TOI042	687	4	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	_	_	_	_	_
 687-5	TOI042	687	5	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=1076.11	_	_	_	0-3(243)
 688-0	TOI043	688	0	[andavano]	andavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1075.411	_	_	_	0-8(243)
@@ -3235,40 +3235,40 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-0	TOI043	699	0	profumo	profumo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1096.405	_	_	_	_
 699-1	TOI043	699	1	dolciastro	dolciastro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 699-2	TOI043	699	2	schi[fosissimo]	schifosissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1098.614	_	_	_	4-13(245)
-700-0	TOI042	700	0	# [deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1097.86	_	_	_	0-4(245)
-700-1	TOI042	700	1	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(245)
-700-2	TOI042	700	2	flit].	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	End=1098.637	_	_	_	0-4(245)
-701-0	TOI043	701	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1098.993	_	_	_	_
-701-1	TOI043	701	1	voleva	voleva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-2	TOI043	701	2	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-3	TOI043	701	3	deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-4	TOI043	701	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-5	TOI043	701	5	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-6	TOI043	701	6	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(246)
-701-7	TOI043	701	7	comi]nciava	cominciava	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(246)
-701-8	TOI043	701	8	[a]	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(247)
-701-9	TOI043	701	9	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-10	TOI043	701	10	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-11	TOI043	701	11	dico	dico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-12	TOI043	701	12	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-701-13	TOI043	701	13	dialetto	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1102.978	_	_	_	_
+700-0	TOI042	700	0	# [deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1097.86	_	_	_	0-4(245)
+700-1	TOI042	700	1	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(245)
+700-2	TOI042	700	2	flit].	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	End=1098.637	_	_	_	0-4(245)
+701-0	TOI043	701	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1098.993	_	_	_	_
+701-1	TOI043	701	1	voleva	voleva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-2	TOI043	701	2	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-3	TOI043	701	3	deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-4	TOI043	701	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-5	TOI043	701	5	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-6	TOI043	701	6	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(246)
+701-7	TOI043	701	7	comi]nciava	cominciava	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(246)
+701-8	TOI043	701	8	[a]	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(247)
+701-9	TOI043	701	9	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-10	TOI043	701	10	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-11	TOI043	701	11	dico	dico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-12	TOI043	701	12	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+701-13	TOI043	701	13	dialetto	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1102.978	_	_	_	_
 702-0	TOI042	702	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1100.588	_	_	_	0-2(246)
 702-1	TOI042	702	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1101.039	_	_	_	0-2(246)
 703-0	TOI042	703	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1101.319|End=1101.53	_	_	_	0-2(247)
-704-0	TOI043	704	0	# alura	alura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1103.404	_	_	_	_
-704-1	TOI043	704	1	fjoi	fjoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-2	TOI043	704	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-3	TOI043	704	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-4	TOI043	704	4	figa	figa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-5	TOI043	704	5	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-6	TOI043	704	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-7	TOI043	704	7	fuga	fuga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-8	TOI043	704	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-9	TOI043	704	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-10	TOI043	704	10	figa	figa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-11	TOI043	704	11	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-12	TOI043	704	12	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-704-13	TOI043	704	13	fuga	fuga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+704-0	TOI043	704	0	# alura	alura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1103.404	_	_	_	_
+704-1	TOI043	704	1	fjoi	fjoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-2	TOI043	704	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-3	TOI043	704	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-4	TOI043	704	4	figa	figa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-5	TOI043	704	5	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-6	TOI043	704	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-7	TOI043	704	7	fuga	fuga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-8	TOI043	704	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-9	TOI043	704	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-10	TOI043	704	10	figa	figa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-11	TOI043	704	11	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-12	TOI043	704	12	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+704-13	TOI043	704	13	fuga	fuga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 704-14	TOI043	704	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1107.2	_	_	_	_
 705-0	TOI042	705	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1105.6|End=1106.875	_	_	_	_
 706-0	TOI042	706	0	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1106.99	_	_	_	_
@@ -3301,19 +3301,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 710-8	TOI043	710	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-9	TOI043	710	9	cui	cui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1115.237	_	_	_	_
 711-0	TOR001	711	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1114.797|End=1115.98	_	_	_	_
-712-0	TOI042	712	0	# questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1115.425	_	_	_	_
-712-1	TOI042	712	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-2	TOI042	712	2	vera	vera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-3	TOI042	712	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-4	TOI042	712	4	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-712-5	TOI042	712	5	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-712-6	TOI042	712	6	[de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(253)
-712-7	TOI042	712	7	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(253)
-712-8	TOI042	712	8	flit]	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(253)
-712-9	TOI042	712	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-10	TOI042	712	10	restata	restata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-11	TOI042	712	11	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-712-12	TOI042	712	12	torino	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1118.5	_	_	_	_
+712-0	TOI042	712	0	# questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1115.425	_	_	_	_
+712-1	TOI042	712	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-2	TOI042	712	2	vera	vera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-3	TOI042	712	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-4	TOI042	712	4	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+712-5	TOI042	712	5	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+712-6	TOI042	712	6	[de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(253)
+712-7	TOI042	712	7	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(253)
+712-8	TOI042	712	8	flit]	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(253)
+712-9	TOI042	712	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-10	TOI042	712	10	restata	restata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-11	TOI042	712	11	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+712-12	TOI042	712	12	torino	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1118.5	_	_	_	_
 713-0	TOI043	713	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1116.993	_	_	_	0-1(253)
 713-1	TOI043	713	1	quindi]	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1117.725	_	_	_	0-6(253)
 714-0	TOI042	714	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1118.805	_	_	_	_
@@ -3327,23 +3327,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 714-8	TOI042	714	8	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 714-9	TOI042	714	9	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 714-10	TOI042	714	10	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1121.224	_	_	_	_
-715-0	TOI042	715	0	# c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	Begin=1121.587	_	_	_	_
-715-1	TOI042	715	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-2	TOI042	715	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-3	TOI042	715	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-4	TOI042	715	4	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-5	TOI042	715	5	pesa	pesa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-6	TOI042	715	6	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-715-7	TOI042	715	7	deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-8	TOI042	715	8	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-9	TOI042	715	9	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-10	TOI042	715	10	[fare]	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(254)
-715-11	TOI042	715	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-12	TOI042	715	12	modo	modo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-13	TOI042	715	13	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-14	TOI042	715	14	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-15	TOI042	715	15	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-715-16	TOI042	715	16	vada	vada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1125.45	_	_	_	_
+715-0	TOI042	715	0	# c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	Begin=1121.587	_	_	_	_
+715-1	TOI042	715	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-2	TOI042	715	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-3	TOI042	715	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-4	TOI042	715	4	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-5	TOI042	715	5	pesa	pesa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-6	TOI042	715	6	d~	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+715-7	TOI042	715	7	deje	deje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-8	TOI042	715	8	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-9	TOI042	715	9	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-10	TOI042	715	10	[fare]	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(254)
+715-11	TOI042	715	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-12	TOI042	715	12	modo	modo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-13	TOI042	715	13	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-14	TOI042	715	14	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-15	TOI042	715	15	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+715-16	TOI042	715	16	vada	vada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1125.45	_	_	_	_
 716-0	TOI043	716	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1123.6	_	_	_	0-2(254)
 716-1	TOI043	716	1	esatto]	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1124.418	_	_	_	0-6(254)
 717-0	TOI043	717	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1125.19	_	_	_	_
@@ -3394,29 +3394,29 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 724-7	TOI042	724	7	chiamavano	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 724-8	TOI042	724	8	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1139.891	_	_	_	_
 725-0	TOI042	725	0	((soffia))	((soffia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1140.168|End=1141.569	_	_	_	_
-726-0	TOI043	726	0	# el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1140.225	_	_	_	_
-726-1	TOI043	726	1	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-2	TOI043	726	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-3	TOI043	726	3	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-4	TOI043	726	4	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-5	TOI043	726	5	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-6	TOI043	726	6	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-726-7	TOI043	726	7	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1142.65	_	_	_	_
-727-0	TOI043	727	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1142.812	_	_	_	_
-727-1	TOI043	727	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-2	TOI043	727	2	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-3	TOI043	727	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-4	TOI043	727	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-5	TOI043	727	5	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-6	TOI043	727	6	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-7	TOI043	727	7	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-8	TOI043	727	8	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-9	TOI043	727	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-10	TOI043	727	10	[gurdare	gurdare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(263)
-727-11	TOI043	727	11	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(263)
-727-12	TOI043	727	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-13	TOI043	727	13	fe	fe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-727-14	TOI043	727	14	planela	planela	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1146.601	_	_	_	_
+726-0	TOI043	726	0	# el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1140.225	_	_	_	_
+726-1	TOI043	726	1	flit	flit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-2	TOI043	726	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-3	TOI043	726	3	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-4	TOI043	726	4	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-5	TOI043	726	5	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-6	TOI043	726	6	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+726-7	TOI043	726	7	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1142.65	_	_	_	_
+727-0	TOI043	727	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1142.812	_	_	_	_
+727-1	TOI043	727	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-2	TOI043	727	2	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-3	TOI043	727	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-4	TOI043	727	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-5	TOI043	727	5	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-6	TOI043	727	6	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-7	TOI043	727	7	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-8	TOI043	727	8	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-9	TOI043	727	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-10	TOI043	727	10	[gurdare	gurdare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(263)
+727-11	TOI043	727	11	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(263)
+727-12	TOI043	727	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-13	TOI043	727	13	fe	fe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+727-14	TOI043	727	14	planela	planela	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1146.601	_	_	_	_
 728-0	TOI042	728	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1145.06	_	_	_	0-2(263)
 728-1	TOI042	728	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(263)
 728-2	TOI042	728	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(263)
@@ -3936,13 +3936,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 829-9	TOI042	829	9	re	re	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 829-10	TOI042	829	10	artù	artù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1282.442	_	_	_	_
 830-0	TOR001	830	0	bensì,	bensì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1282.781|End=1283.304	_	_	_	_
-831-0	TOI042	831	0	# ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1283.304	_	_	_	_
-831-1	TOI042	831	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-831-2	TOI042	831	2	unici	unici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-831-3	TOI042	831	3	tavoli	tavoli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-831-4	TOI042	831	4	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-831-5	TOI042	831	5	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-831-6	TOI042	831	6	butai	butai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1285.822	_	_	_	_
+831-0	TOI042	831	0	# ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1283.304	_	_	_	_
+831-1	TOI042	831	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+831-2	TOI042	831	2	unici	unici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+831-3	TOI042	831	3	tavoli	tavoli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+831-4	TOI042	831	4	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+831-5	TOI042	831	5	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+831-6	TOI042	831	6	butai	butai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1285.822	_	_	_	_
 832-0	TOI043	832	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1285.822	_	_	_	_
 832-1	TOI043	832	1	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1286.212	_	_	_	_
 833-0	TOI042	833	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1286.627	_	_	_	_
@@ -5103,14 +5103,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1067-1	TOI043	1067	1	[piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(390)
 1067-2	TOI043	1067	2	boss]	boss	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(390)
 1067-3	TOI043	1067	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1649.805	_	_	_	_
-1068-0	TOI042	1068	0	# [an	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	Begin=1648.418	_	_	_	0-2(390)
+1068-0	TOI042	1068	0	# [an	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	Begin=1648.418	_	_	_	0-2(390)
 1068-1	TOI042	1068	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(390)
-1068-2	TOI042	1068	2	an]	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(390)
-1068-3	TOI042	1068	3	cit	cit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1068-4	TOI042	1068	4	boss	boss	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1068-5	TOI042	1068	5	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1068-6	TOI042	1068	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1068-7	TOI042	1068	7	mala	mala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1650.825	_	_	_	_
+1068-2	TOI042	1068	2	an]	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(390)
+1068-3	TOI042	1068	3	cit	cit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1068-4	TOI042	1068	4	boss	boss	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1068-5	TOI042	1068	5	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1068-6	TOI042	1068	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1068-7	TOI042	1068	7	mala	mala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1650.825	_	_	_	_
 1069-0	TOI043	1069	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1650.938|End=1651.31	_	_	_	_
 1070-0	TOI042	1070	0	chiamato	chiamato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1652.396	_	_	_	_
 1070-1	TOI042	1070	1	gengis	gengis	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5383,13 +5383,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1123-5	TOI042	1123	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1123-6	TOI042	1123	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1123-7	TOI042	1123	7	droga	droga	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1743.613	_	_	_	_
-1124-0	TOI042	1124	0	# poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1743.63	_	_	_	_
-1124-1	TOI042	1124	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1124-2	TOI042	1124	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1124-3	TOI042	1124	3	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1124-4	TOI042	1124	4	avei	avei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1124-5	TOI042	1124	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1124-6	TOI042	1124	6	summia	summia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1745.434	_	_	_	_
+1124-0	TOI042	1124	0	# poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1743.63	_	_	_	_
+1124-1	TOI042	1124	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1124-2	TOI042	1124	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1124-3	TOI042	1124	3	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1124-4	TOI042	1124	4	avei	avei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1124-5	TOI042	1124	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1124-6	TOI042	1124	6	summia	summia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1745.434	_	_	_	_
 1125-0	TOR001	1125	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1745.51|End=1745.873	_	_	_	0-2(406)
 1126-0	TOI043	1126	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1745.538|End=1745.91	_	_	_	0-2(406)
 1127-0	TOI042	1127	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1746.004	_	_	_	_
@@ -5428,14 +5428,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1133-1	TOI042	1133	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1133-2	TOI042	1133	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1133-3	TOI042	1133	3	usavano	usavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1757.816	_	_	_	_
-1134-0	TOI042	1134	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1757.816	_	_	_	_
-1134-1	TOI042	1134	1	bianca,	bianca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1134-2	TOI042	1134	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1134-3	TOI042	1134	3	fioca,	fioca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1134-4	TOI042	1134	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1134-5	TOI042	1134	5	bicarbonato,	bicarbonato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1134-6	TOI042	1134	6	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1134-7	TOI042	1134	7	res[tati]:	restati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1761.415	6x1	_	_	3-7(409)
+1134-0	TOI042	1134	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1757.816	_	_	_	_
+1134-1	TOI042	1134	1	bianca,	bianca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1134-2	TOI042	1134	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1134-3	TOI042	1134	3	fioca,	fioca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1134-4	TOI042	1134	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1134-5	TOI042	1134	5	bicarbonato,	bicarbonato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1134-6	TOI042	1134	6	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1134-7	TOI042	1134	7	res[tati]:	restati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1761.415	6x1	_	_	3-7(409)
 1135-0	TOI043	1135	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1760.795|End=1761.118	_	_	_	0-2(409)
 1136-0	TOI042	1136	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1761.415	_	_	_	_
 1136-1	TOI042	1136	1	restati	restati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5641,15 +5641,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1182-7	TOI042	1182	7	industriale	industriale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1850.391	_	_	_	_
 1183-0	TOR001	1183	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1850.408|End=1850.765	_	_	_	_
 1184-0	TOI043	1184	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1850.765|End=1851.022	_	_	_	_
-1185-0	TOI042	1185	0	# surtì	surtì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1851.206	_	_	_	_
-1185-1	TOI042	1185	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1185-2	TOI042	1185	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1185-3	TOI042	1185	3	cromodora	cromodora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1853.021	_	_	_	_
+1185-0	TOI042	1185	0	# surtì	surtì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1851.206	_	_	_	_
+1185-1	TOI042	1185	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1185-2	TOI042	1185	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1185-3	TOI042	1185	3	cromodora	cromodora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1853.021	_	_	_	_
 1186-0	TOI042	1186	0	vestito	vestito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1853.187	_	_	_	_
 1186-1	TOI042	1186	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1854.416	_	_	_	_
-1187-0	TOI042	1187	0	# e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1854.807	0x2	_	_	_
-1187-1	TOI042	1187	1	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1187-2	TOI042	1187	2	cagadur	cagadur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1857.197	_	_	_	_
+1187-0	TOI042	1187	0	# e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1854.807	0x2	_	_	_
+1187-1	TOI042	1187	1	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1187-2	TOI042	1187	2	cagadur	cagadur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1857.197	_	_	_	_
 1188-0	TOI042	1188	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1858.19	_	_	_	_
 1188-1	TOI042	1188	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1188-2	TOI042	1188	2	spider	spider	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -5673,20 +5673,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1191-2	TOI043	1191	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(424)
 1191-3	TOI043	1191	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(424)
 1191-4	TOI043	1191	4	eheh]	eheh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1865.702	_	_	_	0-4(424)
-1192-0	TOI042	1192	0	# [la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1864.017	_	_	_	0-2(424)
-1192-1	TOI042	1192	1	sincsent.	sincsent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	_	_	_	_	0-8(424)
-1192-2	TOI042	1192	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(424)
-1192-3	TOI042	1192	3	sessent	sessent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(424)
-1192-4	TOI042	1192	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(424)
-1192-5	TOI042	1192	5	cupio]	cupio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(424)
-1192-6	TOI042	1192	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1192-7	TOI042	1192	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	_	_	_	_	_
-1192-8	TOI042	1192	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1192-9	TOI042	1192	9	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1192-10	TOI042	1192	10	sessent	sessent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1192-11	TOI042	1192	11	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1192-12	TOI042	1192	12	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1192-13	TOI042	1192	13	incontra~	incontra~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	End=1868.588	_	_	_	_
+1192-0	TOI042	1192	0	# [la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1864.017	_	_	_	0-2(424)
+1192-1	TOI042	1192	1	sincsent.	sincsent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	_	_	_	_	0-8(424)
+1192-2	TOI042	1192	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(424)
+1192-3	TOI042	1192	3	sessent	sessent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(424)
+1192-4	TOI042	1192	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(424)
+1192-5	TOI042	1192	5	cupio]	cupio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(424)
+1192-6	TOI042	1192	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1192-7	TOI042	1192	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	_	_	_	_	_
+1192-8	TOI042	1192	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1192-9	TOI042	1192	9	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1192-10	TOI042	1192	10	sessent	sessent	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1192-11	TOI042	1192	11	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1192-12	TOI042	1192	12	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1192-13	TOI042	1192	13	incontra~	incontra~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	End=1868.588	_	_	_	_
 1193-0	TOR001	1193	0	mh[mhmh]	mhmhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1868.604|End=1869.39	_	_	_	2-6(425)
 1194-0	TOI042	1194	0	[e:]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1868.81	0x1	_	_	0-1(425)
 1194-1	TOI042	1194	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5915,7 +5915,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1232-4	TOI042	1232	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1232-5	TOI042	1232	5	regolamenti	regolamenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1232-6	TOI042	1232	6	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1927.51	_	_	_	_
-1233-0	TOI042	1233	0	# gargagnan	gargagnan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1928.11|End=1929.021	_	_	_	_
+1233-0	TOI042	1233	0	# gargagnan	gargagnan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1928.11|End=1929.021	_	_	_	_
 1234-0	TOI042	1234	0	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1929.59	0x1	_	_	_
 1234-1	TOI042	1234	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1234-2	TOI042	1234	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1931.17	_	_	_	_
@@ -5923,12 +5923,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1235-1	TOI042	1235	1	fatti	fatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1235-2	TOI042	1235	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1235-3	TOI042	1235	3	sangue	sangue	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1932.7	_	_	_	_
-1236-0	TOI042	1236	0	# qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1932.7	_	_	_	_
-1236-1	TOI042	1236	1	prostituta	prostituta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1236-2	TOI042	1236	2	uccisa	uccisa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1236-3	TOI042	1236	3	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1236-4	TOI042	1236	4	gargagnan	gargagnan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1236-5	TOI042	1236	5	ucc[iso]	ucciso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1936.105	_	_	_	3-6(448)
+1236-0	TOI042	1236	0	# qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1932.7	_	_	_	_
+1236-1	TOI042	1236	1	prostituta	prostituta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1236-2	TOI042	1236	2	uccisa	uccisa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1236-3	TOI042	1236	3	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1236-4	TOI042	1236	4	gargagnan	gargagnan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1236-5	TOI042	1236	5	ucc[iso]	ucciso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1936.105	_	_	_	3-6(448)
 1237-0	TOR001	1237	0	[mh]mhmhmh	mhmhmhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1935.81|End=1936.53	_	_	_	0-2(448)
 1238-0	TOI043	1238	0	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1936.49	_	_	_	_
 1238-1	TOI043	1238	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6125,14 +6125,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1268-2	TOI044	1268	2	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1268-3	TOI044	1268	3	fumo,	fumo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1994.21	_	_	_	_
 1269-0	TOI043	1269	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1994.21|End=1994.45	_	_	_	_
-1270-0	TOI044	1270	0	# burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1994.4	_	_	_	_
-1270-1	TOI044	1270	1	[dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(1174)
-1270-2	TOI044	1270	2	fum]	fum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1995.355	_	_	_	0-3(1174)
+1270-0	TOI044	1270	0	# burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1994.4	_	_	_	_
+1270-1	TOI044	1270	1	[dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(1174)
+1270-2	TOI044	1270	2	fum]	fum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1995.355	_	_	_	0-3(1174)
 1271-0	TOI043	1271	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1994.68|End=1994.991	_	_	_	0-2(1174)
-1272-0	TOI042	1272	0	# [burg]	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1994.88	_	_	_	0-4(1174)
-1272-1	TOI042	1272	1	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1272-2	TOI042	1272	2	fum	fum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1272-3	TOI042	1272	3	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1996.012	_	_	_	0-2(458)
+1272-0	TOI042	1272	0	# [burg]	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1994.88	_	_	_	0-4(1174)
+1272-1	TOI042	1272	1	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1272-2	TOI042	1272	2	fum	fum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1272-3	TOI042	1272	3	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1996.012	_	_	_	0-2(458)
 1273-0	TOI043	1273	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1995.78|End=1996.126	_	_	_	0-2(458)
 1274-0	TOI044	1274	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1996.192	_	_	_	_
 1274-1	TOI044	1274	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8719,13 +8719,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1787-11	TOI043	1787	11	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1787-12	TOI043	1787	12	[c(io)è]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	End=2811.01	_	_	_	0-4(645)
 1788-0	TOI042	1788	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2809.87|End=2810.21	_	_	_	0-2(644)
-1789-0	TOI044	1789	0	# [qual]	qual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2810.61	_	_	_	0-4(645)
-1789-1	TOI044	1789	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1789-2	TOI044	1789	2	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1789-3	TOI044	1789	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1789-4	TOI044	1789	4	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1789-5	TOI044	1789	5	[dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(646)
-1789-6	TOI044	1789	6	cineis]?	cineis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	End=2812.401	_	_	_	0-6(646)
+1789-0	TOI044	1789	0	# [qual]	qual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2810.61	_	_	_	0-4(645)
+1789-1	TOI044	1789	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1789-2	TOI044	1789	2	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1789-3	TOI044	1789	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1789-4	TOI044	1789	4	burg	burg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1789-5	TOI044	1789	5	[dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(646)
+1789-6	TOI044	1789	6	cineis]?	cineis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	End=2812.401	_	_	_	0-6(646)
 1790-0	TOI043	1790	0	[c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2811.8	_	_	_	0-2(646)
 1790-1	TOI043	1790	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(646)
 1790-2	TOI043	1790	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(646)
@@ -9098,8 +9098,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1866-2	TOI043	1866	2	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(671)
 1866-3	TOI043	1866	3	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(671)
 1866-4	TOI043	1866	4	così]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2926.81	_	_	_	0-4(671)
-1867-0	TOI042	1867	0	# tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2927.01	_	_	_	_
-1867-1	TOI042	1867	1	boite	boite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2928.31	_	_	_	_
+1867-0	TOI042	1867	0	# tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2927.01	_	_	_	_
+1867-1	TOI042	1867	1	boite	boite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2928.31	_	_	_	_
 1868-0	TOI042	1868	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2928.375	_	_	_	_
 1868-1	TOI042	1868	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1868-2	TOI042	1868	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2929.01	_	_	_	_
@@ -9150,12 +9150,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1877-3	TOI043	1877	3	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1877-4	TOI043	1877	4	senso	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1877-5	TOI043	1877	5	[che]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2948.66	_	_	_	0-3(674)
-1878-0	TOI042	1878	0	# [ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2948.203	_	_	_	0-2(674)
-1878-1	TOI042	1878	1	poi]	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(674)
-1878-2	TOI042	1878	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1878-3	TOI042	1878	3	mucchio	mucchio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1878-4	TOI042	1878	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1878-5	TOI042	1878	5	boi[te]	boite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2949.504	_	_	_	3-5(675)
+1878-0	TOI042	1878	0	# [ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2948.203	_	_	_	0-2(674)
+1878-1	TOI042	1878	1	poi]	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(674)
+1878-2	TOI042	1878	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1878-3	TOI042	1878	3	mucchio	mucchio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1878-4	TOI042	1878	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1878-5	TOI042	1878	5	boi[te]	boite	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2949.504	_	_	_	3-5(675)
 1879-0	TOI043	1879	0	[c(io)è]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=2949.293	_	_	_	0-4(675)
 1879-1	TOI043	1879	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1879-2	TOI043	1879	2	miei	miei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2950.402	_	_	_	_
@@ -9718,13 +9718,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2006-4	TOI042	2006	4	canzone	canzone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2006-5	TOI042	2006	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2006-6	TOI042	2006	6	gipo	gipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3107.406	_	_	_	_
-2007-0	TOI042	2007	0	# l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	Begin=3107.509	_	_	_	_
-2007-1	TOI042	2007	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2007-2	TOI042	2007	2	catate	catate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2007-3	TOI042	2007	3	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2007-4	TOI042	2007	4	velosolex	velosolex	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2007-5	TOI042	2007	5	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2007-6	TOI042	2007	6	culé	culé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=3109.598	_	_	_	_
+2007-0	TOI042	2007	0	# l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	Begin=3107.509	_	_	_	_
+2007-1	TOI042	2007	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2007-2	TOI042	2007	2	catate	catate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2007-3	TOI042	2007	3	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2007-4	TOI042	2007	4	velosolex	velosolex	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2007-5	TOI042	2007	5	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2007-6	TOI042	2007	6	culé	culé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3109.598	_	_	_	_
 2008-0	TOR001	2008	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3109.8|End=3110.479	_	_	_	_
 2009-0	TOI042	2009	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3109.808	_	_	_	_
 2009-1	TOI042	2009	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -10427,20 +10427,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2168-4	TOI043	2168	4	accento	accento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2168-5	TOI043	2168	5	fortissimo	fortissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3357.39	_	_	_	_
 2169-0	TOI044	2169	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3357.5|End=3357.711	_	_	_	_
-2170-0	TOI043	2170	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=3357.8	_	_	_	_
-2170-1	TOI043	2170	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-2	TOI043	2170	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-3	TOI043	2170	3	ricor~	ricor~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-2170-4	TOI043	2170	4	oltretutto	oltretutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-5	TOI043	2170	5	poverino	poverino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-6	TOI043	2170	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-2170-7	TOI043	2170	7	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-8	TOI043	2170	8	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-9	TOI043	2170	9	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-2170-10	TOI043	2170	10	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-11	TOI043	2170	11	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-12	TOI043	2170	12	tant	tant	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2170-13	TOI043	2170	13	bel	bel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=3361.791	_	_	_	_
+2170-0	TOI043	2170	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3357.8	_	_	_	_
+2170-1	TOI043	2170	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-2	TOI043	2170	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-3	TOI043	2170	3	ricor~	ricor~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+2170-4	TOI043	2170	4	oltretutto	oltretutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-5	TOI043	2170	5	poverino	poverino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-6	TOI043	2170	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+2170-7	TOI043	2170	7	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-8	TOI043	2170	8	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-9	TOI043	2170	9	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+2170-10	TOI043	2170	10	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-11	TOI043	2170	11	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-12	TOI043	2170	12	tant	tant	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2170-13	TOI043	2170	13	bel	bel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3361.791	_	_	_	_
 2171-0	TOI043	2171	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3361.791	_	_	_	_
 2171-1	TOI043	2171	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2171-2	TOI043	2171	2	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

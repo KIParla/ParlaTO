@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO999	0	0	allora::	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.951	5x2	_	_	_
 0-1	TO999	0	1	vincenzo.	vincenzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3.41	_	_	_	_
 1-0	TO999	1	0	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.49	_	_	_	_

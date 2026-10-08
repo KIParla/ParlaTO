@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO081	0	0	quindi:,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=0.395|End=1.316	5x1	_	_	_
 1-0	TO999	1	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1.4|End=1.783	_	_	_	_
 2-0	TO081	2	0	n~	n~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2.41	_	_	_	_

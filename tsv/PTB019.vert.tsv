@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR009	0	0	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.64|End=2.47	_	_	_	_
 1-0	TOR009	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.79|End=3.5	_	_	_	_
 2-0	TOR009	2	0	lei,	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	Begin=4.9	_	_	_	_

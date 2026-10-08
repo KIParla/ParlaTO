@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI010	0	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.58|End=3.35	_	_	_	_
 1-0	TOI011	1	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.58|End=3.35	_	_	_	_
 2-0	???	2	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.587|End=3.348	_	_	_	_
@@ -9066,22 +9066,22 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1369-2	TOI010	1369	2	stato	stato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1369-3	TOI010	1369	3	quell'	quell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1369-4	TOI010	1369	4	impennata,	impennata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2830.485	_	_	_	_
-1370-0	TOI010	1370	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2830.785	_	_	_	_
-1370-1	TOI010	1370	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+1370-0	TOI010	1370	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2830.785	_	_	_	_
+1370-1	TOI010	1370	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 1370-2	TOI010	1370	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1370-3	TOI010	1370	3	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-4	TOI010	1370	4	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-5	TOI010	1370	5	lì:	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	1x1	_	_	_
-1370-6	TOI010	1370	6	mantenuta	mantenuta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-7	TOI010	1370	7	stabile	stabile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+1370-3	TOI010	1370	3	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-4	TOI010	1370	4	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-5	TOI010	1370	5	lì:	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	1x1	_	_	_
+1370-6	TOI010	1370	6	mantenuta	mantenuta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-7	TOI010	1370	7	stabile	stabile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 1370-8	TOI010	1370	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1370-9	TOI010	1370	9	[alla]	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(445)
-1370-10	TOI010	1370	10	torinese	torinese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-11	TOI010	1370	11	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-12	TOI010	1370	12	anzi	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-13	TOI010	1370	13	alla:	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	3x1	_	_	_
-1370-14	TOI010	1370	14	bugia	bugia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1370-15	TOI010	1370	15	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2836.305	_	_	_	_
+1370-9	TOI010	1370	9	[alla]	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(445)
+1370-10	TOI010	1370	10	torinese	torinese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-11	TOI010	1370	11	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-12	TOI010	1370	12	anzi	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-13	TOI010	1370	13	alla:	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	3x1	_	_	_
+1370-14	TOI010	1370	14	bugia	bugia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1370-15	TOI010	1370	15	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2836.305	_	_	_	_
 1371-0	TOR001	1371	0	[mhmh].	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2833.593|End=2833.906	_	_	_	0-4(445)
 1372-0	TOI010	1372	0	piemontese	piemontese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2836.568	_	_	_	_
 1372-1	TOI010	1372	1	esattamente	esattamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

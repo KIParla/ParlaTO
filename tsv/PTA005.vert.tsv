@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=0.585	_	_	_	_
 1-0	TOR002	1	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.215	_	_	_	_
 1-1	TOR002	1	1	guarda	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

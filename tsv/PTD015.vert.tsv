@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Syllables=3	Begin=0.19	_	_	_	_
 0-1	TOR001	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR001	0	2	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.4	_	_	_	_
@@ -708,22 +708,22 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-1	TOI073	132	1	peschiera	peschiera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=243.813	_	_	_	_
 133-0	TOR001	133	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=243.813	_	_	_	_
 133-1	TOR001	133	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=244.31	_	_	_	_
-134-0	TOI073	134	0	# quando:	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=244.71	5x1	_	_	_
-134-1	TOI073	134	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-2	TOI073	134	2	arrivati	arrivati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-3	TOI073	134	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-4	TOI073	134	4	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-5	TOI073	134	5	aperto:	aperto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	5x1	_	_	_
-134-6	TOI073	134	6	passavano	passavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-7	TOI073	134	7	davanti	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-8	TOI073	134	8	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-9	TOI073	134	9	dicevano	dicevano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-10	TOI073	134	10	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-11	TOI073	134	11	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-12	TOI073	134	12	custi	custi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-13	TOI073	134	13	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-14	TOI073	134	14	sun	sun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-134-15	TOI073	134	15	napuli	napuli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=250.31	_	_	_	_
+134-0	TOI073	134	0	# quando:	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=244.71	5x1	_	_	_
+134-1	TOI073	134	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-2	TOI073	134	2	arrivati	arrivati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-3	TOI073	134	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-4	TOI073	134	4	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-5	TOI073	134	5	aperto:	aperto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	5x1	_	_	_
+134-6	TOI073	134	6	passavano	passavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-7	TOI073	134	7	davanti	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-8	TOI073	134	8	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-9	TOI073	134	9	dicevano	dicevano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-10	TOI073	134	10	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-11	TOI073	134	11	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-12	TOI073	134	12	custi	custi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-13	TOI073	134	13	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-14	TOI073	134	14	sun	sun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+134-15	TOI073	134	15	napuli	napuli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=250.31	_	_	_	_
 135-0	TOR001	135	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=250.324|End=251.296	_	_	_	_
 136-0	TOI073	136	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=250.606	_	_	_	_
 136-1	TOI073	136	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_

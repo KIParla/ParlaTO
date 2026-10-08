@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR005	0	0	avvi:o	avvio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0|End=1.004	3x1	_	_	_
 1-0	TOR005	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.101|End=1.807	_	_	_	_
 2-0	TOR005	2	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.807|End=2.924	2x1	_	_	_
@@ -895,16 +895,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 187-1	???	187	1	deve	deve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 187-2	???	187	2	andar	andar	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 187-3	???	187	3	[via]?	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=304.19	_	_	_	0-3(56)
-188-0	TOI024	188	0	# [no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=303.465	_	_	_	0-2(56)
-188-1	TOI024	188	1	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(56)
-188-2	TOI024	188	2	(è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-1(0)	_
-188-3	TOI024	188	3	lì)	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-2(0)	_
-188-4	TOI024	188	4	ndua	ndua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-188-5	TOI024	188	5	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-188-6	TOI024	188	6	è?	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	End=305.539	_	_	_	_
+188-0	TOI024	188	0	# [no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=303.465	_	_	_	0-2(56)
+188-1	TOI024	188	1	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(56)
+188-2	TOI024	188	2	(è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-1(0)	_
+188-3	TOI024	188	3	lì)	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-2(0)	_
+188-4	TOI024	188	4	ndua	ndua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+188-5	TOI024	188	5	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+188-6	TOI024	188	6	è?	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	End=305.539	_	_	_	_
 189-0	???	189	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=305.541|End=306.06	_	_	_	_
-190-0	TOI024	190	0	# sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=306.061	_	_	_	_
-190-1	TOI024	190	1	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=307.027	_	_	_	_
+190-0	TOI024	190	0	# sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=306.061	_	_	_	_
+190-1	TOI024	190	1	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=307.027	_	_	_	_
 191-0	TOI024	191	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=307.648	_	_	_	_
 191-1	TOI024	191	1	sparita	sparita	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 191-2	TOI024	191	2	già?	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=308.855	_	_	_	_
@@ -1307,13 +1307,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 270-1	TOI024	270	1	inten~]	inten~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=497.482	_	_	_	0-6(78)
 271-0	TOR005	271	0	[prego]	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=497.482|End=498.153	_	_	_	0-5(79)
 272-0	TOI024	272	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=497.482|End=498.153	_	_	_	0-2(79)
-273-0	TOI024	273	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=498.201	_	_	_	_
-273-1	TOI024	273	1	i'	i'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-273-2	TOI024	273	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-273-3	TOI024	273	3	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-273-4	TOI024	273	4	tessera	tessera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-273-5	TOI024	273	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-273-6	TOI024	273	6	fè	fè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=499.81	_	_	_	_
+273-0	TOI024	273	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=498.201	_	_	_	_
+273-1	TOI024	273	1	i'	i'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+273-2	TOI024	273	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+273-3	TOI024	273	3	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+273-4	TOI024	273	4	tessera	tessera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+273-5	TOI024	273	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+273-6	TOI024	273	6	fè	fè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=499.81	_	_	_	_
 274-0	???	274	0	[eh]?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=499.81|End=500.167	_	_	_	0-2(80)
 275-0	TOI024	275	0	[poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=499.81	_	_	_	0-3(80)
 275-1	TOI024	275	1	ha]	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(80)
@@ -3974,12 +3974,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 763-0	TOI024	763	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1335.26|End=1338.479	_	_	_	_
 764-0	TOR005	764	0	oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1336.128	_	_	_	_
 764-1	TOR005	764	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1336.69	_	_	_	_
-765-0	???	765	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1336.697	_	_	_	_
-765-1	???	765	1	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-765-2	???	765	2	fasa	fasa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-765-3	???	765	3	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-765-4	???	765	4	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-765-5	???	765	5	dumande	dumande	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1338.668	_	_	_	_
+765-0	???	765	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1336.697	_	_	_	_
+765-1	???	765	1	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+765-2	???	765	2	fasa	fasa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+765-3	???	765	3	nen	nen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+765-4	???	765	4	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+765-5	???	765	5	dumande	dumande	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1338.668	_	_	_	_
 766-0	TOI024	766	0	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1338.695	_	_	_	_
 766-1	TOI024	766	1	avrà	avrà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 766-2	TOI024	766	2	viste	viste	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4258,9 +4258,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 832-10	TOR005	832	10	nome	nome	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 832-11	TOR005	832	11	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 832-12	TOR005	832	12	cognome.	cognome	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1425.823	_	_	_	_
-833-0	???	833	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1426.438	_	_	_	_
-833-1	???	833	1	semp	semp	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-833-2	???	833	2	istess	istess	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1427.602	_	_	_	_
+833-0	???	833	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1426.438	_	_	_	_
+833-1	???	833	1	semp	semp	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+833-2	???	833	2	istess	istess	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1427.602	_	_	_	_
 834-0	TOR005	834	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1427.967|End=1428.35	1x1	_	_	_
 835-0	TOI024	835	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1428.444|End=1428.897	_	_	_	_
 836-0	TOR005	836	0	[però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1428.897	_	_	_	0-4(272)
@@ -4539,11 +4539,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 905-7	???	905	7	mano	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1512.323	_	_	_	_
 906-0	TOR005	906	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1512.352|End=1513.788	0x3	_	_	_
 907-0	TOI024	907	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1512.352|End=1513.971	_	_	_	_
-908-0	???	908	0	# così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1513.971	_	_	_	_
-908-1	???	908	1	chila	chila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-908-2	???	908	2	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-908-3	???	908	3	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-908-4	???	908	4	tut	tut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1515.368	_	_	_	_
+908-0	???	908	0	# così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1513.971	_	_	_	_
+908-1	???	908	1	chila	chila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+908-2	???	908	2	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+908-3	???	908	3	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+908-4	???	908	4	tut	tut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1515.368	_	_	_	_
 909-0	TOR005	909	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1515.499|End=1516.87	_	_	_	_
 910-0	???	910	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1515.553|End=1517.487	_	_	_	_
 911-0	TOI024	911	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1515.553	_	_	_	_

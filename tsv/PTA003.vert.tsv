@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI002	0	0	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.702	_	_	_	_
 0-1	TOI002	0	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOI002	0	2	anno	anno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6188,7 +6188,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1107-1	TOR001	1107	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(302)
 1107-2	TOR001	1107	2	fatto]?	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1843.065	_	_	_	0-5(302)
 1108-0	TOI003	1108	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1843.156|End=1843.813	_	_	_	_
-1109-0	TOI002	1109	0	# mazze:te	mazzete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1843.813|End=1844.619	4x1	_	_	_
+1109-0	TOI002	1109	0	# mazze:te	mazzete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1843.813|End=1844.619	4x1	_	_	_
 1110-0	TOI003	1110	0	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1844.619	_	_	_	_
 1110-1	TOI003	1110	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1110-2	TOI003	1110	2	con:	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
