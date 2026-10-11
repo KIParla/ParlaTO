@@ -1,5 +1,19 @@
 = Changelog
 
+== v2.0.0 (2026-10-11)
+
+=== What's changed in 2.0.0
+
+* Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
+* Breaking: the `variation` column of the `tsv/` files is now called `code_variation` and is a feature list holding all code_variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
+* Breaking: the unit-initial `# ` / `#_ ` marker is now part of the `span` of the unit's first token, so the original transcription can be rebuilt from the `span` column
+* Breaking: the `unit` column was removed from the `tsv/` files (they now have 20 columns)
+* Normalization: spelling variants of interjections and discourse markers are standardized (e.g. `m` → `mh`, `mhm` and `mmh` → `mhmh`, `he` → `eh`, `va beh` → `vabbè`) and elision typos are corrected (e.g. `dell~` → `dell'`)
+* All files are UTF-8 (no BOM), LF line endings and Unicode NFC; `eaf/` is regenerated from `tsv/` (audio linked by relative path)
+* The 20 columns of the `tsv/` files are now fully documented, and `csv-metadata.json` and the enriched notation reference are updated
+
+link:https://github.com/KIParla/ParlaTO/compare/v1.1.1...v2.0.0[Full Changelog]
+
 == v1.1.1 (2025-11-28)
 
 * Patch fix: intonation annotation values corrected in `jefferson_feats`
