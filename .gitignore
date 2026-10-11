@@ -1,5 +1,16 @@
 *.pfsx
 *.bak
+*.eaf.001
 .DS*
 *.py
 *.zip
+tmp/
+.DS_Store
+
+original/
+.vscode/
+*.xlsx
+
+# Safety copies made by the full-reprocess runs
+.full-reprocess-backup-*/
+eaf.bak-*/

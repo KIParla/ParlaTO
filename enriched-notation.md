@@ -1,0 +1,31 @@
+
+# Transcription System - adopted conventions
+
+| Symbol   | meaning                                | explanation                                                                                                                                         |
+| -------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ,        | weakly rising intonation               | Used at the end of a token to mark the use of weakly rising intonation                                                                              |
+| ?        | rising intonation                      | Used at the end of a token to mark the use of rising intonation                                                                                     |
+| .        | falling intonation                     | Used at the end of a token to mark the use of falling intonation                                                                                    |
+| :        | prolonged sound                        | Indicates a stretched sound, used after the prolonged vowel or consonant. The number of colons reflect the length of the sound prolongation         |
+| =        | prosodically linked tokens             | No gap or pause between two tokens                                                                                                                  |
+| (.)      | short pause                            | Brief interval, usually between 0.08 and 0.2 seconds                                                                                                |
+| TEXT     | higher volume                          | Indicates that words are pronounced louder than surrounding speech                                                                                  |
+| TEX~     | interrupted token                      | A final `~` indicated that the token is cut off, usually indicates a false start                                                                    |
+| °TEXT°   | lower volume                           | Stretches of text surrounded by degree (`°`) signs indicate that the tokens are pronounced quieter than surrounding speech                          |
+| >TEXT<   | faster paced span                      | Stretches of text surrounded by inwards pointing arrows (`>...<`) indicate that the pace of the speech has quickened                                |
+| \<TEXT\> | slower paced span                      | Stretches of text surrounded by outwards pointing arrows (`<...>`) indicate that the pace of the speech has slowed down                             |
+| [TEXT]   | overlapping span                       | Stretches of text surrounded by square brackets indicate overlapping speech                                                                         |
+| (TEXT)   | hard to understand span                | Stretches of text surrounded by round brackets indicate unclear speech                                                                              |
+| xxx      | non-comprehensible sequence            | Used for unintelligible tokens. The number of `x`s roughly correspond to the number of syllables                                                    |
+| ((TEXT)) | non verbal behavior                    | Double parentheses indicate comments and non verbal behaviours such as laughs, sighs etc.                                                           |
+| #word    | code-switching/code-mixing (word)      | Placed immediately before a single token to mark that word as belonging to another language or dialect                                              |
+| #\*word  | doubtful code-switching (word)         | Placed immediately before a single token to mark it as *possibly* non-Italian/dialect, when the transcriber is unsure                                |
+| # (unit-initial) | code-switching, not attributable | Placed at the very start of a transcription unit (`# `, followed by a space) to indicate the unit contains code-switching that cannot be attributed to specific words |
+| #_       | rest of the unit in another language/dialect | Placed as a separate item, followed by a space, to indicate that everything from that point to the end of the transcription unit is in a non-Italian language or dialect. At the very start of a unit (`#_ `) it covers the entire unit. When an overlap bracket opens at the same point, write `#_ [` (not `[#_`)  |
+| $word    | emerging/non-standard form             | Placed immediately before a single token to mark it as a non-standard or emerging spelling — not code-switching, a distinct phenomenon               |
+
+## Rendering of variation markers (`# `, `#word`, `#_`, `#*word`, `$word`) across outputs
+
+- **Linear (enriched and orthographic `.txt`)**: the enriched text keeps every marker exactly as written. The orthographic text rebuilds them from the data: a unit-initial `# ` or `#_ ` once at the start of the unit, a later `#_ ` in front of the first word it covers (`no eh #_ l-ʕars dyāl`, in both formats), and `#word`/`#*word`/`$word` on the individual word. The words covered by a `#_` marker are **not** additionally re-marked with `#`, since the marker already covers them. Pauses, non-verbal behaviors, anonymized names and `xxx` after a `#_` marker are not marked as non-Italian.
+- **HTML**: `# `/`#_`/`#word`/`#*word` (another variety, confirmed or doubtful) share one highlight color in both the enriched and orthographic views. `$word` (a nonce / non-standard form, *not* another variety) gets its own, different color.
+- **NoSketch Engine**: each word has a `variety` attribute — `other` for a `#`-marked word or a word covered by a `#_` marker (its `word` value is also prefixed with `#`, so `#_` reads exactly like an explicit per-word `#` once compiled), `unassignable` for `#*` (its `word` value prefixed with `#*`), `unsure` for the words of a `# ` unit — and a separate `nonce="yes"` attribute (and a `$`-prefixed `word` value) for `$` words, kept apart from `variety` since it's a different phenomenon. The whole `transcription_unit` gets `contains_variation="yes"` when any of its words has a `variety` (`$` alone never sets it).
