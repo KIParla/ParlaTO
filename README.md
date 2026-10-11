@@ -159,7 +159,7 @@ If you use the ParlaBO module in your research, please also reference this repos
   * Major fix: wrong speaker attribution in linear-enriched and linear-orthographic
   * Minor fix: empty turns in linear-orthographic were removed
 
-* YYYY-MM-DD v2.0.0
+* 2026-10-11 v2.0.0
   * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
   * Breaking: the `variation` column of the `tsv/` files is now called `code_variation` and is a feature list holding all code_variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
   * Breaking: the unit-initial `# ` / `#_ ` marker is now part of the `span` of the unit's first token, so the original transcription can be rebuilt from the `span` column
