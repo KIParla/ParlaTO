@@ -1,0 +1,5 @@
+name: ParlaTO
+title: ParlaTO
+version: 'dev'
+nav:
+  - modules/ROOT/nav.adoc

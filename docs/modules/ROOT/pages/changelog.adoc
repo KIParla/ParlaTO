@@ -1,0 +1,14 @@
+= Changelog
+
+== v1.1.1 (2025-11-28)
+
+* Patch fix: intonation annotation values corrected in `jefferson_feats`
+
+== v1.1.0 (2025-11-28)
+
+* Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
+* Minor fix: empty turns in linear-orthographic were removed
+
+== v1.0.0 (2025-10-07)
+
+* First release
