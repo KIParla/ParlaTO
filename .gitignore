@@ -10,3 +10,7 @@ tmp/
 original/
 .vscode/
 *.xlsx
+
+# Safety copies made by the full-reprocess runs
+.full-reprocess-backup-*/
+eaf.bak-*/
