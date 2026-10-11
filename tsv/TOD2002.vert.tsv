@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO081	0	0	quindi:,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=0.395|End=1.316	5x1	_	_	_
 1-0	TO999	1	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1.4|End=1.783	_	_	_	_
 2-0	TO081	2	0	n~	n~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2.41	_	_	_	_
@@ -1649,8 +1649,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 196-5	TO081	196	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 196-6	TO081	196	6	campo	campo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 196-7	TO081	196	7	però::,	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=530.158	3x2	_	_	_
-197-0	TO081	197	0	°xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=2	Begin=530.575	_	_	_	_
-197-1	TO081	197	1	xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=2	_	_	_	_	_
+197-0	TO081	197	0	°xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	Begin=530.575	_	_	_	_
+197-1	TO081	197	1	xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	_	_	_	_	_
 197-2	TO081	197	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 197-3	TO081	197	3	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 197-4	TO081	197	4	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2843,8 +2843,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-10	TO081	383	10	appoggio	appoggio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 383-11	TO081	383	11	compagni	compagni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 383-12	TO081	383	12	vari,	vari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=911.01	_	_	_	_
-384-0	TO081	384	0	°(insomma),	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=911.066	_	_	0-7(0)	_
-384-1	TO081	384	1	quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=912.0	_	_	_	_
+384-0	TO081	384	0	°(insomma),	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=911.066	_	_	0-7(0)	_
+384-1	TO081	384	1	quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=912.0	_	_	_	_
 385-0	TO999	385	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=912.541	_	_	_	_
 385-1	TO999	385	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 385-2	TO999	385	2	arrangia	arrangia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3035,7 +3035,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 416-0	TO081	416	0	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=974.256	_	_	_	_
 416-1	TO081	416	1	io.	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=974.678	_	_	_	_
 417-0	TO081	417	0	infatti:,	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=975.166|End=975.82	6x1	_	_	_
-418-0	TO081	418	0	°vabbè.°	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=976.351|End=976.813	_	_	_	_
+418-0	TO081	418	0	°vabbè.°	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=976.351|End=976.813	_	_	_	_
 419-0	TO081	419	0	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=6	Begin=977.141	_	_	_	_
 419-1	TO081	419	1	(gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 419-2	TO081	419	2	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-5(0)	_

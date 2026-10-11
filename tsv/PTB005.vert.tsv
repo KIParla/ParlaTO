@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR004	0	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.93	_	_	_	_
 0-1	TOR004	0	1	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR004	0	2	cominciare	cominciare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.858	_	_	_	_
@@ -111,7 +111,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 22-2	TOI019	22	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 22-3	TOI019	22	3	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 22-4	TOI019	22	4	l~)	l~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=46.415	_	_	0-2(0)	_
-23-0	TOI019	23	0	GUARDO	guardo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=46.956	_	_	_	_
+23-0	TOI019	23	0	GUARDO	guardo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=46.956	_	_	_	_
 23-1	TOI019	23	1	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 23-2	TOI019	23	2	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=47.956	_	_	_	_
 24-0	TOI019	24	0	# ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=48.649	_	_	_	_

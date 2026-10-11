@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=0.02	_	_	_	_
 0-1	TOR001	0	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR001	0	2	coso	coso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.13	_	_	_	_
@@ -688,9 +688,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-0	TOI048	112	0	[in]	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=242.794	_	_	_	0-2(23)
 112-1	TOI048	112	1	generale,	generale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=244.0	_	_	_	_
 113-0	TOI048	113	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=244.212|End=244.914	0x1	_	_	_
-114-0	TOI048	114	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=246.189	_	_	_	_
-114-1	TOI048	114	1	esco	esco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-114-2	TOI048	114	2	più°	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=247.116	_	_	_	_
+114-0	TOI048	114	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=246.189	_	_	_	_
+114-1	TOI048	114	1	esco	esco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+114-2	TOI048	114	2	più°	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=247.116	_	_	_	_
 115-0	TOI048	115	0	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=248.981	_	_	_	_
 115-1	TOI048	115	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 115-2	TOI048	115	2	zone	zone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3340,8 +3340,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 601-3	TOI048	601	3	parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 601-4	TOI048	601	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 601-5	TOI048	601	5	piemontese	piemontese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1102.307	_	_	_	_
-602-0	TOR001	602	0	[°si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1100.787	_	_	_	0-2(173)
-602-1	TOR001	602	1	si°]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1101.212	_	_	_	0-2(173)
+602-0	TOR001	602	0	[°si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1100.787	_	_	_	0-2(173)
+602-1	TOR001	602	1	si°]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1101.212	_	_	_	0-2(173)
 603-0	TOR001	603	0	[tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1102.303	_	_	_	0-5(175)
 603-1	TOR001	603	1	bellissimo]	bellissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1103.015	_	_	_	0-10(175)
 604-0	TOI048	604	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1102.346	_	_	_	0-2(175)

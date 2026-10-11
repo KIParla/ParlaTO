@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR010	0	0	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.79	_	_	_	_
 0-1	TOR010	0	1	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR010	0	2	registrando	registrando	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -76,7 +76,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3-28	TOI112	3	28	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3-29	TOI112	3	29	piccole	piccole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3-30	TOI112	3	30	realtà	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=35.45	_	_	_	_
-4-0	TOR010	4	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=36.469|End=36.554	_	_	_	_
+4-0	TOR010	4	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=36.469|End=36.554	_	_	_	_
 5-0	TOR010	5	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=38.31	0x1	_	_	_
 5-1	TOR010	5	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 5-2	TOR010	5	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -395,7 +395,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 18-9	TOI112	18	9	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 18-10	TOI112	18	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 18-11	TOI112	18	11	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=179.313	2x1	_	_	_
-19-0	TOR010	19	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=181.69|End=181.91	_	_	_	_
+19-0	TOR010	19	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=181.69|End=181.91	_	_	_	_
 20-0	TOR010	20	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=183.005	0x1	_	_	_
 20-1	TOR010	20	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 20-2	TOR010	20	2	ricordi	ricordi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO071	0	0	>allora<	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.717	_	Fast=0-6(0)	_	_
 0-1	TO071	0	1	daniela	daniela	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO071	0	2	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -763,8 +763,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-8	TO080	119	8	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-9	TO080	119	9	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-10	TO080	119	10	piaceva,	piaceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=267.115	_	_	_	_
-120-0	TO071	120	0	>°ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=267.115	_	Fast=0-2(0)	_	_
-120-1	TO071	120	1	piaceva°<	piaceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=267.544	_	Fast=0-7(0)	_	_
+120-0	TO071	120	0	>°ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=267.115	_	Fast=0-2(0)	_	_
+120-1	TO071	120	1	piaceva°<	piaceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=267.544	_	Fast=0-7(0)	_	_
 121-0	TO080	121	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=267.578|End=268.195	0x2	_	_	_
 122-0	TO071	122	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=268.195	_	_	_	_
 122-1	TO071	122	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2090,7 +2090,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 409-0	TO071	409	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=751.701|End=752.026	0x2	_	_	_
 410-0	TO071	410	0	mettendole	mettendole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=752.497	_	_	_	_
 410-1	TO071	410	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-410-2	TO071	410	2	cioèÁ	cioèá	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+410-2	TO071	410	2	cioèÁ	cioèá	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 410-3	TO071	410	3	immagino	immagino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 410-4	TO071	410	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 410-5	TO071	410	5	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2225,8 +2225,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 428-7	TO080	428	7	questione	questione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 428-8	TO080	428	8	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 428-9	TO080	428	9	muoversi,	muoversi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=805.596	_	_	_	_
-429-0	TO071	429	0	[°forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=802.988	_	_	_	0-5(66)
-429-1	TO071	429	1	torino°]	torino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=803.535	_	_	_	0-6(66)
+429-0	TO071	429	0	[°forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=802.988	_	_	_	0-5(66)
+429-1	TO071	429	1	torino°]	torino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=803.535	_	_	_	0-6(66)
 430-0	TO071	430	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=805.703	_	_	_	_
 430-1	TO071	430	1	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=806.423	_	_	_	0-4(67)
 431-0	TO080	431	0	[del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=806.095	_	_	_	0-3(67)
@@ -3165,7 +3165,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 613-6	TO071	613	6	tuo	tuo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 613-7	TO071	613	7	piacimento	piacimento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 613-8	TO071	613	8	e::h,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1138.467	0x2	_	_	_
-614-0	TO071	614	0	°(insomma)°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1139.132|End=1139.502	_	_	0-7(0)	_
+614-0	TO071	614	0	°(insomma)°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1139.132|End=1139.502	_	_	0-7(0)	_
 615-0	TO071	615	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1139.765|End=1140.04	_	_	_	_
 616-0	TO071	616	0	assoluta	assoluta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1140.456	_	_	_	_
 616-1	TO071	616	1	ruota	ruota	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4011,7 +4011,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 778-0	TO080	778	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1462.345	_	_	_	0-1(124)
 778-1	TO080	778	1	vecchiotto]	vecchiotto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1462.919	_	_	_	0-10(124)
 779-0	TO080	779	0	marley	marley	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1463.022|End=1463.647	_	_	_	_
-780-0	TO071	780	0	MA~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=high	Begin=1463.867	_	_	_	_
+780-0	TO071	780	0	MA~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=High	Begin=1463.867	_	_	_	_
 780-1	TO071	780	1	marley?	marley	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1465.0	_	_	_	_
 781-0	TO080	781	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1465.071|End=1465.554	_	_	_	_
 782-0	TO071	782	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1465.632	_	_	_	_

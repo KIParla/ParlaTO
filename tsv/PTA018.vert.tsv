@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR006	0	0	ciao,	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1.26	_	_	_	_
 0-1	TOR006	0	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR006	0	2	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3129,8 +3129,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 658-1	TOI031	658	1	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 658-2	TOI031	658	2	vista	vista	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 658-3	TOI031	658	3	insomma.	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1295.517	_	_	_	_
-659-0	TOR006	659	0	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1295.586	_	_	_	_
-659-1	TOR006	659	1	capito°.	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	_	_	_	_	_
+659-0	TOR006	659	0	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1295.586	_	_	_	_
+659-1	TOR006	659	1	capito°.	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	_	_	_	_	_
 659-2	TOR006	659	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 659-3	TOR006	659	3	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 659-4	TOR006	659	4	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5052,7 +5052,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1019-0	TOI031	1019	0	no,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1993.237	_	_	_	_
 1019-1	TOI031	1019	1	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1019-2	TOI031	1019	2	niente.	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1994.366	_	_	_	_
-1020-0	TOR006	1020	0	NO,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	Begin=1994.445|End=1994.796	_	_	_	_
+1020-0	TOR006	1020	0	NO,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	Begin=1994.445|End=1994.796	_	_	_	_
 1021-0	TOI031	1021	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1995.145	_	_	_	_
 1021-1	TOI031	1021	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1021-2	TOI031	1021	2	senso?	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1995.847	_	_	_	_
@@ -5893,7 +5893,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1206-1	TOR006	1206	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1206-2	TOR006	1206	2	fondamentalissimo.	fondamentalissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2359.044	_	_	_	_
 1207-0	TOR006	1207	0	vabbè,	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2365.73|End=2366.31	_	_	_	_
-1208-0	TOR006	1208	0	MA:::,	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	Begin=2366.693	1x3	_	_	_
+1208-0	TOR006	1208	0	MA:::,	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	Begin=2366.693	1x3	_	_	_
 1208-1	TOR006	1208	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1208-2	TOR006	1208	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1208-3	TOR006	1208	3	discoteche	discoteche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8259,10 +8259,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1666-4	TOI031	1666	4	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1666-5	TOI031	1666	5	[comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(166)
 1666-6	TOI031	1666	6	c(io)è]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	End=3384.495	_	_	_	0-4(166)
-1667-0	TOR006	1667	0	[MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=3383.591	_	_	_	0-2(166)
-1667-1	TOR006	1667	1	Sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(166)
-1667-2	TOR006	1667	2	CHE]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-3(166)
-1667-3	TOR006	1667	3	PUOI,	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=3384.798	_	_	_	_
+1667-0	TOR006	1667	0	[MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=3383.591	_	_	_	0-2(166)
+1667-1	TOR006	1667	1	Sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(166)
+1667-2	TOR006	1667	2	CHE]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-3(166)
+1667-3	TOR006	1667	3	PUOI,	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=3384.798	_	_	_	_
 1668-0	TOI031	1668	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3385.929	_	_	_	_
 1668-1	TOI031	1668	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1668-2	TOI031	1668	2	cono~	cono~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_

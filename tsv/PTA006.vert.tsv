@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	o:kay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.041|End=1.4	0x1	_	_	_
 1-0	TOR001	1	0	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.5	_	_	_	_
 1-1	TOR001	1	1	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.533	_	_	_	_
@@ -296,10 +296,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 79-1	TOR001	79	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 79-2	TOR001	79	2	dici	dici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 79-3	TOR001	79	3	gratificante?	gratificante	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	_	_	_	_
-79-4	TOR001	79	4	[>°cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-4(0)	_	0-4(11)
-79-5	TOR001	79	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-2(0)	_	0-2(11)
-79-6	TOR001	79	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-3(0)	_	0-3(11)
-79-7	TOR001	79	7	senso°<]	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=131.379	_	Fast=0-5(0)	_	0-5(11)
+79-4	TOR001	79	4	[>°cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-4(0)	_	0-4(11)
+79-5	TOR001	79	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-2(0)	_	0-2(11)
+79-6	TOR001	79	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-3(0)	_	0-3(11)
+79-7	TOR001	79	7	senso°<]	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=131.379	_	Fast=0-5(0)	_	0-5(11)
 80-0	TOI006	80	0	[perché::]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=130.925	5x2	_	_	0-6(11)
 80-1	TOI006	80	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 80-2	TOI006	80	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9978,9 +9978,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1425-1	TOI006	1425	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1425-2	TOI006	1425	2	jazz	jazz	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1425-3	TOI006	1425	3	club	club	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3363.502	_	_	_	_
-1426-0	TOR002	1426	0	°i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3363.874	_	_	_	_
-1426-1	TOR002	1426	1	jazz	jazz	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1426-2	TOR002	1426	2	club°	club	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+1426-0	TOR002	1426	0	°i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3363.874	_	_	_	_
+1426-1	TOR002	1426	1	jazz	jazz	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1426-2	TOR002	1426	2	club°	club	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 1426-3	TOR002	1426	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=3364.353	_	_	_	_
 1427-0	TOR001	1427	0	tipo?	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=3365.812|End=3366.194	_	_	_	_
 1428-0	TOI006	1428	0	tipo::	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3366.722	3x2	_	_	_

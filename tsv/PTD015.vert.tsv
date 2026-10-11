@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Syllables=3	Begin=0.19	_	_	_	_
 0-1	TOR001	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR001	0	2	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.4	_	_	_	_
@@ -1725,7 +1725,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 277-5	TOI074	277	5	[eri	eri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(92)
 277-6	TOI074	277	6	lì]?	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=558.2	_	_	_	0-2(92)
 278-0	TOI073	278	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=556.496|End=556.793	_	_	_	0-2(93)
-279-0	TOR001	279	0	[°davvero°]?	davvero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	Begin=556.8|End=557.206	_	_	_	0-7(94)
+279-0	TOR001	279	0	[°davvero°]?	davvero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=556.8|End=557.206	_	_	_	0-7(94)
 280-0	TOI073	280	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=557.703	_	_	_	0-2(95)
 280-1	TOI073	280	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-2(95)
 280-2	TOI073	280	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

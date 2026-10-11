@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI017	0	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.01	_	_	_	_
 0-1	TOI017	0	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOI017	0	2	chiamo	chiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9024,7 +9024,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1199-2	TOI017	1199	2	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1199-3	TOI017	1199	3	ruote	ruote	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3518.07	_	_	_	_
 1200-0	TOR004	1200	0	due?	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=3518.07|End=3518.696	_	_	_	_
-1201-0	TOR004	1201	0	°mi::~°	mi~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	Begin=3519.256|End=3519.752	1x2	_	_	_
+1201-0	TOR004	1201	0	°mi::~°	mi~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	Begin=3519.256|End=3519.752	1x2	_	_	_
 1202-0	TOI017	1202	0	una,	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=3519.716	_	_	_	_
 1202-1	TOI017	1202	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1202-2	TOI017	1202	2	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

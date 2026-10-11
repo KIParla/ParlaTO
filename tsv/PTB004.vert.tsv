@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR004	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.59	_	_	_	_
 0-1	TOR004	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR004	0	2	pronti	pronti	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -3425,7 +3425,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-0	TOI019	533	0	a:desso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1232.287	0x1	_	_	_
 533-1	TOI019	533	1	(co~)	co~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	0-3(0)	_
 533-2	TOI019	533	2	li,	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1233.228	_	_	_	_
-534-0	TOI019	534	0	PAGANO	pagano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1233.567	_	_	_	_
+534-0	TOI019	534	0	PAGANO	pagano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1233.567	_	_	_	_
 534-1	TOI019	534	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 534-2	TOI019	534	2	farseli	farseli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 534-3	TOI019	534	3	strappare.	strappare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1235.677	_	_	_	_
@@ -3864,7 +3864,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 610-5	TOI019	610	5	quattordici	quattordici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 610-6	TOI019	610	6	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1399.948	_	_	_	_
 611-0	TOR004	611	0	mhmh.	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1400.143|End=1400.448	_	_	_	_
-612-0	TOI019	612	0	°ecco°.	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=1400.808|End=1401.08	_	_	_	_
+612-0	TOI019	612	0	°ecco°.	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=1400.808|End=1401.08	_	_	_	_
 613-0	TOI019	613	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1401.742	_	_	_	_
 613-1	TOI019	613	1	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 613-2	TOI019	613	2	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(84)
@@ -5371,7 +5371,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 814-9	TOI019	814	9	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 814-10	TOI019	814	10	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 814-11	TOI019	814	11	ero,	ero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1930.058	_	_	_	_
-815-0	TOI019	815	0	°avevo°	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1930.801|End=1931.544	_	_	_	_
+815-0	TOI019	815	0	°avevo°	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1930.801|End=1931.544	_	_	_	_
 816-0	TOI019	816	0	dieci	dieci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1932.11	_	_	_	_
 816-1	TOI019	816	1	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 816-2	TOI019	816	2	magari,	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1933.178	_	_	_	_
@@ -5778,7 +5778,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 870-1	TOR004	870	1	fa]tto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(128)
 870-2	TOR004	870	2	carriera	carriera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 870-3	TOR004	870	3	insomma.	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2070.801	_	_	_	_
-871-0	TOI019	871	0	[(°eh°)],	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=2069.447|End=2069.713	_	_	0-2(0)	0-2(128)
+871-0	TOI019	871	0	[(°eh°)],	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=2069.447|End=2069.713	_	_	0-2(0)	0-2(128)
 872-0	TOI019	872	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2071.101	_	_	_	_
 872-1	TOI019	872	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 872-2	TOI019	872	2	(però)	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-4(0)	_
@@ -5786,7 +5786,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 872-4	TOI019	872	4	avevano	avevano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 872-5	TOI019	872	5	figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 872-6	TOI019	872	6	(quindi)	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(1)	_
-872-7	TOI019	872	7	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	_	_	_	_	_
+872-7	TOI019	872	7	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	_	_	_	_	_
 872-8	TOI019	872	8	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 872-9	TOI019	872	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 872-10	TOI019	872	10	moglie	moglie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5949,10 +5949,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 898-1	TOI019	898	1	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 898-2	TOI019	898	2	i,	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2139.042	_	_	_	_
 899-0	TOI019	899	0	piccoli:,	piccoli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2140.313|End=2140.955	6x1	_	_	_
-900-0	TOI019	900	0	°aspetta	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2141.338	_	_	_	_
-900-1	TOI019	900	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-900-2	TOI019	900	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-900-3	TOI019	900	3	chia[(mavano)]°?	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=2142.478	_	_	4-10(0)	4-10(132)
+900-0	TOI019	900	0	°aspetta	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2141.338	_	_	_	_
+900-1	TOI019	900	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+900-2	TOI019	900	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+900-3	TOI019	900	3	chia[(mavano)]°?	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=2142.478	_	_	4-10(0)	4-10(132)
 901-0	TOR004	901	0	[i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2142.0	_	_	_	0-1(132)
 901-1	TOR004	901	1	giovani]	giovani	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(132)
 901-2	TOR004	901	2	italiani	italiani	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6538,10 +6538,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 986-3	TOI019	986	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 986-4	TOI019	986	4	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 986-5	TOI019	986	5	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-986-6	TOI019	986	6	°e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-986-7	TOI019	986	7	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-986-8	TOI019	986	8	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-986-9	TOI019	986	9	vedere°.	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=2351.007	_	_	_	_
+986-6	TOI019	986	6	°e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+986-7	TOI019	986	7	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+986-8	TOI019	986	8	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+986-9	TOI019	986	9	vedere°.	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=2351.007	_	_	_	_
 987-0	TOR004	987	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2351.378|End=2351.79	_	_	_	_
 988-0	TOI019	988	0	(come)	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2352.926	_	_	0-4(0)	_
 988-1	TOI019	988	1	corpetto	corpetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6565,7 +6565,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 990-1	TOI019	990	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(151)
 990-2	TOI019	990	2	s]toppa	stoppa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(151)
 990-3	TOI019	990	3	pesante,	pesante	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2360.558	_	_	_	_
-991-0	TOR004	991	0	[°mhmh°],	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=2359.117|End=2359.485	_	_	_	0-4(151)
+991-0	TOR004	991	0	[°mhmh°],	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=2359.117|End=2359.485	_	_	_	0-4(151)
 992-0	TOI019	992	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2360.941	_	_	_	_
 992-1	TOI019	992	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 992-2	TOI019	992	2	gonne	gonne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6840,9 +6840,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1041-6	TOI019	1041	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1041-7	TOI019	1041	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1041-8	TOI019	1041	8	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1041-9	TOI019	1041	9	°ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1041-10	TOI019	1041	10	(siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-5(0)	_
-1041-11	TOI019	1041	11	fermati)°.	fermati	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=2464.061	_	_	0-7(0)	_
+1041-9	TOI019	1041	9	°ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1041-10	TOI019	1041	10	(siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-5(0)	_
+1041-11	TOI019	1041	11	fermati)°.	fermati	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=2464.061	_	_	0-7(0)	_
 1042-0	TOR004	1042	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2464.457	_	_	_	_
 1042-1	TOR004	1042	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1042-2	TOR004	1042	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

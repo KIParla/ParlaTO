@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOI066	0	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	TOI066	0	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOI066	0	2	registri	registri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=0.852	_	_	_	_
@@ -2502,8 +2502,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 723-1	TOR009	723	1	lasci	lasci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 723-2	TOR009	723	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 723-3	TOR009	723	3	la[sci]	lasci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=927.4	_	_	_	2-5(137)
-724-0	???	724	0	[°sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=927.106	_	_	_	0-3(?)
-724-1	???	724	1	registrando?°]	registrando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=927.907	_	_	_	0-11(?)
+724-0	???	724	0	[°sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=927.106	_	_	_	0-3(?)
+724-1	???	724	1	registrando?°]	registrando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=927.907	_	_	_	0-11(?)
 725-0	TOR009	725	0	[ci]	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=927.5	_	_	_	0-2(194)
 725-1	TOR009	725	1	mancherebbe	mancherebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=928.2	_	_	_	_
 726-0	TOI066	726	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=927.807	_	_	_	0-2(194)

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR004	0	0	registra	registra	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.938	_	_	_	_
 0-1	TOR004	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TOR004	0	2	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -107,7 +107,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 41-0	TOI054	41	0	[di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=53.734	_	_	_	0-2(9)
 41-1	TOI054	41	1	marta]	marta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=54.255	_	_	_	0-5(9)
 42-0	TOI054	42	0	[ver]di	verdi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=54.616|End=55.116	_	_	_	0-3(10)
-43-0	TOR004	43	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=54.633|End=55.009	_	_	_	0-4(10)
+43-0	TOR004	43	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=54.633|End=55.009	_	_	_	0-4(10)
 44-0	TOR004	44	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=55.456	_	_	_	_
 44-1	TOR004	44	1	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-2	TOR004	44	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1088,7 +1088,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 218-3	TOR004	218	3	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 218-4	TOR004	218	4	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 218-5	TOR004	218	5	proprio?	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=374.514	_	_	_	_
-219-0	TOI054	219	0	°si°	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=375.201|End=375.609	_	_	_	_
+219-0	TOI054	219	0	°si°	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=375.201|End=375.609	_	_	_	_
 220-0	TOR004	220	0	[xxxx]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=375.94|End=376.481	_	_	_	0-4(71)
 221-0	TOI054	221	0	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=375.961	_	_	_	0-6(71)
 221-1	TOI054	221	1	poi]	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(71)
@@ -1814,7 +1814,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 336-3	TOR004	336	3	parlavano	parlavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 336-4	TOR004	336	4	dialetto	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 336-5	TOR004	336	5	in[somma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	2-7(87)
-336-6	TOR004	336	6	°eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=623.212	_	_	_	0-2(87)
+336-6	TOR004	336	6	°eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=623.212	_	_	_	0-2(87)
 337-0	TOI054	337	0	[dialetto]	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=622.692	_	_	_	0-8(87)
 337-1	TOI054	337	1	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 337-2	TOI054	337	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2366,7 +2366,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 434-4	TOR004	434	4	andata	andata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 434-5	TOR004	434	5	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 434-6	TOR004	434	6	università?	università	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=796.705	_	_	_	_
-435-0	TOI054	435	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=796.919|End=797.287	_	_	_	_
+435-0	TOI054	435	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=796.919|End=797.287	_	_	_	_
 436-0	TOI054	436	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=797.69|End=797.914	_	_	_	_
 437-0	TOI054	437	0	scherzando	scherzando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=798.409	_	_	_	_
 437-1	TOI054	437	1	andavo	andavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=799.306	_	_	_	_
@@ -2798,7 +2798,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 515-0	TOI054	515	0	[ami]che	amiche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=930.541	_	_	_	0-3(1)
 515-1	TOI054	515	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 515-2	TOI054	515	2	amici	amici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=931.401	_	_	_	_
-516-0	TOI054	516	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=931.451|End=931.621	_	_	_	_
+516-0	TOI054	516	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=931.451|End=931.621	_	_	_	_
 517-0	TOR004	517	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=931.631|End=931.781	_	_	_	_
 518-0	TOR004	518	0	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=932.691|End=933.341	5x1	_	_	_
 519-0	TOR004	519	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=933.561	_	_	_	_
@@ -3021,8 +3021,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 560-7	TOI054	560	7	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 560-8	TOI054	560	8	trovi	trovi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 560-9	TOI054	560	9	[no]?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1005.97	_	_	_	0-2(12)
-561-0	TOR004	561	0	°[si]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1005.73	_	_	_	0-2(12)
-561-1	TOR004	561	1	infatti°	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1006.35	_	_	_	_
+561-0	TOR004	561	0	°[si]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1005.73	_	_	_	0-2(12)
+561-1	TOR004	561	1	infatti°	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1006.35	_	_	_	_
 562-0	TOI054	562	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1006.37	_	_	_	_
 562-1	TOI054	562	1	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 562-2	TOI054	562	2	momento	momento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1006.95	_	_	_	_
@@ -3281,7 +3281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 612-9	TOR004	612	9	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 612-10	TOR004	612	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 612-11	TOR004	612	11	pasticcio?	pasticcio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1088.433	_	_	_	_
-613-0	TOI054	613	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1087.406|End=1087.6	_	_	_	0-2(30)
+613-0	TOI054	613	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1087.406|End=1087.6	_	_	_	0-2(30)
 614-0	TOI054	614	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1088.825	_	_	_	_
 614-1	TOI054	614	1	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 614-2	TOI054	614	2	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3436,7 +3436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 629-14	TOR004	629	14	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 629-15	TOR004	629	15	[coltello	coltello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(34)
 629-16	TOR004	629	16	nello	nello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(34)
-629-17	TOR004	629	17	°zaino°]	zaino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1132.178	_	_	_	0-5(34)
+629-17	TOR004	629	17	°zaino°]	zaino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1132.178	_	_	_	0-5(34)
 630-0	TOI054	630	0	[no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1131.013	1x1	_	_	0-2(34)
 630-1	TOI054	630	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(34)
 630-2	TOI054	630	2	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(34)
@@ -3878,9 +3878,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 721-4	TOR004	721	4	siete	siete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 721-5	TOR004	721	5	finiti	finiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 721-6	TOR004	721	6	là?	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1273.549	_	_	_	_
-722-0	TOI054	722	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1273.857	_	_	_	_
-722-1	TOI054	722	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-722-2	TOI054	722	2	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1274.218	_	_	_	_
+722-0	TOI054	722	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1273.857	_	_	_	_
+722-1	TOI054	722	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+722-2	TOI054	722	2	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1274.218	_	_	_	_
 723-0	TOI054	723	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1274.695	_	_	_	_
 723-1	TOI054	723	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 723-2	TOI054	723	2	superstrada	superstrada	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4097,7 +4097,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 766-4	TOR004	766	4	finito	finito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 766-5	TOR004	766	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 766-6	TOR004	766	6	realtà	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1341.36	_	_	_	_
-767-0	TOR004	767	0	°quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1341.439|End=1342.035	_	_	_	_
+767-0	TOR004	767	0	°quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1341.439|End=1342.035	_	_	_	_
 768-0	TOR004	768	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1342.18|End=1342.636	_	_	_	_
 769-0	TOI054	769	0	prego	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1342.81	_	_	_	_
 769-1	TOI054	769	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

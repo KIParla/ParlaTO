@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR001	0	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	TOR001	0	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=0.61	_	_	_	_
 1-0	TOR001	1	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.25	_	_	_	_
@@ -311,7 +311,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 84-1	TOI065	84	1	di:::	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x3	_	_	_
 84-2	TOI065	84	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 84-3	TOI065	84	3	classe	classe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=107.186	_	_	_	_
-85-0	TOI065	85	0	DUE	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=107.317	_	_	_	_
+85-0	TOI065	85	0	DUE	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=107.317	_	_	_	_
 85-1	TOI065	85	1	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 85-2	TOI065	85	2	piemontesi	piemontesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=108.603	_	_	_	_
 86-0	TOI065	86	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=108.635	_	_	_	_
@@ -387,7 +387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 97-0	TOI065	97	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=126.327	0x1	_	_	_
 97-1	TOI065	97	1	su:	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 97-2	TOI065	97	2	corso	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-97-3	TOI065	97	3	TASSONI,	tassoni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=128.345	_	_	_	_
+97-3	TOI065	97	3	TASSONI,	tassoni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=128.345	_	_	_	_
 98-0	TOR001	98	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=128.345	_	_	_	_
 98-1	TOR001	98	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=128.842	_	_	_	_
 99-0	TOI065	99	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=128.931|End=129.338	_	_	_	_
@@ -3739,16 +3739,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 816-8	TOI064	816	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 816-9	TOI064	816	9	basso	basso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 816-10	TOI064	816	10	costo	costo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1128.409	_	_	_	_
-817-0	TOI064	817	0	°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1128.743	_	_	_	_
-817-1	TOI064	817	1	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-817-2	TOI064	817	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-817-3	TOI064	817	3	basso	basso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-817-4	TOI064	817	4	[costo]°	costo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1129.971	_	_	_	0-5(230)
+817-0	TOI064	817	0	°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1128.743	_	_	_	_
+817-1	TOI064	817	1	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+817-2	TOI064	817	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+817-3	TOI064	817	3	basso	basso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+817-4	TOI064	817	4	[costo]°	costo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1129.971	_	_	_	0-5(230)
 818-0	TOR001	818	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1129.577|End=1129.924	_	_	_	0-2(230)
 819-0	TOI065	819	0	interessate.	interessate	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1130.037|End=1130.817	_	_	_	_
 820-0	TOI064	820	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1131.096|End=1131.208	_	_	_	_
 821-0	TOR001	821	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1131.208|End=1132.486	_	_	_	_
-822-0	TOI065	822	0	NECESSITATE.	necessitate	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=1131.218|End=1132.243	_	_	_	_
+822-0	TOI065	822	0	NECESSITATE.	necessitate	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=1131.218|End=1132.243	_	_	_	_
 823-0	TOI065	823	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1132.289|End=1132.959	_	_	_	_
 824-0	TOI065	824	0	ad	ad	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1133.082	_	_	_	_
 824-1	TOI065	824	1	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5359,7 +5359,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1145-0	TOI064	1145	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1577.88	_	_	_	_
 1145-1	TOI064	1145	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1578.38	_	_	_	_
 1146-0	TOI065	1146	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1578.475|End=1578.86	_	_	_	_
-1147-0	TOI065	1147	0	PARTE,	parte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	Begin=1579.322|End=1579.915	_	_	_	_
+1147-0	TOI065	1147	0	PARTE,	parte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	Begin=1579.322|End=1579.915	_	_	_	_
 1148-0	TOI065	1148	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1580.293	_	_	_	_
 1148-1	TOI065	1148	1	corso	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1148-2	TOI065	1148	2	tassoni.	tassoni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1581.308	_	_	_	_
@@ -7687,7 +7687,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1662-3	TOI065	1662	3	siam	siam	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 1662-4	TOI065	1662	4	trasferiti<	trasferiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-10(0)	_	_
 1662-5	TOI065	1662	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1662-6	TOI065	1662	6	DAVANTI	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=2264.488	_	_	_	_
+1662-6	TOI065	1662	6	DAVANTI	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=2264.488	_	_	_	_
 1663-0	TOR001	1663	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2264.572|End=2265.506	_	_	_	_
 1664-0	TOI065	1664	0	e::::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2265.259	0x4	_	_	_
 1664-1	TOI065	1664	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8273,7 +8273,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1789-4	TOI065	1789	4	corso	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-5(0)	_	_
 1789-5	TOI065	1789	5	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-3(0)	_	_
 1789-6	TOI065	1789	6	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-4(0)	_	_
-1789-7	TOI065	1789	7	PIGOTTE>,	pigotte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=2448.214	_	Slow=0-7(0)	_	_
+1789-7	TOI065	1789	7	PIGOTTE>,	pigotte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=2448.214	_	Slow=0-7(0)	_	_
 1790-0	TOI064	1790	0	[però],	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2445.632|End=2446.07	_	_	_	0-4(480)
 1791-0	TOI065	1791	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2448.302	_	_	_	_
 1791-1	TOI065	1791	1	spieghi,	spieghi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2448.925	_	_	_	_
@@ -8969,7 +8969,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1941-0	TOR001	1941	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=2657.561|End=2658.353	_	_	_	0-3(514)
 1942-0	TOR001	1942	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2658.371|End=2659.867	_	_	_	_
 1943-0	TOI064	1943	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2658.464|End=2659.661	_	_	_	_
-1944-0	TOI064	1944	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	Begin=2661.367|End=2662.346	_	_	_	_
+1944-0	TOI064	1944	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	Begin=2661.367|End=2662.346	_	_	_	_
 1945-0	TOI065	1945	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2661.83|End=2663.239	_	_	_	_
 1946-0	TOR001	1946	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2662.011	_	_	_	_
 1946-1	TOR001	1946	1	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	_	_
@@ -9791,7 +9791,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2104-2	TOI065	2104	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2104-3	TOI065	2104	3	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2104-4	TOI065	2104	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-2104-5	TOI065	2104	5	FARE	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+2104-5	TOI065	2104	5	FARE	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 2104-6	TOI065	2104	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2104-7	TOI065	2104	7	passaggio.	passaggio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 2104-8	TOI065	2104	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2899.788	_	_	_	_

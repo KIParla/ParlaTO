@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TOR004	0	0	allo::ra	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.57|End=1.53	3x2	_	_	_
 1-0	TOI018	1	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.539|End=2.078	_	_	_	_
 2-0	TOR004	2	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.1	_	_	_	_
@@ -5646,9 +5646,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 696-12	TOI018	696	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 696-13	TOI018	696	13	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2110.987	_	_	_	_
 697-0	TOI017	697	0	anna	anna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2110.987|End=2111.593	_	_	_	_
-698-0	TOR004	698	0	°scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2111.593	_	_	_	_
-698-1	TOR004	698	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-698-2	TOR004	698	2	attimo°	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2111.999	_	_	_	_
+698-0	TOR004	698	0	°scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2111.593	_	_	_	_
+698-1	TOR004	698	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+698-2	TOR004	698	2	attimo°	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2111.999	_	_	_	_
 699-0	TOI018	699	0	portava	portava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2111.999	_	_	_	_
 699-1	TOI018	699	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 699-2	TOI018	699	2	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
