@@ -43,8 +43,7 @@ Each participant and each conversation are associated to a series of metadata, t
 Metadata is to be interpreted as follows:
 
 1. Participants metadata:
-	- `code`: unique anonymized 5-char identifier for each participant. Unknown, occasional participants
-	 to conversations are associated with a special `???` code.
+	- `code`: unique anonymized 5-char identifier for each participant. Unidentified or occasional participants are not given an individual code: they are transcribed with a placeholder made only of question marks, which has a row in this table with all other fields set to `_`. Within a conversation, placeholders are assigned in order of first appearance: `??` for the first unidentified speaker (and the only one, in most conversations), then `???`, `????`, and so on. The same placeholder in different conversations does not refer to the same person.
 	- `gender`: either `M` for masculine or `F` for feminine
 	- `age-range`: 5 years range including the participant’s age.
 	- `birth-region`: Italian region[^1] where the participant was born. If outside Italy, the label `estero` is used.
