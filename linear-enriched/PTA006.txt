@@ -626,7 +626,7 @@ TOR001	okay
 TOR001	perché ti piace?
 TOI006	beh all'epoca: quando sono nato era un po' più:: no era tra~, è tranquilla, è ben servita
 TOI006	e poi diciamo che sei fuori dal centro che:::
-TOI006	nel pel~ cioè mh=h
+TOI006	nel pel~ cioè mh=
 TOI006	puoi permetterti diciamo di vivere:
 TOR001	mh mh
 TOI006	a buoni livelli perché sei a due passi dal centro quindi ci puoi andare qua sei comodo ecco sì comodità e:::h

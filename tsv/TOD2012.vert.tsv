@@ -4687,9 +4687,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 681-4	TO056	681	4	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 681-5	TO056	681	5	so~	so~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 681-6	TO056	681	6	sopravvalutare	sopravvalutare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1588.744	_	_	_	_
-682-0	TO056	682	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1589.529	0x2	_	_	_
-682-1	TO056	682	1	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-682-2	TO056	682	2	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1590.857	0x2	_	_	_
+682-0	TO056	682	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=1589.529	0x2	_	_	_
+682-2	TO056	682	1	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1590.857	0x2	_	_	_
 683-0	TO056	683	0	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1591.581	_	_	_	_
 683-1	TO056	683	1	nata	nata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 683-2	TO056	683	2	lì,	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1592.477	_	_	_	_
