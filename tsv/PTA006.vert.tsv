@@ -4631,8 +4631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 628-0	TOI006	628	0	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1596.013	_	_	_	_
 628-1	TOI006	628	1	pel~	pel~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 628-2	TOI006	628	2	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-628-3	TOI006	628	3	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
-628-4	TOI006	628	4	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1597.878	_	_	_	_
+628-3	TOI006	628	3	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	End=1597.878	_	_	_	_
 629-0	TOI006	629	0	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1599.283	_	_	_	_
 629-1	TOI006	629	1	permetterti	permetterti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 629-2	TOI006	629	2	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
