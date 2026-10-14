@@ -4872,7 +4872,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 772-0	TOI069	772	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2243.889|End=2244.307	_	_	_	0-2(207)
 773-0	TOR009	773	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2246.008	_	_	_	_
 773-1	TOR009	773	1	>	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-773-2	TOR009	773	2	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
+773-2	TOR009	773	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	Fast=0-1(0)	_	_
 773-3	TOR009	773	3	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 773-4	TOR009	773	4	faccia<	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2246.905	_	Fast=0-6(0)	_	_
 774-0	TOI069	774	0	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2248.307	_	_	_	_

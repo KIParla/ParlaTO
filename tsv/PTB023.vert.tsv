@@ -5062,7 +5062,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 991-11	TOI113	991	11	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-3(0)	_	_
 991-12	TOI113	991	12	cane.	cane	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	Slow=0-4(0)	_	_
 991-13	TOI113	991	13	>	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-991-14	TOI113	991	14	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Fast=0-1(1)	_	_
+991-14	TOI113	991	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	Fast=0-1(1)	_	_
 991-15	TOI113	991	15	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-7(1)	_	_
 991-16	TOI113	991	16	<sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-3(1)	_	_
 991-17	TOI113	991	17	casa.	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	_	_	Slow=0-4(1)	_	_

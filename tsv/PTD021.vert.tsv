@@ -6100,7 +6100,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1015-8	TOI012	1015	8	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 1015-9	TOI012	1015	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 1015-10	TOI012	1015	10	°	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-1015-11	TOI012	1015	11	((P))	((P))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
+1015-11	TOI012	1015	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1015-12	TOI012	1015	12	son~	son~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 1015-13	TOI012	1015	13	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1015-14	TOI012	1015	14	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
