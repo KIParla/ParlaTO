@@ -123,8 +123,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 24-20	TOI078	24	20	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-21	TOI078	24	21	corso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-22	TOI078	24	22	giulio	giulio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-24-23	TOI078	24	23	ce[sare	cesare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(14)
-24-24	TOI078	24	24	qui]ndi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(14)
+24-23	TOI078	24	23	ce[sare	cesare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(14)
+24-24	TOI078	24	24	qui]ndi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(14)
 24-25	TOI078	24	25	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-26	TOI078	24	26	che	che	_	_	_	_	_	linguistic	_	_	_	End=55.322	_	_	_	_
 25-0	TOR001	25	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=49.837|End=50.363	_	_	_	_
@@ -1086,11 +1086,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 171-26	TOI078	171	26	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-27	TOI078	171	27	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-28	TOI078	171	28	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-171-29	TOI078	171	29	bello	bello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(71)
+171-29	TOI078	171	29	bello	bello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-30	TOI078	171	30	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(71)
 171-31	TOI078	171	31	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(71)
 171-32	TOI078	171	32	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(71)
-171-33	TOI078	171	33	z]one	zone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+171-33	TOI078	171	33	z]one	zone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(71)
 171-34	TOI078	171	34	veramente	veramente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-35	TOI078	171	35	bellissime	bellissime	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-36	TOI078	171	36	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2780,7 +2780,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 414-4	TOI078	414	4	impressione	impressione	_	_	_	_	_	linguistic	_	_	_	End=863.739	_	_	_	_
 415-0	TOR001	415	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=863.749|End=864.155	_	_	_	_
 416-0	TOR001	416	0	(d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=864.405	_	_	0-2(0)	_
-416-1	TOR001	416	1	accor[do)]	accordo	_	_	_	_	_	linguistic	_	_	_	End=864.978	_	_	0-7(0)	4-7(115)
+416-1	TOR001	416	1	accor[do)]	accordo	_	_	_	_	_	linguistic	_	_	_	End=864.978	_	_	0-7(0)	5-7(115)
 417-0	TOI078	417	0	[ripe]to	ripeto	_	_	_	_	_	linguistic	_	_	_	Begin=864.77	_	_	_	0-4(115)
 417-1	TOI078	417	1	nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 417-2	TOI078	417	2	mia	mia	_	_	_	_	_	linguistic	_	_	_	End=865.759	_	_	_	_
@@ -3254,7 +3254,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 488-22	TOI078	488	22	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 488-23	TOI078	488	23	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 488-24	TOI078	488	24	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-488-25	TOI078	488	25	olimpi[adi]	olimpiadi	_	_	_	_	_	linguistic	_	_	_	End=1010.066	_	_	_	4-8(134)
+488-25	TOI078	488	25	olimpi[adi]	olimpiadi	_	_	_	_	_	linguistic	_	_	_	End=1010.066	_	_	_	6-9(134)
 489-0	TOR001	489	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1009.784	_	_	_	0-2(134)
 489-1	TOR001	489	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(134)
 489-2	TOR001	489	2	duemi[lasei]	duemilasei	_	_	_	_	_	linguistic	_	_	_	End=1010.857	_	_	_	5-10(135)
@@ -3521,7 +3521,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 531-3	TOI078	531	3	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 531-4	TOI078	531	4	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 531-5	TOI078	531	5	valeva	valeva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-531-6	TOI078	531	6	mi[lioni	milioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(148)
+531-6	TOI078	531	6	mi[lioni	milioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(148)
 531-7	TOI078	531	7	mi]lioni	milioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(148)
 531-8	TOI078	531	8	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 531-9	TOI078	531	9	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4015,7 +4015,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 616-8	TOI078	616	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 616-9	TOI078	616	9	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 616-10	TOI078	616	10	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-616-11	TOI078	616	11	ques[to	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(172)
+616-11	TOI078	616	11	ques[to	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(172)
 616-12	TOI078	616	12	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(172)
 616-13	TOI078	616	13	ques]to	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(172)
 616-14	TOI078	616	14	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4196,9 +4196,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 645-6	TOI078	645	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 645-7	TOI078	645	7	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 645-8	TOI078	645	8	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-645-9	TOI078	645	9	altr[a	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(180)
+645-9	TOI078	645	9	altr[a	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(180)
 645-10	TOI078	645	10	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(180)
-645-11	TOI078	645	11	no]	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(180)
+645-11	TOI078	645	11	no]	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(180)
 645-12	TOI078	645	12	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 645-13	TOI078	645	13	senso	senso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 645-14	TOI078	645	14	altra	altra	_	_	_	_	_	linguistic	_	_	_	End=1290.905	_	_	_	_
@@ -4550,7 +4550,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 697-20	TOI078	697	20	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 697-21	TOI078	697	21	stati	stati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 697-22	TOI078	697	22	amati	amati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-697-23	TOI078	697	23	da[i:	dai	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	1-3(191)
+697-23	TOI078	697	23	da[i:	dai	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-3(191)
 697-24	TOI078	697	24	to~	to~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(191)
 697-25	TOI078	697	25	dai]	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(191)
 697-26	TOI078	697	26	dai	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5741,7 +5741,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 888-4	TOI078	888	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 888-5	TOI078	888	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 888-6	TOI078	888	6	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-888-7	TOI078	888	7	salesia[na	salesiana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(237)
+888-7	TOI078	888	7	salesia[na	salesiana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(237)
 888-8	TOI078	888	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(237)
 888-9	TOI078	888	9	so	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(237)
 888-10	TOI078	888	10	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(237)
@@ -6011,7 +6011,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 922-12	TOR001	922	12	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(248)
 922-13	TOR001	922	13	chiedo	chiedo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(248)
 922-14	TOR001	922	14	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(248)
-922-15	TOR001	922	15	a]nalis[i	analisi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(248),5-7(249)
+922-15	TOR001	922	15	a]nalis[i	analisi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(248),6-7(249)
 922-16	TOR001	922	16	sociologica]	sociologica	_	_	_	_	_	linguistic	_	_	_	End=1862.533	_	_	_	0-11(249)
 923-0	TOI078	923	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1858.877|End=1859.177	_	_	_	0-2(247)
 924-0	TOI078	924	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1860.504	_	_	_	0-3(248)
@@ -6060,8 +6060,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 931-15	TOI078	931	15	pelle	pelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 931-16	TOI078	931	16	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 931-17	TOI078	931	17	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-931-18	TOI078	931	18	vi[sto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(253)
-931-19	TOI078	931	19	pro]prio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(253)
+931-18	TOI078	931	18	vi[sto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(253)
+931-19	TOI078	931	19	pro]prio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(253)
 931-20	TOI078	931	20	cambiare	cambiare	_	_	_	_	_	linguistic	_	_	_	End=1872.434	_	_	_	_
 932-0	TOR001	932	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1871.367	_	_	_	0-2(253)
 932-1	TOR001	932	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(253)
@@ -7317,7 +7317,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1122-3	TOI078	1122	3	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1122-4	TOI078	1122	4	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1122-5	TOI078	1122	5	interesse	interesse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1122-6	TOI078	1122	6	cio[è	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(50)
+1122-6	TOI078	1122	6	cio[è	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(50)
 1122-7	TOI078	1122	7	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(50)
 1122-8	TOI078	1122	8	g]uardano	guardano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(50)
 1122-9	TOI078	1122	9	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7338,7 +7338,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1122-24	TOI078	1122	24	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1122-25	TOI078	1122	25	poco	poco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1122-26	TOI078	1122	26	tempo	tempo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1122-27	TOI078	1122	27	n[o]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2285.266	_	_	_	0-2(51)
+1122-27	TOI078	1122	27	n[o]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2285.266	_	_	_	1-2(51)
 1123-0	TOR001	1123	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2280.238	_	_	_	0-2(50)
 1123-1	TOR001	1123	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(50)
 1123-2	TOR001	1123	2	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=2280.66	_	_	_	0-2(50)

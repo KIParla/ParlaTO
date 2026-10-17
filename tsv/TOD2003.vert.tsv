@@ -1208,7 +1208,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-9	TO999	168	9	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 168-10	TO999	168	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 168-11	TO999	168	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-168-12	TO999	168	12	movimen[to],	movimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=439.783	_	_	_	6-9(36)
+168-12	TO999	168	12	movimen[to],	movimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=439.783	_	_	_	7-9(36)
 169-0	TO083	169	0	[s]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=439.631	_	_	_	0-1(36)
 169-1	TO083	169	1	a~	a~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 169-2	TO083	169	2	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1962,7 +1962,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 257-16	TO083	257	16	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 257-17	TO083	257	17	stendere	stendere	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
 257-18	TO083	257	18	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-257-19	TO083	257	19	roba<,	roba	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=699.485	_	Fast=0-3(0)	_	_
+257-19	TO083	257	19	roba<,	roba	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=699.485	_	Fast=0-4(0)	_	_
 258-0	TO083	258	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=699.738	_	_	_	_
 258-1	TO083	258	1	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 258-2	TO083	258	2	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2175,7 +2175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-7	TO083	284	7	ore	ore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-8	TO083	284	8	ore	ore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-9	TO083	284	9	ore	ore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-284-10	TO083	284	10	avessi(mo)	avessimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-8(0)	_
+284-10	TO083	284	10	avessi(mo)	avessimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-8(0)	_
 284-11	TO083	284	11	assoldato	assoldato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-12	TO083	284	12	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-13	TO083	284	13	squadra	squadra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

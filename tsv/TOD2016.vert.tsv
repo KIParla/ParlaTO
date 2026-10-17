@@ -168,7 +168,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 27-7	TO080	27	7	diciassette	diciassette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 27-8	TO080	27	8	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 27-9	TO080	27	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-27-10	TO080	27	10	a[nno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(7)
+27-10	TO080	27	10	a[nno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(7)
 27-11	TO080	27	11	s]corso,	scorso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=58.786	_	_	_	0-1(7)
 28-0	TO071	28	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=57.824	_	_	_	0-2(7)
 28-1	TO071	28	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=58.179	_	_	_	0-2(7)
@@ -345,7 +345,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 55-20	TO080	55	20	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 55-21	TO080	55	21	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-22	TO080	55	22	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-55-23	TO080	55	23	studian[do	studiando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(16)
+55-23	TO080	55	23	studian[do	studiando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(16)
 55-24	TO080	55	24	qui],	qui	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=115.23	_	_	_	0-3(16)
 56-0	TO071	56	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=112.617	_	_	_	0-2(15)
 56-1	TO071	56	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=112.977	_	_	_	0-2(15)
@@ -579,7 +579,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 92-17	TO071	92	17	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 92-18	TO071	92	18	scelto	scelto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 92-19	TO071	92	19	torino	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-92-20	TO071	92	20	cos[ì	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(21)
+92-20	TO071	92	20	cos[ì	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(21)
 92-21	TO071	92	21	a]	a	_	_	_	_	_	linguistic	_	_	_	End=201.72	_	_	_	0-1(21)
 93-0	TO080	93	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=201.391	_	_	_	0-2(21)
 93-1	TO080	93	1	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -963,7 +963,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 160-11	TO080	160	11	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-12	TO080	160	12	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-13	TO080	160	13	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-160-14	TO080	160	14	giar[dino],	giardino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	3-8(32)
+160-14	TO080	160	14	giar[dino],	giardino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	4-8(32)
 160-15	TO080	160	15	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-16	TO080	160	16	ampio,	ampio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 160-17	TO080	160	17	e::,	e	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=344.45	0x2	_	_	_
@@ -1136,7 +1136,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-19	TO071	195	19	unica	unica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-20	TO071	195	20	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-21	TO071	195	21	sorelle	sorelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-195-22	TO071	195	22	fra[telli]?	fratelli	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=406.94	_	_	_	2-8(34)
+195-22	TO071	195	22	fra[telli]?	fratelli	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=406.94	_	_	_	3-8(34)
 196-0	TO080	196	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=406.752	_	_	_	0-2(34)
 196-1	TO080	196	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 196-2	TO080	196	2	fratello	fratello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1220,7 +1220,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-14	TO071	214	14	avere	avere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 214-15	TO071	214	15	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 214-16	TO071	214	16	origini	origini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-214-17	TO071	214	17	pugli[esi],	pugliesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=438.356	_	_	_	4-8(36)
+214-17	TO071	214	17	pugli[esi],	pugliesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=438.356	_	_	_	5-8(36)
 215-0	TO080	215	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=438.101|End=438.356	_	_	_	0-2(36)
 216-0	TO071	216	0	gius~	gius~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=438.437	_	_	_	_
 216-1	TO071	216	1	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=439.229	_	_	_	_
@@ -1702,7 +1702,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-6	TO071	327	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 327-7	TO071	327	7	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 327-8	TO071	327	8	nessun	nessun	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-327-9	TO071	327	9	al[tra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(55)
+327-9	TO071	327	9	al[tra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(55)
 327-10	TO071	327	10	p]arte	parte	_	_	_	_	_	linguistic	_	_	_	End=611.19	_	_	_	0-1(55)
 328-0	TO080	328	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=610.646|End=610.966	_	_	_	0-2(55)
 329-0	TO080	329	0	esatto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=611.33|End=611.809	_	_	_	_
@@ -1955,7 +1955,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-1	TO071	379	1	io]	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(60)
 379-2	TO071	379	2	casetta	casetta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 379-3	TO071	379	3	isolata	isolata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-379-4	TO071	379	4	ec[cetera	eccetera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-8(61)
+379-4	TO071	379	4	ec[cetera	eccetera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(61)
 379-5	TO071	379	5	ecc]etera	eccetera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(61)
 379-6	TO071	379	6	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 379-7	TO071	379	7	venuto	venuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2722,7 +2722,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 534-0	TO080	534	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=981.592	0x1	_	_	_
 534-1	TO080	534	1	gialli	gialli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-2	TO080	534	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-534-3	TO080	534	3	a[nno]	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(85)
+534-3	TO080	534	3	a[nno]	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(85)
 534-4	TO080	534	4	scorso.	scorso	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=983.394	_	_	_	_
 535-0	TO071	535	0	[ah],	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=982.451|End=982.799	_	_	_	0-2(85)
 536-0	TO080	536	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=984.038	0x1	_	_	_
@@ -2762,7 +2762,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 545-2	TO080	545	2	dialettologia.	dialettologia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=999.834	_	_	_	_
 546-0	TO080	546	0	e::	e	_	_	_	_	_	linguistic	_	_	_	Begin=1000.193	0x2	_	_	_
 546-1	TO080	546	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-546-2	TO080	546	2	h[o	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(89)
+546-2	TO080	546	2	h[o	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(89)
 546-3	TO080	546	3	sce]lto	scelto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(89)
 546-4	TO080	546	4	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 546-5	TO080	546	5	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2914,8 +2914,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 567-3	TO071	567	3	ricordarsele	ricordarsele	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 567-4	TO071	567	4	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 567-5	TO071	567	5	esame	esame	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-567-6	TO071	567	6	ce[rte	certe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(96)
-567-7	TO071	567	7	cose].	cose	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1047.229	_	_	_	0-3(96)
+567-6	TO071	567	6	ce[rte	certe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(96)
+567-7	TO071	567	7	cose].	cose	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1047.229	_	_	_	0-4(96)
 568-0	TO080	568	0	[esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=1046.595|End=1047.131	_	_	_	0-6(96)
 569-0	TO071	569	0	ehm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1047.584	_	_	_	_
 569-1	TO071	569	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3107,7 +3107,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 600-6	TO071	600	6	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 600-7	TO071	600	7	continui	continui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 600-8	TO071	600	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-600-9	TO071	600	9	riman[darlo	rimandarlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-10(98)
+600-9	TO071	600	9	riman[darlo	rimandarlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(98)
 600-10	TO071	600	10	rimandarlo]	rimandarlo	_	_	_	_	_	linguistic	_	_	_	End=1115.317	_	_	_	0-10(98)
 601-0	TO080	601	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1114.397	_	_	_	0-2(98)
 601-1	TO080	601	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(98)
@@ -3356,7 +3356,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 665-3	TO071	665	3	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 665-4	TO071	665	4	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 665-5	TO071	665	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-665-6	TO071	665	6	cop[pia	coppia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(104)
+665-6	TO071	665	6	cop[pia	coppia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(104)
 665-7	TO071	665	7	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(104)
 665-8	TO071	665	8	erano]?	erano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1229.188	_	_	_	0-5(104)
 666-0	TO080	666	0	[sono	sono	_	_	_	_	_	linguistic	_	_	_	Begin=1228.361	_	_	_	0-4(104)
@@ -4805,11 +4805,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 924-2	TO071	924	2	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 924-3	TO071	924	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 924-4	TO071	924	4	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-924-5	TO071	924	5	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(148)
+924-5	TO071	924	5	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 924-6	TO071	924	6	[fatta	fatta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(148)
 924-7	TO071	924	7	dai	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(148)
 924-8	TO071	924	8	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(148)
-924-9	TO071	924	9	deh]	deh	_	_	_	_	_	linguistic	_	_	_	End=1736.01	_	_	_	0-2(148)
+924-9	TO071	924	9	deh]	deh	_	_	_	_	_	linguistic	_	_	_	End=1736.01	_	_	_	0-3(148)
 925-0	TO080	925	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1734.99	_	_	_	0-1(148)
 925-1	TO080	925	1	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(148)
 925-2	TO080	925	2	mette	mette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(148)
@@ -4908,7 +4908,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 941-6	TO071	941	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 941-7	TO071	941	7	coscienza	coscienza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 941-8	TO071	941	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-941-9	TO071	941	9	po[sto],	posto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1764.014	_	_	_	1-5(154)
+941-9	TO071	941	9	po[sto],	posto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1764.014	_	_	_	2-5(154)
 942-0	TO080	942	0	[esa]tto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=1763.823|End=1764.373	_	_	_	0-3(154)
 943-0	TO071	943	0	ciao	ciao	_	_	_	_	_	linguistic	_	_	_	Begin=1764.643	_	_	_	_
 943-1	TO071	943	1	e::	e	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_

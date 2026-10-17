@@ -697,7 +697,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-10	TO999	129	10	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(1)
 129-11	TO999	129	11	(studi)	studi	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	0-5(1)
 129-12	TO999	129	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(1)
-129-13	TO999	129	13	uni]versità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(1)
+129-13	TO999	129	13	uni]versità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(1)
 129-14	TO999	129	14	qui,	qui	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=273.141	_	_	_	_
 130-0	TO084	130	0	[certamente].	certamente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=271.778|End=272.661	_	_	_	0-10(1)
 131-0	TO084	131	0	certamente	certamente	_	_	_	_	_	linguistic	_	_	_	Begin=273.494	_	_	_	_

@@ -18,7 +18,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 4-6	TOI019	4	6	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 4-7	TOI019	4	7	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 4-8	TOI019	4	8	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-4-9	TOI019	4	9	tax(i)	taxi	_	_	_	_	_	linguistic	_	_	_	End=9.291	_	_	2-4(0)	_
+4-9	TOI019	4	9	tax(i)	taxi	_	_	_	_	_	linguistic	_	_	_	End=9.291	_	_	3-4(0)	_
 5-0	TOR004	5	0	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=9.673	_	_	_	_
 5-1	TOR004	5	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 5-2	TOR004	5	2	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -294,7 +294,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 58-1	TOI019	58	1	sapere	sapere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 58-2	TOI019	58	2	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 58-3	TOI019	58	3	qualcos'	qualcos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-58-4	TOI019	58	4	al[tro]?	altro	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	1-5(0)
+58-4	TOI019	58	4	al[tro]?	altro	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	2-5(0)
 58-5	TOI019	58	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=119.044	_	_	_	_
 59-0	TOR004	59	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=118.52	_	_	_	0-2(0)
 59-1	TOR004	59	1	grazi[e]	grazie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(3)

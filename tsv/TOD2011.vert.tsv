@@ -577,8 +577,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 41-45	TO047	41	45	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 41-46	TO047	41	46	europa	europa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 41-47	TO047	41	47	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-41-48	TO047	41	48	comun[que	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(5)
-41-49	TO047	41	49	semp]pre	semppre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+41-48	TO047	41	48	comun[que	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(5)
+41-49	TO047	41	49	semp]pre	semppre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(5)
 41-50	TO047	41	50	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 41-51	TO047	41	51	europa,	europa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=249.692	_	_	_	_
 42-0	TO055	42	0	[mhmh],	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=248.351|End=248.714	_	_	_	0-4(5)
@@ -898,7 +898,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 60-24	TO047	60	24	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 60-25	TO047	60	25	america	america	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 60-26	TO047	60	26	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-60-27	TO047	60	27	co[munque:::]	comunque	_	_	_	_	_	linguistic	_	_	_	_	7x3	_	_	1-8(11)
+60-27	TO047	60	27	co[munque:::]	comunque	_	_	_	_	_	linguistic	_	_	_	_	7x3	_	_	2-8(11)
 60-28	TO047	60	28	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 60-29	TO047	60	29	posti	posti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 60-30	TO047	60	30	dove::	dove	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x2	_	_	_
@@ -1029,7 +1029,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 65-13	TO047	65	13	cugi:no::	cugino	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	3x1,5x2	_	_	_
 65-14	TO047	65	14	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 65-15	TO047	65	15	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-65-16	TO047	65	16	ami[co	amico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(12)
+65-16	TO047	65	16	ami[co	amico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(12)
 65-17	TO047	65	17	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(12)
 65-18	TO047	65	18	sa]	sa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(12)
 65-19	TO047	65	19	usare	usare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1908,7 +1908,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 102-42	TO047	102	42	molta::	molta	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	_
 102-43	TO047	102	43	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 102-44	TO047	102	44	bella	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-102-45	TO047	102	45	gen[te]	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(17)
+102-45	TO047	102	45	gen[te]	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(17)
 102-46	TO047	102	46	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=780.411	_	_	_	_
 103-0	TO055	103	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=779.887	_	_	_	0-2(18)
 103-1	TO055	103	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=782.224	_	_	_	_
@@ -1958,7 +1958,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 105-19	TO047	105	19	quindi:::	quindi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	5x3	_	_	_
 105-20	TO047	105	20	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 105-21	TO047	105	21	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-105-22	TO047	105	22	so[prattut]to	soprattutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-9(20)
+105-22	TO047	105	22	so[prattut]to	soprattutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-9(20)
 105-23	TO047	105	23	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 105-24	TO047	105	24	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 105-25	TO047	105	25	caso	caso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1991,7 +1991,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-9	TO055	109	9	vita:,	vita	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	3x1	_	_	_
 109-10	TO055	109	10	sport	sport	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	_
 109-11	TO055	109	11	e::h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
-109-12	TO055	109	12	hob[by],	hobby	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=810.706	_	_	_	1-4(21)
+109-12	TO055	109	12	hob[by],	hobby	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=810.706	_	_	_	3-5(21)
 110-0	TO047	110	0	[e:::h]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=810.392	0x3	_	_	0-2(21)
 110-1	TO047	110	1	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 110-2	TO047	110	2	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2003,7 +2003,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 110-8	TO047	110	8	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 110-9	TO047	110	9	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 110-10	TO047	110	10	fatto:	fatto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
-110-11	TO047	110	11	dan[za],	danza	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=815.467	_	_	_	2-5(22)
+110-11	TO047	110	11	dan[za],	danza	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=815.467	_	_	_	3-5(22)
 111-0	TO055	111	0	[o]kay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=815.398|End=815.788	_	_	_	0-1(22)
 112-0	TO047	112	0	e::	e	_	_	_	_	_	linguistic	_	_	_	Begin=815.975	0x2	_	_	_
 112-1	TO047	112	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3193,8 +3193,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 171-32	TO047	171	32	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-33	TO047	171	33	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-34	TO047	171	34	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-171-35	TO047	171	35	poteva	poteva	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-6(0)	_
-171-36	TO047	171	36	(giura~)	giura~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	0-4(0)	_
+171-35	TO047	171	35	poteva	poteva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+171-36	TO047	171	36	(giura~)	giura~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	0-6(0)	_
 171-37	TO047	171	37	girare	girare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-38	TO047	171	38	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 171-39	TO047	171	39	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

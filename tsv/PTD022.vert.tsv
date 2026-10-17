@@ -830,10 +830,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-11	TOI009	128	11	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-12	TOI009	128	12	cosa,	cosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 128-13	TOI009	128	13	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-128-14	TOI009	128	14	dico	dico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(33)
+128-14	TOI009	128	14	dico	dico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-15	TOI009	128	15	[sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
 128-16	TOI009	128	16	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
-128-17	TOI009	128	17	manca]	manca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(33)
+128-17	TOI009	128	17	manca]	manca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(33)
 128-18	TOI009	128	18	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-19	TOI009	128	19	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-20	TOI009	128	20	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1309,7 +1309,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 185-3	TOI009	185	3	trovo	trovo	_	_	_	_	_	linguistic	_	_	_	End=406.593	_	_	_	_
 186-0	TOR001	186	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=406.57	_	_	_	_
 186-1	TOR001	186	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-186-2	TOR001	186	2	tut[to]	tutto	_	_	_	_	_	linguistic	_	_	_	End=406.986	_	_	_	2-5(44)
+186-2	TOR001	186	2	tut[to]	tutto	_	_	_	_	_	linguistic	_	_	_	End=406.986	_	_	_	3-5(44)
 187-0	TOI009	187	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=406.872	_	_	_	0-2(44)
 187-1	TOI009	187	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 187-2	TOI009	187	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -1628,8 +1628,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 233-31	TOI009	233	31	favore	favore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 233-32	TOI009	233	32	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 233-33	TOI009	233	33	tagli	tagli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-233-34	TOI009	233	34	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(52)
-233-35	TOI009	233	35	[quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=507.42	_	_	_	0-5(52)
+233-34	TOI009	233	34	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+233-35	TOI009	233	35	[quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=507.42	_	_	_	0-6(52)
 234-0	TOR001	234	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=507.002	_	_	_	0-2(52)
 234-1	TOR001	234	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(52)
 234-2	TOR001	234	2	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1725,11 +1725,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-8	TOI009	247	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 247-9	TOI009	247	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-10	TOI009	247	10	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-247-11	TOI009	247	11	torino	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(57)
+247-11	TOI009	247	11	torino	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-12	TOI009	247	12	[una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(57)
 247-13	TOI009	247	13	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(57)
 247-14	TOI009	247	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(57)
-247-15	TOI009	247	15	prima]	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(57)
+247-15	TOI009	247	15	prima]	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(57)
 247-16	TOI009	247	16	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-17	TOI009	247	17	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-18	TOI009	247	18	fiat	fiat	_	_	_	_	_	linguistic	_	_	_	End=536.99	_	_	_	_

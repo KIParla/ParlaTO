@@ -2470,7 +2470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 328-3	TO999	328	3	lavoro:	lavoro	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 328-4	TO999	328	4	vicina	vicina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 328-5	TO999	328	5	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-328-6	TO999	328	6	univers[ità]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=790.92	_	_	_	6-10(24)
+328-6	TO999	328	6	univers[ità]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=790.92	_	_	_	7-10(24)
 329-0	TO081	329	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=790.586|End=790.908	_	_	_	0-2(24)
 330-0	TO081	330	0	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=791.136|End=791.426	_	_	_	_
 331-0	TO081	331	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	Begin=791.69	_	_	_	_

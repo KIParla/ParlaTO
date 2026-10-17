@@ -415,7 +415,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-1	TOI034	67	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-2	TOI034	67	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 67-3	TOI034	67	3	agenzia	agenzia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-67-4	TOI034	67	4	interin[ale]	interinale	_	_	_	_	_	linguistic	_	_	_	End=160.902	_	_	_	6-10(10)
+67-4	TOI034	67	4	interin[ale]	interinale	_	_	_	_	_	linguistic	_	_	_	End=160.902	_	_	_	7-10(10)
 68-0	TOR006	68	0	[o]ka[y]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=160.707|End=161.337	_	_	_	0-1(10),3-4(11)
 69-0	TOI034	69	0	[e]	e	_	_	_	_	_	linguistic	_	_	_	Begin=161.142	_	_	_	0-1(11)
 69-1	TOI034	69	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -874,7 +874,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-4	TOI034	132	4	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 132-5	TOI034	132	5	oche	oche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 132-6	TOI034	132	6	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-132-7	TOI034	132	7	c[ani]	cani	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-4(29)
+132-7	TOI034	132	7	c[ani]	cani	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	1-4(29)
 132-8	TOI034	132	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 132-9	TOI034	132	9	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 132-10	TOI034	132	10	gatti	gatti	_	_	_	_	_	linguistic	_	_	_	End=323.3	_	_	_	_
@@ -3952,7 +3952,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 640-3	TOR006	640	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 640-4	TOR006	640	4	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 640-5	TOR006	640	5	smesso:	smesso	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
-640-6	TOR006	640	6	per::ch[é]?	perché	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1454.9	2x2	_	_	4-6(151)
+640-6	TOR006	640	6	per::ch[é]?	perché	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1454.9	2x2	_	_	5-6(151)
 641-0	TOI034	641	0	[a]	a	_	_	_	_	_	linguistic	_	_	_	Begin=1454.801	_	_	_	0-1(151)
 641-1	TOI034	641	1	seguito	seguito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 641-2	TOI034	641	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4352,7 +4352,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 717-2	TOR006	717	2	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-3	TOR006	717	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-4	TOR006	717	4	teatro	teatro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-717-5	TOR006	717	5	°ultimamen[te]°	ultimamente	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1607.01	_	_	_	8-11(175)
+717-5	TOR006	717	5	°ultimamen[te]°	ultimamente	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1607.01	_	_	_	9-11(175)
 718-0	TOI034	718	0	[te]atro	teatro	_	_	_	_	_	linguistic	_	_	_	Begin=1606.81	_	_	_	0-2(175)
 718-1	TOI034	718	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 718-2	TOI034	718	2	visto:	visto	_	_	_	_	_	linguistic	_	_	_	End=1608.51	4x1	_	_	_

@@ -2861,9 +2861,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 516-9	TOI041	516	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 516-10	TOI041	516	10	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 516-11	TOI041	516	11	opportunità	opportunità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-516-12	TOI041	516	12	interess[ante	interessante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-12(181)
+516-12	TOI041	516	12	interess[ante	interessante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-12(181)
 516-13	TOI041	516	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(181)
-516-14	TOI041	516	14	fare]	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(181)
+516-14	TOI041	516	14	fare]	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(181)
 516-15	TOI041	516	15	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 516-16	TOI041	516	16	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	End=925.277	_	_	_	_
 517-0	TOR001	517	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=924.08	_	_	_	0-2(181)
@@ -6200,7 +6200,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1151-0	TOI041	1151	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1928.799	_	_	_	0-2(57)
 1151-1	TOI041	1151	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(57)
 1151-2	TOI041	1151	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(57)
-1151-3	TOI041	1151	3	ho]	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(57)
+1151-3	TOI041	1151	3	ho]	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(57)
 1151-4	TOI041	1151	4	sentita	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1151-5	TOI041	1151	5	abbastanza.	abbastanza	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1930.11	_	_	_	_
 1152-0	TOR001	1152	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1928.809	_	_	_	0-2(57)
