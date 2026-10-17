@@ -4241,7 +4241,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 729-1	TOI117	729	1	a:	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	0-1(216)
 729-2	TOI117	729	2	l	l	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(216)
 729-3	TOI117	729	3	pruchè]	pruchè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1539.843	_	_	_	0-6(216)
-730-0	TOI117	730	0	[#a	#a	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1541.56	_	_	_	0-2(217)
+730-0	TOI117	730	0	# [a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1541.56	_	_	_	0-1(217)
 730-1	TOI117	730	1	sun	sun	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(217)
 730-2	TOI117	730	2	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(217)
 730-3	TOI117	730	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(217)

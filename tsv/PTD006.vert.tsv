@@ -3361,14 +3361,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-4	TOR004	379	4	famo:so	famoso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	0-6(149)
 379-5	TOR004	379	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(149)
 379-6	TOR004	379	6	sa]	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1048.481	_	_	_	0-2(149)
-380-0	TOI055	380	0	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1047.268	_	_	_	0-3(149)
+380-0	TOI055	380	0	# [che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1047.268	_	_	_	0-3(149)
 380-1	TOI055	380	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(149)
 380-2	TOI055	380	2	in:	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	0-2(149)
 380-3	TOI055	380	3	vi~	vi~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-3(149)
 380-4	TOI055	380	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(149)
 380-5	TOI055	380	5	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(149)
 380-6	TOI055	380	6	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(149)
-380-7	TOI055	380	7	#nomeluogo]	#nomeluogo	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-10(149)
+380-7	TOI055	380	7	@nomeluogo]	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	0-10(149)
 380-8	TOI055	380	8	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 380-9	TOI055	380	9	ehm::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1049.866	2x2	_	_	_
 381-0	TOI055	381	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=1050.19	_	_	_	_

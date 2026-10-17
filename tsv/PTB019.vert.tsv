@@ -6602,7 +6602,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1360-0	TOI071	1360	0	[io,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2359.707	_	_	_	0-2(349)
 1360-1	TOI071	1360	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	_	_	_	_	0-1(349)
 1360-2	TOI071	1360	2	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=2360.459	_	_	_	0-2(349)
-1361-0	TOI080	1361	0	[#che	#che	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2359.719	_	_	_	0-4(349)
+1361-0	TOI080	1361	0	# [che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2359.719	_	_	_	0-3(349)
 1361-1	TOI080	1361	1	agge	agge	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(349)
 1361-2	TOI080	1361	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(349)
 1361-3	TOI080	1361	3	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(349)

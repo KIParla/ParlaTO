@@ -8016,7 +8016,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1297-5	TOR004	1297	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1297-6	TOR004	1297	6	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1297-7	TOR004	1297	7	ca[pito]	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2249.452	_	_	_	1-6(432)
-1298-0	TOI076	1298	0	[#ciapu]	#ciapu	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2249.11	_	_	_	0-6(432)
+1298-0	TOI076	1298	0	# [ciapu]	ciapu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2249.11	_	_	_	0-5(432)
 1298-1	TOI076	1298	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1298-2	TOI076	1298	2	mosca	mosca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2250.086	_	_	_	_
 1299-0	TOR004	1299	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2250.343|End=2250.763	_	_	_	_
@@ -9864,14 +9864,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1638-5	TOI076	1638	5	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	_	_	_	_	0-2(818)
 1638-6	TOI076	1638	6	mah	mah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1638-7	TOI076	1638	7	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2721.681	1x1	_	_	_
-1639-0	TOI077	1639	0	[#in	#in	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2720.097	_	_	_	0-3(818)
+1639-0	TOI077	1639	0	# [in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2720.097	_	_	_	0-2(818)
 1639-1	TOI077	1639	1	mes	mes	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(818)
 1639-2	TOI077	1639	2	ai	ai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(818)
 1639-3	TOI077	1639	3	singher]	singher	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2721.13	_	_	_	0-7(818)
 1640-0	TOR004	1640	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2721.105|End=2722.015	_	_	_	_
 1641-0	TOI076	1641	0	[un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2722.469	_	_	_	0-2(564)
 1641-1	TOI076	1641	1	attimo]	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2723.189	_	_	_	0-6(564)
-1642-0	TOR004	1642	0	[(#sta	#sta	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2722.511	_	_	0-4(0)	0-4(564)
+1642-0	TOR004	1642	0	# [(sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2722.511	_	_	0-3(0)	0-3(564)
 1642-1	TOR004	1642	1	sintu)]	sintu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-5(0)	0-5(564)
 1642-2	TOR004	1642	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2723.651	_	_	_	_
 1643-0	TOI077	1643	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2723.466|End=2723.716	_	_	_	_

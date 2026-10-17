@@ -198,8 +198,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 46-3	TOI118	46	3	fuma	fuma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 46-4	TOI118	46	4	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=68.096	_	_	_	_
 47-0	TOI119	47	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=66.896|End=68.096	_	_	_	_
-48-0	TOR002	48	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=68.096	_	_	_	_
-48-1	TOR002	48	1	#se	#se	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+48-0	TOR002	48	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=68.096	_	_	_	_
+48-1	TOR002	48	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 48-2	TOR002	48	2	[nient]e	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(16)
 48-3	TOR002	48	3	fuma	fuma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-4	TOR002	48	4	nien[te]	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=69.806	_	_	_	4-6(17)
@@ -3239,8 +3239,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-0	TOR002	699	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1657.496	_	_	_	_
 699-1	TOR002	699	1	ormai	ormai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 699-2	TOR002	699	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1659.007	_	_	_	_
-700-0	TOR002	700	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1659.993	_	_	_	_
-700-1	TOR002	700	1	#urmai	#urmai	_	_	_	_	_	error	_	ContainsVariation=No	_	End=1661.096	_	_	_	_
+700-0	TOR002	700	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1659.993	_	_	_	_
+700-1	TOR002	700	1	urmai	urmai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1661.096	_	_	_	_
 701-0	TOR002	701	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1661.4	_	_	_	_
 701-1	TOR002	701	1	invece:	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 701-2	TOR002	701	2	dicevi	dicevi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4074,8 +4074,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 870-18	TOI118	870	18	cumun	cumun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 870-19	TOI118	870	19	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 870-20	TOI118	870	20	mandeje	mandeje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2061.199	_	_	_	_
-871-0	TOR002	871	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2063.193	_	_	_	_
-871-1	TOR002	871	1	#si	#si	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+871-0	TOR002	871	0	# ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2063.193	_	_	_	_
+871-1	TOR002	871	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 871-2	TOR002	871	2	andua	andua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 871-3	TOR002	871	3	j'	j'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 871-4	TOR002	871	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5837,8 +5837,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1227-1	TOR002	1227	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1227-2	TOR002	1227	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2788.4	_	_	_	_
 1228-0	TOI119	1228	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2788.425|End=2789.007	_	_	_	_
-1229-0	TOR002	1229	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2788.784	_	_	_	_
-1229-1	TOR002	1229	1	[#o	#o	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-2(208)
+1229-0	TOR002	1229	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=2788.784	_	_	_	_
+1229-1	TOR002	1229	1	[o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(208)
 1229-2	TOR002	1229	2	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-3(208)
 1229-3	TOR002	1229	3	au]tra	autra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(208)
 1229-4	TOR002	1229	4	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2790.848	_	_	_	_
@@ -6228,8 +6228,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1308-10	TOI118	1308	10	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1308-11	TOI118	1308	11	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1308-12	TOI118	1308	12	beive	beive	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2981.0	_	_	_	_
-1309-0	TOR002	1309	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2979.102	_	_	_	_
-1309-1	TOR002	1309	1	#no	#no	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1309-0	TOR002	1309	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=2979.102	_	_	_	_
+1309-1	TOR002	1309	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1309-2	TOR002	1309	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1309-3	TOR002	1309	3	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1309-4	TOR002	1309	4	lu	lu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6353,8 +6353,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1336-3	TOI118	1336	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1336-4	TOI118	1336	4	fame	fame	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1336-5	TOI118	1336	5	beive	beive	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3036.212	_	_	_	_
-1337-0	TOR002	1337	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3036.398	_	_	_	_
-1337-1	TOR002	1337	1	#ecco	#ecco	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1337-0	TOR002	1337	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=3036.398	_	_	_	_
+1337-1	TOR002	1337	1	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1337-2	TOR002	1337	2	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	_	_
 1337-3	TOR002	1337	3	disumlu	disumlu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1337-4	TOR002	1337	4	diciamolo	diciamolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
