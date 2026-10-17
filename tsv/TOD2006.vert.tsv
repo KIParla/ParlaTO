@@ -479,7 +479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 90-5	TO999	90	5	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 90-6	TO999	90	6	verso	verso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 90-7	TO999	90	7	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-90-8	TO999	90	8	garibal[di	garibaldi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(23)
+90-8	TO999	90	8	garibal[di	garibaldi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(23)
 90-9	TO999	90	9	o:]?	o	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=240.255	0x1	_	_	0-1(23)
 91-0	TO042	91	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=239.796	_	_	_	0-2(23)
 91-1	TO042	91	1	da]ll'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(23)
@@ -797,11 +797,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 160-1	TO999	160	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(4)
 160-2	TO999	160	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(4)
 160-3	TO999	160	3	entra]	entra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(4)
-160-4	TO999	160	4	c[on	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(6)
+160-4	TO999	160	4	c[on	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(6)
 160-5	TO999	160	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(6)
 160-6	TO999	160	6	intervista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(6)
 160-7	TO999	160	7	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(6)
-160-8	TO999	160	8	però].	però	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=390.951	_	_	_	0-3(6)
+160-8	TO999	160	8	però].	però	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=390.951	_	_	_	0-4(6)
 161-0	TO042	161	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=389.695	_	_	_	0-2(6)
 161-1	TO042	161	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(6)
 161-2	TO042	161	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(6)

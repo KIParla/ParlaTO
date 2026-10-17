@@ -1739,7 +1739,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 362-12	TOR006	362	12	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 362-13	TOR006	362	13	interpretato	interpretato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 362-14	TOR006	362	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-362-15	TOR006	362	15	po'[::],	po'	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=710.31	1x2	_	_	2-3(101)
+362-15	TOR006	362	15	po'[::],	po'	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=710.31	1x2	_	_	_
 363-0	TOI031	363	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=710.191	_	_	_	0-2(101)
 363-1	TOI031	363	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 363-2	TOI031	363	2	gliel'	gliel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -3087,7 +3087,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 648-1	TOI031	648	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 648-2	TOI031	648	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-3	TOI031	648	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-648-4	TOI031	648	4	sign[ora]	signora	_	_	_	_	_	linguistic	_	_	_	End=1279.67	_	_	_	3-7(168)
+648-4	TOI031	648	4	sign[ora]	signora	_	_	_	_	_	linguistic	_	_	_	End=1279.67	_	_	_	4-7(168)
 649-0	TOR006	649	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1279.054|End=1279.904	_	_	_	_
 650-0	TOI031	650	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1280.28	_	_	_	_
 650-1	TOI031	650	1	prende	prende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3338,7 +3338,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 700-7	TOI031	700	7	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 700-8	TOI031	700	8	potature	potature	_	_	_	_	_	linguistic	_	_	_	End=1374.075	_	_	_	_
 701-0	TOI031	701	0	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1375.019	_	_	_	_
-701-1	TOI031	701	1	(al[ta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	1-4(183)
+701-1	TOI031	701	1	(al[ta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	2-4(183)
 701-2	TOI031	701	2	quota)]	quota	_	_	_	_	_	linguistic	_	_	_	End=1376.039	_	_	0-5(0)	0-5(183)
 702-0	TOR006	702	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1375.374|End=1376.073	_	_	_	0-4(183)
 703-0	TOI031	703	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1379.552	_	_	_	_
@@ -4381,7 +4381,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 894-1	TOR006	894	1	sopra	sopra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 894-2	TOR006	894	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 894-3	TOR006	894	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-894-4	TOR006	894	4	anto[nio]	antonio	_	_	_	_	_	linguistic	_	_	_	End=1757.646	_	_	_	3-7(215)
+894-4	TOR006	894	4	anto[nio]	antonio	_	_	_	_	_	linguistic	_	_	_	End=1757.646	_	_	_	4-7(215)
 895-0	TOI031	895	0	[antonio]	antonio	_	_	_	_	_	linguistic	_	_	_	Begin=1757.07	_	_	_	0-7(215)
 895-1	TOI031	895	1	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1757.87	_	_	_	_
 896-0	TOR006	896	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1758.19	_	_	_	_
@@ -7039,7 +7039,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1419-1	TOI031	1419	1	autista	autista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1419-2	TOI031	1419	2	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1419-3	TOI031	1419	3	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1419-4	TOI031	1419	4	barre[lliere],	barrelliere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2845.418	_	_	_	4-11(109)
+1419-4	TOI031	1419	4	barre[lliere],	barrelliere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2845.418	_	_	_	5-11(109)
 1420-0	TOR006	1420	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2844.871	_	_	_	0-2(109)
 1420-1	TOR006	1420	1	già]	già	_	_	_	_	_	linguistic	_	_	_	End=2845.451	_	_	_	0-3(109)
 1421-0	TOR006	1421	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2846.81	_	_	_	_
@@ -8216,7 +8216,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1657-2	TOR006	1657	2	lasciano]	lasciano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(161)
 1657-3	TOR006	1657	3	spazio	spazio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1657-4	TOR006	1657	4	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1657-5	TOR006	1657	5	immagina[zione]	immaginazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-13(162)
+1657-5	TOR006	1657	5	immagina[zione]	immaginazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-13(162)
 1657-6	TOR006	1657	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=3367.185	_	_	_	_
 1658-0	TOI031	1658	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=3364.75|End=3365.27	_	_	_	0-4(161)
 1659-0	TOI031	1659	0	[esatto],	esatto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=3366.727|End=3367.471	_	_	_	0-6(162)

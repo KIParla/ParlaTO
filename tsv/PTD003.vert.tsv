@@ -522,7 +522,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 82-6	TOI048	82	6	dirti	dirti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 82-7	TOI048	82	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 82-8	TOI048	82	8	estrazione	estrazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-82-9	TOI048	82	9	socia[le]	sociale	_	_	_	_	_	linguistic	_	_	_	End=179.648	_	_	_	4-7(20)
+82-9	TOI048	82	9	socia[le]	sociale	_	_	_	_	_	linguistic	_	_	_	End=179.648	_	_	_	5-7(20)
 83-0	TOR001	83	0	[no]:	no	_	_	_	_	_	linguistic	_	_	_	Begin=179.51	1x1	_	_	0-2(20)
 83-1	TOR001	83	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-2	TOR001	83	2	generale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1050,7 +1050,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 174-2	TOR001	174	2	era:	era	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 174-3	TOR001	174	3	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 174-4	TOR001	174	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-174-5	TOR001	174	5	proble[ma:::]	problema	_	_	_	_	_	linguistic	_	_	_	End=358.531	7x3	_	_	5-8(46)
+174-5	TOR001	174	5	proble[ma:::]	problema	_	_	_	_	_	linguistic	_	_	_	End=358.531	7x3	_	_	6-8(46)
 175-0	TOI048	175	0	[no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	Begin=357.581	_	_	_	0-2(46)
 175-1	TOI048	175	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 175-2	TOI048	175	2	penso	penso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1862,7 +1862,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 320-3	TOR001	320	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 320-4	TOR001	320	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 320-5	TOR001	320	5	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(98)
-320-6	TOR001	320	6	università]	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(98)
+320-6	TOR001	320	6	università]	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(98)
 320-7	TOR001	320	7	vicina	vicina	_	_	_	_	_	linguistic	_	_	_	End=607.305	_	_	_	_
 321-0	TOI048	321	0	[xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=605.603	_	_	_	0-3(98)
 321-1	TOI048	321	1	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(98)
@@ -3197,8 +3197,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 567-2	TOI048	567	2	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 567-3	TOI048	567	3	ingresso	ingresso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 567-4	TOI048	567	4	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-567-5	TOI048	567	5	piace	piace	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(161)
-567-6	TOI048	567	6	[tantitissimo]	tantitissimo	_	_	_	_	_	linguistic	_	_	_	End=1059.311	_	_	_	0-11(161)
+567-5	TOI048	567	5	piace	piace	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+567-6	TOI048	567	6	[tantitissimo]	tantitissimo	_	_	_	_	_	linguistic	_	_	_	End=1059.311	_	_	_	0-12(161)
 568-0	TOR001	568	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1058.763|End=1059.311	_	_	_	0-4(161)
 569-0	TOI048	569	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1059.614	_	_	_	_
 569-1	TOI048	569	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4025,9 +4025,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 731-1	TOR001	731	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 731-2	TOR001	731	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 731-3	TOR001	731	3	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-731-4	TOR001	731	4	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(209)
+731-4	TOR001	731	4	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 731-5	TOR001	731	5	[un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(209)
-731-6	TOR001	731	6	po']	po'	_	_	_	_	_	linguistic	_	_	_	End=1324.412	_	_	_	0-2(209)
+731-6	TOR001	731	6	po']	po'	_	_	_	_	_	linguistic	_	_	_	End=1324.412	_	_	_	0-3(209)
 732-0	TOI048	732	0	[mi]	mi	_	_	_	_	_	linguistic	_	_	_	Begin=1324.152	_	_	_	0-2(209)
 732-1	TOI048	732	1	frustrava	frustrava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 732-2	TOI048	732	2	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -374,7 +374,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 89-6	TOR003	89	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(289)
 89-7	TOR003	89	7	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	0-2(289)
 89-8	TOR003	89	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(289)
-89-9	TOR003	89	9	introduzione]	introduzione	_	_	_	_	_	linguistic	_	_	_	End=138.723	_	_	_	0-11(289)
+89-9	TOR003	89	9	introduzione]	introduzione	_	_	_	_	_	linguistic	_	_	_	End=138.723	_	_	_	0-12(289)
 90-0	TOI035	90	0	[hai	hai	_	_	_	_	_	linguistic	_	_	_	Begin=138.297	_	_	_	0-3(22)
 90-1	TOI035	90	1	detto]	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(22)
 90-2	TOI035	90	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1344,7 +1344,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 280-2	TOI035	280	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 280-3	TOI035	280	3	gliel'	gliel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 280-4	TOI035	280	4	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-280-5	TOI035	280	5	estor[to]	estorto	_	_	_	_	_	linguistic	_	_	_	End=487.656	_	_	_	4-7(47)
+280-5	TOI035	280	5	estor[to]	estorto	_	_	_	_	_	linguistic	_	_	_	End=487.656	_	_	_	5-7(47)
 281-0	TOR001	281	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=487.36	_	_	_	0-2(47)
 281-1	TOR001	281	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=487.838	_	_	_	_
 282-0	TOI035	282	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=487.84	_	_	_	_
@@ -1798,7 +1798,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-3	TOI035	360	3	san	san	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 360-4	TOI035	360	4	carlo	carlo	_	_	_	_	_	linguistic	_	_	_	End=656.259	_	_	_	_
 361-0	TOI035	361	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=656.477	_	_	_	_
-361-1	TOI035	361	1	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-5(0)	_
+361-1	TOI035	361	1	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-5(0)	_
 361-2	TOI035	361	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 361-3	TOI035	361	3	cinema	cinema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 361-4	TOI035	361	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3946,7 +3946,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 747-4	TOI035	747	4	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 747-5	TOI035	747	5	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 747-6	TOI035	747	6	vecchie	vecchie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-747-7	TOI035	747	7	caser[me	caserme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(145)
+747-7	TOI035	747	7	caser[me	caserme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(145)
 747-8	TOI035	747	8	fors]e	forse	_	_	_	_	_	linguistic	_	_	_	End=1425.004	_	_	_	0-4(145)
 748-0	TOR001	748	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1424.232	_	_	_	0-2(145)
 748-1	TOR001	748	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1424.803	_	_	_	0-2(145)
@@ -4069,7 +4069,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 772-5	TOI035	772	5	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 772-6	TOI035	772	6	bisogno	bisogno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 772-7	TOI035	772	7	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-772-8	TOI035	772	8	vern[ici:,	vernici	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	3-7(150)
+772-8	TOI035	772	8	vern[ici:,	vernici	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	4-7(150)
 772-9	TOI035	772	9	ecce]tera	eccetera	_	_	_	_	_	linguistic	_	_	_	End=1475.578	_	_	_	0-4(150)
 773-0	TOR001	773	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=1474.278|End=1475.029	_	_	_	0-5(150)
 774-0	TOR001	774	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1475.589	_	_	_	_
@@ -4183,7 +4183,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 787-4	TOI035	787	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(154)
 787-5	TOI035	787	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(154)
 787-6	TOI035	787	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(154)
-787-7	TOI035	787	7	fatto]	fatto	_	_	_	_	_	linguistic	_	_	_	End=1508.651	_	_	_	0-4(154)
+787-7	TOI035	787	7	fatto]	fatto	_	_	_	_	_	linguistic	_	_	_	End=1508.651	_	_	_	0-5(154)
 788-0	TOR003	788	0	racconta	racconta	_	_	_	_	_	linguistic	_	_	_	Begin=1508.889	_	_	_	_
 788-1	TOR003	788	1	[xxxx]	xxxx	_	_	_	_	_	unknown	_	_	Syllables=4	End=1510.802	_	_	_	0-4(155)
 789-0	TOI035	789	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1509.234	_	_	_	0-2(155)

@@ -287,7 +287,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 30-17	TO073	30	17	interno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	0-7(4)
 30-18	TO073	30	18	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	0-5(4)
 30-19	TO073	30	19	sua	sua	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	0-3(4)
-30-20	TO073	30	20	lista]<	lista	_	_	_	_	_	linguistic	_	_	_	End=108.157	_	Fast=0-5(0)	_	0-4(4)
+30-20	TO073	30	20	lista]<	lista	_	_	_	_	_	linguistic	_	_	_	End=108.157	_	Fast=0-5(0)	_	0-5(4)
 31-0	TO071	31	0	[chiaro	chiaro	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=105.842	_	_	_	0-6(4)
 31-1	TO071	31	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(4)
 31-2	TO071	31	2	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(4)
@@ -571,8 +571,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 54-12	TO073	54	12	ammazzacaffè	ammazzacaffè	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 54-13	TO073	54	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 54-14	TO073	54	14	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-54-15	TO073	54	15	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(12)
-54-16	TO073	54	16	[camer~]	camer~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=206.962	_	_	_	0-5(12)
+54-15	TO073	54	15	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+54-16	TO073	54	16	[camer~]	camer~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=206.962	_	_	_	0-6(12)
 55-0	TO071	55	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=204.79	_	_	_	_
 55-1	TO071	55	1	[(v)abbè	vabbè	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	0-5(12)
 55-2	TO071	55	2	non]	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(12)
@@ -1755,7 +1755,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-13	TO073	144	13	senso	senso	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 144-14	TO073	144	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 144-15	TO073	144	15	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
-144-16	TO073	144	16	fine<	fine	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+144-16	TO073	144	16	fine<	fine	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-4(0)	_	_
 144-17	TO073	144	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 144-18	TO073	144	18	>si	si	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
 144-19	TO073	144	19	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(1)	_	_
@@ -2062,7 +2062,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 173-18	TO073	173	18	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 173-19	TO073	173	19	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 173-20	TO073	173	20	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-173-21	TO073	173	21	re[sidenza	residenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-9(50)
+173-21	TO073	173	21	re[sidenza	residenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-9(50)
 173-22	TO073	173	22	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(50)
 173-23	TO073	173	23	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=632.06	_	_	_	0-2(50)
 174-0	TO071	174	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=631.091	_	_	_	0-2(50)
@@ -2317,7 +2317,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 192-23	TO073	192	23	erasmus	erasmus	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 192-24	TO073	192	24	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 192-25	TO073	192	25	vent'	vent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-5(0)	_	_
-192-26	TO073	192	26	anni<	anni	_	_	_	_	_	linguistic	_	_	_	End=697.469	_	Fast=0-3(0)	_	_
+192-26	TO073	192	26	anni<	anni	_	_	_	_	_	linguistic	_	_	_	End=697.469	_	Fast=0-4(0)	_	_
 193-0	TO073	193	0	eh	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=697.774	_	_	_	_
 193-1	TO073	193	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 193-2	TO073	193	2	>mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
@@ -3140,7 +3140,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 273-8	TO073	273	8	interesse	interesse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 273-9	TO073	273	9	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 273-10	TO073	273	10	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-273-11	TO073	273	11	raga[zzo:]	ragazzo	_	_	_	_	_	linguistic	_	_	_	End=951.197	6x1	_	_	3-7(70)
+273-11	TO073	273	11	raga[zzo:]	ragazzo	_	_	_	_	_	linguistic	_	_	_	End=951.197	6x1	_	_	4-7(70)
 274-0	TO071	274	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=950.37	_	_	_	0-2(70)
 274-1	TO071	274	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 274-2	TO071	274	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=952.285	_	_	_	_
@@ -4018,7 +4018,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 347-10	TO073	347	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(89)
 347-11	TO073	347	11	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(89)
 347-12	TO073	347	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(89)
-347-13	TO073	347	13	altra]	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(89)
+347-13	TO073	347	13	altra]	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(89)
 347-14	TO073	347	14	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 347-15	TO073	347	15	tutt'	tutt'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 347-16	TO073	347	16	ora	ora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4253,7 +4253,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-2	TO073	379	2	potuto	potuto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 379-3	TO073	379	3	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 379-4	TO073	379	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-379-5	TO073	379	5	erasmus<	erasmus	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=6-7(0)|Fast=0-7(0)	_	_
+379-5	TO073	379	5	erasmus<	erasmus	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 379-6	TO073	379	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 379-7	TO073	379	7	a:	a	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x1	Slow=0-1(0)	_	_
 379-8	TO073	379	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -5647,7 +5647,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-7	TO073	533	7	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 533-8	TO073	533	8	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 533-9	TO073	533	9	multa	multa	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-533-10	TO073	533	10	di<	di	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-1(0)	_	_
+533-10	TO073	533	10	di<	di	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-2(0)	_	_
 533-11	TO073	533	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 533-12	TO073	533	12	quaranta	quaranta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 533-13	TO073	533	13	euro.	euro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1714.483	_	_	_	_
@@ -5917,9 +5917,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 561-13	TO073	561	13	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 561-14	TO073	561	14	accompagnato	accompagnato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 561-15	TO073	561	15	fino	fino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-561-16	TO073	561	16	a[l:	al	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	0-2(143)
+561-16	TO073	561	16	a[l:	al	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	1-2(143)
 561-17	TO073	561	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(143)
-561-18	TO073	561	18	al]:	al	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-1(143)
+561-18	TO073	561	18	al]:	al	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(143)
 561-19	TO073	561	19	m:h	mh	_	_	_	_	_	linguistic	_	_	_	End=1790.055	0x1	_	_	_
 562-0	TO071	562	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1787.633	_	_	_	0-2(143)
 562-1	TO071	562	1	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(143)
@@ -5967,7 +5967,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 565-23	TO073	565	23	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 565-24	TO073	565	24	altri	altri	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 565-25	TO073	565	25	settemila	settemila	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
-565-26	TO073	565	26	tipo<	tipo	_	_	_	_	_	linguistic	_	_	_	End=1800.373	_	Fast=0-3(0)	_	_
+565-26	TO073	565	26	tipo<	tipo	_	_	_	_	_	linguistic	_	_	_	End=1800.373	_	Fast=0-4(0)	_	_
 566-0	TO071	566	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1797.273|End=1798.759	_	_	_	_
 567-0	TO073	567	0	quando	quando	_	_	_	_	_	linguistic	_	_	_	Begin=1800.462	_	_	_	_
 567-1	TO073	567	1	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6001,7 +6001,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 569-3	TO073	569	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(146)
 569-4	TO073	569	4	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(146)
 569-5	TO073	569	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(146)
-569-6	TO073	569	6	cam]era	camera	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(146)
+569-6	TO073	569	6	cam]era	camera	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-3(146)
 569-7	TO073	569	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 569-8	TO073	569	8	appesa	appesa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 569-9	TO073	569	9	ed	ed	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6040,7 +6040,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 577-13	TO073	577	13	saputo	saputo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 577-14	TO073	577	14	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 577-15	TO073	577	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-577-16	TO073	577	16	ha<	ha	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-1(0)	_	_
+577-16	TO073	577	16	ha<	ha	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-2(0)	_	_
 577-17	TO073	577	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 577-18	TO073	577	18	spoilerato	spoilerato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 577-19	TO073	577	19	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6048,8 +6048,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 577-21	TO073	577	21	stesso	stesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 577-22	TO073	577	22	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 577-23	TO073	577	23	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-577-24	TO073	577	24	dede	dede	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(148)
-577-25	TO073	577	25	[insieme]	insieme	_	_	_	_	_	linguistic	_	_	_	End=1824.336	_	_	_	0-6(148)
+577-24	TO073	577	24	dede	dede	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+577-25	TO073	577	25	[insieme]	insieme	_	_	_	_	_	linguistic	_	_	_	End=1824.336	_	_	_	0-7(148)
 578-0	TO071	578	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1823.561	_	_	_	0-2(148)
 578-1	TO071	578	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1824.333	_	_	_	0-2(148)
 579-0	TO073	579	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1824.405	_	_	_	_

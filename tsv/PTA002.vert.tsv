@@ -62,12 +62,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 15-4	TOI003	15	4	vado	vado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 15-5	TOI003	15	5	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 15-6	TOI003	15	6	estero	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-15-7	TOI003	15	7	parlo	parlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(37)
+15-7	TOI003	15	7	parlo	parlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 15-8	TOI003	15	8	[eh	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(37)
 15-9	TOI003	15	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(37)
 15-10	TOI003	15	10	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(37)
 15-11	TOI003	15	11	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(37)
-15-12	TOI003	15	12	capi]re	capire	_	_	_	_	_	linguistic	_	_	_	End=32.479	_	_	_	0-3(37)
+15-12	TOI003	15	12	capi]re	capire	_	_	_	_	_	linguistic	_	_	_	End=32.479	_	_	_	0-4(37)
 16-0	TOI002	16	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=30.816	_	_	_	0-2(37)
 16-1	TOI002	16	1	vaff(anculo)]	vaffanculo	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-10(0)	0-10(37)
 16-2	TOI002	16	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=32.049	_	_	_	_

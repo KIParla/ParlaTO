@@ -270,7 +270,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 44-24	TOI060	44	24	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 44-25	TOI060	44	25	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 44-26	TOI060	44	26	spostare	spostare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-44-27	TOI060	44	27	in[somma]	insomma	_	_	_	_	_	linguistic	_	_	_	End=103.258	_	_	_	1-7(8)
+44-27	TOI060	44	27	in[somma]	insomma	_	_	_	_	_	linguistic	_	_	_	End=103.258	_	_	_	2-7(8)
 45-0	TOR001	45	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=102.725|End=103.135	_	_	_	0-4(8)
 46-0	TOR001	46	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=103.602|End=104.02	_	_	_	_
 47-0	TOR001	47	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=104.268	_	_	_	_
@@ -866,7 +866,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 136-2	TOI060	136	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 136-3	TOI060	136	3	torino	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 136-4	TOI060	136	4	sud	sud	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-136-5	TOI060	136	5	quin[di	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(30)
+136-5	TOI060	136	5	quin[di	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(30)
 136-6	TOI060	136	6	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(30)
 136-7	TOI060	136	7	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(30)
 136-8	TOI060	136	8	mi]	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(30)
@@ -930,7 +930,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 146-10	TOI060	146	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 146-11	TOI060	146	11	giudice	giudice	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 146-12	TOI060	146	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-146-13	TOI060	146	13	pa[ce]	pace	_	_	_	_	_	linguistic	_	_	_	End=322.911	_	_	_	0-3(34)
+146-13	TOI060	146	13	pa[ce]	pace	_	_	_	_	_	linguistic	_	_	_	End=322.911	_	_	_	2-4(34)
 147-0	TOR001	147	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=322.81	_	_	_	0-2(34)
 147-1	TOR001	147	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=323.184	_	_	_	_
 148-0	TOI060	148	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=323.447	_	_	_	_
@@ -2418,7 +2418,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 326-23	TOI060	326	23	dai	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 326-24	TOI060	326	24	trentacinque	trentacinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 326-25	TOI060	326	25	ai	ai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-326-26	TOI060	326	26	quarantacin[que]	quarantacinque	_	_	_	_	_	linguistic	_	_	_	End=847.272	_	_	_	9-13(60)
+326-26	TOI060	326	26	quarantacin[que]	quarantacinque	_	_	_	_	_	linguistic	_	_	_	End=847.272	_	_	_	11-14(60)
 327-0	TOR001	327	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=847.045	_	_	_	0-2(60)
 327-1	TOR001	327	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=847.388	_	_	_	_
 328-0	TOI060	328	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=847.555	_	_	_	_
@@ -2580,7 +2580,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 346-12	TOI060	346	12	sediamo	sediamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 346-13	TOI060	346	13	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 346-14	TOI060	346	14	muretto,	muretto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-346-15	TOI060	346	15	andia[mo	andiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(64)
+346-15	TOI060	346	15	andia[mo	andiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(64)
 346-16	TOI060	346	16	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(64)
 346-17	TOI060	346	17	bar],	bar	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=907.424	_	_	_	0-3(64)
 347-0	TOR001	347	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=906.803	_	_	_	0-2(64)
@@ -3353,7 +3353,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 446-14	TOI060	446	14	arresti	arresti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 446-15	TOI060	446	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 446-16	TOI060	446	16	ogni	ogni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-446-17	TOI060	446	17	ta[nto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(77)
+446-17	TOI060	446	17	ta[nto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(77)
 446-18	TOI060	446	18	fan]no,	fanno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1190.536	_	_	_	0-3(77)
 447-0	TOR001	447	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1189.592	_	_	_	0-2(77)
 447-1	TOR001	447	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(77)
@@ -3510,7 +3510,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 465-13	TOI060	465	13	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 465-14	TOI060	465	14	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 465-15	TOI060	465	15	quei	quei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-465-16	TOI060	465	16	lo[calini]	localini	_	_	_	_	_	linguistic	_	_	_	End=1237.618	_	_	_	1-8(84)
+465-16	TOI060	465	16	lo[calini]	localini	_	_	_	_	_	linguistic	_	_	_	End=1237.618	_	_	_	2-8(84)
 466-0	TOR001	466	0	[qui]	qui	_	_	_	_	_	linguistic	_	_	_	Begin=1237.04	_	_	_	0-3(84)
 466-1	TOR001	466	1	dietro?	dietro	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 466-2	TOR001	466	2	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3783,7 +3783,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 499-19	TOI060	499	19	vanchiglietta	vanchiglietta	_	_	_	_	_	linguistic	_	_	_	End=1325.71	_	_	_	_
 500-0	TOI060	500	0	da	da	_	_	_	_	_	linguistic	_	_	_	Begin=1326.051	_	_	_	_
 500-1	TOI060	500	1	quarant'	quarant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-500-2	TOI060	500	2	ann[i]	anni	_	_	_	_	_	linguistic	_	_	_	End=1327.061	_	_	_	2-4(98)
+500-2	TOI060	500	2	ann[i]	anni	_	_	_	_	_	linguistic	_	_	_	End=1327.061	_	_	_	3-4(98)
 501-0	TOR001	501	0	[ce]r[to]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=1326.979|End=1327.505	_	_	_	0-2(98),3-5(99)
 502-0	TOI060	502	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1327.319	_	_	_	0-3(99)
 502-1	TOI060	502	1	m]i	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(99)
@@ -4059,7 +4059,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 534-8	TOI060	534	8	purtroppo	purtroppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-9	TOI060	534	9	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-10	TOI060	534	10	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-534-11	TOI060	534	11	megl[io]	meglio	_	_	_	_	_	linguistic	_	_	_	End=1419.133	_	_	_	3-6(109)
+534-11	TOI060	534	11	megl[io]	meglio	_	_	_	_	_	linguistic	_	_	_	End=1419.133	_	_	_	4-6(109)
 535-0	TOR001	535	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1418.947	_	_	_	0-2(109)
 535-1	TOR001	535	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=1419.339	_	_	_	_
 536-0	TOI060	536	0	nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=1419.524	_	_	_	_
@@ -5309,7 +5309,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 694-9	TOI060	694	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 694-10	TOI060	694	10	prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 694-11	TOI060	694	11	ondata	ondata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-694-12	TOI060	694	12	migrat[oria]	migratoria	_	_	_	_	_	linguistic	_	_	_	End=1858.152	_	_	_	5-10(141)
+694-12	TOI060	694	12	migrat[oria]	migratoria	_	_	_	_	_	linguistic	_	_	_	End=1858.152	_	_	_	6-10(141)
 695-0	TOR001	695	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1857.842	_	_	_	0-2(141)
 695-1	TOR001	695	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1858.152	_	_	_	0-2(141)
 696-0	TOI060	696	0	migratoria	migratoria	_	_	_	_	_	linguistic	_	_	_	Begin=1858.63	_	_	_	_
@@ -5949,7 +5949,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 782-0	TOI060	782	0	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2085.201	_	_	_	_
 782-1	TOI060	782	1	ottavo	ottavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 782-2	TOI060	782	2	secolo	secolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-782-3	TOI060	782	3	c[on]	con	_	_	_	_	_	linguistic	_	_	_	End=2087.51	_	_	_	0-3(154)
+782-3	TOI060	782	3	c[on]	con	_	_	_	_	_	linguistic	_	_	_	End=2087.51	_	_	_	1-3(154)
 783-0	TOR001	783	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2086.772|End=2087.081	_	_	_	0-2(154)
 784-0	TOI060	784	0	le	le	_	_	_	_	_	linguistic	_	_	_	Begin=2087.679	_	_	_	_
 784-1	TOI060	784	1	mura	mura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6387,7 +6387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 840-13	TOI060	840	13	c~	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 840-14	TOI060	840	14	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 840-15	TOI060	840	15	collegno	collegno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-840-16	TOI060	840	16	su[pera]t~	superat~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	1-6(167)
+840-16	TOI060	840	16	su[pera]t~	superat~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	2-6(167)
 840-17	TOI060	840	17	ta:	ta	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 840-18	TOI060	840	18	cors~	cors~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 840-19	TOI060	840	19	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7850,8 +7850,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1064-2	TOI060	1064	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1064-3	TOI060	1064	3	traffic	traffic	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1064-4	TOI060	1064	4	quand'	quand'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1064-5	TOI060	1064	5	er[o:	ero	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(206)
-1064-6	TOI060	1064	6	pi]ù	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(206)
+1064-5	TOI060	1064	5	er[o:	ero	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-3(206)
+1064-6	TOI060	1064	6	pi]ù	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(206)
 1064-7	TOI060	1064	7	giovane	giovane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1064-8	TOI060	1064	8	io	io	_	_	_	_	_	linguistic	_	_	_	End=2759.739	_	_	_	_
 1065-0	TOR001	1065	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2758.504	_	_	_	0-2(206)
@@ -8486,7 +8486,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1147-4	TOR001	1147	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1147-5	TOR001	1147	5	problema	problema	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 1147-6	TOR001	1147	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-1147-7	TOR001	1147	7	s[ospettavo]	sospettavo	_	_	_	_	_	linguistic	_	_	_	End=2964.212	_	_	_	0-10(236)
+1147-7	TOR001	1147	7	s[ospettavo]	sospettavo	_	_	_	_	_	linguistic	_	_	_	End=2964.212	_	_	_	1-10(236)
 1148-0	TOI060	1148	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2963.542	_	_	_	0-2(236)
 1148-1	TOI060	1148	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(236)
 1148-2	TOI060	1148	2	inter]	inter	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(236)
@@ -8986,9 +8986,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1222-7	TOI060	1222	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1222-8	TOI060	1222	8	chitarrista	chitarrista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1222-9	TOI060	1222	9	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1222-10	TOI060	1222	10	genesi[s	genesis	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(257)
+1222-10	TOI060	1222	10	genesi[s	genesis	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(257)
 1222-11	TOI060	1222	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(257)
-1222-12	TOI060	1222	12	ex]	ex	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(257)
+1222-12	TOI060	1222	12	ex]	ex	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(257)
 1222-13	TOI060	1222	13	chitarrista	chitarrista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1222-14	TOI060	1222	14	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1222-15	TOI060	1222	15	genesis	genesis	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -9255,7 +9255,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1264-13	TOI060	1264	13	appeal	appeal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1264-14	TOI060	1264	14	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1264-15	TOI060	1264	15	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1264-16	TOI060	1264	16	c[erto	certo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(267)
+1264-16	TOI060	1264	16	c[erto	certo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(267)
 1264-17	TOI060	1264	17	pub]blico	pubblico	_	_	_	_	_	linguistic	_	_	_	End=3223.882	_	_	_	0-3(267)
 1265-0	TOR001	1265	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=3223.052|End=3223.573	_	_	_	0-5(267)
 1266-0	TOI060	1266	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=3224.829	0x1	_	_	_

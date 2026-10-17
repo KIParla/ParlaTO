@@ -13,7 +13,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 4-3	TOI056	4	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 4-4	TOI056	4	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 4-5	TOI056	4	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-4-6	TOI056	4	6	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(3)
+4-6	TOI056	4	6	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(3)
 4-7	TOI056	4	7	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(3)
 4-8	TOI056	4	8	son]	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(3)
 4-9	TOI056	4	9	figlia	figlia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -481,7 +481,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 83-3	TOI056	83	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 83-4	TOI056	83	4	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-5	TOI056	83	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-83-6	TOI056	83	6	ferma[to	fermato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(25)
+83-6	TOI056	83	6	ferma[to	fermato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(25)
 83-7	TOI056	83	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(25)
 83-8	TOI056	83	8	mol]to	molto	_	_	_	_	_	linguistic	_	_	_	End=260.043	_	_	_	0-3(25)
 84-0	TOR001	84	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=258.824|End=259.464	_	_	_	0-2(25)
@@ -3875,7 +3875,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 745-0	TOR001	745	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1773.21	_	_	_	0-2(189)
 745-1	TOR001	745	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1773.984	_	_	_	0-2(189)
 746-0	TOI056	746	0	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1775.072	_	_	_	_
-746-1	TOI056	746	1	associa[zione]	associazione	_	_	_	_	_	linguistic	_	_	_	End=1776.718	_	_	_	6-12(190)
+746-1	TOI056	746	1	associa[zione]	associazione	_	_	_	_	_	linguistic	_	_	_	End=1776.718	_	_	_	7-12(190)
 747-0	TOR001	747	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1775.998	_	_	_	0-2(190)
 747-1	TOR001	747	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1776.712	_	_	_	0-2(190)
 748-0	TOI056	748	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1776.898	_	_	_	_
@@ -3997,7 +3997,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 777-0	TOI056	777	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1829.513	_	_	_	_
 777-1	TOI056	777	1	associazione	associazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 777-2	TOI056	777	2	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-777-3	TOI056	777	3	commer[cianti]	commercianti	_	_	_	_	_	linguistic	_	_	_	End=1832.187	_	_	_	5-12(200)
+777-3	TOI056	777	3	commer[cianti]	commercianti	_	_	_	_	_	linguistic	_	_	_	End=1832.187	_	_	_	6-12(200)
 778-0	TOR001	778	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1831.389	_	_	_	0-2(200)
 778-1	TOR001	778	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1832.18	_	_	_	0-2(200)
 779-0	TOI056	779	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1832.303	_	_	_	_
@@ -4228,8 +4228,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 827-4	TOI056	827	4	mater	mater	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 827-5	TOI056	827	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 827-6	TOI056	827	6	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-827-7	TOI056	827	7	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(213)
-827-8	TOI056	827	8	[conoscerà]	conoscerà	_	_	_	_	_	linguistic	_	_	_	End=1928.496	_	_	_	0-8(213)
+827-7	TOI056	827	7	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+827-8	TOI056	827	8	[conoscerà]	conoscerà	_	_	_	_	_	linguistic	_	_	_	End=1928.496	_	_	_	0-9(213)
 828-0	TOR001	828	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1927.586|End=1928.493	_	_	_	0-4(213)
 829-0	TOI056	829	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1928.619	_	_	_	_
 829-1	TOI056	829	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6805,7 +6805,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1306-4	TOI056	1306	4	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1306-5	TOI056	1306	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1306-6	TOI056	1306	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1306-7	TOI056	1306	7	apprendimen[to]	apprendimento	_	_	_	_	_	linguistic	_	_	_	End=3027.821	_	_	_	10-13(70)
+1306-7	TOI056	1306	7	apprendimen[to]	apprendimento	_	_	_	_	_	linguistic	_	_	_	End=3027.821	_	_	_	11-13(70)
 1307-0	TOR001	1307	0	[scuo]la	scuola	_	_	_	_	_	linguistic	_	_	_	Begin=3027.416|End=3028.169	_	_	_	0-4(70)
 1308-0	TOI056	1308	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3028.569	_	_	_	_
 1308-1	TOI056	1308	1	invece:	invece	_	_	_	_	_	linguistic	_	_	_	End=3029.588	5x1	_	_	_
@@ -7281,7 +7281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1396-3	TOI056	1396	3	opinione	opinione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1396-4	TOI056	1396	4	precisa	precisa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1396-5	TOI056	1396	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1396-6	TOI056	1396	6	meri[to]	merito	_	_	_	_	_	linguistic	_	_	_	End=3226.95	_	_	_	3-6(99)
+1396-6	TOI056	1396	6	meri[to]	merito	_	_	_	_	_	linguistic	_	_	_	End=3226.95	_	_	_	4-6(99)
 1397-0	TOR001	1397	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=3224.268	_	_	_	0-2(98)
 1397-1	TOR001	1397	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=3224.861	_	_	_	0-2(98)
 1398-0	TOR001	1398	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=3226.628	_	_	_	0-2(?)

@@ -346,7 +346,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-2	TOI066	109	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-3	TOI066	109	3	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-4	TOI066	109	4	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-109-5	TOI066	109	5	intervi[sta]	intervista	_	_	_	_	_	linguistic	_	_	_	End=136.604	_	_	_	6-10(26)
+109-5	TOI066	109	5	intervi[sta]	intervista	_	_	_	_	_	linguistic	_	_	_	End=136.604	_	_	_	7-10(26)
 110-0	TOR009	110	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=136.393|End=136.61	_	_	_	0-2(26)
 111-0	TOR009	111	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=136.611|End=137.111	_	_	_	_
 112-0	TOI066	112	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=137.211	_	_	_	_
@@ -565,8 +565,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 167-8	TOI066	167	8	giulio	giulio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 167-9	TOI066	167	9	cesare	cesare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 167-10	TOI066	167	10	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-167-11	TOI066	167	11	angolo	angolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(41)
-167-12	TOI066	167	12	[con]	con	_	_	_	_	_	linguistic	_	_	_	End=207.722	_	_	_	0-2(41)
+167-11	TOI066	167	11	angolo	angolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+167-12	TOI066	167	12	[con]	con	_	_	_	_	_	linguistic	_	_	_	End=207.722	_	_	_	0-3(41)
 168-0	??	168	0	[al]	al	_	_	_	_	_	linguistic	_	_	_	Begin=207.507	_	_	_	0-2(41)
 168-1	??	168	1	maio	maio	_	_	_	_	_	linguistic	_	_	_	End=208.194	_	_	_	_
 169-0	??	169	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=209.102	_	_	_	_
@@ -942,8 +942,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 271-8	TOI066	271	8	meridionale	meridionale	_	_	_	_	_	linguistic	_	_	_	End=337.5	_	_	_	_
 272-0	TOI066	272	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=337.515	_	_	_	_
 272-1	TOI066	272	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-272-2	TOI066	272	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	1-2(71)
-272-3	TOI066	272	3	[extracomunita:rio]	extracomunitario	_	_	_	_	_	linguistic	_	_	_	End=338.987	12x1	_	_	0-15(71)
+272-2	TOI066	272	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+272-3	TOI066	272	3	[extracomunita:rio]	extracomunitario	_	_	_	_	_	linguistic	_	_	_	End=338.987	12x1	_	_	0-16(71)
 273-0	TOR009	273	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=338.008	_	_	_	0-2(71)
 273-1	TOR009	273	1	infatti]	infatti	_	_	_	_	_	linguistic	_	_	_	End=338.931	_	_	_	0-7(71)
 274-0	TOI066	274	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=338.987	_	_	_	_
@@ -1066,7 +1066,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 306-1	TOI066	306	1	zingari	zingari	_	_	_	_	_	linguistic	_	_	_	End=384.836	_	_	_	_
 307-0	TOI066	307	0	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	Begin=384.887	_	_	_	_
 307-1	TOI066	307	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-307-2	TOI066	307	2	eran[o:]	erano	_	_	_	_	_	linguistic	_	_	_	End=386.406	4x1	_	_	3-5(75)
+307-2	TOI066	307	2	eran[o:]	erano	_	_	_	_	_	linguistic	_	_	_	End=386.406	4x1	_	_	4-5(75)
 308-0	TOR009	308	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=385.819|End=386.362	_	_	_	0-4(75)
 309-0	TOI066	309	0	alle	alle	_	_	_	_	_	linguistic	_	_	_	Begin=386.603|End=387.197	_	_	_	_
 310-0	TOI066	310	0	più	più	_	_	_	_	_	linguistic	_	_	_	Begin=387.203	_	_	_	_
@@ -2792,7 +2792,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 802-1	TOR009	802	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 802-2	TOR009	802	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 802-3	TOR009	802	3	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-802-4	TOR009	802	4	esigen[za]	esigenza	_	_	_	_	_	linguistic	_	_	_	End=1032.505	_	_	_	4-7(152)
+802-4	TOR009	802	4	esigen[za]	esigenza	_	_	_	_	_	linguistic	_	_	_	End=1032.505	_	_	_	6-8(152)
 803-0	TOI066	803	0	[esatto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=1032.3	_	_	_	0-6(?)
 803-1	TOI066	803	1	quindi:]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1033.707	5x1	_	_	0-6(?)
 804-0	TOR009	804	0	[perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1032.505	_	_	_	0-6(153)

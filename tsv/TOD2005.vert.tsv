@@ -2711,7 +2711,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 344-5	TO041	344	5	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 344-6	TO041	344	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 344-7	TO041	344	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-344-8	TO041	344	8	semp[re	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(61)
+344-8	TO041	344	8	semp[re	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(61)
 344-9	TO041	344	9	neve].	neve	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1102.486	_	_	_	0-4(61)
 345-0	TO055	345	0	[certo].	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1101.862|End=1102.486	_	_	_	0-5(61)
 346-0	TO041	346	0	invece	invece	_	_	_	_	_	linguistic	_	_	_	Begin=1102.588	_	_	_	_
@@ -3535,10 +3535,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 456-2	TO041	456	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 456-3	TO041	456	3	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 456-4	TO041	456	4	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-456-5	TO041	456	5	avevam(o)	avevamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-7(0)	_
+456-5	TO041	456	5	avevam(o)	avevamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-7(0)	_
 456-6	TO041	456	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 456-7	TO041	456	7	sauna	sauna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-456-8	TO041	456	8	condomin[ale	condominale	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	7-11(77)
+456-8	TO041	456	8	condomin[ale	condominale	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	8-11(77)
 456-9	TO041	456	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(77)
 456-10	TO041	456	10	p]erò	però	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-1(77)
 456-11	TO041	456	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

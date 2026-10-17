@@ -104,7 +104,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 19-6	TOI019	19	6	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 19-7	TOI019	19	7	dello	dello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 19-8	TOI019	19	8	stesso	stesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-19-9	TOI019	19	9	pa[e:s]e	paese	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	1-4(3)
+19-9	TOI019	19	9	pa[e:s]e	paese	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-4(3)
 19-10	TOI019	19	10	(e)	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
 19-11	TOI019	19	11	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 19-12	TOI019	19	12	mie	mie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -772,7 +772,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 125-6	TOI019	125	6	guerra	guerra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 125-7	TOI019	125	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 125-8	TOI019	125	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-125-9	TOI019	125	9	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-5(0)	_
+125-9	TOI019	125	9	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-5(0)	_
 125-10	TOI019	125	10	neanche	neanche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 125-11	TOI019	125	11	stoffe,	stoffe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=292.246	_	_	_	_
 126-0	TOI019	126	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=292.343	_	_	_	_
@@ -1590,14 +1590,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-10	TOI019	247	10	andavano	andavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-11	TOI019	247	11	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-12	TOI019	247	12	venivano	venivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-247-13	TOI019	247	13	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(44)
+247-13	TOI019	247	13	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(44)
 247-14	TOI019	247	14	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
 247-15	TOI019	247	15	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(44)
 247-16	TOI019	247	16	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
 247-17	TOI019	247	17	telefono	telefono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(44)
 247-18	TOI019	247	18	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
 247-19	TOI019	247	19	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(44)
-247-20	TOI019	247	20	er]a	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+247-20	TOI019	247	20	er]a	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(44)
 247-21	TOI019	247	21	niente,	niente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=571.0	_	_	_	_
 248-0	TOR004	248	0	[facevano	facevano	_	_	_	_	_	linguistic	_	_	_	Begin=569.022	_	_	_	0-8(44)
 248-1	TOR004	248	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(44)
@@ -2525,7 +2525,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 388-0	TOR004	388	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=901.959	_	_	_	_
 388-1	TOR004	388	1	[fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(57)
 388-2	TOR004	388	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(57)
-388-3	TOR004	388	3	el]enc[o],	elenco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=904.212	_	_	_	0-2(57),4-6(58)
+388-3	TOR004	388	3	el]enc[o],	elenco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=904.212	_	_	_	0-2(57),5-6(58)
 389-0	TOI019	389	0	[son]o	sono	_	_	_	_	_	linguistic	_	_	_	Begin=904.015	_	_	_	0-3(58)
 389-1	TOI019	389	1	andata	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 389-2	TOI019	389	2	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3675,7 +3675,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 574-7	TOI019	574	7	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 574-8	TOI019	574	8	mica:	mica	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 574-9	TOI019	574	9	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-574-10	TOI019	574	10	gior(no).	giorno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1325.974	_	_	3-6(1)	_
+574-10	TOI019	574	10	gior(no).	giorno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1325.974	_	_	4-6(1)	_
 575-0	TOI019	575	0	aprile	aprile	_	_	_	_	_	linguistic	_	_	_	Begin=1326.507	_	_	_	_
 575-1	TOI019	575	1	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 575-2	TOI019	575	2	sessantun	sessantun	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4287,8 +4287,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 668-15	TOI019	668	15	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-16	TOI019	668	16	poter	poter	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-17	TOI019	668	17	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-668-18	TOI019	668	18	questi	questi	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-6(1)	_
-668-19	TOI019	668	19	(palchi),	palchi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1548.006	_	_	0-5(1)	_
+668-18	TOI019	668	18	questi	questi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+668-19	TOI019	668	19	(palchi),	palchi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1548.006	_	_	0-6(1)	_
 669-0	TOI019	669	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=1548.906	_	_	_	_
 669-1	TOI019	669	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 669-2	TOI019	669	2	donne	donne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4301,7 +4301,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 670-4	TOI019	670	4	poter	poter	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 670-5	TOI019	670	5	fare,	fare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1553.85	_	_	_	_
 671-0	TOI019	671	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1554.753	_	_	_	_
-671-1	TOI019	671	1	inver[no],	inverno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1555.6	_	_	_	4-7(95)
+671-1	TOI019	671	1	inver[no],	inverno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1555.6	_	_	_	5-7(95)
 672-0	TOR004	672	0	[madò]	madò	_	_	_	_	_	linguistic	_	_	_	Begin=1555.271	_	_	_	0-4(95)
 672-1	TOR004	672	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 672-2	TOR004	672	2	copriletti	copriletti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4370,7 +4370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 680-12	TOI019	680	12	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 680-13	TOI019	680	13	negli	negli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 680-14	TOI019	680	14	ultimi	ultimi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-680-15	TOI019	680	15	an(ni),	anni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1582.05	_	_	1-4(0)	_
+680-15	TOI019	680	15	an(ni),	anni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1582.05	_	_	2-4(0)	_
 681-0	TOI019	681	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1582.314	_	_	_	_
 681-1	TOI019	681	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 681-2	TOI019	681	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4696,9 +4696,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 726-11	TOI019	726	11	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 726-12	TOI019	726	12	banda	banda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 726-13	TOI019	726	13	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-726-14	TOI019	726	14	pae[se	paese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(105)
+726-14	TOI019	726	14	pae[se	paese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(105)
 726-15	TOI019	726	15	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(105)
-726-16	TOI019	726	16	vol(ta)],	volta	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1694.385	_	_	1-4(0)	0-5(105)
+726-16	TOI019	726	16	vol(ta)],	volta	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1694.385	_	_	3-5(0)	0-5(105)
 727-0	TOR004	727	0	[si	si	_	_	_	_	_	linguistic	_	_	_	Begin=1693.65	_	_	_	0-2(105)
 727-1	TOR004	727	1	usa	usa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(105)
 727-2	TOR004	727	2	cant]a:re	cantare	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	0-4(105)
@@ -4747,9 +4747,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 732-8	TOI019	732	8	riformatu~	riformatu~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 732-9	TOI019	732	9	riformatorio	riformatorio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 732-10	TOI019	732	10	giudizia:rio	giudiziario	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
-732-11	TOI019	732	11	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(107)
+732-11	TOI019	732	11	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 732-12	TOI019	732	12	[mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(107)
-732-13	TOI019	732	13	paese].	paese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1710.171	_	_	_	0-3(107)
+732-13	TOI019	732	13	paese].	paese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1710.171	_	_	_	0-5(107)
 733-0	TOR004	733	0	[quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1709.635	_	_	_	0-6(107)
 733-1	TOR004	733	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(107)
 733-2	TOR004	733	2	gra]nde	grande	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(107)
@@ -4910,7 +4910,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 754-6	TOR004	754	6	piaceva	piaceva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 754-7	TOR004	754	7	particolarmente	particolarmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 754-8	TOR004	754	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-754-9	TOR004	754	9	rac[contava	raccontava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-10(110)
+754-9	TOR004	754	9	rac[contava	raccontava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-10(110)
 754-10	TOR004	754	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(110)
 754-11	TOR004	754	11	s]to:ria?	storia	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1763.35	2x1	_	_	0-1(110)
 755-0	TOI019	755	0	[(a	a	_	_	_	_	_	linguistic	_	_	_	Begin=1762.1	_	_	0-1(0)	0-1(110)
@@ -5812,7 +5812,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 876-5	TOI019	876	5	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 876-6	TOI019	876	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 876-7	TOI019	876	7	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-876-8	TOI019	876	8	fascis[ti	fascisti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(129)
+876-8	TOI019	876	8	fascis[ti	fascisti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(129)
 876-9	TOI019	876	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(129)
 876-10	TOI019	876	10	]erano,	erano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2084.83	_	_	_	_
 877-0	TOR004	877	0	[sì]?	sì	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=2084.212|End=2084.498	_	_	_	0-2(129)
@@ -6246,8 +6246,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 937-4	TOI019	937	4	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 937-5	TOI019	937	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 937-6	TOI019	937	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-937-7	TOI019	937	7	falsificato	falsificato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	10-11(142)
-937-8	TOI019	937	8	[dicia(mo)],	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2242.941	_	_	3-6(0)	0-7(142)
+937-7	TOI019	937	7	falsificato	falsificato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+937-8	TOI019	937	8	[dicia(mo)],	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2242.941	_	_	5-7(0)	0-7(142)
 938-0	TOR004	938	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2242.272	_	_	_	0-2(142)
 938-1	TOR004	938	1	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(142)
 938-2	TOR004	938	2	di]ciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(142)
@@ -6909,7 +6909,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1046-4	TOI019	1046	4	sorella	sorella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1046-5	TOI019	1046	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1046-6	TOI019	1046	6	stava	stava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1046-7	TOI019	1046	7	mal[e	male	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(7)
+1046-7	TOI019	1046	7	mal[e	male	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(7)
 1046-8	TOI019	1046	8	g]iù,	giù	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2486.855	_	_	_	0-1(7)
 1047-0	TOR004	1047	0	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2486.459|End=2486.693	_	_	_	0-2(7)
 1048-0	TOI019	1048	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2487.602	_	_	_	_
