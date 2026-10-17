@@ -3189,8 +3189,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 561-6	TOR002	561	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 561-7	TOR002	561	7	papocc	papocc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 561-8	TOR002	561	8	giulio	giulio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1155.005	_	_	_	_
-562-0	TOI001	562	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1155.01	_	_	_	_
-562-1	TOI001	562	1	#ah	#ah	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+562-0	TOI001	562	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1155.01	_	_	_	_
+562-1	TOI001	562	1	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 562-2	TOI001	562	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 562-3	TOI001	562	3	papocc	papocc	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1156.472	_	_	_	_
 563-0	TOI001	563	0	# e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1157.31	0x1	_	_	_
