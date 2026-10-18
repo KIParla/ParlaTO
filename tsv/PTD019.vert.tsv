@@ -1237,8 +1237,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 210-5	??	210	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(546)
 210-6	??	210	6	xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	0-3(546)
 210-7	??	210	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=453.088	_	_	_	_
-211-0	TOR001	211	0	)	_	_	_	_	_	_	error	_	_	_	Begin=450.734	_	_	_	_
-211-1	TOR001	211	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=453.072	_	_	_	_
+211-1	TOR001	211	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=450.734|End=453.072	_	_	_	_
 212-0	TOI010	212	0	[adesso	adesso	_	_	_	_	_	linguistic	_	_	_	Begin=450.734	_	_	_	0-6(546)
 212-1	TOI010	212	1	esa~	esa~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-4(546)
 212-2	TOI010	212	2	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(546)
