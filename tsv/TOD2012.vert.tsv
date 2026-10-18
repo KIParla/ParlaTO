@@ -6704,9 +6704,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1034-3	TO071	1034	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1034-4	TO071	1034	4	[di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(1)
 1034-5	TO071	1034	5	bologna]	bologna	_	_	_	_	_	linguistic	_	_	_	End=2253.905	_	_	_	0-7(1)
-1035-0	TO056	1035	0	[s::~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|ProsodicLink=Yes	Begin=2253.115	0x2	_	_	0-2(1)
-1035-1	TO056	1035	1	]	_	_	_	_	_	_	error	_	_	_	_	_	_	_	_
-1035-2	TO056	1035	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2253.899	_	_	_	_
+1035-0	TO056	1035	0	[s::~]	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=2253.115	0x2	_	_	0-2(1)
+1035-2	TO056	1035	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2253.899	_	_	_	_
 1036-0	TO056	1036	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2254.438	_	_	_	_
 1036-1	TO056	1036	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1036-2	TO056	1036	2	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
