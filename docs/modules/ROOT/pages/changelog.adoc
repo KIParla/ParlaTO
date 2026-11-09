@@ -1,5 +1,13 @@
 = Changelog
 
+== v3.1.0 (2026-11-09)
+
+=== What's Changed
+* fix(tsv): align shared TOD files with KIP; release 3.1.0 by @ellepannitto in https://github.com/KIParla/ParlaTO/pull/18
+
+
+link:https://github.com/KIParla/ParlaTO/compare/v3.0.0...v3.1.0[Full Changelog]
+
 == v3.0.0 (2026-10-18)
 
 === What's changed in 3.0.0
